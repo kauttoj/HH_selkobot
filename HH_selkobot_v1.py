@@ -22,6 +22,8 @@ load_dotenv('.env')
 # MANUAL = using directly OpenAI API to send and receive messages (for comparison purposes)
 CONVERSATION_TYPE = 'AUTOGEN' #'MANUAL'
 
+MAXIMUM_ROUNDS = 4 # how many rounds maximum of improvement, terminate early if not already finished. The last version of the text is returned.
+
 gpt4_config_mini = {
     "cache_seed": 42,  # change the cache_seed for different trials
     "temperature": 0,
@@ -309,8 +311,9 @@ def process_text(input_text): #,output_box, console_box):
 
         fact_checker.update_system_message(fact_checker_prompt.replace('{old_text}', input_text))
 
+        agents_list = [user_proxy, writer, critic, fact_checker, editor]
         groupchat = autogen.GroupChat(
-            agents=[user_proxy, writer, critic,fact_checker,editor], messages=[], allow_repeat_speaker=False, max_round=15,
+            agents=agents_list, messages=[], allow_repeat_speaker=False, max_round=MAXIMUM_ROUNDS*len(agents_list),
             select_speaker_message_template='You are in a role play game. The following roles are available: {roles}. Read the following conversation. Then select the next role from {agentlist} to play. Only return the role.',
             send_introductions=True, speaker_selection_method='round_robin'
         )
@@ -393,7 +396,7 @@ def process_text(input_text): #,output_box, console_box):
 
         console_text = ''
         current_round = 1
-        while current_round<4:
+        while current_round<20:
             print(f'Starting round {current_round}')
             console_text += (f'>>>>>>>>>>>>>>>>>> ROUND = {current_round} <<<<<<<<<<<<<<<<<<<<<\n')
             yield None,console_text
@@ -486,6 +489,10 @@ def process_text(input_text): #,output_box, console_box):
                 break
             else:
                 print(f'...decision=rewrite')
+
+            if current_round==MAXIMUM_ROUNDS:
+                print(f'\nMAXIMUM ROUNDS REACHED, FORCE TERMINATION!\n')
+                break
 
             current_round+=1
 
