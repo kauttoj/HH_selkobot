@@ -1,0 +1,7 @@
+
+/.cache
+/.idea
+logs.db
+output_file.txt
+writer_output.txt
+.env
