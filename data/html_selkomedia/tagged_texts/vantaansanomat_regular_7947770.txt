@@ -1,0 +1,20 @@
+<title>Yhä useampi kärsii työuupumuksesta – ”Suuntaus on pysäyttävä”</title>
+<lead>Jopa joka neljännellä suomalaisella on kohonnut riski työuupumukseen tai todennäköinen työuupumus.</lead>
+Suomalaisten työhyvinvointi näyttää kehittyvän huolestuttavaan suuntaan: jo joka kymmenes on todennäköisesti uupunut työssään.
+ Varsinkin kognitiiviset häiriöt ja kyynistyneisyys työssä ovat yleistyneet.
+ Tiedot käyvät ilmi Työterveyslaitoksen Miten Suomi voi? -seurantatutkimuksesta. Työhyvinvointi alkoi heikentyä jo koronapandemian aikana.
+ <quote> Vaikka suomalaisessa työelämässä on paljon hyvää, työhyvinvoinnin heikkenevä trendi on ollut kokonaisvaltainen. Se näkyy sekä halussa että kyvyssä tehdä työtä, kertoo Työterveyslaitoksen tutkimusprofessori Jari Hakanen tiedotteessa.</quote>
+ Tutkimuksen mukaan joka neljännellä suomalaisella on kohonnut riski työuupumukseen tai todennäköinen työuupumus.
+ Tämän ryhmän sisällä todennäköisesti työuupuneiden osuus on lisääntymään päin. Vuonna 2019 todennäköisesti työuupuneita oli 6 prosenttia vastaajista, ja viime kesänä kerätyssä aineistossa osuus oli jo 10 prosenttia.
+ Työterveyslaitoksen erikoistutkija Janne Kaltiainen kertoo, että todennäköisesti työuupunut voi vielä olla töissä, mutta hän kokee jatkuvasti työuupumusoireita ja elämänlaatu kärsii.
+ <quote>Havaittu kasvu on huolestuttavaa, koska juuri tässä ryhmässä on suurin riski joutua pitkillekin sairauslomille kohtuuttoman työkuormituksen takia, Kaltiainen sanoo tiedotteessa.</quote>
+ Tutkimusryhmä sai selville, että todennäköinen työuupumus on yleistynyt etenkin esihenkilö- ja johtotehtävissä työskentelevillä. Määrä on peräti kolminkertaistunut pandemiaa edeltävään aikaan nähden.
+ <quote> Suuntaus on pysäyttävä. Työn muutokset ovat haastaneet johtamistyötä uudella tavalla viime vuosina, Kaltiainen toteaa.</quote>
+ Myös alle 36-vuotiailla nuorilla aikuisilla todennäköinen työuupumus on kaksi kertaa yleisempää kuin 2019.
+ Työuupumusoireista ovat lisääntyneet varsinkin kognitiiviset häiriöt ja kyynistyneisyys työssä. Kognitiiviset häiriöt ovat yleisempiä etä- ja hybridityötä tekevillä kuin ainoastaan lähityötä tekevillä. Etätyössä painottuu myös työssä tylsistyminen.
+ <quote> Etätyön vahvuus on pienemmässä kuormituksessa työmatka-ajan säästyessä. Tämänhän pitäisi näkyä työhyvinvoinnin nousuna, ja monien etätyötä tekevien subjektiivinen kokemus on myönteinen. Näyttää kuitenkin siltä, että etätyön hintana menetetään meille kaikille tärkeitä myönteisiä voimavaroja ja seurauksena onkin heikentynyt työhyvinvointi, Hakanen sanoo tiedotteessa.</quote>
+ Työajastaan yli 75 prosenttia etänä työskentelevillä on muita enemmän yksinäisyyttä: heistä 34 prosenttia koki itsensä yksinäiseksi. Kaikista vastaajista yksinäisyyttä kokee 28 prosenttia, enintään puolet ajasta etätyössä olevista 26 prosenttia ja lähityössä 25 prosenttia.
+ <quote> Yksinäisyyden kokemuksissa havaittiin kasvua viime vuoteen. Tämä on onneksi asia, jota voidaan torjua myös työpaikoilla esimerkiksi mahdollistamalla kohtaamisia, joissa tulemme nähdyiksi ja arvostetuiksi, Kaltiainen sanoo.</quote>
+ Miten Suomi voi? -tutkimus kertoo myös työhyvinvointiin vaikuttavista kuormitustekijöistä ja voimavaroista.
+ Tulosten perusteella työssä on paljon hyvinvointia edistäviä voimavaroja, kuten pystyvyyden kokemusta ja reilua kohtelua. Itsenäisyys työssä on lisääntynyt, mutta toiveikkuus vähentynyt.
+ Tyypillisin kuormitustekijä on epävarmuus oman työn tulevaisuudesta, ja se on myös aiempaa tavallisempaa. Myös byrokratiavaatimukset ja tunnetyö ovat lisääntyneet.

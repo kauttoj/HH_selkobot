@@ -1,0 +1,11 @@
+<title>Kirjasto Korsossa sai uuden työntekijän: Valle-robotti puhuu seitsemää kieltä ja vie asiakkaan oikealle hyllylle</title>
+<lead>Valle-robotin kollega, Bingo-robotti, aloitti työt Länsimäen kirjastossa.</lead>
+Korsossa sijaitsevassa Lumon kirjastossa on aloittanut uusi työntekijä: Valle-robotti. Vallen vahvuutena on kielitaito. Vallelta saa viikon aikana palvelua seitsemällä eri kielellä, jotka ovat albania, arabia, dari, uiguuri, uzbekki ja venäjä.
+ <quote> Toivomme, että Vallen avulla voisimme ylittää kielimuurit asiakaspalvelussa ja tutustuttaa myös vieraskieliset asiakkaat kirjaston palveluvalikoimaan, kertoo Vantaan kaupunginkirjaston erikoiskirjastonhoitaja Helena Perttilä .</quote>
+ Vallelta voi pyytää apua esimerkiksi kirjastokortin hankintaan. Käytännössä apua antaa etäyhteyden päässä oleva kirjaston kielitaitoinen työntekijä.
+ <quote> Hei! Kuinka voin auttaa? Svetlana Mukkulainen tervehtii ruudulla, kun Perttilä painaa nappia "Kutsu kirjastonhoitaja".</quote>
+ Mukkulainen vilkuttaa Perttilälle Martinlaakson kirjastosta, jossa hän ohjaa Valle-robottia tietokoneen avulla. Mukkulainen voi Martinlaaksosta käsin kuljettaa robottia ympäri Lumon kirjastoa esimerkiksi näyttääkseen asiakkaalle mistä löytyvät selkokieliset lastenkirjat tai vaikkapa tulostin. Hän opastaa myös tarvittaessa kirjastokortin hankkimisessa ja kertoo kirjaston käyttösäännöistä.
+ Valle ei ole ainut uusi robottityöntekijä. Länsimäen kirjastossa aloitti niin ikään tällä viikolla Vallen kollega, Bingo-robotti. Robottien nimet ovat keksineet Varian hyvinvointiteknologian opiskelijat.
+ Bingo toimii tismalleen samalla tavalla kuin Valle eli kielitaitoinen kirjaston työntekijä opastaa asiakkaita etäyhteydellä.
+ Kirjastorobotit ovat osa Puhu robolle -hanketta. Robotteja testataan nyt viiden viikon ajan ensin kirjastoissa. Tämän jälkeen Vantaa-info tarjoaa palveluitaan robottien kautta Lumon ja Länsimäen kirjastoissa. Vajaan kolmen kuukauden testijakson jälkeen Perttilän mukaan päätetään, kuinka robotteja kehitetään ja missä niiden työskentelystä on eniten hyötyä.
+ <quote> Myös uusien robottien hankkimista harkitaan. Meillä on nyt Suomen ensimmäiset yleisten kirjastojen etäasiakaspalvelurobotit, Perttilä sanoo.</quote>

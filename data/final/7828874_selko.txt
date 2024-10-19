@@ -1,0 +1,11 @@
+<title>HSL-alueelle tulee yhteiset kaupunkipyörät</title>
+<lead>HSL suunnittelee järjestelmää, jonka ansiosta samaa kaupunkipyörää voisi käyttää eri kaupungeissa.</lead>
+Monet ihmiset ovat toivoneet, että Helsingin ja Espoon kaupunkipyöriä voisi käyttää myös Vantaalla. HSL kertoo, että toiveeseen on tulossa vastaus.
+ HSL on tekemässä yhteistä kaupunkipyörien järjestelmää usean kunnan kanssa. Sen ansiosta helsinkiläinen voisi ottaa kaupunkipyörän käyttöön esimerkiksi Vantaan Tikkurilan asemalta.
+ Tällä hetkellä Helsingin ja Espoon kaupunkipyörät toimivat yhdessä, mutta Vantaan kaupunkipyörät ovat erillään. Tämä tarkoittaa, että Helsingissä rekisteröitynyt käyttäjä ei voi ottaa Vantaan kaupunkipyörää käyttöönsä. Hän ei voi myöskään palauttaa Helsingin pyörää Vantaalla.
+ <subtitle>Mukana 11 kuntaa</subtitle>
+Nyt HSL:n tavoitteena on saada kaupunkipyörät toimimaan koko HSL-alueella ja myös pääkaupunkiseudun ulkopuolella.
+ Tavoitteena on yhtenäinen, helppokäyttöinen ja edullinen palvelu. Matka voisi jatkua kaupunkipyörällä riippumatta siitä, missä kunnassa on.
+ Aihe on tulossa kuntien päätöksentekoon. Kun kunnat ovat päättäneet osallistua hankintaan, HSL aloittaa kilpailutuksen jo tänä syksynä.
+ Tavoitteena on, että kaikki HSL-kunnat voisivat liittyä uuteen kaupunkipyörien järjestelmään vuonna 2026.
+ Mukana valmistelussa on ollut 11 kuntaa: Helsinki, Espoo, Vantaa, Kauniainen, Sipoo, Kirkkonummi, Siuntio, Tuusula, Kerava, Hyvinkää ja Nurmijärvi.

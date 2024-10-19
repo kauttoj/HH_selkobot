@@ -10,7 +10,7 @@ pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 pd.set_option('max_colwidth', 250)
 
-OUTPUT_FOLDER = 'html_selkomedia'
+OUTPUT_FOLDER = 'html_selkomedia' # !!!WARNING !!! This folder and all contents is deleted and overwritten for each run!
 FILENAME = 'selkomedia_texts.pickle'
 
 # Input: list of URLs
@@ -18,6 +18,7 @@ FILENAME = 'selkomedia_texts.pickle'
 #https://www.selkomedia.fi/paikalliset/6537263   # pitkä listaus tilastoja, ei varsinainen uutinen
 
 url_list = '''
+https://www.selkomedia.fi/paikalliset/7975642
 https://www.selkomedia.fi/paikalliset/7846765
 https://www.selkomedia.fi/paikalliset/7839230
 https://www.selkomedia.fi/paikalliset/7837855
@@ -60,9 +61,17 @@ https://www.selkomedia.fi/paikalliset/7829167
 https://www.selkomedia.fi/paikalliset/7820396
 https://www.selkomedia.fi/paikalliset/7347916
 https://www.selkomedia.fi/paikalliset/7343584
+https://www.selkomedia.fi/paikalliset/7988739
+https://www.selkomedia.fi/paikalliset/7974660
+https://www.selkomedia.fi/paikalliset/7968458
+https://www.selkomedia.fi/paikalliset/7956467
+https://www.selkomedia.fi/paikalliset/7955701
+https://www.selkomedia.fi/paikalliset/7955430
+https://www.selkomedia.fi/paikalliset/7947770
 '''
 url_list = [x for x in url_list.split('\n') if len(x)>0]
 
+# for those articles where automatic linking is not available
 manual_match = {
 '6809100':'https://www.helsinginuutiset.fi/paikalliset/6805395',
 '6754513':'https://www.vantaansanomat.fi/paikalliset/6753053',
@@ -74,9 +83,16 @@ manual_match = {
 '6651721':'https://www.vantaansanomat.fi/paikalliset/6644169',
 '6702568':'https://issuu.com/myyntijamarkkinointi/docs/223mma/s/24556977',
 #'7319543':'https://www.vantaansanomat.fi/paikalliset/7315097' # ainakin 3 tekstiä samassa
+'7988739':'https://avecmedia.fi/bisnes/englanti-yleistyy-ravintola-alan-tyokielena-ja-nain-kielimuuri-ylitetaan-tiskin-takana-bartender-randall-muller-speaks-about-working-in-finland/',
+'7975642':'https://www.helsinginuutiset.fi/paikalliset/7970353',
+'7974660':'https://www.vantaansanomat.fi/paikalliset/7956975',
+'7968458':'https://www.helsinginuutiset.fi/paikalliset/7964617',
+'7956467':'https://www.helsinginuutiset.fi/paikalliset/7948093',
+'7955701':'https://www.helsinginuutiset.fi/paikalliset/7944211',
+'7955430':'https://www.helsinginuutiset.fi/paikalliset/7947717',
+'7947770':'https://www.vantaansanomat.fi/paikalliset/7942962'
 }
 
-# Remove everything starting with specified strings
 try:
     df=pd.read_pickle(FILENAME)
 except:
@@ -166,181 +182,10 @@ unwanted_texts = [
     'Helsingin Uutiset kertoo',
     'Lisää näistä aiheista',
     'Artikkeli on versioitu',
+    'Jutusta on korjattu',
     'More articles from this publication',
 ]
 
-def extract_article_text(html_content):
-    soup = BeautifulSoup(html_content, 'html.parser')
-
-    article_text = {'title':'','headline':'','text':'','HTML':None}
-    # Find the article content
-
-    try:
-
-        main_content = soup.find_all(class_=re.compile(r'diks-article diks-article--border-right'))[0]
-        assert main_content is not None
-
-        article_text['HTML'] = str(main_content)
-
-        article_content = main_content.find_all(class_=re.compile(r'_headline'))[0]
-        article_text['title'] = article_content.text.strip()
-
-        article_content = main_content.find_all(class_=re.compile(r'_lead'))[0]
-        article_text['headline'] = article_content.text.strip()
-
-        article_content = main_content.find_all(class_=re.compile(r'_storyline'))[0]
-        article_text['text'] = article_content.text.strip()
-
-    except:
-
-        try:
-            main_content = soup.find_all(class_=re.compile(r'site-main'))[0]
-            assert main_content is not None
-
-            article_text['HTML'] = str(main_content)
-
-            article_content = main_content.find_all(class_=re.compile(r'entry-title'))[0]
-            article_text['title'] = article_content.text.strip()
-
-            article_content = main_content.find_all(class_=re.compile(r'ingressi'))[0]
-            article_text['headline'] = article_content.text.strip()
-
-            article_content = main_content.find_all('p')
-            article_text['text'] = '\n'.join([element.get_text(strip=True) for element in article_content])
-        except:
-            try:
-                main_content = soup.find_all(class_=re.compile(r'Story__root'))[0]
-                assert main_content is not None
-
-                article_text['HTML'] = str(main_content)
-
-                article_content = main_content.find_all(class_=re.compile(r'ProductHeading'))[0]
-                article_text['title'] = article_content.text.strip()
-
-                article_content = soup.find_all('p',class_=re.compile('Paragraph ProductParagrap'))
-                article_text['headline'] = article_content[0].text
-                article_text['text'] = '\n'.join([element.get_text(strip=True) for element in article_content[1:] if ('class=' not in element.text)])
-            except:
-                try:
-                    main_content = soup.find_all(class_=re.compile(r'diks-article diks-article--featured'))[0]
-                    assert main_content is not None
-
-                    article_text['HTML'] = str(main_content)
-
-                    article_content = main_content.find_all(class_=re.compile(r'_headline'))[0]
-                    article_text['title'] = article_content.text.strip()
-
-                    article_content = main_content.find_all(class_=re.compile(r'_lead'))[0]
-                    article_text['headline'] = article_content.text.strip()
-
-                    article_content = main_content.find_all(class_=re.compile(r'_storyline'))[0]
-                    article_text['text'] = article_content.text.strip()
-                except:
-                    return None
-    for x in unwanted_texts:
-        ind = article_text['text'].lower().find(x.lower())
-        if ind>-1:
-            article_text['text'] = article_text['text'][:ind]
-
-    return article_text
-
-df['TYPE_A_TEXT']=None
-df['TYPE_B_TEXT']=None
-df['TYPE_A_TEXT_SIMPLE']=''
-df['TYPE_B_TEXT_SIMPLE']=''
-
-for k,row in enumerate(df.iterrows()):
-    print(f'processing text {k+1}')
-    t1 = extract_article_text(row[1]['TYPE_A_HTML'])
-    if t1 is None:
-        print(f'...failed to parse text A: {row[1]["TYPE_A_URL"]}')
-    t2 = extract_article_text(row[1]['TYPE_B_HTML'])
-    if t2 is None:
-        print(f'...failed to parse text B: {row[1]["TYPE_B_URL"]}')
-    df.at[row[0],'TYPE_A_TEXT'] = t1
-    df.at[row[0],'TYPE_B_TEXT'] = t2
-
-    df.at[row[0],'TYPE_A_TEXT_SIMPLE'] = t1['title'] + '\n' + t1['headline'] + '\n' + t1['text']
-    df.at[row[0],'TYPE_B_TEXT_SIMPLE'] = t2['title'] + '\n' + t2['headline'] + '\n' + t2['text']
-
-import html
-
-def combine_raw_news_html(news_a,url_a,news_b,url_b,output_file):
-
-    def format_news(news):
-        s1 = re.sub(r'\n{2,}', '\n',html.escape(news['title'])).replace('\n', '<br><br>')
-        s2 = re.sub(r'\n{2,}', '\n',html.escape(news['headline'])).replace('\n', '<br><br>')
-        s3 = re.sub(r'\n{2,}', '\n',html.escape(news['text'])).replace('\n', '<br><br>')
-
-        return (
-            f"<h1>{s1}</h1>"
-            f"<h2>{s2}</h2>"
-            f"<p>{s3}</p>"
-        )
-
-    html_template = f"""
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Combined News</title>
-        <style>
-            body {{
-                display: flex;
-                margin: 0;
-                padding: 0;
-                font-family: Arial, sans-serif;
-            }}
-            .news-container {{
-                flex: 1;
-                padding: 20px;
-                overflow-y: auto;
-                height: 100vh;
-            }}
-            .separator {{
-                width: 1px;
-                background-color: #ccc;
-            }}
-            h1 {{
-                font-size: 24px;
-                color: #1a5f7a;
-            }}
-            h2 {{
-                font-size: 20px;
-                color: #2c3e50;
-            }}
-            p {{
-                font-size: 16px;
-            }}
-            .news-url {{
-                font-size: 14px;
-                margin-bottom: 10px;
-            }}
-        </style>
-    </head>
-    <body>
-        <div class="news-container">
-            <div class="news-url">
-                <a href="{url_a}" target="_blank">{url_a}</a>
-            </div>
-            {format_news(news_a)}
-        </div>
-        <div class="separator"></div>
-        <div class="news-container">
-            <div class="news-url">
-                <a href="{url_b}" target="_blank">{url_b}</a>
-            </div>
-            {format_news(news_b)}
-        </div>
-    </body>
-    </html>
-    """
-
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write(html_template)
-
-    print(f"Combined HTML file created: {output_file}")
 def clean_html(html_code):
     if isinstance(html_code, BeautifulSoup):
         soup = html_code
@@ -448,9 +293,189 @@ def clean_html(html_code):
 
     return str(soup)
 
-def make_comparison_html(html_codeA,url_a,html_codeB,url_b,output_file):
-    clean_htmlA = clean_html(html_codeA)
-    clean_htmlB = clean_html(html_codeB)
+def extract_article_text(html_content):
+    soup = BeautifulSoup(html_content, 'html.parser')
+
+    article_text = {'title':'','headline':'','text':'','HTML':None}
+    # Find the article content
+
+    try:
+
+        main_content = soup.find_all(class_=re.compile(r'diks-article diks-article--border-right'))[0]
+        assert main_content is not None
+
+        article_text['HTML'] = str(main_content)
+
+        article_content = main_content.find_all(class_=re.compile(r'_headline'))[0]
+        article_text['title'] = article_content.text.strip()
+
+        article_content = main_content.find_all(class_=re.compile(r'_lead'))[0]
+        article_text['headline'] = article_content.text.strip()
+
+        article_content = main_content.find_all(class_=re.compile(r'_storyline'))[0]
+        article_text['text'] = article_content.text.strip()
+
+    except:
+
+        try:
+            main_content = soup.find_all(class_=re.compile(r'site-main'))[0]
+            assert main_content is not None
+
+            article_text['HTML'] = str(main_content)
+
+            article_content = main_content.find_all(class_=re.compile(r'entry-title'))[0]
+            article_text['title'] = article_content.text.strip()
+
+            article_content = main_content.find_all(class_=re.compile(r'ingressi'))[0]
+            article_text['headline'] = article_content.text.strip()
+
+            article_content = main_content.find_all('p')
+            article_text['text'] = '\n'.join([element.get_text(strip=True) for element in article_content])
+        except:
+            try:
+                main_content = soup.find_all(class_=re.compile(r'Story__root'))[0]
+                assert main_content is not None
+
+                article_text['HTML'] = str(main_content)
+
+                article_content = main_content.find_all(class_=re.compile(r'ProductHeading'))[0]
+                article_text['title'] = article_content.text.strip()
+
+                article_content = soup.find_all('p',class_=re.compile('Paragraph ProductParagrap'))
+                article_text['headline'] = article_content[0].text
+                article_text['text'] = '\n'.join([element.get_text(strip=True) for element in article_content[1:] if ('class=' not in element.text)])
+            except:
+                try:
+                    main_content = soup.find_all(class_=re.compile(r'diks-article diks-article--featured'))[0]
+                    assert main_content is not None
+
+                    article_text['HTML'] = str(main_content)
+
+                    article_content = main_content.find_all(class_=re.compile(r'_headline'))[0]
+                    article_text['title'] = article_content.text.strip()
+
+                    article_content = main_content.find_all(class_=re.compile(r'_lead'))[0]
+                    article_text['headline'] = article_content.text.strip()
+
+                    article_content = main_content.find_all(class_=re.compile(r'_storyline'))[0]
+                    article_text['text'] = article_content.text.strip()
+                except:
+                    return None
+    for x in unwanted_texts:
+        ind = article_text['text'].lower().find(x.lower())
+        if ind>-1:
+            article_text['text'] = article_text['text'][:ind]
+
+    return article_text
+
+df['TYPE_A_TEXT']=None
+df['TYPE_B_TEXT']=None
+df['TYPE_A_TEXT_SIMPLE']=''
+df['TYPE_B_TEXT_SIMPLE']=''
+
+for k,row in enumerate(df.iterrows()):
+    print('processing text {ind}, URL_A: {urla}, URL_B: {urlb}'.format(ind = k+1,urla=row[1]['TYPE_A_URL'],urlb=row[1]['TYPE_B_URL']))
+    t1 = extract_article_text(row[1]['TYPE_A_HTML'])
+    if t1 is None:
+        print(f'...failed to parse text A: {row[1]["TYPE_A_URL"]}')
+    t2 = extract_article_text(row[1]['TYPE_B_HTML'])
+    if t2 is None:
+        print(f'...failed to parse text B: {row[1]["TYPE_B_URL"]}')
+    df.at[row[0],'TYPE_A_TEXT'] = t1
+    df.at[row[0],'TYPE_B_TEXT'] = t2
+
+    df.at[row[0],'TYPE_A_TEXT_SIMPLE'] = t1['title'] + '\n' + t1['headline'] + '\n' + t1['text']
+    df.at[row[0],'TYPE_B_TEXT_SIMPLE'] = t2['title'] + '\n' + t2['headline'] + '\n' + t2['text']
+
+    df.at[row[0],'TYPE_A_TEXT_CLEANED'] = clean_html(t1['HTML'])
+    df.at[row[0],'TYPE_B_TEXT_CLEANED'] = clean_html(t2['HTML'])
+
+import html
+
+def filewriter(content,filename):
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write(content)
+
+def combine_raw_news_html(news_a,url_a,news_b,url_b,output_file):
+
+    def format_news(news):
+        s1 = re.sub(r'\n{2,}', '\n',html.escape(news['title'])).replace('\n', '<br><br>')
+        s2 = re.sub(r'\n{2,}', '\n',html.escape(news['headline'])).replace('\n', '<br><br>')
+        s3 = re.sub(r'\n{2,}', '\n',html.escape(news['text'])).replace('\n', '<br><br>')
+
+        return (
+            f"<h1>{s1}</h1>"
+            f"<h2>{s2}</h2>"
+            f"<p>{s3}</p>"
+        )
+
+    html_template = f"""
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Combined News</title>
+        <style>
+            body {{
+                display: flex;
+                margin: 0;
+                padding: 0;
+                font-family: Arial, sans-serif;
+            }}
+            .news-container {{
+                flex: 1;
+                padding: 20px;
+                overflow-y: auto;
+                height: 100vh;
+            }}
+            .separator {{
+                width: 1px;
+                background-color: #ccc;
+            }}
+            h1 {{
+                font-size: 24px;
+                color: #1a5f7a;
+            }}
+            h2 {{
+                font-size: 20px;
+                color: #2c3e50;
+            }}
+            p {{
+                font-size: 16px;
+            }}
+            .news-url {{
+                font-size: 14px;
+                margin-bottom: 10px;
+            }}
+        </style>
+    </head>
+    <body>
+        <div class="news-container">
+            <div class="news-url">
+                <a href="{url_a}" target="_blank">{url_a}</a>
+            </div>
+            {format_news(news_a)}
+        </div>
+        <div class="separator"></div>
+        <div class="news-container">
+            <div class="news-url">
+                <a href="{url_b}" target="_blank">{url_b}</a>
+            </div>
+            {format_news(news_b)}
+        </div>
+    </body>
+    </html>
+    """
+
+    filewriter(html_template, output_file)
+
+    print(f"Combined HTML file created: {output_file}")
+
+
+def make_comparison_html(clean_htmlA,url_a,clean_htmlB,url_b,output_file):
+    #clean_htmlA = clean_html(html_codeA)
+    #clean_htmlB = clean_html(html_codeB)
 
     # HTML template
     html_template = '''
@@ -498,11 +523,225 @@ def make_comparison_html(html_codeA,url_a,html_codeB,url_b,output_file):
     html_output = html_template.format(contentA=clean_htmlA, contentB=clean_htmlB,url_a=url_a,url_b=url_b)
 
     # Write to file
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write(html_output)
+    filewriter(html_output, output_file)
 
     return clean_htmlA,clean_htmlB
 
+def text_cleaner_and_tagger2(input_html_str):
+
+    from bs4 import BeautifulSoup, NavigableString, Comment
+    import re
+
+    soup = BeautifulSoup(input_html_str, 'html.parser')
+
+    # Remove unwanted elements
+    # Info about writer and date
+    for div in soup.find_all('div', class_='diks-byline__text-wrapper'):
+        div.decompose()
+    # Figure captions
+    for figcaption in soup.find_all('figcaption'):
+        figcaption.decompose()
+    # Special blocked quotes
+    for blockquote in soup.find_all('blockquote', class_=lambda x: x and 'diks-blockquote' in x):
+        blockquote.decompose()
+    # Figures
+    for figure in soup.find_all('figure'):
+        figure.decompose()
+    # Divs with class 'article-extra-content'
+    for div in soup.find_all('div', class_='article-extra-content'):
+        div.decompose()
+    # Remove scripts and styles
+    for element in soup(['script', 'style']):
+        element.decompose()
+    # Remove comments
+    for comment in soup.find_all(text=lambda text: isinstance(text, Comment)):
+        comment.extract()
+
+    # Now process the content
+    # Try to find the article
+    article = soup.find('article')
+    tagged_text = ''
+
+    def process_node(node):
+        output = ''
+        if isinstance(node, NavigableString):
+            # It's a text node
+            text = str(node)
+            output += text
+        elif node.name == 'h1':
+            # Title
+            text = node.get_text(separator=' ', strip=True)
+            ind = text.find('|')
+            if ind>-1 and ind<len(text)*0.50:
+                text = text[(ind+1):]
+            output += '<title>' + text + '</title>\n'
+        elif node.name == 'h2':
+            # Subtitle
+            text = node.get_text(separator=' ', strip=True)
+            output += '<subtitle>' + text + '</subtitle>\n'
+        elif node.name == 'p':
+            # Paragraph
+            # Check if it's a lead
+            if 'diks-article__lead' in node.get('class', []) or 'ingressi' in node.get('class', []):
+                text = node.get_text(separator=' ', strip=True)
+                output += '<lead>' + text + '</lead>\n'
+            else:
+                # Check if it's a quote
+                text = node.get_text(separator=' ', strip=True)
+                text_stripped = text.lstrip()
+                # Define the quote markers
+                quote_markers = ('–', '–\u2009', '–&thinsp;', '”', '"', '’', '‘', '«', '»', '„', '“', '”','”','−')
+                if any(text_stripped.startswith(marker) for marker in quote_markers):
+                    # It's a quote
+                    # Remove leading and trailing quotation marks or dashes
+                    # Define characters to strip
+                    quote_chars = '–—\u2009\u202F\u200A\u200B\u2060'
+                    quote_text = text_stripped.strip(quote_chars)
+                    output += '<quote>' + quote_text + '</quote>\n'
+                else:
+                    # Regular paragraph
+                    output += text + '\n'
+        elif node.name == 'span':
+            if 'ingressi' in node.get('class', []):
+                # Lead
+                text = node.get_text(separator=' ', strip=True)
+                output += '<lead>' + text + '</lead>\n'
+            else:
+                # Process children
+                for child in node.contents:
+                    output += process_node(child)
+        elif node.name == 'strong':
+            # Bolded word
+            text = node.get_text(separator=' ', strip=True)
+            output += text
+        elif node.name == 'em':
+            # Emphasized text
+            text = node.get_text(separator=' ', strip=True)
+            output += text
+        elif node.name == 'br':
+            output += '\n'
+        else:
+            # Process children
+            for child in node.contents:
+                output += process_node(child)
+        return output
+
+    if article:
+        tagged_text = process_node(article)
+    else:
+        # No article tag, process body
+        body = soup.find('body')
+        if body:
+            tagged_text = process_node(body)
+        else:
+            # Process the whole soup
+            tagged_text = process_node(soup)
+
+    # Clean up multiple spaces and newlines
+    tagged_text = re.sub(r'\n\s*\n', '\n', tagged_text)  # Remove multiple newlines
+    tagged_text = re.sub(r'[ \t]+', ' ', tagged_text)  # Replace multiple spaces with single space
+    tagged_text = tagged_text.strip()
+
+    return tagged_text
+
+def tagged_text_to_colored_html(tagged_text):
+    from bs4 import BeautifulSoup, NavigableString, Tag
+    from html import escape
+    import re
+
+    # Map of tags to their corresponding RGB colors
+    tag_color_map = {
+        'title': 'rgb(0, 0, 255)',        # Blue
+        'lead': 'rgb(0, 128, 0)',         # Green
+        'subtitle': 'rgb(255, 165, 0)',   # Orange
+        'quote': 'rgb(255, 0, 0)',        # Red
+    }
+
+    # Function to process elements recursively
+    def process_element(element):
+        if isinstance(element, NavigableString):
+            # Escape HTML special characters in text nodes
+            text = escape(str(element))
+            return text
+        elif isinstance(element, Tag):
+            tag_name = element.name
+
+            # Process child elements
+            content = ''.join([process_element(child) for child in element.contents])
+
+            if tag_name in tag_color_map:
+                # Get the color for the tag
+                color = tag_color_map[tag_name]
+
+                # Split content into lines
+                lines = content.split('\n')
+
+                # Wrap each line with <p></p>
+                wrapped_lines = [f'<p>{line.strip()}</p>' for line in lines if line.strip()]
+
+                # Join wrapped lines
+                wrapped_content = '\n'.join(wrapped_lines)
+
+                # Wrap with <div style="color:...;"> to apply color across all lines
+                return f'<div style="color: {color};">\n{wrapped_content}\n</div>'
+
+            else:
+                # For other tags or content, process recursively
+                return process_element_children(element)
+
+        else:
+            return ''
+
+    def process_element_children(element):
+        content = ''
+        for child in element.contents:
+            result = process_element(child)
+            if result.strip():
+                # Split content into lines
+                lines = result.split('\n')
+                # Wrap each line with <p></p>
+                wrapped_lines = [f'<p>{line.strip()}</p>' for line in lines if line.strip()]
+                content += '\n'.join(wrapped_lines)
+        return content
+
+    # Parse the entire tagged_text
+    soup = BeautifulSoup(tagged_text, 'html.parser')
+
+    # Process the entire content
+    html_text = process_element(soup)
+
+    # Create the color coding explanation
+    color_coding_lines = ['<p><strong>Color coding:</strong></p>']
+    for tag_name in ['title', 'lead', 'subtitle', 'quote']:
+        color = tag_color_map.get(tag_name, 'black')
+        # Capitalize the tag name for display
+        display_name = tag_name.capitalize()
+        color_coding_line = f'<span style="color: {color};"> {display_name}</span>'
+        color_coding_lines.append(color_coding_line)
+    color_coding_html = '\n'.join(color_coding_lines)
+
+    # Wrap the content in a basic HTML structure, including the color coding explanation
+    html_output = f'''<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Tagged text comparison</title>
+    <style>
+        /* Optional: Add some styling to paragraphs */
+        p {{
+            margin-bottom: 1em; /* Adjust the spacing between paragraphs */
+            font-family: Arial, sans-serif; /* Optional: Set a default font */
+        }}
+    </style>
+</head>
+<body>
+{color_coding_html}
+<p>-------------------------------</p>
+{html_text}
+</body>
+</html>'''
+
+    return html_output
 # Check if folder exists
 if os.path.exists(OUTPUT_FOLDER):
     # Delete the folder
@@ -511,15 +750,54 @@ if os.path.exists(OUTPUT_FOLDER):
 # Create the folder
 os.makedirs(OUTPUT_FOLDER + os.sep + "formatted" , exist_ok=True)
 os.makedirs(OUTPUT_FOLDER + os.sep + "raw" , exist_ok=True)
+os.makedirs(OUTPUT_FOLDER + os.sep + "simple_html" , exist_ok=True)
+os.makedirs(OUTPUT_FOLDER + os.sep + "tagged_texts" , exist_ok=True)
+
+from urllib.parse import urlparse
+def extract_domain(url):
+    # Parse the URL
+    parsed_url = urlparse(url)
+
+    # Extract the netloc (domain and subdomain) from the parsed URL
+    netloc = parsed_url.netloc
+
+    # Split by '.' and extract the second part (domain)
+    domain_parts = netloc.split('.')
+
+    # Return the domain (the part between 'www.' and the first TLD)
+    if len(domain_parts) > 2:
+        return domain_parts[1]
+    elif len(domain_parts) == 2:
+        return domain_parts[0]
+    else:
+        return None
 
 for k,row in enumerate(df.iterrows()):
     print(f'processing text {k+1}')
     id = row[1]['ID']
     if row[1]['TYPE_A_URL'] in url_list:
         output_file = OUTPUT_FOLDER + os.sep + f"formatted\\combined_news_original_{id}.html"
-        clean_htmlA,clean_htmlB = make_comparison_html(str(row[1]['TYPE_A_TEXT']['HTML']),row[1]['TYPE_A_URL'],str(row[1]['TYPE_B_TEXT']['HTML']),row[1]['TYPE_B_URL'], output_file)
+        make_comparison_html(str(row[1]['TYPE_A_TEXT_CLEANED']),row[1]['TYPE_A_URL'],str(row[1]['TYPE_B_TEXT_CLEANED']),row[1]['TYPE_B_URL'], output_file)
         output_file = OUTPUT_FOLDER + os.sep + f"raw\\combined_news_rawtext_{id}.html"
         combine_raw_news_html(row[1]['TYPE_A_TEXT'],row[1]['TYPE_A_URL'], row[1]['TYPE_B_TEXT'],row[1]['TYPE_B_URL'], output_file)
+
+        tagged_textA = text_cleaner_and_tagger2(str(row[1]['TYPE_A_TEXT_CLEANED']))
+        output_file = OUTPUT_FOLDER + os.sep + f"tagged_texts\{extract_domain(row[1]['TYPE_A_URL'])}_selko_{id}.txt"
+        filewriter(tagged_textA,output_file)
+        output_file = OUTPUT_FOLDER + os.sep + f"tagged_texts\\{extract_domain(row[1]['TYPE_A_URL'])}_selko_comparison_{id}.html"
+        make_comparison_html(str(row[1]['TYPE_A_TEXT_CLEANED']).replace('.jpg','.dummy').replace('.png','.dummy'),row[1]['TYPE_A_URL'],tagged_text_to_colored_html(tagged_textA),'tagged text', output_file)
+
+        tagged_textB = text_cleaner_and_tagger2(str(row[1]['TYPE_B_TEXT_CLEANED']))
+        output_file = OUTPUT_FOLDER + os.sep + f"tagged_texts\\{extract_domain(row[1]['TYPE_B_URL'])}_regular_{id}.txt"
+        filewriter(tagged_textB,output_file)
+        output_file = OUTPUT_FOLDER + os.sep + f"tagged_texts\\{extract_domain(row[1]['TYPE_B_URL'])}_regular_comparison_{id}.html"
+        make_comparison_html(str(row[1]['TYPE_B_TEXT_CLEANED']).replace('.jpg','.dummy').replace('.png','.dummy'),row[1]['TYPE_B_URL'],tagged_text_to_colored_html(tagged_textB),'tagged text', output_file)
+
+        output_file = OUTPUT_FOLDER + os.sep + f"simple_html\\selko_{id}.html"
+        filewriter(str(row[1]['TYPE_A_TEXT_CLEANED']),output_file)
+
+        output_file = OUTPUT_FOLDER + os.sep + f"simple_html\\regular_{id}.html"
+        filewriter(str(row[1]['TYPE_B_TEXT_CLEANED']),output_file)
 
 df.to_pickle(FILENAME)
 

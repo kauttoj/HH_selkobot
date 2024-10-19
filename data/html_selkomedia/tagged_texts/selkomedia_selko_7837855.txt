@@ -1,0 +1,24 @@
+<title>Heurekan perhetapahtumassa pääsee tutustumaan robotteihin</title>
+<lead>Heureka järjestää Robotiikkaa!-nimisen tapahtuman. Tapahtuma on tarkoitettu koko perheelle. Tapahtuma on lauantaina 21. syyskuuta.</lead>
+Tiedekeskus Heureka järjestää Robotiikkaa!-nimisen tapahtuman lauantaina 21. syyskuuta. Koko perhe voi osallistua tapahtumaan.
+ Tapahtumassa osallistujat pääsevät tutustumaan robotiikan alkeisiin. Siellä voi ohjata robottikäsiä, rakennella ja muokata legorobotteja sekä osallistua työpajoihin. Työpajoissa tutkitaan sähköä ja automatiikkaa.
+ <subtitle>Juttele Pepperin kanssa</subtitle>
+Tapahtumassa on esillä esimerkiksi robotteja, jotka tarjoilevat ravintoloissa ruokaa. Siellä voi myös jutella Heurekan oman Pepper-nimisen robotin kanssa.
+ <quote>Pepper on ollut monessa mukana, kertoo tapahtumatuottaja Hanna Juutilainen .</quote>
+ Hän kertoo, että Pepper oli mukana esimerkiksi H18: Halloween -tapahtumassa viime syksynä. Tapahtuma oli vain aikuisille tarkoitettu.
+ <quote>Kävijät pääsivät makaamaan oikeassa ruumisarkussa robotin lausuessa hauskoja muistolauseita osallistujasta, Juutilainen kertoo.</quote>
+ <subtitle>Paljon erilaisia työpajoja</subtitle>
+Robotiikkaa!-perhepäivän toiminta sopii myös lapsille.
+ Esimerkiksi Kätevät kytkennät -työpaja opettaa, miten ja miksi lamppu syttyy.
+ Lego League -nimisessä työpajassa tutustutaan rakentamiseen ja ohjelmointiin legojen avulla.
+ Liikkuva luuranko -niminen työpaja näyttää, miten moottorilla kulkevia luurankoja voi liikuttaa koodaamalla.
+ <subtitle>Tuhansia kävijöitä</subtitle>
+Robotiikkaa!-perhepäivä järjestetään Heurekassa nyt toista kertaa.
+ <quote>Se halutaan järjestää, jotta ihmiset pääsevät näkemään ja kokeilemaan itse, miten robotiikka toimii. Robotiikka on vielä vieras asia monille, Juutilainen kertoo.</quote>
+ Viime vuonna tapahtumassa kävi yli 2 000 ihmistä.
+ <quote>Nyt paikalle odotetaan päivän aikana noin 3 000 kävijää. Se on Heurekalle jo aika paljon, Juutilainen sanoo.</quote>
+ <subtitle>Tavallisen lipun hinnalla</subtitle>
+Perhepäivään voi osallistua Heurekan normaalilla pääsylipulla. Samalla voi vierailla kaikissa tiedekeskuksen näyttelyissä.
+ Perhepäivä järjestetään lauantaina 21. syyskuuta kello 10–18.
+ Heureka saa perhepäivän järjestämiseen rahoitusta Generation AI -hankkeelta. Generation AI -hanketta rahoittaa Strateginen tutkimusneuvosto.
+ Robotiikkaa!-tapahtuma on osa Heurekan robotiikkaviikkoja. Ne järjestetään 16.–27. syyskuuta. Silloin eri ryhmät tulevat Heurekaan tutustumaan robotiikkaan ja ohjelmointiin.

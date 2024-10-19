@@ -1,0 +1,17 @@
+<title>Moni kärsii työuupumuksesta</title>
+<lead>Monella suomalaisella on vaara uupua työssä.</lead>
+Suomalaisten työssä jaksaminen on huonontunut. Joka kymmenes on todennäköisesti uupunut työssään.
+ Kognitiiviset häiriöt ja kyynistyneisyys työssä ovat yleistyneet.
+ Tiedot tulevat ilmi Työterveyslaitoksen tutkimuksesta. Tutkimuksen nimi on ”Miten Suomi voi?”. Tutkimus kertoo, että työssä jaksaminen alkoi huonontua jo koronapandemian aikana.
+ Tutkimuksen mukaan joka neljännellä suomalaisella on kohonnut riski työuupumukseen tai työuupumus.
+ Työuupuneiden määrä tässä ryhmässä todennäköisesti kasvaa. Vuonna 2019 todennäköisesti työuupuneita oli 6 prosenttia vastaajista. Viime kesänä kerätyssä aineistossa osuus oli jo 10 prosenttia.
+ Työterveyslaitoksen tutkija Janne Kaltiainen sanoo, että työssä uupunut ihminen voi vielä olla töissä, mutta hänellä on jatkuvasti uupumuksen oireita ja elämänlaatu kärsii.
+ <subtitle>Uupuneita on enemmän</subtitle>
+Tutkijat huomasivat, että työuupumus on yleistynyt erityisesti esihenkilöillä ja johtajilla. Tässä ryhmässä uupuneiden määrä on kolminkertaistunut.
+ <quote> Suuntaus on pysäyttävä. Työn muutokset ovat haastaneet johtamistyötä uudella tavalla viime vuosina, Kaltiainen sanoo.</quote>
+ Myös alle 36-vuotiailla nuorilla aikuisilla työuupumus on kaksi kertaa yleisempää kuin vuonna 2019.
+ Työuupumuksen oireita ovat esimerkiksi vaikeudet keskittyä ja työhön kyllästyminen. Nämä oireet ovat yleisempiä etätyötä tekevillä kuin lähityötä tekevillä. Etätyössä ihmiset kyllästyvät työhön helpommin.
+ Etätyössä yli 75 prosenttia työajastaan työskentelevät kokevat enemmän yksinäisyyttä. Heistä 34 prosenttia koki itsensä yksinäiseksi. Kaikista vastaajista yksinäisyyttä kokee 28 prosenttia. Enintään puolet ajasta etätyössä olevista 26 prosenttia ja lähityössä 25 prosenttia kokevat yksinäisyyttä.
+ Miten Suomi voi? -tutkimus kertoo myös työssä jaksamiseen vaikuttavista asioista.
+ Tulokset kertovat, että työssä on paljon hyviä asioita, kuten pystyvyyden kokemusta ja reilua kohtelua. Itsenäisyys työssä on lisääntynyt, mutta toiveikkuus on vähentynyt.
+ Työssä jaksamista heikentää epävarmuus oman työn tulevaisuudesta. Tämä on yhä tavallisempaa.

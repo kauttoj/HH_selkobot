@@ -1,0 +1,8 @@
+<title>Poliisi varoittaa Traficom-huijauksista</title>
+<lead>Suomalaisia huijataan nyt paljon Traficomin nimissä.</lead>
+Suomessa on tapahtunut paljon huijauksia syyskuussa. Huijarit ovat saaneet ihmisiltä yli 560 000 euroa. Huijaukset on tehty Traficomin nimissä. Traficom on valtion liikenne- ja viestintävirasto. Asiasta kertoo poliisin uusi nettihuijausten tutkintayksikkö Tampereella.
+ Syyskuussa on tehty suuri määrä petoksia Traficomin nimissä. Petoksia on tapahtunut jo kesällä, mutta syksyllä huijauksia on tullut vielä enemmän.
+ Syyskuussa poliisille on tehty 39 rikosilmoitusta Traficomin nimissä tehdyistä yhteydenotoista. Huijauksissa on saatu yhteensä yli 560 000 euroa.
+ Poliisi on saanut syyskuussa kuusi ilmoitusta yrityksestä huijata. Neljässä poliisille ilmoitetussa tapauksessa huijaus ei aiheuttanut taloudellista vahinkoa.
+ <quote> Jos henkilö erehtyy klikkaamaan saamaansa huijausviestiin liitettyä linkkiä ja kirjautuu avautuvalle sivustolle pankkitunnuksillaan, on rikollisella mahdollisuus päästä tarkastelemaan tiliä. Usein tällaisen tapahtuman jälkeen asianomistaja saa puhelun, jossa soittaja esittäytyy olevansa pankin edustaja. Todellisuudessa soittaja onkin asianomistajan rahoja tavoitteleva rikollinen, sanoo rikosylikomisario Sakari Tuominen .</quote>
+ Tuominen sanoo, että jos ihminen antaa pankkitunnuksensa väärään paikkaan, huijarit voivat tyhjentää kaikki tilit, joihin ihmisellä on käyttöoikeus.
