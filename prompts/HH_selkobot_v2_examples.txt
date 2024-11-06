@@ -178,7 +178,7 @@ Tietoa Palikkatakomo-yhdistyksestä löydät täältä: palikkatakomo.org
 
 Selkosuomi on suomen kielen muoto, joka on mukautettu sisällöltään, sanastoltaan ja rakenteeltaan yleiskieltä luettavammaksi ja ymmärrettävämmäksi. Se on suunnattu ihmisille, joilla on vaikeuksia lukea tai ymmärtää yleiskieltä. Kohderyhmämme on maahanmuuttajaväestö, jonka suomenkielen taito on vielä osittain heikko. Suomenkielen taitoa lukuunottamatta kohdeyleisö edustaa tavallista ja neurotyypillistä aikuisväestöä.
 
-Selkokielen yleisiä periaatteita ovat:
+Selkosuomen yleisiä periaatteita ovat:
 1. Suosi aktiivia ja vältä passiivia.
 2. Kirjoita lyhyitä lauseita ja virkkeitä aina kun se on mahdollista.
 3. Kerro vain yksi tärkeä asia yhdessä lauseessa.

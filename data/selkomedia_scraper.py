@@ -1,5 +1,7 @@
 import requests
-from bs4 import BeautifulSoup,NavigableString
+from bs4 import BeautifulSoup, NavigableString, Comment,Tag
+from html import escape
+import re
 import pandas as pd
 import urllib.parse
 import os
@@ -528,10 +530,6 @@ def make_comparison_html(clean_htmlA,url_a,clean_htmlB,url_b,output_file):
     return clean_htmlA,clean_htmlB
 
 def text_cleaner_and_tagger2(input_html_str):
-
-    from bs4 import BeautifulSoup, NavigableString, Comment
-    import re
-
     soup = BeautifulSoup(input_html_str, 'html.parser')
 
     # Remove unwanted elements
@@ -645,9 +643,6 @@ def text_cleaner_and_tagger2(input_html_str):
     return tagged_text
 
 def tagged_text_to_colored_html(tagged_text):
-    from bs4 import BeautifulSoup, NavigableString, Tag
-    from html import escape
-    import re
 
     # Map of tags to their corresponding RGB colors
     tag_color_map = {

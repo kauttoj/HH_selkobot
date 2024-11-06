@@ -1,0 +1,179 @@
+# SELKOSUOMEN ESIMERKKITEKSTIT #
+
+Jokainen teksti sisältää aina otsikon ja ingressin eli tiivistelmäkappaleen. Lisäksi tekstissä voi olla väliotsikoita ja lainauksia. Kaikki nämä neljä kenttää on merkitty tageilla, joita ovat:
+ otsikko: <headline>...</headline>
+ ingressi: <lead>...</lead>
+ väliotsikko: <subtitle>...</subtitle>
+ lainaukset: <quote>...</quote>
+Huomaa että tagit eivät koskaan näy lukijalle tai ole osa tekstiä, vaan ne on lisätty selkeyden vuoksi.
+
+Esimerkki 1:
+
+<title>Historiaa ja kaunista luontoa</title>
+<lead>Selkosanomat vieraili Helsingin Seurasaaressa. Tässä jutussa esittelemme kolme Seurasaaren taloa. Opas Samuli Koho ja museoapulainen Sara Mallinen kertovat Seurasaaresta.</lead>
+<subtitle>Mikä on Seurasaari?</subtitle>
+Seurasaari on suosittu ulkoilukohde ja ulkomuseo. Se sijaitsee Meilahdessa presidentin virka-asunnon Mäntyniemen ja entisen Suomen presidentin Urho Kekkosen kotimuseon välissä. Seurasaaressa voi nauttia merestä, luonnosta ja historiasta. Vierailijat pääsevät kulkemaan saaren hiekkateillä myös pyörätuolilla.
+Seurasaari on täynnä vanhoja taloja, jotka kuuluvat Seurasaaren ulkomuseoon. Ne kertovat entisaikojen elämästä Suomessa. Talot on tuotu saareen eri puolilta Suomea eri aikoina. Sitten ne on rakennettu saareen uudestaan.
+Seurasaaressa järjestetään kesän aikana käsityöpajoja, musiikkitapahtumia ja opastuksia. Opastuksia järjestetään myös selkokielellä.
+<subtitle>Ostoksille Iisalmen pappilaan</subtitle>
+Iisalmen pappila rakennettiin alun perin 1700-luvulla. Monia vuosia myöhemmin se aiottiin purkaa. Pappila kuitenkin pelastui, koska se siirrettiin Seurasaaren ulkomuseoon.
+Nykyään Iisalmen pappilassa on museokauppa. Siellä myydään tuotteita, jotka sopivat Seurasaaren tyyliin. Makeat mantelinekut eli siirappimakeiset ovat erityisen suosittuja.
+Iisalmen pappilan puutarhassa on kasveja, joita olisi voinut olla 1700-luvun Suomessa. Pappilan puutarha on hyvä paikka syödä omia eväitä. Sieltä näkee kimmeltävän meren ja kauniita kukkia.
+<subtitle>Antin talossa asui iso perhe</subtitle>
+Antin talo rakennettiin Pyhäjärven rannalle 1800-luvulla. Antin suku asui Antin talossa. Talossa on iso tupa eli olohuone. Talossa on myös keittiö ja makuuhuoneita.
+Perheen lapset ja työntekijät nukkuivat Antin talon keittiössä. Vanhin tyttö sai kuitenkin nukkua omassa makuuhuoneessa. Perhe halusi, että tyttö pääsee hyviin naimisiin. Hienon makuuhuoneen tarkoitus oli näyttää tytön kosijoille, että tytön kanssa kannattaa mennä naimisiin. Tarinan mukaan tyttö meni nukkumaan takaisin keittiöön, jos hän ei päässyt naimisiin. Sitten perheen toiseksi vanhin tyttö siirrettiin hienoon makuuhuoneeseen.
+<subtitle>Karunan kirkossa voi rauhoittua</subtitle>
+Seurasaaren vanhin rakennus on Karunan kirkko. Koristeellinen kirkko rakennettiin vuonna 1686. Seurasaareen se tuotiin Länsi-Suomesta vuonna 1912.
+Alun perin ihmisten täytyi seisoa kirkossa. Kirkonmenot kestivät kuitenkin yli viisi tuntia. Seisominen oli rankkaa monille, ja lopulta kirkkoon tehtiin penkit. Vielä nykyään Karunan kirkon vanhoilla penkeillä voi istua rauhassa ja katsoa kirkon hienoja maalauksia ja esineitä.
+
+Esimerkki 2:
+
+<title>Helikopterilääkäri ja tiimi auttavat, kun hätä on suuri</title>
+<lead>Helikopterilääkäri Heini Harve‑Rytsälä on oppinut työssään, että hyvistä hetkistä kannattaa nauttia. Kaikki voi muuttua nopeasti.</lead>
+Heini Harve-Rytsälä toimii lääkärinä helikopterissa. Lääkärihelikopteria käytetään äkillisissä tilanteissa, joissa ihminen on hengenvaarassa. Helikopteri tuo paikalle nopeasti henkilökunnan ja laitteet, joita tarvitaan tehohoitoon.
+<quote>– Lääkärihelikopteria tarvitaan yleensä vakavissa liikenneonnettomuuksissa ja sydänkohtauksissa. Valitettavan yleisiä ovat myös myrkytykset, jotka johtuvat huumeiden yliannostuksesta tai itsemurhayrityksestä, Harve-Rytsälä kertoo.</quote>
+Harve-Rytsälä työskentelee helikopterissa, joka lähtee hälytyksiin Helsinki‑Vantaan lentoasemalta. Suomessa on yhteensä kuusi lääkärihelikopteria.
+<subtitle>Potilaan hoitamiseen osallistuu monta ihmistä</subtitle>
+Harve-Rytsälä korostaa, että lääkäri on vain yksi tiimin jäsen helikopterissa. Ensihoitolääkärin lisäksi tiimissä on myös lentäjä ja lääkärihelikopteriin koulutettu ensihoitaja tai pelastaja.
+<quote>– Hälytyksissä tehdään yhteistyötä myös monien muiden hoito- ja pelastusalan ammattilaisten kanssa. Heihin kuuluvat esimerkiksi hätäkeskuspäivystäjä ja ensihoidon kenttäjohtaja. Lisäksi paikalla on yleensä jo ambulanssi ja sen henkilökunta. Myöhemmin potilaan hoito jatkuu sitten sairaalassa.</quote>
+Harve-Rytsälä huomauttaa, että helikopterissa jokainen tiimin jäsen on tärkeä.
+<quote>– Tämä on tiimityötä. Rakastan sitä, että voin tehdä merkityksellistä työtä yhdessä muiden kanssa.</quote>
+<subtitle>Helikopterilääkärillä on paljon kokemusta</subtitle>
+Heini Harve-Rytsälä on anestesiologian ja tehohoidon erikoislääkäri. Hän on myös ensihoitolääketieteen dosentti yliopistolla. Anestesiologia tarkoittaa kivun lievitystä ja potilaan turvallista nukutusta erilaisia toimenpiteitä ja hoitoja varten.
+Harve-Rytsälä on ollut lääkärihelikopterin ensihoitolääkärinä seitsemän vuotta.
+<quote>– Kokemus on tärkeää. Työssä toistuvat tietyt hoitotoimenpiteet. Mitä enemmän niitä tekee, sitä nopeammin ja varmemmin ne onnistuvat.</quote>
+Harve-Rytsälä kertoo, että hän tarvitsee työssään myös hyvää stressinsietokykyä.
+<quote>– Myös hyvä fyysinen kunto on tarpeen. Helikopteri ei aina pääse laskeutumaan potilaan lähelle. Silloin minä ja muut tiimiläiset kannamme paljon erilaisia laitteita ja varusteita potilaan luo. Voimme joutua kävelemään pitkiä matkoja vaikeassa maastossa.</quote>
+<subtitle>Elämä ei ole itsestäänselvyys</subtitle>
+Aina tilanteet eivät pääty onnellisesti. Helikopterilääkäri näkee lähes jokaisella työvuorolla myös kuolemaa.
+<quote>– Työssä raskainta on esimerkiksi kertoa lapsille, että isä tai äiti on kuollut.</quote>
+Helikopterilääkärinä toimiminen on opettanut Heini Harve-Rytsälälle paljon. Hän on nähnyt työssään, että elämä voi yhtäkkiä päättyä tai muuttua täysin.
+<quote>– Tunnen vahvaa kiitollisuutta siitä, että olen elossa. Yritän nauttia elämästäni ja läheisistäni. Elämää ei kannata pitää koskaan itsestäänselvyytenä.</quote>
+Harve-Rytsälä on myös tavallinen perheenäiti. Arkeen kuuluvat esimerkiksi kiireet neljän lapsen ja heidän harrastustensa kanssa.
+<subtitle>Jokaisen apua tarvitaan hätätilanteissa</subtitle>
+Heini Harve-Rytsälä toivoo, että myös muut kuin hoito- ja pelastusalan ihmiset osaavat toimia hätätilanteissa oikein.
+<quote>– Tärkeintä on jäädä auttamaan ja soittaa hätänumeroon 112. Sillä ei ole esimerkiksi väliä, osaako antaa ensiapua itse. Hätäkeskuksen päivystäjä neuvoo kyllä puhelimessa, mitä pitää tehdä.</quote>
+Harve-Rytsälä huomauttaa, että on erittäin tärkeää päästä aloittamaan hoito välittömästi. Se voi lopulta ratkaista, jääkö ihminen henkiin.
+<subtitle>Lääkärihelikoptereita on ympäri Suomea</subtitle>
+Suomen lääkärihelikopterien tukikohdat sijaitsevat eri puolella maata. Helikopterit ja niiden henkilökunta lähtevät hälytyksiin ympäri vuorokauden.
+Helikopterien tärkein tehtävä on saada hoito mahdollisimman nopeasti potilaan luokse. Potilas kuitenkin kuljetetaan sairaalaan yleensä ambulanssilla, joka on hälytetty paikalle. Pitkillä matkoilla kuljetus voi tapahtua myös helikopterilla.
+Valtionyhtiö FinnHEMS vastaa lääkärihelikopterien toiminnasta yhdessä hyvinvointialueiden kanssa.
+
+Esimerkki 3:
+
+<title>USA on monien kansojen kulttuuri</title>
+<lead>Yhdysvallat eli USA on suuri ja monikulttuurinen maa. Sen parhaita puolia ovat värikkyys ja omaperäisyys.</lead>
+Yhdysvallat eli USA on suuri ja monikulttuurinen maa. Sen parhaita puolia ovat värikkyys ja omaperäisyys. Markku Henriksson on tunnettu Pohjois-Amerikan tutkija. Henriksson on 72-vuotias. Hän on kirjoittanut paljon Yhdysvaltojen ja Kanadan historiasta, kulttuureista ja alkuperäiskansoista.
+Vuonna 2021 Henriksson julkaisi teoksen Tähtilipun maa – Yhdysvaltain alueen historia. Lähes 1000-sivuinen kirja kokoaa paljon tietoa Yhdysvalloista yksien kansien väliin.
+Monipuolisessa kirjassa on mukana historian ja politiikan lisäksi kulttuuria, tapoja ja luonnonhistoriaa.
+<quote>– Halusin koota tietoni Yhdysvaltojen historiasta yhteen. Teksti oli valmis jo vuonna 2020. Halusin kuitenkin vielä vuoden 2020 Yhdysvaltojen presidentinvaalit mukaan kirjaan. Kongressitalon valtaus pääkaupungissa Washingtonissa tammikuussa 2021 viivästytti myös kirjan julkaisua.</quote>
+<subtitle>Yhdysvaltojen pitkä historia</subtitle>
+Yhdysvallat itsenäistyi vuonna 1776. Yhdysvaltojen historia on pitkä ja värikäs. Se ulottuu paljon pitemmälle kuin vuoteen 1776.
+Henriksson kutsuu Yhdysvaltoja eurooppalaiseksi seikkailuksi. Eurooppalaiset siirtolaiset rakensivat monikulttuurisen maan, jossa asuu valtavasti erilaisia kansoja.
+<quote>– Näillä ihmisillä on oma äidinkieli ja uskonto. Yhdysvallat on siis erilaisten kansojen kulttuuri, joilla kaikilla on erilaisia näkemyksiä ja aatteita. Heitä yhdistää ajatus vapaudesta ja maasta, jossa voi harjoittaa vapautta.</quote>
+Yhdysvallat ei ole ainoa maa, jonka eurooppalaiset siirtolaiset perustivat. Australialla, Kanadalla ja joillakin Latinalaisen Amerikan mailla on samanlainen historia. Yhdysvallat on kuitenkin ainoa maa, joka on noussut maailman johtavaksi valtioksi.
+<quote>– Ennen siirtolaisten tuloa Yhdysvalloissa asui alkuperäiskansoja. Pohjois-Amerikan intiaaneilta vietiin maa väkivallalla. Heitä myös huijattiin sopimuksilla, jotka eivät pitäneet paikkaansa. Intiaanien asema on erittäin huono. He joutuvat kamppailemaan kaikkia muita ryhmiä enemmän, että heidän oikeuksiaan muistetaan.</quote>
+<subtitle>Jakautunut maa</subtitle>
+Yhdysvallat on jakautunut kahteen osaan. Yhdysvalloissa on menestyjiä ja häviäjiä.
+<quote>– Yhteiskunta on ristiriitainen ja jakautunut. Yhdysvalloissa on myös paljon tyytymättömiä valkoihoisia. He ovat syrjäseutujen asukkaita, jotka eivät asu suurissa kaupungeissa tai rannikolla. Näiden ihmisten mielestä vähemmistöt ovat saaneet tukea ja vapauksia, mutta heidät on unohdettu, Henriksson sanoo.</quote>
+<quote>– Presidentti Donald Trump onnistui saamaan nämä ihmiset puolelleen. Trump on Yhdysvaltojen ainoa presidentti, jonka kannatus perustuu sille, että yhteiskunnassa riidellään ja ihmiset voivat huonosti. Hän ei edes yritä yhdistää amerikkalaisia.</quote>
+Yhdysvalloissa järjestetään seuraavat presidentinvaalit vuonna 2024. Nykyinen presidentti Joe Biden sanoo, että hän osallistuu vaaleihin. Edellinen presidentti Donald Trump aikoo myös pyrkiä presidenttiehdokkaaksi.
+<subtitle>Ensimmäiset suomalaiset saapuivat Yhdysvaltoihin 1600-luvulla</subtitle>
+Ruotsi perusti 1600-luvulla Yhdysvaltoihin siirtokunnan. Sen nimi oli Uusi Ruotsi (nykyinen Delawaren osavaltio Yhdysvaltojen itärannikolla). Monet suomalaiset lähtivät sinne siirtolaisiksi.
+<quote>– Suomalaisia siirtolaisia pidettiin ahkerina työläisinä. Suomalaiset myös joivat runsaasti alkoholia ja joutuivat helposti riitoihin. Suomella on kuitenkin edelleen hyvä maine Yhdysvalloissa. Suomi on ainoa Euroopan maa, joka maksoi lainansa takaisin maailmansotien jälkeen.</quote>
+<quote>– Suomalaiset tulivat hyvin toimeen Amerikan intiaanien kanssa. Luultavasti siksi, että suomalaiset eivät halunneet intiaanien maita. Suomalaiset siirtolaiset suhtautuivat intiaaneihin ystävällisesti tai välinpitämättömästi. Heitä yhdisti myös saunominen, Henriksson kertoo. Hän on tutkinut laajasti alkuperäiskansojen asemaa Pohjois-Amerikassa.</quote>
+Suomea kutsutaan joskus amerikkalaiseksi maaksi.
+<quote>– Tämä johtuu siitä, että suomalaiset ovat matkineet amerikkalaisia. Saattaa myös olla, että kannatamme samantapaisia arvoja: rehellisyyttä, ahkeruutta ja vapautta.</quote>
+
+Esimerkki 4:
+
+<title>Vety on tärkeä aine ilmastolle</title>
+<lead>Vety on hyödyllinen alkuaine ilmastonmuutoksen torjunnassa. Se voi auttaa vähentämään ilmaston lämpenemistä.</lead>
+Uutisissa puhutaan paljon vedystä. Suomeen suunnitellaan esimerkiksi tehtaita, joissa valmistetaan vetyä.Tutkija Antti Arasto kertoo, miten vetyä voidaan käyttää apuna ilmastonmuutoksen hillitsemisessä.
+<quote>– Fossiilisen energian käytöstä pitää luopua, jotta voimme hillitä ilmaston lämpenemistä. Esimerkiksi öljy on fossiilinen polttoaine. Fossiilista energiaa pitää korvata uusiutuvalla energialla. Uusiutuvasta energiasta ei aiheudu päästöjä, jotka lämmittävät ilmastoa. Vety sopii hyvin yhteen uusiutuvalla energialla tuotetun sähkön kanssa.</quote>
+Hän lisää, että uusiutuva energia tarkoittaa esimerkiksi tuulivoimaa tai aurinkovoimaa.
+Antti Arasto johtaa Valtion teknologian tutkimuskeskuksen eli VTT:n vety- ja energiatutkimusta.
+<subtitle>Vetyyn voi varastoida energiaa</subtitle>
+Vedystä sanotaan usein, että se toimii energian kantajana.
+<quote>– Tällä tarkoitetaan sitä, että vetyyn voidaan varastoida energiaa ja vedyn avulla energiaa voidaan siirtää myös eteenpäin, Arasto selventää.</quote>
+Vetyyn voidaan siis varastoida esimerkiksi sähköenergiaa, jota on tuotettu tuulivoimalla.
+Suomeen on rakennettu viime vuosina paljon tuulivoimaa.
+<quote>– Vedyn avulla energiaa voidaan myös siirtää paikasta toiseen. Energiaa voidaan siirtää myös esimerkiksi sellaisiin paikkoihin, missä ei voida käyttää sähköverkkoa.</quote>
+<subtitle>Vetyä voidaan käyttää myös muilla tavoilla</subtitle>
+Vedystä voidaan myös tehdä polttoaineita liikenteeseen. Liikennepolttoaineisiin tarvitaan vedyn lisäksi myös esimerkiksi hiiltä. Hiiltä saadaan hiilidioksidista, jota voidaan ottaa talteen tehtaiden savupiipuista.
+Liikennepolttoaineita voivat käyttää esimerkiksi lentokoneet tai isot kuorma-autot.
+Lisäksi jotkut tehtaat pystyvät käyttämään energianlähteenä myös pelkkää vetyä. Niiden ei siis tarvitse käyttää polttoainetta, joka on valmistettu vedystä.
+<subtitle>Vetyautot eivät ole yleistyneet</subtitle>
+Pelkkää vetyä voivat käyttää energianlähteenä myös jotkut laivat ja vetyautot. Ne käyttävät tällöin niin sanottua polttokennotekniikkaa.
+Arasto ei kuitenkaan usko, että henkilöautot muuttuvat tulevaisuudessa vetyautoiksi.
+<quote>– Vetyautot eivät ole yleistyneet. Näyttää siltä, että sähköautot ovat tulevaisuuden autoja. Vety voi sopia paremmin esimerkiksi kuorma-autoihin, hän pohtii.</quote>
+<subtitle>Vetyä on kaikkialla</subtitle>
+Vety on hyvin yleinen alkuaine. Vetyä on kaikkialla, mutta yleensä vety ei esiinny yksinään. Se on kiinni jossakin muussa aineessa.
+Vetyä on esimerkiksi vedessä, vesi sisältää vetyä ja happea.
+<subtitle>Vetyä voidaan tehdä vedestä</subtitle>
+Vedestä voidaan tehdä vetyä niin, että ympäristö ei kuormitu. Se tapahtuu uusiutuvan energian kuten tuulivoiman tai aurinkoenergian avulla. Tekniikkaa kutsutaan elektrolyysiksi. Elektrolyysissä vettä hajotetaan sähkön avulla, ja siitä erotetaan vety ja happi.
+<subtitle>Vety teollisuudessa</subtitle>
+Suomen ensimmäinen vihreän vedyn laitos
+Suomen ensimmäinen tuotantolaitos, joka valmistaa vetyä ympäristöystävällisesti aloittaa toimintansa jo tulevana syksynä. Laitos sijaitsee Porin lähellä Harjavallassa. P2X Solutionsin tehtaalla tehdään vetyä ja liikennepolttoaineita. Vetyä valmistetaan elektrolyysilla eli hajottamalla vettä sähkön avulla. Suomeen suunnitellaan myös lukuisia muita vedyn tuotantolaitoksia.
+<subtitle>Solar Foods käyttää vetyä ruoantuotannossa</subtitle>
+Helsingissä alkaa tänä keväänä toimia ainutlaatuinen tehdas. Solar Foods Oy:n tehtaassa valmistetaan proteiinia nimeltä soleiini.
+Soleiinista voidaan tehdä erilaisia ruokia. Soleiinin valmistuksessa käytetään bakteeria, joka kasvaa vedyn avulla.
+
+Esimerkki 5:
+
+<title>Piilometsän päiväkodissa lapset ovat luonnon keskellä</title>
+<lead>Piilometsä on yksityinen päiväkoti Ylikiimingissä, lähellä Oulua. Pieni päiväkoti sijaitsee vanhassa omakotitalossa keskellä metsää. Kaikki toiminta tapahtuu luontoa ja ympäristöä kunnioittaen.</lead>
+Piilometsän päiväkoti tarjoaa pienten lasten hoitoa ja sen lisäksi esiopetusta. Luonto- ja ympäristöaiheet painottuvat päiväkodin toiminnassa.
+<quote>– Perustimme päiväkodin vuonna 2004. Vanhassa omakoti-talossa on monta huonetta. Haluamme olla kuin mummola, jossa on tilaa touhuta, päiväkodin opettaja Kaisu Pöyskö kertoo.</quote>
+<subtitle>Luonnon läheisyys auttaa viemään toimintaa ulos</subtitle>
+Monet perinteiset sisäleikit onnistuvat myös ulkona. Ulkona voi esimerkiksi lukea satuja, maalata ja askarrella. Piilometsän lapset ruokailevat ulkona aina, kun sää on sopiva. Keväästä syksyyn isommat lapset nukkuvat päiväunet pihalla olevassa ladossa.
+Kiiminkijoki virtaa lähellä päiväkotia. Joen rannalla on kyläläisten käytössä kota. Isommat lapset pyöräilevät sinne retkille aikuisten kanssa. Kodalla lapset leikkivät, syövät ja nukkuvat usein myös päiväunet.
+Talvella lapset liikkuvat metsässä lumikengillä ja suksilla.
+<quote>– Luonto on liikuntasalimme, jossa lapsi saa kokeilla omia rajojaan. Eri ikäiset leikkivät usein yhdessä. Piilometsässä ei myöskään kilpailla, vaan kaikki auttavat toisiaan, Kaisu Pöyskö sanoo.</quote>
+<subtitle>Ruoka tehdään itse</subtitle>
+Päiväkodin ruoka on enimmäkseen luonnonmukaista ja lähiruokaa. Osa ruoka-aineista kasvaa kesällä todella lähellä eli päiväkodin omassa kasvihuoneessa tai kasvulavoissa.
+Lapset kylvävät siemenet, hoitavat taimia ja seuraavat niiden kasvua. Pihalla kasvaa myös marjapensaita.
+Lapset voivat osallistua myös ruoan laittamiseen. Kun syksyllä ruokalistalla on välipalana mustikkapiirakkaa, lapset keräävät marjat lähimetsästä. Isommat lapset kirjoittavat reseptin talteen, ja piirakka leivotaan yhdessä kaikenikäisten kanssa.
+<subtitle>Oppimisen aiheet tulevat lapsilta</subtitle>
+Piilometsän päiväkoti on mukana kansainvälisissä LUMA-kehittämisprojekteissa. Niiden tavoitteena on lisätä lasten ja nuorten innostusta matematiikan, luonnontieteiden ja teknologian opiskelua kohtaan. Oppiminen tapahtuu yleensä ulkona. Projektien materiaalit ovat kierrätettyjä. Lapset saavat lainata käyttöönsä välineitä luonnon ja sen ilmiöiden tutkimiseen.
+Projektit kehittävät merkityksellistä oppimista. Merkityksellinen oppiminen tarkoittaa, että oppiminen liittyy oikeaan elämään ja lähtee lasten omasta kiinnostuksesta. Näin sillä on todellista arvoa lapselle. Esimerkiksi pihalta löytynyt perhosen toukka innosti koko päiväkodin tutustumaan perhosen elämän eri vaiheisiin.
+<subtitle>Oppiminen tapahtuu roolien kautta</subtitle>
+Piilometsässä lapset saavat käyttää mielikuvitustaan ja esittää omia ideoitaan. Kun naapurin kellarista löytyi lepakko, innostuivat lapset tutustumaan sen elämään. He olivat lepakon roolissa. Koska lepakko on yöeläin, lapset yöpyivät pihakodassa. He etsivät lepakoita lähisaaresta ja kuuntelivat lepakon ääniä erityisellä laitteella. Näin lapsille syntyi hyvä kokemus siitä, minkälaista lepakon elämä on.
+<subtitle>Piilometsän projektit ovat voittaneet useita kilpailuja</subtitle>
+Päiväkodin projekteissa lapset ovat tutustuneet lepakon lisäksi avaruuteen ja kivikauden ajan elämään. Projektit ovat voittaneet useita palkintoja. Voittajatöitä on esitelty kansainvälisesti tiedetapahtumassa Portugalissa saakka.
+Tällä hetkellä Piilometsässä on menossa ympäristönsuojelutyö. Vettenhaltijat-näyttely keskittyy puolustamaan luonnonvesistöjä, kuten lähellä virtaavaa Kiiminkijokea. Tärkeä näyttely on kiertänyt esimerkiksi lähikuntien kirjastoissa.
+
+Esimerkki 6:
+
+<title>Legot ovat myös aikuisten harrastus</title>
+<lead>Pohjois-Pohjanmaan museossa Oulussa on esillä pienoisnäyttely, jonka aiheena ovat legot. Monet ihmiset ajattelevat, että legot ovat vain lasten harrastus.</lead>
+Näyttely osoittaa, että myös aikuiset voivat rakentaa legoilla. Heille legoharrastus on taidetta.
+<subtitle>Palikkatakomo on Suomen legoharrastajien oma yhteisö.</subtitle>
+Legopalikat ovat tanskalainen keksintö, joka on jo yli 70 vuotta vanha. Suomen markkinoille legot tulivat virallisesti 1950- ja 1960-luvuilla. Legoharrastajien jotkut lego-osat voivat olla peräisin jopa heidän vanhempiensa lapsuudesta.
+Suomessa harrastajia kokoaa yhteen Palikkatakomo ry, Suomen legoharrastajien yhdistys, Se järjestää näyttelyitä, kilpailuita ja muuta toimintaa verkossa. Oulussa on lisäksi oma Facebook-ryhmä.
+Palikkatakomon internet-yhteisöön voi liittyä, vaikka ei kuulu Palikkatakomo-yhdistykseen. Palikkatakomon rakentajat suunnittelevat itse omat teoksensa. Niihin ei ole valmiita ohjeita. Mallit ja niihin käytetyt legot ovat rakentajien omia.
+Museon näyttelyssä esitellään oululaisten rakentajien parhaita teoksia.
+Pienoisnäyttely on toteutettu oululaisten legoharrastajien ja Suomen legoharrastajien yhdistyksen, Palikkatakomo ry:n yhteistyönä. Näyttelyn pääteoksena on Oulun keskustan pienoismalli, jonka on rakentanut Tuomas Kukkamaa. Hän leikki legoilla jo lapsena, mutta innostui harrastuksesta enemmän teini-iässä.
+<quote>– Löysin internetistä legoharrastajayhteisön ja huomasin, että myös moni aikuinen rakentaa palikoilla. Siitä harrastus on sitten kasvanut, Kukkamaa kertoo.</quote>
+<quote>– Olen mukana yhteisössä ja luen aiheeseen liittyviä uutisia. Lisäksi pyöritän yhdistystä. Koitan myös välillä löytää rakentamiselle.</quote>
+<subtitle>Idea Oulun keskustan pienoismalliin lähti ympäristön katselemisesta.</subtitle>
+Tuomas Kukkamaa oli aluksi miettinyt pientä Oulu-aiheista legoteosta. Jossain vaiheessa hän alkoi kuitenkin miettiä isomman kokonaisuuden rakentamista.
+<quote>– Se on ainutlaatuinen kuvakulma paikallisille ihmisille. Lisäksi Ouluun oli tulossa legotapahtuma: Mikä olisi parempi mainoskeino tapahtumalle, kuin teos jostain paikallisesta asiasta, Kukkamaa oli pohtinut.</quote>
+<subtitle>Pienoismallin tekeminen oli pitkä prosessi.</subtitle>
+Tuomas Kukkamaa suunnitteli ensin kartan mukaan tiet ja talojen sijainnit. Sitten hän rajasi kartan sopiviksi kortteleiksi ja keskittyi yhden korttelin suunnitteluun kerrallaan. Tämän jälkeen hän keräsi korttelista lisätietoja esimerkiksi erilaisten internetin hakupalveluiden kautta.
+<quote>– Kävin usein myös kuvaamassa talojen ulkopintoja mahdollisuuksieni mukaan. Kun kortteli oli suunniteltu tarpeeksi pitkälle, rakensin sen palikoista. Prosessi eteni kirjastosta ja teatterista lähtien Valkean ostoskeskukseen päin. En suunnitellut ja rakentanut koko ajan vaan prosessi eteni pikkuhiljaa ja teos oli välillä keskeneräisenä näytillä ennen kuin koko teos valmistui, Kukkamaa kuvaa pienoismallin valmistamista.</quote>
+<subtitle>Kukkamaa rakensi teoksen kotonaan kortteli kerrallaan.</subtitle>
+Jokainen kortteli vietiin omassa kuljetuslaatikossaan museoon ja liitettiin siellä lopulliseen pienoismalliin.
+<quote>– Oli kiva saada pari vuotta työn alla ollut teos valmiiksi, Kukkamaa kertoo.</quote>
+<quote>– Toki teokset ovat valmiita vasta sitten, kun taiteilija niin katsoo. Tässäkin teoksessa olisi monia kohtia, joita haluttaisi vielä parannella, hän paljastaa.</quote>
+Hauskimmat muistot Kukkamaalla on hetkistä, jolloin yleisö on oivaltanut, mistä teoksesta on kyse. Oulun keskusta näin ilmasta käsin on ollut uusi näky. Yleensä Toripolliisi-patsas on paljastanut ihmisille, mitä teos esittää. Sitten pikkuhiljaa yleisö on tunnistanut kaikki teoksen rakennukset.
+<subtitle>Legot ovat monipuolinen harrastus.</subtitle>
+<quote>– Legot tuovat useimmille mieleen settien keräilyn. Palikat voivat kuitenkin innostaa myös luomaan uutta. Rakentajien yhteisöllisyys on tärkeä asia, koska harrastajien välillä keskustellaan eri rakennustekniikoista ja inspiraatioista, Kukkamaa kertoo.</quote>
+<quote>– On kiva saada kommenttia omasta teoksesta, jotta näkee teoksen uudessa valossa ja voi palautteen mukaan kehittyä rakentajana. Minulle yhteisö on se tärkeä osa harrastusta, jonka kautta monesti saan ideat lentämään, Kukkamaa iloitsee.</quote>
+Palikka palikalta -pienoisnäyttely Pohjois-Pohjanmaan museossa on esillä 9.1.2022 saakka. Näyttelyyn on vapaa pääsy.
+Oulun legoharrastajien Facebook-ryhmään pääset tästä linkistä: https://www.facebook.com/groups/oulunlegoharrastajat/
+Tietoa Palikkatakomo-yhdistyksestä löydät täältä: palikkatakomo.org
+
+# TEHTÄVÄ #
+
+Voisitko muuntaa artikkelissa näkyvät vaikeat sanat ja lauseet selkokielisemmäksi. Säilytä jutun rakenne ja sisältö mahdollisimman alkuperäisinä muilta osin.

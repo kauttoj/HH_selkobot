@@ -17,15 +17,19 @@ from dotenv import load_dotenv
 
 load_dotenv('.env')
 
+# Spacy init
 spacy_nlp = spacy.load('fi_core_news_lg') # for tokenizing and lemmatizing
 
+# E5 init
 E5_MODEL_NAME = 'intfloat/multilingual-e5-large-instruct'
 e5_tokenizer = AutoTokenizer.from_pretrained(E5_MODEL_NAME)
 e5_model = AutoModel.from_pretrained(E5_MODEL_NAME, trust_remote_code=True)
 
+# Jina init
 JINA_MODEL_NAME = "jinaai/jina-embeddings-v3"
 jina_model = AutoModel.from_pretrained(JINA_MODEL_NAME, trust_remote_code=True)
 
+# openAI init
 gpt4_config = {
     "temperature": 0,
     "model": 'gpt-4o', # 'gpt-4o-mini',
@@ -369,17 +373,15 @@ def get_openai_scores(model_prediction, golden_target):
 
     USER_INPUT = '''Texts to Compare (in Finnish)
 
-    <input_text>
+    # INPUT TEXT #
 
     {input}
 
-    </input_text>
-
-    <reference_text> 
+    # REFERENCE TEXT # 
 
     {reference}
 
-    </reference_text>
+    # OUTPUT #
 
     Your response:
     '''

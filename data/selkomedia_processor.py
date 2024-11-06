@@ -160,10 +160,6 @@ def make_comparison_html(clean_htmlA,url_a,clean_htmlB,url_b,output_file):
 
 
 def tagged_text_to_colored_html(tagged_text):
-    from bs4 import BeautifulSoup, NavigableString, Tag
-    from html import escape
-    import re
-
     # Map of tags to their corresponding RGB colors
     tag_color_map = {
         'title': 'rgb(0, 0, 255)',        # Blue

@@ -1,0 +1,51 @@
+# SELKOKIELEN PERIAATTEET #
+
+Selkosuomi on suomen kielen muoto, joka on mukautettu sisällöltään, sanastoltaan ja rakenteeltaan yleiskieltä luettavammaksi ja ymmärrettävämmäksi. Se on suunnattu ihmisille, joilla on vaikeuksia lukea tai ymmärtää yleiskieltä. Kohderyhmämme on maahanmuuttajaväestö, jonka suomenkielen taito on vielä osittain heikko. Suomenkielen taitoa lukuunottamatta kohdeyleisö edustaa tavallista ja neurotyypillistä aikuisväestöä.
+
+Selkosuomen yleisiä periaatteita ovat:
+1. Suosi aktiivia ja vältä passiivia.
+2. Kirjoita lyhyitä lauseita ja virkkeitä aina kun se on mahdollista.
+3. Kerro vain yksi tärkeä asia yhdessä lauseessa.
+4. Käytä tuttuja ja yleisesti käytössä olevia sanoja.
+5. Suosi lyhyitä sanoja. Vältä vaikeita sanoja ja käsitteitä, sekä lyhenteitä. Jos niitä on pakko käyttää, selitä ne.
+
+Ohjeita otsikoihin:
+1. Käytä lyhyitä kappaleita ja väliotsikoita. Tämä on erityisen tärkeää, jos tekstiä on paljon. 
+2. Käytä kuvaavia otsikoita, joiden perusteella pystyy päättelemään, mistä alla oleva teksti kertoo. Parhaimmassa tapauksessa lukija saa tekstistä pääasiat, kun hän lukee pelkät väliotsikot.
+
+Ohjeita tekstin rakenteeseen:
+1. Vältä kirjoittamasta pitkiä määriteketjuja. Määriteketju muodostuu, kun pääsanan eteen laitetaan monta määrittelevää sanaa. Ne vaikeuttavat asian ymmärtämistä, koska sanat erottavat pääasiat toisistaan. 
+2. Vältä kirjoittamasta tekstistä substantiivityylistä. Muuta substantiivi verbiksi. 
+3. Suosi aktiivimuotoisia verbejä ja vältä passiivia.
+4. Vältä lauseenvastikkeita silloin, kun voit ilmaista asian luontevasti sivulauseella. Lauseenvastike tarkoittaa ilmaisua, jolla korvataan vastaava sivulause. 
+5. Vältä tekstissä kiilalauseita silloin, kun asia on helppo ilmaista toisin. Kiilalause on sivulause, joka sijaitsee päälauseen keskellä.
+6. Kirjoita lauseita ja virkkeitä, jotka voi tulkita vain yhdellä tavalla. Vältä kielikuvia eli vertauksellisia ilmaisuja.
+
+Esimerkkejä tekstin rakenteelle:
+"Pumppu ry:n jäsenet voivat auttaa lahjoittaessaan vaatteita ja leluja Ukrainan lapsille." muotoon "Pumppu ry:n jäsenet auttavat, kun he lahjoittavat vaatteita ja leluja Ukrainan lapsille.".
+"Sanoin sen vain tehdäkseni vaikutuksen." muotoon "Sanoin sen vain, jotta tekisin vaikutuksen."
+"Talo on rakennettu 1920-luvulla." muotoon "Talon rakentajat ovat rakentaneet talon 1920-luvulla."
+"Museo avataan klo 10." muotoon "Museon henkilökunta avaa museon kello 10."
+"Ongelma on vaikea, mutta me voimme ratkaista sen." muotoon "Ongelma on vaikea. Voimme ratkaista sen."
+"Et saa kurssimerkintää, jos et palauta tehtävää." muotoon "Kurssimerkinnän voi saada vain, jos palautat tehtävän."
+"Pumppu ry:n toimintaan osallistuvia perheitä, jotka asuvat eri puolilla pääkaupunkiseutua ja Pirkanmaata, on useita kymmeniä." muotoon "Pumppu ry:n toimintaan osallistuu useita kymmeniä perheitä. Perheet asuvat eri puolilla pääkaupunkiseutua ja Pirkanmaata."
+"Yli 25 vuotta eli pisimpään Suomen historiassa presidenttinä olleen Urho Kekkosen jälkeen perustuslakia muutettiin siten, että kukaan ei voi olla presidenttinä näin kauan." muotoon "Urho Kekkonen oli Suomen presidenttinä yli 25 vuotta. Hän on Suomen pitkäaikaisin presidentti. Nykyisen perustuslain mukaan kukaan ei voi olla presidenttinä näin kauan."
+"Ratkaisua etsittäessä tuomarin on kuultava kaikkia osapuolia." muotoon "Tuomarin pitää kuunnella kaikkia osapuolia, kun hän etsii tilanteeseen ratkaisua."
+
+Ohjeita sanastoon:
+1. Jos tekstin keskeisimmät käsitteet eivät ole oletuslukijalle tuttuja, selitä ne välittömässä asiayhteydessä ja mahdollisuuksien mukaan lukijan näkökulmasta. 
+2. Vältä tekstissä ammattikäsitteitä silloin, kun ne eivät ole lukijan kannalta tarpeellisia. Selitä ne, jos niitä on pakko käyttää.
+3. Huolehdi, että tekstissä keskenään samantapaiset käsitteet eroavat selkeästi toisistaan.
+4. Käytä tekstissä mahdollisuuksien mukaan sellaisia sanoja, jotka ovat oletuslukijalle helposti ymmärrettäviä ja tuttuja esimerkiksi arkipuheesta.
+5. Vältä tekstissä pitkiä yhdyssanoja silloin, kun asia on helposti ilmaistavissa lyhyemmillä sanoilla.
+6. Vältä käyttämästä tekstissä peräkkäin samantapaisia sanoja, jotka voivat mennä helposti sekaisin. Jos niitä on, esitä ne niin, että lukijan on helppo hahmottaa niiden välinen ero.
+7. Vältä vieraskielisiä sanoja. Selitä, mitä ne tarkoittavat, jos sinun on niitä pakko käyttää. Nimet ovat poikkeus.
+8. Vältä tekstissä lyhenteitä (esim. "ml." tai "ks.") silloin, kun ne voi kirjoittaa auki.
+
+Esimerkkejä sanastolle:
+Perussanat: "suorittaa" muotoon "tehdä", "olennainen" muotoon "tärkeä", "aseellinen konflikti" muotoon "sota", "havainnoida" muotoon "nähdä", "kuljetuspalvelu" muotoon "posti", "auto" muotoon "ajoneuvo", "seuraamus" muotoon "rangaistus"
+Lyhenteet: "2 h" muotoon "kaksi tuntia", "30 km" muotoon "30 kilometriä", "esim." muotoon "esimerkiksi"
+Taivutukset: "koirillemmekin" muotoon "myös koirillemme", "Puhelimeenhan saattaa tulla vika" muotoon "On mahdollista, että puhelimeen tulee vika"
+Pitkät tai abstraktit sanat, joita kannattaa välttää: "edunvalvontapalvelut", "villieläinsairaala", "ammatinharjoittamisoikeus", "käyttäjälähtöisyysperiaate", "osatyökyvyttömyyseläke", "työsuojeluviranomainen", "yhdenvertaisuusvaatimus", "äänioikeusrekisteri", "muutosvastarinta", "oikeustoimikelpoisuus", "perheside", "sitouttaa", "katteeton", "vaje", "näennäinen", "totaalinen", "hajonta", "osapuoli", "avoimuus", "alisuoriutua", "tuotteistaa"
+Substantiivityylin korvaaminen verbillä: "suorittaa valvontaa" muotoon "valvoa", "sekaannus" muotoon "sekaantua", "havaitseminen" muotoon "havaita", "mahdollistaja" muotoon "mahdollistaa"
+
