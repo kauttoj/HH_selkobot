@@ -1,0 +1,316 @@
+# SELKOSUOMEN ESIMERKKITEKSTIT #
+
+Jokainen teksti sisältää aina otsikon ja ingressin eli tiivistelmäkappaleen. Lisäksi tekstissä voi olla väliotsikoita ja lainauksia. Kaikki nämä neljä kenttää on merkitty tageilla, joita ovat:
+ otsikko: <headline>...</headline>
+ ingressi: <lead>...</lead>
+ väliotsikko: <subtitle>...</subtitle>
+ lainaukset: <quote>...</quote>
+Huomaa että tagit eivät koskaan näy lukijalle tai ole osa tekstiä, vaan ne on lisätty selkeyden vuoksi.
+
+Esimerkki 1:
+
+<title>Ratsastus on hyvän mielen harrastus</title>
+<lead>Ratsastus on suosittu harrastus. Suomen Ratsastajainliiton seuroissa on 45 000 jäsentä. Selkosanomat kävi tutustumassa pararatsastukseen ratsutila Wiknerillä Kirkkonummella.</lead>
+Erityisryhmien ratsastus eli pararatsastus on yksi ratsastuksen monista muodoista. Ratsutila Wiknerin hevoset ovat rauhallisia ja kärsivällisiä. Ne siis sopivat pararatsastukseen.
+Pararatsastuksen harrastajat käyvät hevosten kanssa kentän ja maneesin lisäksi myös maastossa ja metsässä. Siellä voi törmätä vaikka peuraan.
+Kirkkonummella on vilkas perjantai-ilta elokuussa. Pian alkaa pararatsastustunti eli erityisryhmille tarkoitettu ratsastus.
+Pararatsastuksen ohjaaja Merja Miettinen odottaa illan ensimmäistä ryhmää. Perjantai-iltaisin pararatsastusryhmiä on kolme ja niissä käy säännöllisesti 15–20 ratsastajaa. Ratsastajat ovat monen tasoisia. Osa on aloittelijoita, osa jo pidempään ratsastaneita. Aluksi kaikilla ratsastajilla on taluttajat ja tarvittaessa myöhemminkin.
+Pararatsastustunnilla suurin osa ratsastajista ratsastaa hevosella käyntiä ja ravia. Osa ratsastajista myös laukkaa.
+<quote>– Pararatsastus sopii harrastuksena melkein kaikille. Tunneilla käy kehitysvammaisia, liikuntarajoitteisia ja autismikirjon ihmisiä.</quote>
+Ratsastus on kaikille samanlainen laji. Aluksi harjoitellaan perustaitoja, kuten hevosen pysäyttämistä, liikkeelle lähtöä ja kääntämistä. Pararatsastuksessa opetus, varusteet, apuvälineet ja olosuhteet muokataan kuitenkin jokaiselle harrastajalle mahdollisimman sopiviksi.
+<quote>– Kaikkien ratsastajien pitää opetella ratsastamisen taidot.</quote>
+<subtitle>Mielekäs harrastus tuo iloa</subtitle>
+Hevoset ovat hienoja, herkkiä ja suuria eläimiä. Ratsastus on harrastus, joka tuo monille iloa ja sisältöä elämään.
+<quote>– Tässä on porukka, oma ryhmä, jossa ratsastaja on mukana. Hevonen vaikuttaa myönteisesti niin fyysisesti kuin psyykkisesti. Ratsastus on liikuntaa, jossa ihmisen koko keho on käytössä ja liikkeessä.</quote>
+Liikkeelle lähdetään siis perustaidoista. Miettisen mukaan aloittelijalla on aina aluksi taluttaja mukana.
+<quote>– Sen jälkeen seuraan sitä, milloin taluttajan roolia voi vähentää. Joillain ratsastajilla kulkee avustaja lähellä ja auttaa tarpeen mukaan. Ratsastajat harjaavat ja varustavat hevosia tallissasen verran kuin he osaavat. Talli tarjoaa jokaiselle oman hevosen kuntoonlaittajan ja vastaanottajan.</quote>
+<subtitle>Rauhallisia hevosia</subtitle>
+Elokuussa Kirkkonummella on hieno kesäsää. Suomessa on kuitenkin puolet vuodesta aikaa, jolloin sää ei ole yhtä ihana kuin kauniina kesäiltana. Huonolla säällä ratsastetaan maneesissa. Maneesi on ratsastushalli. Kirkkonummella on lämmin maneesi.
+<quote>– Se on ratsastajille ja ohjaajalle hieno juttu. Maneesissa ratsastus on mukavaa. Ratsastamme kuitenkin ulkona niin kauan kuin säät ovat hyviä.</quote>
+Kaikki hevoset eivät sovi pararatsastustunnille. Hevonen on herkkä saaliseläin, joka säikähtää ja pakenee helposti.
+<quote>– Sopivat hevoset tai ponit ovat rauhallisia, eivätkä ne hermostu.</quote>
+Osa ratsastajista ratsastaa yleensä samalla hevosella. Toiset vaihtavat hevosta useammin.
+<quote>– Huomioin aina sen, minkä tyyppinen ratsastaja on ja minkä tyyppinen hevonen tai poni hänelle sopisi. Hevosen tai ponin luonne ja liikkuminen vaikuttavat valintaan. Toisilla hevosilla on tasaisempi liike kuin toisilla. Osa ratsastajista vaatii fyysisten haasteiden takia tasaisemmin liikkuvaa hevosta.</quote>
+<subtitle>Hienoja hevosia ja kivoja ihmisiä</subtitle>
+Marja Räty ja Johan Blomberg ovat ratsastaneet monia vuosia.
+<quote>– Ratsastaminen ei jännitä minua lainkaan. Nautin ratsastamisesta. Pidän erityisesti ravista eli siitä, kun hevonen juoksee, Marja Räty sanoo.</quote>
+Marja Räty ja Johan Blomberg käyvät ratsastamassa aina perjantai-iltaisin. Ohjaaja Merja Miettisen mukaan Marja Räty on erittäin tarkka ja rauhallinen ratsastaja. – Maikki näyttää yleensä reitit uusille ryhmän jäsenille ja neuvoo heitä.
+<quote>– Parasta ratsastamisessa ovat tietysti hienot hevoset ja kivat ihmiset! Tämä on tosi mukava harrastus! Marja Räty sanoo.</quote>
+Wiknerin ratsutilalla on useita eestinhevosia, joista osa on tuotu Kirkkonummelle Muhun saarelta Virosta. Tilalla on 70 hevosta ja ponia.
+Ratsastus ei ole kovin halpa harrastus. Ratsastuksessa ihmisen harrastuskaverina on eläin, joten se ei ole täysin vaaratonta. Tilastojen mukaan ratsastus ei ole kuitenkaan sen vaarallisempaa kuin esimerkiksi laskettelu tai lumilautailu.
+<quote>– Hevosen pitää olla koulutettu ja tehtävään sopiva. Hevoset ja ponit ovat erilaisia persoonia. Kun ohjaaja valitsee sopivia hevosia ja poneja, hänen täytyy käyttää harkintaa ja omaa ammattitaitoa.</quote>
+
+Esimerkki 2:
+
+<title>Helikopterilääkäri ja tiimi auttavat, kun hätä on suuri</title>
+<lead>Helikopterilääkäri Heini Harve‑Rytsälä on oppinut työssään, että hyvistä hetkistä kannattaa nauttia. Kaikki voi muuttua nopeasti.</lead>
+Heini Harve-Rytsälä toimii lääkärinä helikopterissa. Lääkärihelikopteria käytetään äkillisissä tilanteissa, joissa ihminen on hengenvaarassa. Helikopteri tuo paikalle nopeasti henkilökunnan ja laitteet, joita tarvitaan tehohoitoon.
+<quote>– Lääkärihelikopteria tarvitaan yleensä vakavissa liikenneonnettomuuksissa ja sydänkohtauksissa. Valitettavan yleisiä ovat myös myrkytykset, jotka johtuvat huumeiden yliannostuksesta tai itsemurhayrityksestä, Harve-Rytsälä kertoo.</quote>
+Harve-Rytsälä työskentelee helikopterissa, joka lähtee hälytyksiin Helsinki‑Vantaan lentoasemalta. Suomessa on yhteensä kuusi lääkärihelikopteria.
+<subtitle>Potilaan hoitamiseen osallistuu monta ihmistä</subtitle>
+Harve-Rytsälä korostaa, että lääkäri on vain yksi tiimin jäsen helikopterissa. Ensihoitolääkärin lisäksi tiimissä on myös lentäjä ja lääkärihelikopteriin koulutettu ensihoitaja tai pelastaja.
+<quote>– Hälytyksissä tehdään yhteistyötä myös monien muiden hoito- ja pelastusalan ammattilaisten kanssa. Heihin kuuluvat esimerkiksi hätäkeskuspäivystäjä ja ensihoidon kenttäjohtaja. Lisäksi paikalla on yleensä jo ambulanssi ja sen henkilökunta. Myöhemmin potilaan hoito jatkuu sitten sairaalassa.</quote>
+Harve-Rytsälä huomauttaa, että helikopterissa jokainen tiimin jäsen on tärkeä.
+<quote>– Tämä on tiimityötä. Rakastan sitä, että voin tehdä merkityksellistä työtä yhdessä muiden kanssa.</quote>
+<subtitle>Helikopterilääkärillä on paljon kokemusta</subtitle>
+Heini Harve-Rytsälä on anestesiologian ja tehohoidon erikoislääkäri. Hän on myös ensihoitolääketieteen dosentti yliopistolla. Anestesiologia tarkoittaa kivun lievitystä ja potilaan turvallista nukutusta erilaisia toimenpiteitä ja hoitoja varten.
+Harve-Rytsälä on ollut lääkärihelikopterin ensihoitolääkärinä seitsemän vuotta.
+<quote>– Kokemus on tärkeää. Työssä toistuvat tietyt hoitotoimenpiteet. Mitä enemmän niitä tekee, sitä nopeammin ja varmemmin ne onnistuvat.</quote>
+Harve-Rytsälä kertoo, että hän tarvitsee työssään myös hyvää stressinsietokykyä.
+<quote>– Myös hyvä fyysinen kunto on tarpeen. Helikopteri ei aina pääse laskeutumaan potilaan lähelle. Silloin minä ja muut tiimiläiset kannamme paljon erilaisia laitteita ja varusteita potilaan luo. Voimme joutua kävelemään pitkiä matkoja vaikeassa maastossa.</quote>
+<subtitle>Elämä ei ole itsestäänselvyys</subtitle>
+Aina tilanteet eivät pääty onnellisesti. Helikopterilääkäri näkee lähes jokaisella työvuorolla myös kuolemaa.
+<quote>– Työssä raskainta on esimerkiksi kertoa lapsille, että isä tai äiti on kuollut.</quote>
+Helikopterilääkärinä toimiminen on opettanut Heini Harve-Rytsälälle paljon. Hän on nähnyt työssään, että elämä voi yhtäkkiä päättyä tai muuttua täysin.
+<quote>– Tunnen vahvaa kiitollisuutta siitä, että olen elossa. Yritän nauttia elämästäni ja läheisistäni. Elämää ei kannata pitää koskaan itsestäänselvyytenä.</quote>
+Harve-Rytsälä on myös tavallinen perheenäiti. Arkeen kuuluvat esimerkiksi kiireet neljän lapsen ja heidän harrastustensa kanssa.
+<subtitle>Jokaisen apua tarvitaan hätätilanteissa</subtitle>
+Heini Harve-Rytsälä toivoo, että myös muut kuin hoito- ja pelastusalan ihmiset osaavat toimia hätätilanteissa oikein.
+<quote>– Tärkeintä on jäädä auttamaan ja soittaa hätänumeroon 112. Sillä ei ole esimerkiksi väliä, osaako antaa ensiapua itse. Hätäkeskuksen päivystäjä neuvoo kyllä puhelimessa, mitä pitää tehdä.</quote>
+Harve-Rytsälä huomauttaa, että on erittäin tärkeää päästä aloittamaan hoito välittömästi. Se voi lopulta ratkaista, jääkö ihminen henkiin.
+<subtitle>Lääkärihelikoptereita on ympäri Suomea</subtitle>
+Suomen lääkärihelikopterien tukikohdat sijaitsevat eri puolella maata. Helikopterit ja niiden henkilökunta lähtevät hälytyksiin ympäri vuorokauden.
+Helikopterien tärkein tehtävä on saada hoito mahdollisimman nopeasti potilaan luokse. Potilas kuitenkin kuljetetaan sairaalaan yleensä ambulanssilla, joka on hälytetty paikalle. Pitkillä matkoilla kuljetus voi tapahtua myös helikopterilla.
+Valtionyhtiö FinnHEMS vastaa lääkärihelikopterien toiminnasta yhdessä hyvinvointialueiden kanssa.
+
+Esimerkki 3:
+
+<title>USA on monien kansojen kulttuuri</title>
+<lead>Yhdysvallat eli USA on suuri ja monikulttuurinen maa. Sen parhaita puolia ovat värikkyys ja omaperäisyys.</lead>
+Yhdysvallat eli USA on suuri ja monikulttuurinen maa. Sen parhaita puolia ovat värikkyys ja omaperäisyys. Markku Henriksson on tunnettu Pohjois-Amerikan tutkija. Henriksson on 72-vuotias. Hän on kirjoittanut paljon Yhdysvaltojen ja Kanadan historiasta, kulttuureista ja alkuperäiskansoista.
+Vuonna 2021 Henriksson julkaisi teoksen Tähtilipun maa – Yhdysvaltain alueen historia. Lähes 1000-sivuinen kirja kokoaa paljon tietoa Yhdysvalloista yksien kansien väliin.
+Monipuolisessa kirjassa on mukana historian ja politiikan lisäksi kulttuuria, tapoja ja luonnonhistoriaa.
+<quote>– Halusin koota tietoni Yhdysvaltojen historiasta yhteen. Teksti oli valmis jo vuonna 2020. Halusin kuitenkin vielä vuoden 2020 Yhdysvaltojen presidentinvaalit mukaan kirjaan. Kongressitalon valtaus pääkaupungissa Washingtonissa tammikuussa 2021 viivästytti myös kirjan julkaisua.</quote>
+<subtitle>Yhdysvaltojen pitkä historia</subtitle>
+Yhdysvallat itsenäistyi vuonna 1776. Yhdysvaltojen historia on pitkä ja värikäs. Se ulottuu paljon pitemmälle kuin vuoteen 1776.
+Henriksson kutsuu Yhdysvaltoja eurooppalaiseksi seikkailuksi. Eurooppalaiset siirtolaiset rakensivat monikulttuurisen maan, jossa asuu valtavasti erilaisia kansoja.
+<quote>– Näillä ihmisillä on oma äidinkieli ja uskonto. Yhdysvallat on siis erilaisten kansojen kulttuuri, joilla kaikilla on erilaisia näkemyksiä ja aatteita. Heitä yhdistää ajatus vapaudesta ja maasta, jossa voi harjoittaa vapautta.</quote>
+Yhdysvallat ei ole ainoa maa, jonka eurooppalaiset siirtolaiset perustivat. Australialla, Kanadalla ja joillakin Latinalaisen Amerikan mailla on samanlainen historia. Yhdysvallat on kuitenkin ainoa maa, joka on noussut maailman johtavaksi valtioksi.
+<quote>– Ennen siirtolaisten tuloa Yhdysvalloissa asui alkuperäiskansoja. Pohjois-Amerikan intiaaneilta vietiin maa väkivallalla. Heitä myös huijattiin sopimuksilla, jotka eivät pitäneet paikkaansa. Intiaanien asema on erittäin huono. He joutuvat kamppailemaan kaikkia muita ryhmiä enemmän, että heidän oikeuksiaan muistetaan.</quote>
+<subtitle>Jakautunut maa</subtitle>
+Yhdysvallat on jakautunut kahteen osaan. Yhdysvalloissa on menestyjiä ja häviäjiä.
+<quote>– Yhteiskunta on ristiriitainen ja jakautunut. Yhdysvalloissa on myös paljon tyytymättömiä valkoihoisia. He ovat syrjäseutujen asukkaita, jotka eivät asu suurissa kaupungeissa tai rannikolla. Näiden ihmisten mielestä vähemmistöt ovat saaneet tukea ja vapauksia, mutta heidät on unohdettu, Henriksson sanoo.</quote>
+<quote>– Presidentti Donald Trump onnistui saamaan nämä ihmiset puolelleen. Trump on Yhdysvaltojen ainoa presidentti, jonka kannatus perustuu sille, että yhteiskunnassa riidellään ja ihmiset voivat huonosti. Hän ei edes yritä yhdistää amerikkalaisia.</quote>
+Yhdysvalloissa järjestetään seuraavat presidentinvaalit vuonna 2024. Nykyinen presidentti Joe Biden sanoo, että hän osallistuu vaaleihin. Edellinen presidentti Donald Trump aikoo myös pyrkiä presidenttiehdokkaaksi.
+<subtitle>Ensimmäiset suomalaiset saapuivat Yhdysvaltoihin 1600-luvulla</subtitle>
+Ruotsi perusti 1600-luvulla Yhdysvaltoihin siirtokunnan. Sen nimi oli Uusi Ruotsi (nykyinen Delawaren osavaltio Yhdysvaltojen itärannikolla). Monet suomalaiset lähtivät sinne siirtolaisiksi.
+<quote>– Suomalaisia siirtolaisia pidettiin ahkerina työläisinä. Suomalaiset myös joivat runsaasti alkoholia ja joutuivat helposti riitoihin. Suomella on kuitenkin edelleen hyvä maine Yhdysvalloissa. Suomi on ainoa Euroopan maa, joka maksoi lainansa takaisin maailmansotien jälkeen.</quote>
+<quote>– Suomalaiset tulivat hyvin toimeen Amerikan intiaanien kanssa. Luultavasti siksi, että suomalaiset eivät halunneet intiaanien maita. Suomalaiset siirtolaiset suhtautuivat intiaaneihin ystävällisesti tai välinpitämättömästi. Heitä yhdisti myös saunominen, Henriksson kertoo. Hän on tutkinut laajasti alkuperäiskansojen asemaa Pohjois-Amerikassa.</quote>
+Suomea kutsutaan joskus amerikkalaiseksi maaksi.
+<quote>– Tämä johtuu siitä, että suomalaiset ovat matkineet amerikkalaisia. Saattaa myös olla, että kannatamme samantapaisia arvoja: rehellisyyttä, ahkeruutta ja vapautta.</quote>
+
+Esimerkki 4:
+
+<title>Vety on tärkeä aine ilmastolle</title>
+<lead>Vety on hyödyllinen alkuaine ilmastonmuutoksen torjunnassa. Se voi auttaa vähentämään ilmaston lämpenemistä.</lead>
+Uutisissa puhutaan paljon vedystä. Suomeen suunnitellaan esimerkiksi tehtaita, joissa valmistetaan vetyä.Tutkija Antti Arasto kertoo, miten vetyä voidaan käyttää apuna ilmastonmuutoksen hillitsemisessä.
+<quote>– Fossiilisen energian käytöstä pitää luopua, jotta voimme hillitä ilmaston lämpenemistä. Esimerkiksi öljy on fossiilinen polttoaine. Fossiilista energiaa pitää korvata uusiutuvalla energialla. Uusiutuvasta energiasta ei aiheudu päästöjä, jotka lämmittävät ilmastoa. Vety sopii hyvin yhteen uusiutuvalla energialla tuotetun sähkön kanssa.</quote>
+Hän lisää, että uusiutuva energia tarkoittaa esimerkiksi tuulivoimaa tai aurinkovoimaa.
+Antti Arasto johtaa Valtion teknologian tutkimuskeskuksen eli VTT:n vety- ja energiatutkimusta.
+<subtitle>Vetyyn voi varastoida energiaa</subtitle>
+Vedystä sanotaan usein, että se toimii energian kantajana.
+<quote>– Tällä tarkoitetaan sitä, että vetyyn voidaan varastoida energiaa ja vedyn avulla energiaa voidaan siirtää myös eteenpäin, Arasto selventää.</quote>
+Vetyyn voidaan siis varastoida esimerkiksi sähköenergiaa, jota on tuotettu tuulivoimalla.
+Suomeen on rakennettu viime vuosina paljon tuulivoimaa.
+<quote>– Vedyn avulla energiaa voidaan myös siirtää paikasta toiseen. Energiaa voidaan siirtää myös esimerkiksi sellaisiin paikkoihin, missä ei voida käyttää sähköverkkoa.</quote>
+<subtitle>Vetyä voidaan käyttää myös muilla tavoilla</subtitle>
+Vedystä voidaan myös tehdä polttoaineita liikenteeseen. Liikennepolttoaineisiin tarvitaan vedyn lisäksi myös esimerkiksi hiiltä. Hiiltä saadaan hiilidioksidista, jota voidaan ottaa talteen tehtaiden savupiipuista.
+Liikennepolttoaineita voivat käyttää esimerkiksi lentokoneet tai isot kuorma-autot.
+Lisäksi jotkut tehtaat pystyvät käyttämään energianlähteenä myös pelkkää vetyä. Niiden ei siis tarvitse käyttää polttoainetta, joka on valmistettu vedystä.
+<subtitle>Vetyautot eivät ole yleistyneet</subtitle>
+Pelkkää vetyä voivat käyttää energianlähteenä myös jotkut laivat ja vetyautot. Ne käyttävät tällöin niin sanottua polttokennotekniikkaa.
+Arasto ei kuitenkaan usko, että henkilöautot muuttuvat tulevaisuudessa vetyautoiksi.
+<quote>– Vetyautot eivät ole yleistyneet. Näyttää siltä, että sähköautot ovat tulevaisuuden autoja. Vety voi sopia paremmin esimerkiksi kuorma-autoihin, hän pohtii.</quote>
+<subtitle>Vetyä on kaikkialla</subtitle>
+Vety on hyvin yleinen alkuaine. Vetyä on kaikkialla, mutta yleensä vety ei esiinny yksinään. Se on kiinni jossakin muussa aineessa.
+Vetyä on esimerkiksi vedessä, vesi sisältää vetyä ja happea.
+<subtitle>Vetyä voidaan tehdä vedestä</subtitle>
+Vedestä voidaan tehdä vetyä niin, että ympäristö ei kuormitu. Se tapahtuu uusiutuvan energian kuten tuulivoiman tai aurinkoenergian avulla. Tekniikkaa kutsutaan elektrolyysiksi. Elektrolyysissä vettä hajotetaan sähkön avulla, ja siitä erotetaan vety ja happi.
+<subtitle>Vety teollisuudessa</subtitle>
+Suomen ensimmäinen vihreän vedyn laitos
+Suomen ensimmäinen tuotantolaitos, joka valmistaa vetyä ympäristöystävällisesti aloittaa toimintansa jo tulevana syksynä. Laitos sijaitsee Porin lähellä Harjavallassa. P2X Solutionsin tehtaalla tehdään vetyä ja liikennepolttoaineita. Vetyä valmistetaan elektrolyysilla eli hajottamalla vettä sähkön avulla. Suomeen suunnitellaan myös lukuisia muita vedyn tuotantolaitoksia.
+<subtitle>Solar Foods käyttää vetyä ruoantuotannossa</subtitle>
+Helsingissä alkaa tänä keväänä toimia ainutlaatuinen tehdas. Solar Foods Oy:n tehtaassa valmistetaan proteiinia nimeltä soleiini.
+Soleiinista voidaan tehdä erilaisia ruokia. Soleiinin valmistuksessa käytetään bakteeria, joka kasvaa vedyn avulla.
+
+Esimerkki 5:
+
+<title>Terveellinen ruoka ehkäisee muistisairauksia</title>
+<lead>Terveellinen ruokavalio ehkäisee muistisairauksia, kertoo tutkija Jenni Lehtisalo Terveyden ja hyvinvoinnin laitokselta.</lead>
+Terveellinen ruokavalio ja ylipainon välttäminen voivat suojata muistisairauksilta, sanoo tutkija Jenni Lehtisalo.
+<subtitle>Miten ravinnon ja muistisairauksien yhteys huomattiin?</subtitle>
+<quote>– Olin mukana tutkimuksissa, joissa yritetään muuttaa ihmisten ruokavalioita. Näissä tutkimuksissa ei tarkastella pelkästään ihmisten elintapoja, vaan yritetään muuttaa niitä terveellisemmiksi.</quote>
+<quote>– Tutkimuksessa kävi ilmi, että ihmisten muisti säilyi vanhana parempana, jos he muuttivat elintapojaan terveellisemmiksi. Lisäksi tutkimuksen perusteella elämäntapojen muutos kannattaa vanhempanakin.</quote>
+<quote>– Muistisairauden kehittyminen on aina monimutkainen asia. Tästä syystä on tärkeää muuttaa monia asioita elämässä, jos haluaa vaikuttaa muistisairauksien kehittymiseen.</quote>
+<subtitle>Millainen ruoka on hyvää ja laadukasta aivoille?</subtitle>
+<quote>– Näyttää siltä, että parasta ruokaa on sellainen ruoka, jota suositellaan muutenkin. Aivoille on hyväksi monipuolinen ruoka, jossa on mukana paljon kasviksia, hedelmiä, marjoja ja kalaa. Myös täysjyvävilja on hyväksi aivoille.</quote>
+<quote>– Vitamiinivalmisteista ei välttämättä ole hyötyä. Terveellisintä on saada vitamiinit oikeasta ruuasta. Tästä asiasta tarvitaan kuitenkin vielä paljon lisää tutkimusta.</quote>
+<subtitle>Millainen uhka muistisairaudet ovat nykymaailmassa?</subtitle>
+<quote>– Muistisairaudet ovat pelkästään rahallisesti merkittävä asia. Viimeisen vaiheen muistisairaus vaatii hoitoa ympäri vuorokauden. Hoito on todella kallista. Muistisairaudet ovat myös omaisille hyvin raskaita sairauksia. Kun väestö ikääntyy, muistisairaiden ihmisten määrä kasvaa. Jos muistisairauden alkamista saadaan siirrettyä viidellä vuodella, rasitteet vähenevät jo paljon. Mitä vanhempana sairastuu, sitä lyhyempi on muistisairauden kesto.</quote>
+<subtitle>Paljonko muistisairaita on?</subtitle>
+<quote>– Euroopassa noin viisi prosenttia yli 60-vuotiaista sairastuu muistisairauteen. Suomessa arvioidaan olevan vajaat 200 000 muistisairasta ihmistä. Kaikki eivät sairastu muistisairauteen, mutta yli 90-vuotiaista se on ainakin puolella.</quote>
+<subtitle>Ovatko muistisairaudet lisääntyneet?</subtitle>
+<quote>– Eivät välttämättä, ihmiset elävät vanhemmiksi ja muistisairaudet ovat vanhojen ihmisten sairaus. Myös tieto on lisääntynyt eli muistisairaudet tunnistetaan nykyisin aiempaa tarkemmin. Sydän- ja verisuonisairauksien hoito on kehittynyt paljon, joten ihmiset eivät enää kuole niihin nuorena.</quote>
+<subtitle>Pystytäänkö muistisairaus pysäyttämään?</subtitle>
+<quote>– Muistisairautta pystytään hidastamaan lääkkeillä. Vielä ei ole hoitokeinoa, jolla sen voisi pysäyttää.</quote>
+
+Esimerkki 6:
+<title>Suomenhevonen Hilima elää rentoa elämää</title>
+<lead>Suomenhevonen on ainoa alkuperäinen hevosrotu, joka on kokonaan kehitetty maassamme. Sen jalostaminen aloitettiin yli sata vuotta sitten. Tämän monipuolisen hevosrodun määrä on vaihdellut vuosien aikana paljon. Nykyään kolmannes maamme hevosista on suomenhevosia.</lead>
+<subtitle>Hevonen voi olla hyvä ystävä</subtitle>
+Oululainen Pauliina Rautio tutustui hevosiin ja ratsasti jo pikkutyttönä. Aikuisena hän innostui ratsastamisesta uudelleen. Ratsastuskoulun hevosesta tuli läheinen ystävä yli viisi vuotta sitten. Lopulta Rautio päätti ostaa hevosen itselleen. Hilimasta tuli Raution oma hevonen neljä ja puoli vuotta sitten. Hilima on rodultaan suomenhevonen. Suomenhevonen on ainoa alkuperäinen Suomessa kehitetty hevosrotu.
+Sitä on jalostettu eli kehitetty yli sata vuotta moneen eri tarkoitukseen. Suomenhevonen voi olla nopea ravuri tai ryhdikäs ratsu. Se voi olla myös voimakas ja kestävä työhevonen tai mukava pienhevonen.
+<subtitle>Suomenhevosten määrä on vaihdellut</subtitle>
+1900-luvun alussa suomenhevosia oli paljon enemmän kuin nykyään. Hevonen oli tärkeä työntekijä esimerkiksi maatiloilla ja metsätöissä. Hevoset pystyivät kulkemaan myös sellaisessa maastossa, mihin autolla ei päässyt. Sen vuoksi suomenhevoset olivat sotien aikana myös osa armeijaa. Ne kuljettivat ruokaa, ammuksia ja muita tarvikkeita sekä lääkkeitä ja postia. Myös haavoittuneet tai kuolleet sotilaat kuljetettiin hevosilla.
+Eniten suomenhevosia oli sotien jälkeen eli 1950-luvulla. Tuolloin maassamme oli yli 400 000 suomenhevosta. Suomenhevosten määrä romahti myöhemmin, kun koneet tulivat niiden tilalle maatiloille ja metsätöihin. Vähiten suomenhevosia oli 1980-luvulla.
+Onneksi suomenhevosten määrä on kasvanut uudelleen. Nykyään maamme hevosista kolmasosa eli noin 20 000 yksilöä on suomenhevosia. Suomenhevonen julistettiin vuonna 2007 Suomen kansallishevoseksi, koska se on niin monipuolinen. Lisäksi sillä on tärkeä asema maamme historiassa.
+<subtitle>Hilima asuu pihatossa</subtitle>
+Raution suomenhevonen Hilima elää nyt rentoa ja lajille tyypillistä elämää. Hän asuu koko vuoden ulkona pihatossa. Pihatto on eläinsuoja, jossa on aitaus ja avonainen halli.
+Pihatossa hevosella on mahdollisuus liikkua niin kuin itse haluaa. Esimerkiksi sateella Hilima voi mennä halliin suojaan, jos se tuntuu hyvältä. Talvisäät eivät Hilimaa haittaa, sillä hevoset kestävät kylmää eri tavalla kuin ihmiset. Kesällä on käytössä myös laidun eli peltoalue, jonka tuoreita kasveja hevoset syövät kuivan heinän lisäksi. Laitumella on välillä myös mukava maata.
+<subtitle>Hevonen elää mielellään laumassa</subtitle>
+Luonnossa hevonen on turvassa oman lauman eli ryhmän keskellä. Myös kesy hevonen tarvitsee lajitoverien seuraa. Hevonen voi stressaantua, jos sillä ei ole kavereita. Hilimalla on hyvä tilanne, koska hänellä on pihatossa 3–6 muuta tammaa eli tyttöhevosta seuranaan.
+Läheisyys on hevoselle tärkeää. Aikuisilla hevosilla on yleensä laumassa joku hyvä kaveri. Hiliman paras kaveri on toinen suomenhevonen Tuiskun Tähti eli Tupu. He ovat olleet samassa laumassa yhdeksän vuotta. Hilima ja Tupu liikkuvat ja lepäilevät mielellään yhdessä. Hevosen mieli ja keho voivat hyvin, kun hevonen saa syödä, levätä ja liikkua päivän aikana.
+<subtitle>Liikunta on tärkeä osa hevosen elämää</subtitle>
+Monipuolinen liikunta kuuluu hevosen perustarpeisiin. Pauliina Rautio joutuu kuitenkin miettimään, miten Hilimaa voi liikuttaa.
+<quote>– Hiliman selässä on vikaa. Sen takia Hilimalla ei enää ratsasteta. Ihmisen paino rasittaisi selkää liikaa. Sen sijaan Hilima voi vetää kärryjä ja joskus myös jumpata, Rautio kertoo.</quote>
+Kärryajelut voivat olla pitkiä. Hilima saa usein itse valita reitin. Peltojen välissä ja metsäteitä on rauhallista kävellä. Suoralla tiellä Hilima innostuu myös ravaamaan. Ravaaminen eli ravi tarkoittaa hevosen juoksua.
+<quote>– Hiliman on hyvä välillä juosta. Se auttaa pitämään painoa paremmin kurissa. Hilima nimittäin tykkää syödä heinää välillä liian paljon, Rautio paljastaa.</quote>
+<subtitle>Lisää suomenhevosesta</subtitle>
+Voit lukea suomenhevosista enemmän esimerkiksi internetissä osoitteessa suomenhevosliitto.fi.
+Lisää yleistietoa hevosista löydät sivustolta hevoseni.fi.
+
+# SELKOKIELINEN TEKSTI JA SEN ARVIOINTI #
+
+Selkosuomi on suomen kielen muoto, joka on mukautettu sisällöltään, sanastoltaan ja rakenteeltaan yleiskieltä luettavammaksi ja ymmärrettävämmäksi. Se on suunnattu ihmisille, joilla on vaikeuksia lukea tai ymmärtää yleiskieltä. Kohderyhmämme on maahanmuuttajaväestö, jonka suomenkielen taito on vielä osittain heikko. Suomenkielen taitoa lukuunottamatta kohdeyleisö edustaa tavallista ja neurotyypillistä aikuisväestöä.
+
+Selkokielen yleisiä periaatteita ovat:
+1. Suositaan aktiivia ja vältetään passiivia.
+2. Kirjoitetaan lyhyitä lauseita ja virkkeitä aina kun se on mahdollista.
+3. Kerrotaan vain yksi tärkeä asia yhdessä lauseessa.
+4. Käytetään tuttuja ja yleisesti käytössä olevia sanoja.
+5. Suositaan lyhyitä sanoja. Vältetään vaikeita sanoja ja käsitteitä, sekä lyhenteitä. Jos niitä on pakko käyttää, selitetään ne.
+
+Selkokielinen teksti sisältää aina otsikon ja ingressin eli tiivistelmäkappaleen. Hyvän otsikon perusteella pystyy päättelemään, mistä teksti kertoo. Pitkä teksti tarvitsee väliotsikoita. Parhaimmassa tapauksessa lukija saa tekstistä pääasiat, kun hän lukee pelkät väliotsikot. Teksti voi myös sisältää lainauksia. Nämä tekstin eri osat voidaan merkitä sauraavilla tageilla:
+ otsikko: <headline>...</headline>
+ ingressi: <lead>...</lead>
+ väliotsikko: <subtitle>...</subtitle>
+ lainaukset: <quote>...</quote>
+Huomaa että tagit eivät koskaan näy lukijalle tai ole osa tekstiä, vaan ne on lisätty selkeyden vuoksi.
+
+Selkokielen mittari on tarkoitettu tekstin selkokielisyyden arviointiin. Selkokielen mittarissa on kaikkiaan 53 pisteytettävää kriteeriä, joiden avulla arvioidaan tekstin selkokielisyyttä. Ne on jaettu kolmen alaotsikon alle: Teksti kokonaisuutena (kriteerit 1-15), Sanat (kriteerit 16-29) ja Kielen rakenteet (kriteerit 30-53).
+
+Selkokielen mittarissa on kahdenlaisia kriteerejä:
+
+PÄÄKRITEERIT, jotka arvioidaan numeroilla 0-3 siten, että
+3 = vastaa hyvin väittämää
+2 = vastaa osittain väittämää
+1 = vastaa huonosti väittämää
+0 = väittämä ei ole olennainen tässä tekstissä
+
+APUKRITEERIT, jotka arvioidaan numeroilla 0-2 siten, että 
+2 = väittämä toteutuu tekstissä
+1 = väittämä ei toteudu tekstissä
+0 = väittämä ei ole olennainen tässä tekstissä.
+
+# SELKOKIELEN MITTARI #
+
+OSIO 1 - TEKSTI KOKONAISUUTENA 
+
+Pääkriteerit (pisteytys 0, 1, 2 tai 3)
+1. Teksti on kokonaisuutena arvioituna yleiskieltä helpompaa.
+2. Aihetta käsitellään konkreettisella, havainnollisella tavalla käyttämällä muun muassa arkielämää lähellä olevia esimerkkejä.
+3. Tekstissä ei ole sisällöllisiä aukkoja. Lukija saa joka kohdassa tekstin ymmärtämisen kannalta riittävästi tietoa.	
+4. Teksti selittää itse itsensä eikä nojaa liikaa lukijan yleistietoon tai muiden tekstien tuntemukseen.
+
+Apukriteerit 1 [aiheen käsittely ja tiedon määrä] (pisteytys 0, 1 tai 2)
+5. Aihetta käsitellään pääosin konkreettisten toimijoiden ja ihmisten kautta (esim. "hakija", "poliisi", "me"). Toimijoina on vain vähän abstrakteja substantiiveja (esim. "suunnitelma koskee", "asiakaslähtöisyys on", "avoimuus toteutuu").
+6. Tekstissä ei ole epäolennaista tietoa. 	
+7. Teksti ei ole liian tiivistä ja yhteen lauseeseen ei ole pakattu liikaa asiaa.
+
+Apukriteerit 2 [Tekstin sävy ja vuorovaikutus lukijan kanssa] (pisteytys 0, 1 tai 2)
+8. Teksti ei aliarvioi lukijaa. Se ei esimerkiksi selitä liikaa tai ole liian opettavainen. Se on kieleltään sopiva aikuisille.
+
+Apukriteerit 3 [tekstin jäsentely] (pisteytys 0, 1 tai 2)
+9. Otsikko ja aloitus auttavat lukijan pääsemään alkuun ja saamaan kiinni tekstin pääviestistä.	
+10. Teksti etenee johdonmukaisesti.	
+11. Teksti on jaettu sopivankokoisiin kokonaisuuksiin esimerkiksi kappalejaolla ja väliotsikoilla.
+12. Kappaleet liittyvät toisiinsa luontevalla tavalla, ja tekstinsisäinen sidosteisuus on hyvä. Lukija pystyy vaivatta havaitsemaan tekstin syy-seuraussuhteet (esim. "koska", "siksi että", "tästä syystä"),  aikasuhteet (esim. "ensin", "kun", "sen jälkeen", "sitten") ja ehdolliset suhteet (esim. "jos–niin", "kuitenkin").
+
+Apukriteerit 4 [yleiset hyvän tekstin ominaisuudet] (pisteytys 0, 1 tai 2)
+13. Tekstissä ei viitata aiemmin sanottuun niin, että oletetaan lukijan muistavan tai löytävän aiemman kohdan tekstistä.	
+14. Aikamuotojen ja ajan ilmausten käyttö tekstissä on johdonmukaista.	
+15. Luetelmat ovat lyhyitä. Luetellut asiat muodostavat kokonaisuuden ja ovat keskenään samanmuotoiset. Esimerkiksi: "Työsopimuksessa sovitaan työsuhteen kesto, työaika, palkka ja lomat."
+
+OSIO 2 - SANAT 	
+
+Pääkriteerit 2 (pisteytys 0, 1, 2 tai 3)
+16. Tekstissä on pääosin yleistä, lukijoille tutuksi arvioitua sanastoa.	
+17. Jos vaikeaa sanaa ei voi korvata tai välttää, se on selitetty lukijalle ymmärrettävällä ja kontekstiin sopivalla tavalla.	
+18. Tekstissä ei ole huomattavan paljon pitkiä sanoja.
+19. Tekstissä on pääosin konkreettisia sanoja (esim. "kirjoittaa", "täytyä", "sairaala").
+20. Toistoa käytetään siten, että se lisää tekstin ymmärrettävyyttä. Samaan asiaan ei viitata liian monella eri tavalla tai synonyymillä.	
+
+Apukriteerit 5 [sanojen selittäminen ja toisto] (pisteytys 0, 1 tai 2)
+21. Selitys on kohdassa, jossa vieraaksi oletettu sana esiintyy ensimmäistä kertaa. Selitys ei aiheuta lisäselittämisen tarvetta. Pitkässä tekstissä selitys toistetaan tarvittaessa.
+22. Tekstissä ei selitetä sanoja, jotka voidaan olettaa aikuiselle lukijalle tutuksi (esim. "sairaala", "poliisi", "televisio").
+23. Tekstissä on käytetty vain olennaisia erikoiskielisiä käsitteitä, ja ne on selitetty hyvin.	
+24. Pitkissä yhdyssanoissa on hyödynnetty osittaistoistoa ensimaininnan jälkeen (esim. "maa- ja metsätalousministeriö" muotoon "ministeriö" toistoissa).
+25. Pronominiviittaukset ovat selviä, eikä pronomini jää liian kauaksi viittauskohteestaan.	
+
+Apukriteerit 6 [sanojen tuttuus ja helppo hahmotettavuus] (pisteytys 0, 1 tai 2)
+26. Tekstissä ei ole vierassanoja, jos niille on yleinen, kotoperäinen vastine (esim. "informaatio" muotoon "tieto", "reklamoida" muotoon "tehdä valitus" , "show" muotoon "esitys").
+27. Kielikuvia on maltillisesti. Tekstissä käytetyt kielikuvat ovat tuttuja ja yleisiä, ja niitä on vaikea korvata muilla sanoilla (esim. "säästää aikaa", "sähkövirta", "verkko").
+28. Tekstissä ei ole kielikuvia, joiden ymmärtäminen vaatii luovaa päättelyä (esim. "juustohöylätä", "aivovuoto", "lasikatto", "silmiinpistävä", "tiekartta").
+29. Tekstissä ei ole lyhenteitä, pois lukien vakiintuneet lyhenteet, jotka tunnistetaan paremmin lyhenteinä kuin aukikirjoitettuina (esim. "KELA", "PDF", "DVD" sallitaan).
+
+OSIO 3 - KIELEN RAKENTEET 	
+
+Pääkriteerit 3 (pisteytys 0, 1, 2 tai 3)
+30. Tekstissä ei ole huomattavan paljon vaikeaksi arvioitavia kielen rakenteita.	
+31. Lauseet ja virkkeet ovat pääosin lyhyitä.	
+32. Yhdessä lauseessa ilmaistaan vain yksi tärkeä asia.	
+33. Substantiiveilla ei ole monimutkaisia määritteitä, kuten partisiippirakenteita (maasta lähteneet henkilöt, koulutukseen liittyvät materiaalit, lääkäriltä saamasi ohje).	
+34. Tekstissä ei ole lauseenvastikkeita eikä muita vastaavia infiniittisiä rakenteita ("Voidakseen osallistua opiskelijan täytyy ilmoittautua etukäteen")
+
+Apukriteerit 7 [sanojen taivutus ja johtaminen] (pisteytys 0, 1 tai 2)
+35. Tekstissä käytetään nominien perusmuotoja, jos se on lauseyhteydessä mahdollista ja luontevaa. 	
+36. Tekstissä on pääosin nominien helpoimpia taivutusmuotoja. Harvinaisia sijamuotoja abessiivia ("huomiotta", "tauotta"), komitatiivia ("liitteineen") ja instruktiivia ("pienin muutoksin") ei ole.	
+37. Tekstissä ei ole sanoja, joissa on useita erilaisia elementtejä, kuten johtimia, taivutuspäätteitä ja liitteitä ("lomakkeisiimmekaan", "ymmärtääkseni", "puolustamiesi").
+38. Verbit ovat pääosin preesensissä ("lähetät") ja imperfektissä ("lähetit"). Perfektiä ja pluskvamperfektiä (olet lähettänyt, olit lähettänyt) käytetään vain, jos tekstin aikasuhteet sitä vaativat.	
+39. Verbin moduksista käytetään enimmäkseen indikatiivia ("palautan", "puhumme") ja imperatiivin 2. persoonaa ("palauta", "puhukaa"). Tekstissä ei ole harvinaisia verbimoduksia, kuten potentiaalia ("tehnee", "tietänemme") ja vanhahtavia 3. persoonan imperatiivimuotoja ("tehköön").
+40. Konditionaalia käytetään vain, jos sitä ei voi korvata indikatiivilla ilman, että merkitys selvästi muuttuu. ("Hakemus kannattaa jättää, vaikka et olisi saanut vielä opiskelupaikkaa.")
+
+Apukriteerit 8 [lausekkeet ja lauserakenteet] (pisteytys 0, 1 tai 2)
+41. Substantiiveilla ei ole useita määritteitä ("Sairastuminen voi olla vakava, vaarallinen ja pelottava asia.").
+42. Yhteen kuuluvat sanat, kuten verbiliitot ja verbien rektion mukaiset ilmaukset, esitetään peräkkäin tai mahdollisimman lähekkäin ("Päätös vaikuttaa ensi kuun alusta alkaen asumistukeesi." muotoon "Päätös vaikuttaa asumistukeesi ensi kuun alusta alkaen.").
+43. Tekstissä on pääosin lauseita, jotka rakentuvat persoonamuotoisen verbin varaan (Palauta lomake ajoissa. Vastaamme viesteihin maanantaisin.). 	
+44. Tekstissä ei ole substantiivityylisiä ilmauksia ("Projektin toteutuksen suunnittelu aikataulutetaan.").
+45. Tekstissä käytetään suoraa sanajärjestystä (esim. subjekti, predikaatti, objekti). Käänteistä sanajärjestystä käytetään vain silloin, jos tekstin rakenne niin vaatii tai teksti muuten muuttuu monotoniseksi.
+46. Predikaatti sijaitsee lauseen alkupuolella.
+47. Tekstissä käytetään passiivia vain silloin, kun tekijä ei ole tiedossa tai tekijän mainitseminen ei ole olennaista ("Presidentinvaalit järjestetään kuuden vuoden välein.", "Talo on rakennettu 1920-luvulla.").
+48. Lauseessa ei esitetä kaksinkertaista kieltoa ("Laskuja ei saa jättää maksamatta.").
+
+Apukriteerit 9 [virkerakenteet] (pisteytys 0, 1 tai 2)
+49. Virkerakenteet ovat yksinkertaisia. Sivulauseita on pääosin vain yksi. 	
+50. Virkkeissä päälause ja sivulause ovat tekstin etenemisen kannalta loogisessa järjestyksessä.	
+51. Virkkeissä lauseet on sidottu toisiinsa esimerkiksi konjunktioilla ("siksi", "mutta", "kun") niin, että asioiden väliset suhteet käyvät ilmi tekstistä.	
+52. Tekstissä ei ole kiilalauseita ("Palveluja, joita ovat esimerkiksi asumispalvelut ja vanhuspalvelut, voit hakea tällä lomakkeella.").	
+53. Virkkeissä ei esitetä monimutkaisia kieltosuhteita ("Et saa kurssimerkintää, jos et palauta tehtävää").
+
+# TEHTÄVÄ #
+
+Olet viestinnän ja selkosuomen huippuasiantuntija ja arvioija. Käytät selkokielen mittaria annetun tekstin arviointiin ja pisteyttämiseen. Lue arvioitava teksti huolillisesti ja ajatuksella läpi. Vedä sitten syvään henkeä ja arvioi tekstiä kaikkien selkokielen mittarissa olevien 53:n kriteerin näkökulmasta askel-askeleelta. Anna sanallinen yhteenveto tekstistä ja miten hyvin se noudattaa selkosuomen periaatteita ja soveltuu kohdeyleisölle (ulkomaalaistaustaiset, joiden suomenkielen taito on heikko). Sen jälkeen pisteytä jokainen kriteeri annetun asteikon mukaisesti ja anna tulos JSON muodossa. MUISTA NOUDATTAA TARKASTI SELKOKIELEN MITTARIN MUKAISTA PISTEYTYSTÄ.
+
+# TULOS #
+
+Sanallinen yhteenvetoni tekstin selkokielisyydestä: 
+[yhteenveto]
+
+Pisteytykseni perusteluineen:
+{
+ {"kriteeri_1_perustelu": [kriteerin 1 pistemäärän perustelu],"kriteeri_1_pisteet": [kriteerin 1 pistemäärä]},
+ {"kriteeri_2_perustelu": [kriteerin 2 pistemäärän perustelu],"kriteeri_2_pisteet": [kriteerin 2 pistemäärä]},
+  ...
+ {"kriteeri_52_perustelu": [kriteerin 52 pistemäärän perustelu],"kriteeri_52_pisteet": [kriteerin 52 pistemäärä]},
+ {"kriteeri_53_perustelu": [kriteerin 53 pistemäärän perustelu],"kriteeri_53_pisteet": [kriteerin 53 pistemäärä]},
+}

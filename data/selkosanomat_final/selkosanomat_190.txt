@@ -1,0 +1,19 @@
+<title>Muumit ovat valtavan suosittuja</title>
+<lead>Sophia Jansson on taiteilija Tove Janssonin veljentytär. Hän on myös Moomin Characters -yrityksen taiteellinen johtaja</lead>
+<subtitle>Yrityksellä on oikeudet kaikkiin muumihahmoja koskeviin teksteihin ja kuviin. Mitä Moomin Characters tekee?</subtitle>
+<quote>– Yritys huolehtii muumikirjojen, tekstien ja kuvien oikeuksista. Yritys päättää, millaisissa tuotteissa muumien kuvia saa käyttää.</quote>
+<subtitle>Muumeja on kaikkialla. Kuinka iso ilmiö  muumit on?</subtitle>
+<quote>– Se on todella valtava. Sanoin jo 15 vuotta sitten, että se ei voi kasvaa enempää. Mutta olin väärässä. Joka vuosi koko maailmassa myydään muumituotteita 450 miljoonan euron arvosta. 400 yrityksellä tai henkilöllä on lupa tehdä muumituotteita. Muumikirjoista otetaan koko ajan uusia painoksia.</quote>
+<subtitle>Teettekö tätä, jotta rikastuisitte?</subtitle>
+<quote>– Haluamme pitää tasapainossa rahan ansaitsemisen ja kulttuuriperinnön vaalimisen. Ei pidä ajatella vain rahoja. Tänä juhlavuonna sadat ihmiset ovat työskennelleet muumien parissa. Tuntuu hyvältä, kun voi tarjota ihmisille työtä.</quote>
+<quote>– Lahjoitamme myös rahaa hyväntekeväisyyteen. Teemme yhteistyötä esimerkiksi YK:n lastenrahasto Unicefin kanssa. Haluamme auttaa lapsia oppimaan lukemaan ja kirjoittamaan. Luulen, että Tove olisi pitänyt siitä.</quote>
+<subtitle>Kuinka hyvin tunsit Toven?</subtitle>
+<quote>– Tunsin Toven, kun olin lapsi. Muistan parhaiten kesät saaristossa. Ne ovat hyviä muistoja. Tove oli rakas perheenjäsen, mutta hän ei ollut tarinankertoja eikä äitihahmo.</quote>
+<subtitle>Miten uudet muumituotteet syntyvät?</subtitle>
+<quote>– Yritykset, jotka haluavat tehdä muumi- tuotteita, ottavat meihin yhteyttä. Me otamme myös yhteyttä yrityksiin tai suunnittelijoihin, joiden kanssa haluamme tehdä yhteistyötä. Meidän kannaltamme on tärkeää pitää muumipeikot elossa. Meidän täytyy hallinnoida muumikirjoja ja -kuvia, jotka Tove Jansson on luonut. Yrityksemme ei voi luoda uutta, kun asiakkaat ovat kyllästyneet vanhaan.</quote>
+<subtitle>Mikä on sinulle tärkeää?</subtitle>
+<quote>– On tärkeää, että muumit esitetään tavalla, joka on sopusoinnussa Toven tekstien ja kuvien kanssa. Haluamme työskennellä vain sellaisten yritysten kanssa, jotka tekevät laadukkaita tuotteita. Yksi kuuluisimmista ja menestyksekkäimmistä yhteistyöhankkeista on Arabian muumimukit. Se on muotoilija Kaj Franckin klassisen ja kestävän designin ansiota.</quote>
+<subtitle>Missä piilee muumikirjojen vahvuus?</subtitle>
+<quote>– Toven kirjoissa on paljon sellaista, mikä on myönteistä ja ajankohtaista edelleen. Eri maissa lukijat huomaavat eri asioita. Ruotsalaiset pitävät tarinoita hieman surullisina. Englantilaiset ajattelevat, että kirjoissa on paljon seikkailuja, mutta turvallisella tavalla. Eri lukijat löytävät kirjoista eri asioita.</quote>
+<subtitle>Onko yritykselläsi tulossa uusia projekteja?</subtitle>
+<quote>– Olemme aloittaneet upouuden yhteistyön suomalaisen vaatealan yrityksen Ivana Helsingin kanssa. Tänä syksynä vaatekokoelma esitellään muotimessuilla Tokiossa Japanissa. Se on hieno ja hauska juttu. Odotamme myös innolla uutta animaatioelokuvaa, joka kertoo muumi- perheestä. Se tulee elokuvateattereihin tänä syksynä.</quote>

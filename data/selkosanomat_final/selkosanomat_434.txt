@@ -1,0 +1,20 @@
+<title>Köyhien puolustaja</title>
+<lead>Li Andersson nousi keväällä eduskuntaan suurella äänimäärällä. Monet veikkaavat, että Andersson on Vasemmistoliiton seuraava puheenjohtaja.</lead>
+Li Andersson on Vasemmistoliiton kansanedustaja. Nuoresta iästään huolimatta hän on jo melkoinen konkari politiikassa.
+<subtitle>Milloin kiinnostuit politiikasta?</subtitle>
+<quote>– Olin innokkaasti mukana jo opiskelija-politiikassa. Minua kiinnosti erityisesti demokratian kehittäminen koulumaailmassa. 16-vuotiaana lähdin mukaan Vasemmistoliiton nuorisojärjestön toimintaan. Parikymppisenä olin jo puolueen jäsen.</quote>
+<subtitle>Miksi valintasi oli vasemmisto?</subtitle>
+<quote>– Se oli selvä ja helppo valinta minulle. Kun on kyse sosiaalisesta oikeuden- mukaisuudesta ja ympäristökysymyksistä, niin vasemmisto on ainoa oikea vaihtoehto minulle. Olen myös erityisen kiinnostunut näistä asioista.</quote>
+<subtitle>Sait melkoisen äänivyöryn eduskuntavaaleissa. Miltä se tuntui?</subtitle>
+<quote>– Totta kai se tuntui mukavalta. Olin kyllä tehnyt töitäkin sen eteen. Vaikka olenkin iältäni vielä nuori, olen toiminut politiikassa jo pitkään. Olen toiminut Vasemmistonuorten puheenjohtajana ja ollut mukana kunnallispolitiikassa Turussa. Luulenpa, että suuri äänimääräni johtuu siitä.</quote>
+<subtitle>Vasemmistoliitto on nyt oppositiossa. Luuletko, että yhteiskunnallinen tilanne on jopa niin vaikea, että hallitus kaatuu?</subtitle>
+<quote>– En usko, että niin käy. Hallitus pärjää luultavasti. Suomen nykyinen poliittinen kulttuuri on muuttunut sellaiseksi, että hallitus kaatuu erittäin harvoin. Aiemmin se oli todennäköisempää. Tästä vaalikaudesta tulee kuitenkin aivan varmasti hyvin vaikea. Erityisesti perussuomalaisilla tulee olemaan vaikeaa.</quote>
+<subtitle>Miltä työskentely eduskunnassa tuntuu?</subtitle>
+<quote>– Hyvältä ja kiinnostavalta. Olen oppinut paljon. Mutta eduskuntatyö on yksinäistä hommaa. Koska olen pienen puolueen kansanedustaja, olen usein puolueeni ainoa edustaja työryhmissä ja valiokunnissa. Se merkitsee suurta vastuuta ja kovasti töitä.</quote>
+<subtitle>Mitä Suomen tulisi tehdä, jotta maan taloudellinen tilanne parantuisi?</subtitle>
+<quote>– Ainakaan ei pitäisi tehdä valtavia leikkauksia. Säästöt ovat huono asia, kun talouskasvu on muutenkin nollassa. Jos säästetään aivan valtavasti, voi pienikin kasvu taittua jälleen.</quote>
+<quote>– On kolme tapaa tasapainottaa talous ja budjetti. Yksi tapa on myydä omaisuutta. Toinen on korottaa veroja. Kolmas on ottaa lisää lainaa. Uskon eniten kolmanteen vaihtoehtoon. Uskon, että ottamalla lisää lainaa saamme aikaa. Lainat voi maksaa myöhemmin takaisin.</quote>
+<subtitle>Mihin asioihin haluat vaikuttaa Suomessa?</subtitle>
+<quote>– Haluan vaikuttaa köyhimpien suomalaisten tilanteeseen ja vähentää tuloeroja. Ei pidä paikkaansa, että kaikki hyötyvät talouden noususta. Viimeksi nousukaudella tuloerot köyhien ja rikkaiden välillä kasvoivat.</quote>
+<subtitle>Millaiselta Suomen tulevaisuus näyttää?</subtitle>
+<quote>– Kaikki ei suinkaan ole huonosti. Moni asia toimii Suomessa. Suomi on tasa-arvoinen, koulutus toimii ja työmarkkinat ovat reilut. Uhkana kuitenkin on, että nykyinen hallitus tekee sellaisia päätöksiä, jotka vievät kehitystä taaksepäin.</quote>

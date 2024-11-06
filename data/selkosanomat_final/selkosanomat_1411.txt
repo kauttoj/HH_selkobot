@@ -1,0 +1,20 @@
+<title>Sisällissota on pahin sota</title>
+<lead>Sture Lindholm on kirjoittanut monta kirjaa Suomen sisällissodasta vuonna 1918. Suomen sisällissotaa kutsutaan monella nimellä.</lead>
+<subtitle>Mikä on sinun mielestäsi oikea nimi?</subtitle>
+<quote>– Kutsun sitä sisällissodaksi. Niin kutsutaan sotaa, jossa saman maan kansalaiset sotivat toisiaan vastaan.</quote>
+<quote>– Sodan voittajat eli valkoiset kutsuivat sotaa vapaussodaksi. He ajattelivat, että sodassa Suomi vapautettiin venäläisistä sotilaista, joita taisteli punaisten puolella. Mutta tilanne oli monimutkaisempi. Valkoisten puolella soti saksalaisia ja punaisten puolella venäläisiä. Punaiset kutsuivat sotaa kansalaissodaksi.</quote>
+<quote>– Jotkut puhuvat veljessodasta. Niin tosiaan tapahtui, että veljekset saatoivat sotia toisiaan vastaan tässä kamalassa sodassa. Sodassa olivat vastakkain valkoiset ja punaiset.</quote>
+<subtitle>Keitä he olivat?</subtitle>
+<quote>– Sodassa olivat vastakkain köyhät punaiset ja rikkaat valkoiset. Punaisten puolella oli tehdastyöläisiä ja torppareita ja maalaisia, joilla ei ollut maata. Valkoisten puolella taas oli maanviljelijöitä, joilla oli omaa maata, virkamiehiä, porvareita ja ihmisiä, joilla oli koulutusta. Molemmissa ryhmissä oli suomenkielisiä ja ruotsinkielisiä.</quote>
+<subtitle>Miksi sota syttyi?</subtitle>
+<quote>– Sota johtui siitä, että ero köyhien ja rikkaiden välillä oli niin suuri. Ensimmäinen maailmansota oli käynnissä. Suomessa oli suuri työttömyys ja köyhyyttä. Sitten Venäjällä tapahtui vallankumous. Se vaikutti Suomeen. Köyhät taistelivat, koska he halusivat lisää oikeuksia ja paremmat elinolot.</quote>
+<subtitle>Kuinka kauan sota kesti?</subtitle>
+<quote>– Sota alkoi 27. tammikuuta 1918. Se loppui toukokuussa 1918, kun punaisten joukot antautuivat. Sen jälkeen valkoiset vangitsivat punaisia vankileireille. Sodan jälkeen leireillä oli jopa 80 000 vankia.</quote>
+<subtitle>Kuinka monta ihmistä kuoli sodassa?</subtitle>
+<quote>– Noin 36 000 ihmistä kuoli sodassa ja vankileireillä sen jälkeen.</quote>
+<subtitle>Monet kuolivat vankileireillä. Miksi?</subtitle>
+<quote>– Niin, jopa 13 600 ihmistä kuoli vankileireillä. Suurin syy oli se, että vankileireillä oli erittäin huonot olot. Ruokaa oli liian vähän. Monet vangit olivat heikkoja ja sairastuivat. Vangeilla ei ollut mahdollisuutta peseytyä. Lisäksi leireillä oli liian paljon ihmisiä. Taudit levisivät nopeasti eikä lääkkeitä ollut. Siksi monet kuolivat. Tammisaaren leirillä Uudellamaalla kuoli jopa 3 000 ihmistä. Useimmat kuolivat nälkään tai tauteihin, vain 13 ammuttiin.</quote>
+<subtitle>Onko sisällissota suomalaisille edelleen vaikea asia?</subtitle>
+<quote>– On. Vasta viime vuosina sisällissodasta on voinut puhua avoimesti. Sanotaan, että kestää kolme sukupolvea, ennen kuin sodan vaikutus loppuu. Nykyisiin nuoriin sota ei ehkä enää vaikuta.</quote>
+<subtitle>Voimmeko oppia jotain sisällissodasta?</subtitle>
+<quote>– Vuonna 1917 lehdissä oli paljon vihapuhetta. Lehdissä kirjoitettiin silloin todella rumasti muista ihmisistä ja levitettiin vihaa. Se johti julmiin tapahtumiin, kun sota alkoi. Jos vihapuheelle antaa tilaa, sitä on vaikea pysäyttää. Tästä meidän kannattaa ottaa oppia nykyaikana.</quote>

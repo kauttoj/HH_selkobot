@@ -1,0 +1,13 @@
+<title>Vastoinkäymisistä voi oppia</title>
+<lead>Kansanedustaja Maarit Feldt-Ranta on juuri palannut takaisin työhön pitkän sairauden jälkeen.</lead>
+<subtitle>Miltä tuntuu palata töihin?</subtitle>
+<quote>– Palaan töihin innokkaana. Sairaus ja syöpähoidot olivat raskaita, mutta minulla oli myös aikaa pohtia asioita. Kun olin sairaana, ymmärsin, että jos saan elää, haluan tehdä samaa työtä kuin aiemmin tein. Tapasin monia sairaita, joiden elämä oli paljon vaikeampaa kuin minun elämäni. Ymmärsin, että hyvinvointi-yhteiskuntamme puolesta kannattaa tehdä töitä. Sairaus on tehnyt minusta kiitollisen. Iloitsen siitä, mitä minulla on. Olen iloinen, että minulla on läheisiä ihmisiä. Nautin töistä ja tehtävistä, joita minulla on.</quote>
+<quote>– Kaikkien ihmisten on hyvä kohdata joskus vaikeita asioita, esimerkiksi sairautta, vammaisuutta tai elämän vastoinkäymisiä. Tunnen paljon ihmisiä, joilla menee hyvin. He ovat siitä huolimatta katkeria ja vihaisia. Tärkeintä on saada elää hyvää elämää, vaikka kohtaisi sairautta tai toimintarajoitteita.</quote>
+<subtitle>Kuinka sinusta tuli poliitikko?</subtitle>
+<quote>– Olin 30-vuotias kahden lapsen äiti Karjaalla ja taistelin lapsiperheiden oikeuksien puolesta. Silloin tajusin, että nimenomaan poliitikot tekevät päätöksiä. Soitin puhelun sosiaali- demokraattiseen puolueeseen ja pääsin mukaan puolueen toimintaan. Pian minusta tuli kunnanvaltuutettu. Sitten pääsin ministerin avustajaksi, ja nyt olen kansanedustaja.</quote>
+<subtitle>Millaista on työskennellä sekä paikallisessa politiikassa että valtakunnan politiikassa?</subtitle>
+<quote>– Minusta se on hyvä asia. Poliitikot säätävät lakeja ja tekevät koko maata koskevia päätöksiä. On tärkeää, että he tuntevat kuntien todellisen tilanteen.</quote>
+<subtitle>Olet ollut mukana politiikassa 15 vuotta. Onko politiikka muuttunut tuona aikana?</subtitle>
+<quote>– Valitettavasti siitä on tullut yhä enemmän viihdettä ja sirkusta. Poliitikon pitää näkyä ja tulla huomatuksi. Olen huolissani tästä kehityksestä.  Me poliitikot käsittelemme suuria ja tärkeitä asioita. Teemme päätöksiä, jotka vaikuttavat ihmisten elämään. Minusta poliitikko saa olla vakava ja tylsä. On suuri kunnia olla kansanedustaja ja edustaa Suomen kansaa.</quote>
+<subtitle>Mikä on tällä hetkellä tärkein poliittinen kysymys?</subtitle>
+<quote>– Talous on tärkeä ja vaikea haaste. Sitä voi tarkastella monella erilaisella tavalla. Oikeistopuolueet puhuvat säästöistä ja leikkauksista. Minusta tärkeintä on, että Suomeen luodaan uusia työpaikkoja. Kun ihmiset saavat töitä, se vaikuttaa myönteisesti koko maan talouteen. Pienikin työllisyyden paraneminen tuo lisää rahaa valtion kassaan. Ihmiset, jotka saavat töitä, tarvitsevat vähemmän tukea ja he maksavat enemmän veroja.</quote>

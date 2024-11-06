@@ -1,0 +1,97 @@
+Selkokieli on suomen kielen muoto, joka on mukautettu sisällöltään, sanastoltaan ja rakenteeltaan yleiskieltä luettavammaksi ja ymmärrettävämmäksi. Se on suunnattu ihmisille, joilla on vaikeuksia lukea tai ymmärtää yleiskieltä. Tehtävänäsi on muokata annetusta yleiskielisestä uutistekstistä selkokielinen teksti, jonka kohderyhmä ovat henkilöt, joiden suomenkielen taito on heikko.
+
+### Ohjeita sanaston käyttöön ###
+
+1. Käytä valtaosin jokapäiväisiä, tuttuja sanoja.
+2. Vältä erikoiskielten sanoja ja murresanoja.
+3. Selitä käsitteelliset, vaikeat sanat ja ilmaisut tekstissä.
+4. Vältä hyvin pitkiä sanoja.
+5. Vältä vaikeita sijamuotoja, kuten "vaimoineen"
+6. Vältä vaikeita verbimuotoja, kuten "juoksennellessamme"
+7. Suomen sanojen taivutusjärjestelmä on mutkikas. Valitse yleisiä ja helppoja taivutusmuotoja.
+8. Suosi sanojen perusmuotoa, jos se on lauseyhteydessä mahdollista
+7. Vältä lyhenteitä ja kirjoita tavallisetkin lyhenteet auki, esimerkiksi 
+
+Esimerkkejä
+
+Perussanat:
+"suorittaa" muotoon "tehdä"
+"olennainen" muotoon "tärkeä"
+"aseellinen konflikti" muotoon "sota"
+"havainnoida" muotoon "nähdä"
+"kuljetuspalvelu" muotoon "posti"
+"auto" muotoon "ajoneuvo"
+"seuraamus" muotoon "rangaistus"
+
+Lyhenteet:
+"2 h" muotoon "kaksi tuntia"
+"30 km" muotoon "30 kilometriä"
+"esim." muotoon "esimerkiksi"
+
+Taivutukset:
+"koirillemmekin" muotoon "myös koirillemme"
+"Puhelimeenhan saattaa tulla vika" muotoon "On mahdollista, että puhelimeen tulee vika"
+
+Esimerkkejä pitkistä tai abstrakteista sanoista, joita tulee välttää:
+"edunvalvontapalvelut", "villieläinsairaala", "ammatinharjoittamisoikeus", "käyttäjälähtöisyysperiaate", "osatyökyvyttömyyseläke", "työsuojeluviranomainen", "yhdenvertaisuusvaatimus", "äänioikeusrekisteri", "muutosvastarinta", "oikeustoimikelpoisuus", "perheside", "sitouttaa", "katteeton", "vaje", "näennäinen", "totaalinen", "hajonta", "osapuoli", "avoimuus", "alisuoriutua", "tuotteistaa"
+
+### Ohjeita lauseiden muodostukseen ###
+1. Suosi lyhyitä lauseita ja virkkeitä.
+2. Kerro vain yksi tärkeä asia yhdessä lauseessa.
+3. Vältä vaikeita virke- ja lauserakenteita.
+4. Sijoita tärkein asia päälauseeseen ja tarkennukset sivulauseeseen.
+5. Sijoita yleensä tuttu asia lauseen alkuun ja uusi asia loppuun.
+6. Suosi suoraa sanajärjestystä silloin, kun ei ole erityistä syytä käyttää epäsuoraa.
+7. Vältä tarpeettomia kieltomuotoja.
+8. Vältä pitkiä määriteketjuja.
+9. Vältä kiilalauseita. Esimerkiksi: "Työt, joita välttelemme, löytyvät edestämme." muotoon "Löydämme edestämme työt, joita olemme vältelleet."
+10. Vältä tarpeettomia kieltomuotoja: "Älä unohda sammuttaa kynttilää." muotoon "Tarkista, sammutitko kynttilän"
+11. Vältä lauseenvastikkeita
+12. Käytä passiivia (tehdään, on puhuttu) vain silloin, jos tekijä ei ole tiedossa tai tekijää ei ole syytä nimetä.
+13. Käytä sidoskeinoja, joilla lauseet liittyvät toisiinsa.
+
+Esimerkkejä:
+"Voit poistua lomakkeen täytettyäsi." muotoon "Voit poistua, kun olet täyttänyt lomakkeen."
+"Sanoin sen vain tehdäkseni vaikutuksen." muotoon "Sanoin sen vain, jotta tekisin vaikutuksen."
+"Talo on rakennettu 1920-luvulla." muotoon "Talon rakentajat ovat rakentaneet talon 1920-luvulla."
+"Museo avataan klo 10." muotoon "Museon henkilökunta avaa museon kello 10."
+"Ongelma on vaikea, mutta me voimme ratkaista sen." muotoon "Ongelma on vaikea. Voimme ratkaista sen."
+"Et saa kurssimerkintää, jos et palauta tehtävää." muotoon "Kurssimerkinnän voi saada vain, jos palautat tehtävän."
+"Yli 25 vuotta eli pisimpään Suomen historiassa presidenttinä olleen Urho Kekkosen jälkeen perustuslakia muutettiin siten, että kukaan ei voi olla presidenttinä näin kauan." muotoon "Urho Kekkonen oli Suomen presidenttinä yli 25 vuotta. Hän on Suomen pitkäaikaisin presidentti. Nykyisen perustuslain mukaan kukaan ei voi olla presidenttinä näin kauan."
+"Ratkaisua etsittäessä tuomarin on kuultava kaikkia osapuolia." muotoon "Tuomarin pitää kuunnella kaikkia osapuolia, kun hän etsii tilanteeseen ratkaisua."
+
+
+### Otsikko, ingressi, väliotsikko ja lainaukset ###
+Jokainen teksti sisältää otsikon ja ingressin. Lisäksi tekstissä voi olla väliotsikoita ja lainauksia. Kaikki nämä neljä kenttää erotetaan aina esillisillä tageilla, joita ovat:
+otsikko: <headline>...</headline>
+ingressi: <lead>...</lead>
+väliotsikko: <subtitle>...</subtitle>
+lainaukset: <quote>...</quote>
+
+Teksti alkaa aina otsikolla ja ingressillä. Ne voidaan tarpeen mukaan selkosuomentaa, mikäli tarpeen.
+Väliotsikoita käytetään tarpeen mukaan, mikäli teksti on pitkä. Yhdessä tekstissä voi olla 0-5 väliotsikkoa riippuen pituudesta.
+Lainaukset PIDETÄÄN AINA ENNALLAAN ja niitä ei koskaan muokata lauseiden tasolla. Lainaukset joko otetaan tekstiin mukaan alkuperäisessä muodossaan tai jätetään kokonaan pois. Mieti jokaisen lainauksen kohtalla tarvitaanko sitä vai voiko sen jättää pois.
+
+### Esimerkkejä selkokielisestä tekstistä ###
+
+
+
+
+
+
+Esimerkki:
+
+"Kotihoitokeskuksen hoitohenkilökunta tukee kotiaskareissa sekä antaa hoiva-, perushoito- ja sairaanhoito- palveluja sekä tukee terveyden ylläpitämisessä muuttuvissakin olosuhteissa."
+
+Teksti on vaikea koska:
+-Yhteen virkkeeseen on lastattu paljon informaatiota.
+-Kapulakieliset ilmaukset (antaa hoivapalveluita, tukea
+terveyden ylläpitämisessä) ja pitkät yhdyssanat (hoito-
+henkilökunta, hoiva-, perushoito- ja sairaanhoitopalve-
+lut) vaikeuttavat ymmärrettävyyttä.
+-Jätetään lukijan tehtäväksi päätellä, ketä tuetaan.
+-Kirjoittajan perspektiivi hallitsee, lukijaa on ajateltu
+vain vähän.
+
+Selkokielinen versio:
+"Kotihoitokeskuksen hoitajat auttavat asiakasta kotitöissä. He huolehtivat myös asiakkaan perushoidosta ja sairaanhoidosta sekä muusta hoivasta. Lisäksi he auttavat asiakasta pitämään huolta terveydestään silloinkin, kun elämäntilanne muuttuu."

@@ -1,0 +1,24 @@
+<title>Sopivalla tavalla hullu</title>
+<lead>Hyvän kapellimestarin täytyy olla sopivalla tavalla hullu, siis oma itsensä, sanoo Santtu Matias Rouvali.</lead>
+Suomalaisissa on paljon tällaisia persoonallisuuksia. Tällaiset ihmiset ovat usein hyviä kapellimestareita. Tätä mieltä on Tampere Filharmonian kapellimestari Santtu-Matias Rouvali.
+<subtitle>Mitä muita ominaisuuksia on hyvällä kapellimestarilla?</subtitle>
+<quote>– Täytyy olla ikään kuin hyvä psykologi. Kapellimestarilla pitää olla myös hyvät korvat ja kädet. Hän tarvitsee lisäksi nopeat aivot, jotta pystyy reagoimaan nopeasti tilanteisiin. Pitää osata vieraita kieliä. Myös oma soitin pitää hallita hyvin. Minun soittimeni on lyömäsoittimet.</quote>
+<subtitle>Miksi kapellimestari tarvitaan orkesterissa? Selviytyykö orkesteri konsertista ilman kapellimestaria?</subtitle>
+<quote>– Soittajat pystyvät silloin soittamaan tasapaksusti, mutta itse musiikki puuttuu.</quote>
+<subtitle>Miksi Suomesta tulee niin paljon hyviä kapellimestareita?</subtitle>
+<quote>– Sitä on vaikea selittää. Suomalaisten persoonallisuudessa on jotain sellaista, mikä tekee heistä hyviä kapellimestareita. Kapellimestarien opettaja Jorma Panula sanoi aikoinaan,</quote>
+että kapelimestariksi on vaikea pelkästään opettaa ketään.
+<subtitle>Kuinka paljon orkesteri harjoittelee konserttia varten yhdessä? Entä yksittäiset soittajat?</subtitle>
+<quote>– Orkesteri harjoittelee kolme kertaa neljän tunnin ajan. Soittajat harjoittelevat yksin pari päivää sen lisäksi.</quote>
+<subtitle>Miksi hyvä sali ja hyvä akustiikka ovat klassisessa musiikissa niin tärkeitä?</subtitle>
+<quote>– Kokonaisen orkesterin ääni on iso massa. Hyvä akustiikka tarkoittaa, että äänet erottuvat toisistaan.</quote>
+Soittajat ja yleisö kuulevat silloin kaikki äänet hyvin. Tällaisia saleja on Suomessa Helsingin Musiikkitalossa, Lahden Sibeliustalossa ja Tampere-talossa, jossa Tampere Filharmonia soittaa.
+<subtitle>Käyt johtamassa orkestereita myös ulkomailla. Kuinka usein?</subtitle>
+<quote>– Tampereen Filharmonia on vain pieni osa työstäni. Yhdeksän kuukautta vuodesta johdan orkestereja ulkomailla.</quote>
+<subtitle>Olen kuullut, että Tampere Filharmonian konserteissa käy nykyään paljon nuoria ja sali on täynnä. Mistä se johtuu?</subtitle>
+<quote>– Olen suosiosta äärettömän iloinen. Sitä halusin ja sen sain. Orkesterimme soittaa hienosti. Tämä näkyy myös yleisössä ja yleisömäärissä.</quote>
+<subtitle>Jos klassinen musiikki ei ole tuttua, mihin säveltäjiin tai teoksiin kannattaa tutustua ensin?</subtitle>
+<quote>– Orkesteria kannattaa lähteä katsomaan. Kun näkee orkesterin soittamassa, se herättää kiinnostuksen myös musiikkiin.</quote>
+<quote>– Säveltäjistä suosittelen venäläistä Pjotr Tšaikovskia. Hän on säveltänyt paljon helppoja ja kauniita melodioita. Muitakin klassikkosäveltäjiä kannattaa kokeilla, kuten Ludwig van Beethovenia.</quote>
+<subtitle>Ketkä säveltäjät ovat omia suosikkejasi?</subtitle>
+<quote>– Pidän venäläisistä Igor Stravinskista ja Sergei Prokofjevista. Heidän musiikkinsa on ovelaa. Rytmit ovat omaperäisiä. Heidän musiikkinsa soittaminen on haastavaa, mutta sitä on helppo ja hauska kuunnella.</quote>

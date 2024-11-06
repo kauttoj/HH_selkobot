@@ -1,0 +1,16 @@
+<title>Minustako presidentti?</title>
+<lead>Nils Torvalds on ruotsalaisen kansanpuolueen ehdokas presidentiksi.</lead>
+<subtitle>Miksi olet paras presidenttiehdokas?</subtitle>
+<quote>‑ Presidentin tehtävä on tärkeä monella tavalla. Suomen presidentillä on tärkeä symbolinen merkitys, koska hän on Suomen valtion johtaja. Presidentillä on tärkeä tehtävä Suomen ulko- ja turvallisuuspolitiikassa.</quote>
+<quote>‑ Olen asunut Moskovassa ja Washingtonissa. Nyt asun Brysselissä. Ymmärrän, miten Venäjällä, USA:ssa ja Brysselissä ajatellaan. Puhun venäjää, englantia ja saksaa. On tärkeää, että Suomen presidentti osaa puhua muiden maiden johtajille heidän omalla kielellään. Sillä tavalla Suomen asioita edistetään maailmalla. Sitä minä osaan. Muun muassa tästä syystä olen paras presidenttiehdokas.</quote>
+<subtitle>Miten aiot presidenttinä vaikuttaa siihen, että ketään ei kiusata työssä tai koulussa?</subtitle>
+<quote>‑ Kun presidentti puhuu, kansa kuuntelee. On siis tärkeää, että presidentti näyttää omalla esimerkillään, miten muita pitää kohdella. Koskaan ei saa kiusata.</quote>
+<subtitle>Miten aiot ottaa maahanmuuttajat huomioon, jos sinusta tulee presidentti?</subtitle>
+<quote>‑ Maahanmuuttoa on aina ollut. Ruotsi otti vastaan kymmeniä tuhansia lapsia Suomesta, kun Suomi oli sodassa. Muiden muassa minun siskoni ja veljeni menivät Ruotsiin. Suomessa oli sotien jälkeen aika tiukat olot. Silloin Suomesta muutti kymmeniä tuhansia ihmisiä Ruotsiin, Yhdysvaltoihin tai Australiaan hakemaan työtä.</quote>
+<quote>‑ Suomessa tulisi nykyään olla enemmän maahanmuuttajia ainakin kahdesta eri syystä. Ensinnäkin meillä on moraalinen vastuu auttaa ihmisiä, jotka eivät voi asua omassa maassa. Se on sivistysvaltion olennainen piirre.</quote>
+<quote>‑ Toiseksi tarvitsemme enemmän ihmisiä Suomeen. Tarvitsemme enemmän ihmisiä, jotta voimme hyvin myös tulevaisuudessa. Maahanmuuttajat ovat erittäin tärkeä osa Suomea jo nyt. He ovat vielä tärkeämpiä tulevaisuudessa.</quote>
+<quote>‑ Teen kaikkeni, jotta Suomessa maahanmuuttajien asema otetaan huomioon mahdollisimman hyvin. Maahanmuuttajien täytyy saada hyvät mahdollisuudet sopeutua nopeasti Suomen yhteiskuntaan. Kotouttaminen edellyttää kuitenkin resursseja. Muiden maiden kokemus osoittaa, että kotouttaminen epäonnistuu, mikäli ihmiset eivät saa koulutusta ja työtä.</quote>
+<subtitle>Mitä aiot presidenttinä tehdä, että suomalaisten lukutaito pysyy hyvänä?</subtitle>
+<quote>‑ Suomalaisten lukutaito on maailman parhaita. Mutta ei ole syytä olla tyytyväinen ja jäädä paikoilleen. Pisa-tutkimukset osoittavat, että menetämme johtavan aseman. Suomen peruskoulujen tulee olla maailman parhaita myös tulevaisuudessa. Ketään ei saa jättää jälkeen. Lukutaito ja hyvä peruskoulutus kuuluvat kaikille. Tämä edellyttää sitä, että opetusjärjestelmää kehitetään jatkuvasti. Se ei onnistu ilman opettajia ja ilman opettajankoulutuksen kehittämistä.</quote>
+<subtitle>Tuleeko Suomen presidentille selkokieliset nettisivut, jos sinusta tulee presidentti?</subtitle>
+<quote>– Totta kai!</quote>

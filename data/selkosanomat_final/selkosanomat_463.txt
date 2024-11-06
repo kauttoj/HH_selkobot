@@ -1,0 +1,20 @@
+<title>Älypuhelin on taskukokoinen tietokone</title>
+<lead>Ennen puhelimella soitettiin pelkästään puheluja ja lähetettiin tekstiviestejä. Nyt puhelimella voi tehdä paljon muutakin.</lead>
+Uusimmat kännykät ovat älypuhelimia. Ne muistuttavat monella tavalla tietokoneita.
+Älypuhelimeen saa internet-yhteyden ja siihen voi ladata sovelluksia eli appseja. Sovelluksia ladataan älypuhelimen kaupasta. Kaikki appsit eivät ole pelejä, vaan erilaisia apuohjelmia, esimerkiksi karttoja, uutis- palveluita tai säätiedotuksia.
+Monet sovellukset ovat ilmaisia. Joissakin sovelluksissa on pieni kertamaksu ja joissakin muutaman euron kuukausimaksu.
+Useat sovellukset tarvitsevat toimiakseen internet-yhteyttä. Esimerkiksi karttaohjelmat ovat hyviä uudessa ympäristössä, vaikkapa matkoilla. Internetin käyttäminen ulkomailla on kuitenkin kallista.
+Useimmissa kahviloissa, hotelleissa, junissa ja busseissa on wifi-yhteys. Se tarkoittaa langatonta internet-verkkoa.
+Yleisimmät appsit liittyvät yhteydenpitoon tai matkustamiseen. Esimerkiksi sanakirjan voi ladata älypuhelimeen. Siitä on hyötyä ulkomaanmatkalla.
+Tekstiviestit eivät ole enää niin suosittuja kuin ennen. Nykyisin monet ovat yhteydessä toisiinsa appsien kautta. Tällaisia yhteydenpitoon tarkoitettuja sovelluksia ovat esimerkiksi Whatsapp, Line ja Viber.
+Monille on hyötyä terveyteen liittyvistä sovelluksista. Älypuhelimella voi esimerkiksi tarkistaa sydämen sykkeen. Pankeillakin on omat appsinsa. Niillä voi maksaa laskuja helposti älypuhelimella.
+<subtitle>Pelejä ja viihdettä</subtitle>
+Monet sovellukset ovat viihdettä. Tällaisia ovat pelit, joita ennen pelattiin vain tietokoneilla. Nyt pelejä voi pelata myös kännykällä.
+Useimpia sovelluksia voi käyttää myös tableteilla tai iPadeilla.
+Älypuhelimet kehittyvät koko ajan. Ensin uuden puhelimen käyttö voi tuntua monimutkaiselta. Kannattaa olla tarkkana näppäinten käytössä. Puhelimeen voi myös tilata sovelluksen, jolla näppäimet saa suuremmaksi.
+Parhaimmillaan älypuhelin on taskuun mahtuva puhelin, kartta, kukkaro ja muistiinpanolehtiö.
+Älypuhelimeen liittyy myös huonoja puolia. Monet sovellukset kuluttavat paljon puhelimen akkua. Siksi älypuhelimia pitääkin ladata turhan usein.
+<subtitle>Eläkeläisen 70 sovellusta</subtitle>
+74-vuotias Alpo on eläkeläinen ja kuntoilija.
+<quote>– Liikun paljon. Käytän Sportstracker-sovellusta. Se kertoo minulle, kuinka monta kilometriä olen liikkunut. Samantapainen sovellus on myös Move.</quote>
+<quote>– Minulla on puhelimessa myös purjehtimiseen liittyvä kartta-ohjelma Navionics. Se maksoi muutaman kympin. Mielenkiintoinen on myös Scinvision. Sillä voi kuvata syntymämerkkejä omasta ihosta ja tarkkailla niiden muuttumista. Puhelin ei tietenkään korvaa lääkäriä. Kaikkiaan puhelimessani on 70 sovellusta.</quote>

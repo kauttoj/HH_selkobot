@@ -1,0 +1,19 @@
+<title>Suomen paras opettaja</title>
+<lead>Matematiikan opettaja Maarit Rossi haluaa, että hänen oppilaansa rakastavat matematiikkaa. Hän yhdistää laskutehtävät oppilaiden omaan maailmaan.</lead>
+Maarit Rossi osallistui viime talvena kilpailuun, jossa etsittiin maailman parasta opettajaa. Hän pääsi maailman kymmenen parhaan opettajan joukkoon. Voi siis sanoa, että hän on paras opettaja Suomessa.
+<subtitle>Miltä tuntuu olla maailman kymmenen parhaan opettajan joukossa?</subtitle>
+<quote>‑ Se oli käsittämättömän hieno juttu! Kilpailuun haki 8 000 opettajaa ympäri maailmaa. Arvosteluperusteet olivat aika kovia. Vastasin kysymyksiin englanniksi varmaan pari viikkoa. Pääsin 10 parhaan joukkoon. Kilpailu huipentui maaliskuussa Dubaissa.</quote>
+<quote>‑ Ikinä en ole ollut näin lähellä miljoonaa dollaria! Se oli pääpalkinto.</quote>
+<quote>‑ Kilpailun ansiosta olen saanut kutsuja moneen paikkaan. Toukokuussa puhuin Suomessa toimittajille, jotka tulivat Lähi-idästä. Tapasin myös Saudi-Arabian opetusministerin. Kesäkuussa lähden puhumaan Istanbuliin Turkkiin. Myöhemmin kesällä lähden Pekingiin.</quote>
+<quote>‑ Puhun siitä, että opettamista on syytä muuttaa. Muutos on suuri. Vanha tyyli sopii ehkä 10 prosentille oppilaista. Minä olen kiinnostunut muista 90 prosentista. Haluaisin antaa oppilaille sellaiset eväät, että he pärjäävät hyvin omassa elämässään.</quote>
+<subtitle>Miten matematiikan opettamista pitää uudistaa?</subtitle>
+<quote>‑ Matematiikan opetusta ei ole kehitetty sataan vuoteen. Ikävä kyllä se on ongelma kaikkialla maailmassa. Opettaminen perustuu hyvin paljon siihen, että opettaja on luokan edessä ja näyttää mallilaskun. Lapset toistavat sen. Se ei liity mitenkään lasten maailmaan.</quote>
+<quote>‑ Matematiikan oppimisen pitää olla monipuolista. Sidon oppitunneillani aina uuden aiheen oppilaiden omaan elämään. Aihe on tuttu. Oppilaat pääsevät itse käytännössä tekemään, tutkimaan tai yhdessä ryhmässä selvittämään.</quote>
+Haluat opettaa niin, että oppilaat rakentavat itse uutta tietoa aiemmin opitun pohjalle. Opetat myös oppilaskeskeisesti. Mitä nämä sanat tarkoittavat?
+<quote>‑ Jos opiskellaan oppilaslähtöisesti, oppilaat rakentavat tietoa itse. Tähän asti on siten, että opettaja kertoo oppilaille tiedon valmiiksi pureskeltuna.</quote>
+<quote>‑ Otetaan esimerkiksi kuutio ja sen tilavuuden mittayksiköt – kuutiometri tai kuutiodesimetri. Sitä opetetaan usein säännöllä, joka opitaan ulkoa. Monien vuosien jälkeen ihminen ei enää muista sääntöä, miten kuutiometri muutetaan kuutiodesimetreiksi.</quote>
+<quote>‑ Kun opetan oppilaslähtöisesti, otan luokkaan metrin mittaisia tikkuja. Montako tikkua tarvitaan kuution rakentamiseen? Tikkujen avulla oppilaat näkevät, millainen on kuutiometrin tilavuus. Sinnehän mahtuvat melkein kaikki luokan oppilaat!</quote>
+<quote>‑ Sitten tuon kuutiometrin viereen kuutiodesimetrin. Kysyn, montako kertaa kuutiodesimetri mahtuu kuutiometriin. Se menee kuutiometriin tuhat kertaa.</quote>
+<quote>‑ Näin oppilaat rakentavat syvästi mieleensä, montako kuutiodesimetriä mahtuu kuutiometriin. Tieto on rakennettu vanhan pohjalle ja se on ymmärretty. Ymmärrys voi kantaa koko elämän.</quote>
+Suomen koulut ovat maailman parhaita. Nyt Suomessa säästetään opetuksen menoista. Heikkeneekö opetuksen laatu samalla?
+<quote>‑ Tiedän, että opettajat ovat Suomessa ammattitaitoisia. Opettajilla on sisäinen palo säilyttää koulumme maailman kärjessä. Koulun täytyy uudistua. Haluamme onnistua. Se tapahtuu oppilaskeskeisesti. Kunnioitamme lapsen oppimista. Joissain kunnissa on muita heikommat edellytykset. Siellä valtion pitää taata tasa-arvoiset mahdollisuudet oppia.</quote>

@@ -506,4 +506,21 @@ embed_score,gpt4_score = get_openai_scores(model_prediction,golden_target)
 
 print(f'OpenAI similary scores: GPT-4 {gpt4_score}, embedding {embed_score}')
 
+####
+
+from deepeval import evaluate
+from deepeval.metrics import GEval
+from deepeval.test_case import LLMTestCase
+
+answer_relevancy_metric = AnswerRelevancyMetric(threshold=0.7)
+test_case = LLMTestCase(
+    input="What if these shoes don't fit?",
+    # Replace this with the actual output from your LLM application
+    actual_output="We offer a 30-day full refund at no extra costs.",
+    retrieval_context=["All customers are eligible for a 30 day full refund at no extra costs."]
+)
+evaluate([test_case], [answer_relevancy_metric])
+
+
 print('\n\nall done!')
+

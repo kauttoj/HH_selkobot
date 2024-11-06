@@ -1,0 +1,17 @@
+<title>Kohti parempaa tulevaisuutta</title>
+<lead>Elina Hiltunen on tulevaisuudentutkija. Hän selvittää sitä, millaista elämä on tulevaisuudessa. Elina Hiltusen mietteitä Kasvokkain-haastattelussa.</lead>
+Elina Hiltunen on tulevaisuuden tutkija. Hän selvittää, miltä maapallon tulevaisuus voi näyttää. Elina Hiltunen on tutkinut tulevaisuutta 20 vuotta. Hiltusen työssä yhdistyvät varma tieto ja mielikuvitus, joista hän on aina ollut kiinnostunut.
+<subtitle>Mitä tulevaisuuden tutkija tekee?</subtitle>
+<quote>– Tulevaisuuden tutkija selvittää, mitä voi tapahtua tulevaisuudessa esimerkiksi yhden, viiden tai kymmenen vuoden päästä. Tutkija yhdistää työssään varmaa tietoa ja mielikuvitusta. Tiedon ja mielikuvituksen avulla hän päättelee, miltä tulevaisuus voi näyttää. Mikään tulevaisuudessa ei ole ikinä varmaa.</quote>
+<quote>– Tulevaisuuden tutkija myös kertoo, mitä ihmisten täytyy tehdä, jotta maapallon tulevaisuudesta tulee hyvä. Siten tulevaisuuden tutkija vaikuttaa tulevaisuuteen.</quote>
+<subtitle>Miksi on tärkeää tutkia tulevaisuutta?</subtitle>
+<quote>– On tärkeää miettiä, miltä maapallon tulevaisuus voi näyttää. Mitä tapahtuu esimerkiksi, jos maapallon lämpötila nousee kaksi astetta tai neljä astetta? Tulevaisuuden tutkija selvittää, mihin erilaiset vaihtoehdot johtavat. Sitten ihmiset voivat pyrkiä kohti parempaa vaihtoehtoa.</quote>
+<quote>– Tulevaisuutta täytyy tutkia, jotta ihmiset osaavat valmistautua tulevaan ja yllättäviin tapahtumiin. Tulevaisuuden tutkimista voi verrata tulipaloharjoitukseen. Ihmiset harjoittelevat, mitä heidän täytyy tehdä tulipalon aikana. Jos tulee oikea tulipalo, he osaavat toimia oikein. Myös tulevaisuutta varten voi valmistautua samalla tavalla.</quote>
+<subtitle>Mikä maapallon tulevaisuudessa huolestuttaa sinua?</subtitle>
+<quote>– Ilmastonmuutos huolestuttaa minua. Tulevaisuus näyttää kauhealta, jos ilmaston lämpötila nousee liikaa. Myös se huolestuttaa, että luonnon monimuotoisuus vähenee. Se tarkoittaa, että erilaisia eläimiä ja kasveja on yhä vähemmän.</quote>
+<subtitle>Mitä hyviä asioita näet tulevaisuudessa?</subtitle>
+<quote>– On hyvä asia, että me ihmiset voimme vaikuttaa tulevaisuuteen. Voimme pyrkiä kohti hyvää tulevaisuutta yhdessä. Jos jokainen ihminen tekee jotakin hyvää, voi syntyä isoja muutoksia.</quote>
+<quote>– Hyvä esimerkki on Greta Thunberg, joka on ruotsalainen teinityttö. Hän on muuttanut maailmaa ja tulevaisuutta, koska hän on aloittanut ilmastolakon. Gretan ilmastolakko on levinnyt ympäri maailmaa. Lakon tarkoitus on, että ihmiset huomaavat, kuinka vakava asia ilmastonmuutos on.</quote>
+<subtitle>Minkälaista teknologia on tulevaisuudessa? Onko silloin lentäviä autoja?</subtitle>
+<quote>– Ihmiset kehittävät uutta teknologiaa koko ajan. Lentäviä autoja on olemassa jo nyt. Niitä on kuitenkin vain vähän, koska ne ovat todella kalliita. Uudet teknologiat voivat ratkaista maailman ongelmia. Esimerkiksi ilmastonmuutosta voidaan torjua teknologian avulla.</quote>
+<quote>– Haluan kannustaa myös tyttöjä teknologian alalle. Nyt tarvitaan kaikki mukaan miettimään ratkaisuja maailman ongelmiin. Minulla on oma projekti, jonka nimi on Tiedettä tytöille. Sen tavoite on innostaa tyttöjä ja naisia tieteen ja teknologian pariin.</quote>

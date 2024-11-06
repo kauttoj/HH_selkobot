@@ -1,0 +1,20 @@
+<title>Elämänmuutos vaatii uskallusta</title>
+<lead>Antti S. Mattila on lääkäri ja psykoterapeutti, jolla on filosofin vastaanotto.
+– Oman elämäni myönteisiä asioita ovat lääketieteen opinnot ja filosofia.</lead>
+Antti S. Mattila on psykiatri, psykoterapeutti ja lääkäri. Mattilaa kutsutaan onnellisuustohtoriksi. Hänellä on filosofin vastaanotto, jolla hän auttaaihmisiä tulemaan onnellisiksi.
+<subtitle>Mitä filosofin vastaanotolla tehdään?</subtitle>
+<quote>– Vastaanotolla keskustellaan ihmisten kanssa heidän ongelmistaan. Filosofian avulla voi löytää uudenlaisia tapoja nähdä asioita ja saada vastauksia kysymyksiin. Ihmisillä on monenlaisia ongelmia. He pohtivat, olisiko aika vaihtaa ammattia, miten selviytyä erosta. Monet etsivät uutta suuntaa elämälle. Tavallisin syy tulla vastaanotolle on keski-iän kriisi. Keskustelu alkaa asiakkaan omasta tarinasta, jolle haetaan yhdessä uutta näkökulmaa, suhtautumistapaa ja toimintatapaa. Ihmiset tekevät itse ratkaisunsa, filosofi esittää ainoastaan hyviä kysymyksiä. Olen pitänyt vastaanottoa yli 15 vuoden ajan, sille on siis selvästi tarve.</quote>
+<subtitle>Olet kirjoittanut kirjan Näkökulman vaihtamisen taito. Mitä se tarkoittaa?</subtitle>
+<quote>– Vaikeudet ovat harjoitusvastustajia, jotka kehittävät hyviä ominaisuuksia ja vahvistavat ihmistä. Näkökulmaa vaihtamalla vaikeuksista voi myös oppia. Antiikin filosofi Epiktetos neuvoo toimimaan näin, kun ihminen kohtaa vastoinkäymisiä.</quote>
+<subtitle>Miten autat ihmisiä?</subtitle>
+<quote>– Kriittinen näkökulma on olennainen asia. Ihmisen pitää kyseenalaistaa itsestään selviä totuuksia. Kannattaa miettiä sitä, mikä on hyvä elämä. Se ohjaa monia valintoja. Hyvä elämä on yksilöllinen asia, se ei ole kaikille sama. Mutta sitä kohti kannattaa pyrkiä. Onnellisuus syntyy hyvän elämän seurauksena. Onnellisuus ja hyvä elämä ovat siis eri asioita.</quote>
+<subtitle>Mitkä asiat tekevät sinusta onnellisen?</subtitle>
+<quote>– Tämä on mielekästä työtä, jossa saa pohtia ihmisten kanssa mielenkiintoisia asioita. Olen etuoikeutettu. Tavallisten ihmisten kuuntelu ja heidän kanssaan keskusteleminen antaa minulle itselleni uusia näkökulmia ja oivalluksia.</quote>
+<subtitle>Puhuvatko ihmiset liian vähän tunteistaan?</subtitle>
+<quote>– Tunteista puhuminen on hyvä asia, mutta asioiden vatvominen ei ole. Uusimpien tutkimusten mukaan jatkuva vatvominen tuottaa surua ja ahdistusta. Ihmisen kannattaisi ottaa käyttöön puolen tunnin huoliaika vaikkapa iltakuudelta. Silloin on lupa murehtia ja huolehtia. Sen jälkeen näihin asioihin ei palata ennen seuraavaa huoliaikaa.</quote>
+<subtitle>Monet ovat huolissaan maailman tilanteesta. Millaisia neuvoja antaisit heille?</subtitle>
+<quote>– Aika monien perusturvallisuus on järkkynyt. Lasten on parempi kuulla vaikeista asioista ennemmin turvalliselta aikuiselta kuin kaverilta, joka on kauhuissaan. Muuten saattaa jäädä pelkotiloja. Kannattaa muistaa, että Suomessa on ollut turvallista.</quote>
+<subtitle>Mikä nykyajassa on hyvää ja mikä huonoa?</subtitle>
+<quote>– Olen optimisti eli uskon asioiden kehittyvän parempaan suuntaan. Olen kuitenkin huolissani siitä, että laadukasta peruskoulutustamme aiotaan leikata. Mielestäni filosofian opetusta tulisi lisätä kouluissa. Ihmisten olisi hyvä oppia keskustelutaitoja, kuuntelutaitoja ja oman näkemyksensä perustelua.</quote>
+<subtitle>Syövätkö suomalaiset liikaa lääkkeitä?</subtitle>
+<quote>– Hoitosuosituksissa mainitaan keskustelu ja lääkehoito. Nykyajan hoitosysteemi on niin kovilla ja niin kiireinen, että keskustelua ei useimmiten ole ja potilaalle määrätään ainoastaan reseptilääkkeitä. Tehostaminen on johtanut tähän. Elämän- muutoksessa on vaarallista, jos ei ole keskustelua, vaan ainoastaan lääkkeet. Masennuksesta voi tulla pysyvä tila, kun elämänmuutos olisi oikea ratkaisu.</quote>

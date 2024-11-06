@@ -1,0 +1,22 @@
+<title>Aivot tarvitsevat taukoja älylaitteista</title>
+<lead>Mona Moisala on aivotutkija. Moisala tutkii esimerkiksi sitä, miten älylaitteiden käyttö vaikuttavaa aivoihin.</lead>
+Mona Moisala on aivotutkija. Hän on tutkinut, miten älylaitteet vaikuttavat aivojen hyvinvointiin.
+<subtitle>Mitä aivotutkija tekee?</subtitle>
+<quote>– Aivotutkija tutkii ihmisen tai eläimen aivoja. Hän voi tutkia esimerkiksi sitä, miten tunteet syntyvät tai miten muisti toimii. Aivotutkija voi tutkia terveitä aivoja tai sairaita aivoja.</quote>
+<subtitle>Milloin kiinnostuit aivojen tutkimisesta?</subtitle>
+<quote>– Kiinnostuin ihmisen aivoista jo lukiossa. Lempikurssini oli neuropsykologian kurssi, jolla puhuttiin aivojen toiminnasta.</quote>
+<quote>– Kun olin 18-vuotias, sain aivoinfarktin. Sen jälkeen tajusin, että haluan tutkia ihmisen aivoja työkseni. Jos en olisi saanut aivoinfarktia, olisin ehkä mennyt opiskelemaan kauppatiedettä.</quote>
+<subtitle>Mitä olet opiskellut?</subtitle>
+<quote>– Opiskelin kognitiotiedettä Helsingin yliopistossa. Sivuaineena opiskelin neurobiologiaa Australiassa. Valmistuin kognitiotieteen maisteriksi ja myöhemmin psykologian tohtoriksi.</quote>
+<quote>– Aivotutkijaksi ei ole yhtä tiettyä koulutusta, vaan aivotutkijaksi pääsee erilaisista koulutuksista. Esimerkiksi lääkäristä tai insinööristä voi tulla aivotutkija.</quote>
+<subtitle>Mikä on mielenkiintoisin tutkimus, jossa olet ollut mukana?</subtitle>
+<quote>– Tutkimus, jossa olen mukana tällä hetkellä. Tutkin, miten älylaitteiden käyttö vaikuttaa aivojen hyvinvointiin ja kehitykseen. Olen tehnyt aiheesta myös väitöskirjan.</quote>
+<subtitle>Ihmiset käyttävät puhelimia ja muita älylaitteita melkein koko ajan. Miten se vaikuttaa aivoihin?</subtitle>
+<quote>– Älylaitteiden käytöllä on hyviä ja huonoja vaikutuksia aivoihin. Esimerkiksi videopelaajien työmuisti voi olla hyvä. He pystyvät pitämään monta asiaa muistissa samaan aikaan.</quote>
+<quote>– On kuitenkin haitallista aivoille, jos ihminen on koko päivän älylaitteiden parissa. Silloin ihmisen on ehkä vaikea keskittyä mihinkään kunnolla.</quote>
+<subtitle>Kerro jokin yllättävä tieto ihmisen aivoista.</subtitle>
+<quote>– Ihmisellä on kaksi aivopuoliskoa. Joskus lapselta saatetaan poistaa toinen aivopuolisko sairauden takia. Lapsen aivot voivat sopeutua tilanteeseen niin, että lapsi voi elää ihan normaalia elämää vain yhdellä aivopuoliskolla.</quote>
+<subtitle>Miten Selkosanomien lukijoiden kannattaa huolehtia omista aivoistaan?</subtitle>
+<quote>– Uni on tärkein asia, joka pitää aivot hyvässä kunnossa. Nuku siis tarpeeksi joka yö. Uni on parempaa, jos et käytä älylaitteita ennen nukkumaan menoa.</quote>
+<quote>– Kokeile meditaatiota. Meditaatio on hyvä tapa, joka rauhoittaa mieltä. Rauhoitu, ja ota viisi syvää henkäystä.</quote>
+<quote>– Pidä taukoa älylaitteista joka päivä. Laita televisio kiinni ja puhelin pois esimerkiksi tunniksi. Jos olet rohkea, kokeile olla ilman älylaitteita koko viikonloppu!</quote>

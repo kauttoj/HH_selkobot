@@ -1,0 +1,26 @@
+<title>Sään ennustaminen kiehtoo Anniina Valtosta</title>
+<lead>Meteorologi Anniina Valtonen tunnetaan tarkoista sääennusteistaan ja iloisuudestaan. Hänen mielestään ihmisen on tärkeää olla aito – juuri sellainen kuin on.</lead>
+<subtitle>Miten sinusta tuli meteorologi?</subtitle>
+<quote>– Kaikki alkoi jo, kun olin 7-vuotias. Olimme palaamassa perheen kanssa lomamatkalta Teneriffalta. Yöllä lentokoneessa kapteeni kuulutti, että pian kannattaa katsoa ikkunasta ulos, sillä kauempana näkyy hieno ukkosmyrsky. Ihmettelin isälle, että mistä kapteeni tiesi, että pian näkyy myrsky. Isä selitti, että kapteeni oli saanut tiedon meteorologilta. Päätin silloin, että minustakin tulee isona meteorologi.</quote>
+<subtitle>Miten meteorologi ennustaa säätä?</subtitle>
+<quote>– Meteorologilla on käytössään paljon havaintotietoja säästä. Nämä tiedot syötetään supertietokoneeseen. Tietokoneessa on erilaisia laskukaavoja. Tietokone laskee ennusteen siitä, minkälaista säätä on luvassa. Mutta ennusteen laatimisessa tarvitaan tietenkin myös paljon meteorologin asiantuntemusta. Hän arvioi esimerkiksi sen, mitä säämallia missäkin tilanteessa on järkevää käyttää.</quote>
+<subtitle>Mitä havaintotietoja meteorologilla on käytössään?</subtitle>
+<quote>– Säähavaintoja saadaan esimerkiksi tutkien avulla. Tutkakuvat kertovat sateiden liikkeistä ja salamoinnista</quote>
+<quote>– Havaintoja saadaan myös satelliiteista, jotka kiertävät avaruudessa maapalloa. Satelliittien ottamat kuvat antavat tietoa pilvisyydestä ja olosuhteista maan päällä.</quote>
+<quote>– Ympäri Suomea, maan pinnalla on myös paljon säähavaintoasemia. Niissä mitataan sademääriä, lumen syvyyttä, lämpötilaa, näkyvyyttä, tuulisuutta ja sitä, kuinka korkealla pilvet ovat.</quote>
+<quote>– Lisäksi myös Suomen teillä on paljon mittausasemia. Niiden välittämät tiedot kertovat, ovatko teiden pinnat märkiä, kuivia tai vaikkapa jäisiä.</quote>
+<subtitle>Mikä meteorologin työssä on mukavinta?</subtitle>
+<quote>– Minusta on todella kiehtovaa, että pääsen selvittämään tulevaa säätä, eli asiaa, jota muut eivät vielä tiedä. Jokaisena työpäivänä tunnen, että olen suuren salaisuuden äärellä. Työni ansiosta salaisuus sitten vähitellen paljastuu.</quote>
+<subtitle>Kerrot tulevasta säästä Yleisradion televisiouutisissa. Televisiossa esiintyminen taitaa olla kuitenkin vain pieni osa työtäsi?</subtitle>
+<quote>– Tuo on totta. Ennen uutislähetyksiä olen koko päivän laatinut sääennustetta. Illalla säästä onkin sitten aika helppo puhua. Tunnen asian silloin jo niin hyvin.</quote>
+<quote>– Työskentelen nykyään sekä Ilmatieteen laitoksella että Yleisradiolla. Monena sellaisena päivänä, kun minua ei näy televisiossa, olen ollut töissä Ilmatieteen laitoksella.</quote>
+<subtitle>Sinut tunnetaan erityisesti iloisesta tyylistäsi ja pirteydestäsi. Oletko oikeassa elämässä aivan yhtä iloinen kuin televisiossa?</subtitle>
+<quote>– Olen kyllä! Minusta ihmisen on tärkeää olla aito, sellainen, kuin hän oikeasti on. Olen iloinen ja käytän mielelläni värikkäitä vaatteita.</quote>
+<subtitle>Itse odotan aina innolla sitä, kun hymyilet kivasti säätiedotuksen lopussa. Mutta pitävätkö kaikki ihmiset tyylistäsi?</subtitle>
+<quote>– Olen saanut paljon hyvää palautetta. Joitakin katsojia tyylini voi tietenkin myös ärsyttää. Joku saattaa esimerkiksi ajatella, että meteorologin pitäisi olla vakava, jotta hän olisi vakuuttava. Kun aloitin kymmenen vuotta sitten sääennusteiden esittämisen Nelosen uutisissa, niin silloin työnantajanikin tahtoi muuttaa tyyliäni. Minut haluttiin esimerkiksi pukea vaatteisiin, jotka eivät olisi niin värikkäitä. En kuitenkaan suostunut siihen!</quote>
+<subtitle>Sinut tunnistetaan varmasti vapaa-ajallakin, kun käyt vaikkapa kaupassa. Tulevatko ihmiset kysymään sinulta silloinkin, millaista säätä on luvassa?</subtitle>
+<quote>– Joskus tuollaistakin on tapahtunut. Nykyään korona-aikana se on harvinaisempaa, kun ihmiset pitävät etäisyyttä.</quote>
+<subtitle>Julkisuuden henkilöillä, esimerkiksi urheilijoilla on paljon ihailijoita ja faneja. Onko myös sinulla omia faneja?</subtitle>
+<quote>– En tiedä. Jotkut vanhemmat ovat kuitenkin kertoneet, että heidän lapsensa, erityisesti nuoret tytöt, pitävät tyylistäni. Jos on niin, että voin ihan oikeasti toimia jonkinlaisena esikuvana, se tuntuu tietenkin hyvältä. Haluan innostaa tyttöjä tieteen pariin. Tieteen maailmassa on nykyään vielä selvästi enemmän miehiä kuin naisia.</quote>
+<subtitle>Kuka?</subtitle>
+Anniina ValtonenIkä: 31 vuottaAsuinpaikka: VantaaSyntymäkotikunta: Kempele. Vietti lapsuutensa ja nuoruutensa NastolassaPerhe: Aviomies ja tämän Merlin-koiraAmmatti: MeteorologiHarrastukset: Jooga,koiran kanssa lenkkeilyLempiruoka: PizzaTyöpaikat: Ilmatieteen laitos ja YleisradioSaavutuksia televisioalalla: Valtonen oli ehdollaviime vuoden parhaaksi esiintyjäksi televisioalan Kultainen Venla -gaalassa. Yleisö äänesti hänetkolmen finalistin joukkoon.

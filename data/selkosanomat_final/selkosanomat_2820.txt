@@ -1,0 +1,32 @@
+<title>Iikka Kivi haluaa olla läsnä</title>
+<lead>Iikka Kivi on stand up -koomikko, käsikirjoittaja ja aktiivinen keskustelija somessa. Kivi on myös lintuharrastaja ja luontoihminen. Kiven mukaan ihmiset pelkäävät turhaan sitä, että elintaso laskee. Hänen mielestään elämänlaatu voi silloin nousta.</lead>
+<subtitle>Mitä kuuluu?</subtitle>
+<quote>– Hyvää, hyvää. Kesän kiertueella oli pitkästä aikaa aivan uudet ja rohkeat vitsit. Teimme myös yleisöennätyksen. Sen jälkeen sain olla lomalla monta viikkoa ja levätä kunnolla. Nyt työt ovat taas alkaneet. Keikkoja ja muita töitä on tulossa paljon.</quote>
+<subtitle>Miksi politiikasta ja ilmastokriisistä keskusteleminen somessa on sinulle tärkeää?</subtitle>
+<quote>– Olen luontoharrastaja ja olen nähnyt luonnossa pelottavan nopean muutoksen. Haluan puhua tärkeistä asioista, vaikka se ei olisi hauskaa. Omien ajatusten kertomiseen ei tarvita muuta kuin uskallusta.</quote>
+<quote>– Julkisuuden henkilöillä on suurempi mahdollisuus käyttää sananvaltaa. Ei ole vastuullista käyttää sitä vain itsensä mainostamiseen.</quote>
+<subtitle>Miten ilmastokriisiin kannattaa suhtautua, jos se ahdistaa?</subtitle>
+<quote>– Oma ahdistukseni on helpottanut, kun olen oppinut hyväksymään tilanteen. Nyt voin yrittää vaikuttaa asioihin ja se auttaa myös ahdistukseen.</quote>
+<quote>– Edessä on maailmanlaajuinen katastrofi, jota vastaan ei vieläkään tehdä tarpeeksi. Totta kai se herättää pelkoa. En kuitenkaan anna pelon määrittää elämääni. Pelko on tunne siinä missä muutkin, siitä kannattaa ottaa oppia. Se auttaa huomaamaan asioita, joita pitää muuttaa.</quote>
+<subtitle>Miksi jotkut ihmiset kieltävät ilmastonmuutoksen?</subtitle>
+<quote>– Ihmiset ahdistuvat, jos oman ajatusmaailman ja todellisuuden välillä on liian suuri ristiriita. Ilmastokriisin kieltävät yleensä ne, jotka pelkäävät sitä kaikkein eniten.</quote>
+<subtitle>Miksi ilmastolle haitallisia tapoja on vaikea muuttaa?</subtitle>
+<quote>– Jostain syystä elämäntapaamme kuuluu nykyään henkilöautoilu, lihansyönti ja lomalennot. Ihan yhtä hyvin siihen voisi kuulua rehevä ja elinvoimainen ympäristö tai kirjasto ja polkupyöräily! Ihmisille on tyypillistä, että houkuttelevat tavat omaksutaan nopeasti osaksi omaa identiteettiä. Emme osaa pysähtyä ja tarkastella, mistä ne ovat tulleet ja miksi ne tuntuvat itsestäänselviltä. Jos pysähdymme hetkeen, voimme astua ajatusten viereen ja katsoa niitä eri kulmasta.</quote>
+<quote>– Esimerkiksi henkilöautoilu aiheuttaa päästöjä ja huonontaa ihmisten kuntoa. Sitä ei voi kiistää. Tämän toteamisen jotkut kokevat henkilökohtaisena loukkauksena ja asioihin puuttumisena. Siksi näistä asioista on vaikea puhua puolueettomasti ja tarkastella niiden hyötyjä ja haittoja.</quote>
+<subtitle>Miten meidän pitää suhtautua nuorten huoleen ilmastosta?</subtitle>
+<quote>– Nuorten ahdistus on tietysti meidän aikuisten syytä. Aikuiset ovat tehneet ne valinnat, jotka pahentavat ilmaston tilaa. Nuoret ovat tietoisia siitä, mitä maailmassa tapahtuu. He joutuvat ymmärtämään hyvin nuorina, että tulevaisuudessa elämä on erilaista kuin nyt.</quote>
+<quote>– Nuorten ahdistusta pahentaa se, että heillä ei ole yhtä paljon valtaa kuin aikuisilla. Nuoret ansaitsevat meiltä rehellistä puhetta ja tekoja.</quote>
+<subtitle>Olet puhunut läsnäolosta. Mitä se sinulle merkitsee?</subtitle>
+<quote>– Jos ajattelemme vain menneisyyttä, näemme helposti ainoastaan sen, mikä olisi pitänyt tehdä toisin. Jos keskitymme vain tulevaisuuteen, näemme miten suuri työmäärä tai katastrofi siellä odottaa. Tällainen ajattelu on raskasta ja painaa mieltä.</quote>
+<quote>– Minua on auttanut ahdistukseen läsnäolo tässä hetkessä. Silloin pystyn rauhoittumaan ja olemaan läsnä muille ihmisille. Hetkessä eläminen ei ole pakoa todellisuudesta, päinvastoin.</quote>
+<subtitle>Näetkö tulevaisuudessa toivoa?</subtitle>
+<quote>– Historia on onneksi osoittanut, että ihmiset pystyvät nopeasti saamaan aikaan muutoksia. Ensin kaikki muutokset näyttävät mahdottomilta, mutta ajatukset kuitenkin leviävät nopeasti.</quote>
+<quote>– Läsnäolo auttaa meitä hyväksymään tilanteen ja muuttamaan asenteitamme. Silloin voimme saada mielenrauhan ja valtavasti aikaa ja voimia muuhun käyttöön. Voimme huomata, että meillä on jo kaikki tarvittava.</quote>
+<subtitle>Kuka?</subtitle>
+Nimi: IIkka Kivi
+Ikä: 37 vuotta
+Asuinpaikka: Liminka, syntynyt Ylivieskassa
+Ammatti: stand up -koomikko, käsikirjoittaja
+Harrastukset: linturetkeily, videopelit, musiikin teko
+Lempiruoka: ”Olen kaikkiruokainen.”
+Tärkeää elämässä: läsnäolo.

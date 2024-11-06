@@ -1,0 +1,23 @@
+<title>Digitalisaatio muuttaa tapaamme tehdä ostoksia ja maksaa niitä</title>
+<lead>Nina Jokela on Kilpailu- ja kuluttajaviraston juristi. Jokela on asiantuntija maksamiseen liittyvissä asioissa. Nina Jokelan mukaan ihmiset eivät aina osaa ennakoida sitä, minkälaisia asioita kannattaa varoa nettiostoksissa.</lead>
+Tyypillinen tilanne on sellainen, jossa henkilö osallistuu internetissä kilpailuun tai ostaa poikkeuksellisen halvan tuotteen. Kilpailun järjestäjä tai myyjä haluaa ihmisen henkilötunnuksen tai luottokortin numeron. Asiakas ei kuitenkaan tiedä, että kyseessä ei ole kertaostos, vaan jatkuva tilaus tai sitoutuminen. Kyseessä on niin sanottu tilausansa.
+<quote>– Kannattaa lukea aina sopimusehdot huolellisesti, ennen kuin sitoutuu mihinkään. Kannattaa myös tutustua huolellisesti tarjoukseen, joka vaikuttaa liian edulliselta.</quote>
+Jos sinua huijataan tai saat mielestäsi aiheettoman laskun joka kuukausi, kannattaa ottaa yhteys myyjään mahdollisimman nopeasti ja lopettaa sopimus.
+<quote>– Jos asiakas tulee petetyksi, sopimus ei sido kuluttajaa eli ostajaa. Yritys ei voi vaatia sinulta tilaamatta toimitetusta tuotteesta tai näytteestä maksua. Yritys ei voi myöskään tällöin vaatia tuotteen palauttamista eikä säilyttämistä. Jos myyjään ei saada yhteyttä, kannattaa ottaa yhteys omaan pankkiin tai luottokorttiyhtiöön ja selittää tilanne. Yksi vaihtoehto on ottaa yhteyttä suoraan Kilpailu- ja kuluttaja- virastoon, jossa kuluttajaoikeusneuvojat voivat auttaa sinua asian selvittämisessä.</quote>
+<subtitle>Lähimaksu ja erilaiset kännykän sovellukset maksamisessa</subtitle>
+Nina Jokelan mukaan lähimaksu on kätevä tapa hoitaa maksuja kaupan kassalla. Lähimaksussa maksukorttia vilautetaan maksupäätteelle. Kortin tunnuslukua ei tarvita.
+<quote>– Kun omaa tunnuslukua ei tarvitse näppäillä, niin kukaan ei voi nähdä sitä. Toisaalta jos kortti katoaa, joku voi käyttää sitä ilman, että hän tietää kortin tunnuslukua.</quote>
+Matkapuhelimeen voi ladata nykyisin monia erilaisia maksusovelluksia. Näitä sovelluksia ovat esimerkiksi MobilePay, Pivo ja ApplePay. Sovelluksia eli appseja voi käyttää pankkikortin tai luottokortin asemasta. Voit esimerkiksi siirtää rahaa ystävällesi appsin avulla ilman, että kirjaudut omaan pankkiisi. Appseilla voi myös maksaa ostoksia netissä.
+Kuluttaja-asiamiehen mukaan on haasteellista, jos kaikki pankki- ja maksupalvelut on sidottu matkapuhelimeen, jos puhelin esimerkiksi katoaa tai hajoaa. Matkapuhelinten korjaus- ja huoltoajat eivät saa olla liian pitkiä. On myös tärkeää, että nettipankkia voi käyttää myös tietokoneella.
+<subtitle>Aplikaatiot ja lähimaksu ovat nopeita</subtitle>
+Mattias Lehtinen on käyttänyt MobilePay -sovellusta pari vuotta. Mattias kertoo, että hän latasi sovelluksen, koska se on kätevä.
+<quote>– Minulla ja tyttöystävälläni ei ole yhteistä pankkitiliä. Käytän tätä sovellusta rahansiirtoon. Jaamme kotimme menot puoliksi, ja sovelluksella on helppo siirtää rahaa.</quote>
+MobilePay toimii hyvin myös matkoilla, jos kustannuksia täytyy jakaa tai siirtää rahaa muille vaikkapa ravintolaillan jälkeen.
+MobilePayn käyttö vaatii MobilePay-sovelluksen lataamisen omaan puhelimeen. Appin voi ladata kaikkiin älypuhelimiin. Kun lataat sovelluksen, sinun täytyy valita, veloitetaanko maksut pankki- vai luottokortti- tililtäsi. Maksu menee suoraan siltä tililtä, jonka olet valinnut. Maksutilanteessa valitaan saajan puhelinnumero ja maksun summa. Tämän jälkeen voit lähettää rahat. Puhelin kannattaa muistaa ladata usein, jotta näitä sovelluksia voi käyttää. Tyhjällä akulla se on vaikeaa.
+Onko MobilePay helppo tapa maksaa?
+<quote>– Tämä on minusta turvallinen ja kätevä tapa. – Minulla on puhelimeeni turvakoodi. Sen jälkeen appiini tulee vielä toinen koodi. Jos hukkaan puhelimeni, kukaan muu ei voi käyttää maksusovellusta minun nimissäni.</quote>
+<quote>– Vaikka tämä on todella helppoa ja kätevää, niin tietenkin tämä myös sitoo. Kaikki on tavallaan sidottu matkapuhelimeesi. Nykyisin on paljon pahempaa hukata matkapuhelin kuin lompakko.</quote>
+Toinen nykyaikainen maksutapa on lähimaksu. Mattias käyttää myös sitä.
+<quote>– Sekin on todella nopea ja kätevä tapa maksaa. Ei tarvitse näppäillä, tarvitsee vain näyttää korttia lukijalle. Käytän lähimaksua aina, kun se on mahdollista. Minusta se on erityisen hyvä tapa maksaa ruokaostoksilla elintarvikeliikkeessä. Nopeaa, helppoa ja nykyaikaista.</quote>
+Mattias ei kuitenkaan toivo, että käteinen raha katoaisi kokonaan.
+<quote>– Se on vanha ja hyvä tapa, jonka täytyy säilyä myös tulevaisuudessa.</quote>

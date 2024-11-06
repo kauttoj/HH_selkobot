@@ -1,0 +1,21 @@
+<title>Kuorolaulu on vuorovaikutusta</title>
+<lead>Reijo Aittakumpu on Sibelius-lukion musiikinopettaja. Aittakumpu johtaa lukion kolmea kuoroa. Aittakummun mielestä kuoroharrastus antaa nuorille sosiaalisia taitoja.</lead>
+Helsinkiläinen Sibelius-lukio on erikoistunut musiikin ja tanssin opetukseen. Lukiossa toimii kolme kuoroa. Niitä kaikkia johtaa Reijo Aittakumpu.
+<subtitle>Millaista on musiikinopettajan työ?</subtitle>
+<quote>– Sibelius-lukiossa musiikinopettajan työ on erilaista kuin tavallisessa lukiossa. Meillä on kahdeksan päätoimista musiikinopettajaa. Opettajat ovat erikoistuneet johonkin musiikin lajiin. Minun erikoisalani on kuorolaulu. Olen opettanut Sibelius-lukiossa kuusi vuotta.</quote>
+<subtitle>Milloin aloit harrastaa kuorolaulua?</subtitle>
+<quote>– Olin lapsena kova laulamaan. Sen ajan koulun musiikinopetus ala-asteella sai intoni katoamaan. Yläasteella menin mukaan poikakuoroon. Sen jälkeen olen laulanut aina kuorossa. Olin lukiossa musiikkiluokalla, mutta aloitin musiikin opiskelun vasta aikuisena. Olen tavallisesta työläisperheestä. Pidän sitä vahvuutena opetustehtävissä.</quote>
+<subtitle>Millainen on hyvä musiikinopettaja?</subtitle>
+<quote>– Kun aloin opettaa, koin eräänlaisen herätyksen. Huomasin, että pidän siitä ja olen ihan hyvä. Hyvän opettajan taitoihin kuuluvat vuorovaikutus, aito kiinnostus aihetta ja oppilaita kohtaan sekä kasvatus- ja opetustaitoja.</quote>
+<subtitle>Opetat nuoria opiskelijoita lukiossa. Minkälaisia erityistaitoja se vaatii?</subtitle>
+<quote>– Nuorten maailmassa on aina menossa paljon asioita, joista osa voi olla vaikeita.Se vaatii opettajalta myötätuntoa ja ymmärrystä. Minusta on tärkeää, että pystyn löytämään yhteisen kielen. En halua olla vanhempi ja viisaampi, joka kertoo, miten asiat oikeasti ovat.</quote>
+<subtitle>Mitä hyvältä kuorolaulajalta vaaditaan?</subtitle>
+<quote>– Kyllä siinä ääntä ja sävelkorvaa tarvitaan. Hyvä laulaja pystyy laulamaan erilaisilla sävyillä, hiljaa, kovaa ja puhtaasti. Ehkä tärkein asia on kuitenkin se, että osaa ja malttaa kuunnella myös muita.</quote>
+<subtitle>Voiko oppia laulamaan, jos ei osaa laulaa?</subtitle>
+<quote>– Jokainen voi parantaa laulutaitoaan ja liittyä kuoroon. Täydellinen laulu- taidottomuus on erittäin harvinaista. Vedän laulukurssin laulutaidottomille aina kesäkuussa Valamon luostarissa.</quote>
+<subtitle>Mikä on hienointa kuorotoiminnassa?</subtitle>
+<quote>– Kaikkein hienoin asia on se, että pääsee ylittämään itsensä. Vaikka ei itse ole hyvä laulaja, niin kuorossa voi saavuttaa korkeamman tason. Yhdessä kokeminen on iso asia. Tärkeitä asioita ovat lisäksi sosiaalisuus ja ystävyys. Suurin juttu on se, kun 40 ihmisen kuoro pääsee teoksessa täysin samaan tilaan ja henkeen. Se on liikuttava elämys.</quote>
+<subtitle>Olette esiintyneet paljon ulkomailla. Missä kaikkialla?</subtitle>
+<quote>– Kuorot ovat esiintyneet Venäjällä, Irlannissa, Saksassa, Unkarissa, Yhdysvalloissa ja Belgiassa. Ensi vuoden kuoromatka tehdään joko Italiaan tai Sloveniaan. Kuoromatkat ovat nuorille erityisen suuria elämyksiä. Kuoronjohtajalle ja opettajille ne teettävät paljon töitä ja vastuuta.</quote>
+<subtitle>Mitkä sävellykset ovat erityisen tärkeitä sinulle?</subtitle>
+<quote>– Jean Sibeliuksen Viulukonsertto on minulle erityisen rakas. Sen kappaleen avulla aloin pitää klassisesta musiikista. Kuoromusiikista minulle tärkein on Frank Martinin Messu. Se on laulajalle iso elämys, siinä on pyhyyttä ja nöyryyttä. Toivo Kuulan Siell’ on kauan jo kukkineet omenapuut on hieno. Leevi Madetojan Valkeat kaupungit on myös minulle rakas. Sekä Kuulan että Madetojan teokset kertovat muuten Oulusta, joka on synnyinkaupunkini.</quote>

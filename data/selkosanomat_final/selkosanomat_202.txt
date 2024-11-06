@@ -1,0 +1,19 @@
+<title>Pohjoisen palkittu piirtäjä</title>
+<lead>Ville Ranta sai tänä keväänä Finlandia-palkinnon. Ranta on Suomen tunnetuimpia sarjakuvapiirtäjiä.</lead>
+Piirtäjä Ville Ranta palkittiin Sarjakuva-Finlandialla. Ranta sai palkinnoksi 5 000 euroa sarjakuvaromaanistaan Kyllä eikä ei. Ranta piirtää sarjakuvien lisäksi pilakuvia Kirkko ja kaupunki -lehteen.
+<subtitle>Miten sinusta tuli sarjakuvapiirtäjä?</subtitle>
+<quote>– Tiesin jo 12-vuotiaana, että minusta tulee isona sarjakuvapiirtäjä. Minusta piti tosin tulla aivan ensin maailman paras konserttipianisti. Pianonsoitto oli suurin intohimoni. Sitten piirtäminen vei voiton. Kuuntelen edelleen paljon Beethovenia ja Chopinia.</quote>
+<subtitle>Minkälaista sarjakuvaa haluat tehdä?</subtitle>
+<quote>– Haluan tehdä pitkiä sarjakuvatarinoita eli niin sanottuja sarjakuvaromaaneja. Sellaisessa tavassa kertoa on jotakin  taianomaista ja houkuttelevaa. Sarjakuva on taidemuoto, ei pelkästään viihdettä ja populaarikulttuuria.</quote>
+<subtitle>Minkälaista on sarjakuvapiirtäjän työ?</subtitle>
+<quote>– Aivan kuten kaikki isot taideteokset, myös sarjakuva on työläs. Kokonaisen sarjakuvaromaanin tekeminen on käsityötä. Se vaatii aikaa, kärsivällisyyttä ja ammattitaitoa. Sitä ei tehdä iltapuhteina.</quote>
+<subtitle>Miten sarjakuvan asema on muuttunut?</subtitle>
+<quote>– Kun tein ensimmäiset sarjakuvateokseni 2000-luvun alussa, niille ei tahtonut löytyä julkaisijaa. Kotimaista sarjakuvaa ei julkaissut yksikään kustantamo, koko ala oli kuollut. Siispä perustimme Asema Kustannuksen, joka toimii edelleen. Nyt elämme jälleen kerran vaikeita aikoja, sarjakuvien myynti on laskenut todella paljon. Ihmiset eivät enää halua ostaa kirjoja. Ainoastaan bestsellerit eli myyntimenestykset kannattavat. Kirjallisuuden harrastajat eivät halua lukea sarjakuvaromaania, jossa on ainoastaan seikkailua ja huumoria.</quote>
+<subtitle>Kuka on esikuvasi?</subtitle>
+<quote>– Ihastuin jo lapsena italialaisen sarjakuva- taiteilijan Hugo Prattin teoksiin. Hänet tunnetaan parhaiten seikkailija Corto Maltesen tarinoista. Niiden lukeminen oli minulle erittäin vaikuttava kokemus. Pratt laajensi käsitystämme sarjakuvan tekemisestä ja alkoi tehdä syvällisempää sarjakuvaa.</quote>
+<subtitle>Piirrät sarjakuvien lisäksi pilakuvia A-studiossa. Minkälaista on piirtää televisiossa?</subtitle>
+<quote>– Ylestä pyydettiin kahta sarjakuvapiirtäjää tekemään ajankohtaista kuvitusta illan lähetykseen. Niinpä minä ja Pertti Jarla piirrämme nyt vuoroviikoin tv:ssä. Minun osuuteni kuvataan työhuoneellani Oulussa. Piirrän kuvan aina keskiviikkoaamuisin, kun lähetys tulee illalla ulos. Pohdiskelen aiheita yleensä tiistai-iltapäivänä.</quote>
+<subtitle>Miten nykyteknologia vaikuttaa sarjakuvaan? Voiko sarjakuvia lukea tabletilla?</subtitle>
+<quote>– Sarjakuvaa luetaan jo nyt paljon lukulaitteella tai iPadilla. Sarjakuva toimii hyvin sähköisessä muodossa, esimerkiksi tablettitietokoneen näytöllä. Kuvat näyttävät siinä hienoilta. Pilapiirros toimii nettimuotoisena hyvin.</quote>
+<subtitle>Tunnetaanko suomalaista sarjakuvaa maailmalla?</subtitle>
+<quote>– Euroopassa suomalaista vaihtoehtosarjakuvaa arvostetaan. Olen käynyt paljon ulkomailla. Melkein kaikki kirjani on käännetty ranskaksi. Viimeisin teos ilmestyi samanaikaisesti sekä Suomessa että Ranskassa. Käännöksiä on ruotsiksi, saksaksi ja puolaksi. Englanninkielinen kustantaja on haussa.</quote>

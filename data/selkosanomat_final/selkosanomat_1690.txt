@@ -1,0 +1,17 @@
+<title>Lasten oikeuksien puolustaja</title>
+<lead>Elina Pekkarinen on lapsiasiavaltuutettu. Hänen työnsä tärkeimpiä asioita on saada lasten ääni kuulumaan yhteiskunnassa. Pekkarinen mietti jo lapsena, että aikuiset eivät kuuntele tarpeeksi lapsia.</lead>
+Lapsiasiavaltuutettu Elina Pekkarinen pitää huolta lasten oikeuksista. Lapsilla on oikeus elää hyvää ja turvallista elämää, johon kuuluu muun muassa leikkiä ja lepoa. Pekkarinen muistaa vielä, millaista on olla lapsi.
+<subtitle>Mitä lapsiasiavaltuutettu tekee?</subtitle>
+<quote>– Lapsiasiavaltuutettu varmistaa, että lasten oikeudet toteutuvat yhteiskunnassa. Hän huolehtii, että kaikki tietävät, minkälaisia oikeuksia lapsilla on.</quote>
+<quote>– Monet tavalliset ihmiset ottavat yhteyttä lapsiasiavaltuutettuun. He haluavat kysyä esimerkiksi lastensuojelusta ja kouluasioista. On kuitenkin hyvä muistaa, että lapsiasiavaltuutettu ei voi hoitaa yksittäisten ihmisten asioita. Hän voi vain kertoa heille, mistä he saavat apua. Lapsiasiavaltuutetulle ei voi myöskään valittaa mistään päätöksestä tai kannella viranomaisten toiminnasta.</quote>
+<quote>– Lapset ottavat yhteyttä vain harvoin. Jos lapset ottavat yhteyttä, heitä autetaan aina.</quote>
+<subtitle>Miten lapsiasiavaltuutetuksi pääsee?</subtitle>
+<quote>– Lasten asioista täytyy olla aidosti kiinnostunut. Täytyy myös opiskella ja verkostoitua eli tutustua moniin eri alojen ihmisiin. Lapsiasiavaltuutetun kausi kestää viisi vuotta. Lapsiasiavaltuutettuna voi olla kaksi kautta. Valtioneuvosto valitsee uuden lapsiasiavaltuutetun.</quote>
+<subtitle>Miksi halusit lapsiasiavaltuutetuksi?</subtitle>
+<quote>– Olen työskennellyt tutkijana ja asiantuntijana monta vuotta. Tutkijana huomasin, että lasten asioihin kiinnitetään vähemmän huomiota kuin muihin asioihin. Halusin vaikuttaa tähän asiaan. Olen tutkinut lastensuojelua, nuorisorikollisuutta ja syrjäytymistä. Tutkimuksista on hyötyä työssäni.</quote>
+<subtitle>Mikä on tärkeintä työssäsi?</subtitle>
+<quote>– Mielestäni lapsiasiavaltuutetulla on kaksi tärkeintä tehtävää. Ensimmäinen tehtävä on saada päättäjät tekemään päätöksiä, joista on hyötyä lapsille. Toinen tehtävä on saada lapset näkymään yhteiskunnassa.</quote>
+<subtitle>Suomi on lapsille maailman kolmanneksi paras maa. Mitä pitäisi tehdä vielä paremmin?</subtitle>
+<quote>– Jotkut perheet tarvitsevat lastensuojelua eli viranomaisten apua. Näissä perheissä lapset eivät voi hyvin. Suomessa on myös paljon köyhiä lapsiperheitä. Kaikilla perheillä ei siis mene yhtä hyvin.</quote>
+<subtitle>Mitä muistat omasta lapsuudestasi?</subtitle>
+<quote>– Lapsena minusta tuntui usein siltä, että aikuiset eivät ymmärrä lapsia. Jotkut aikuiset unohtavat, millaista lapsen elämä on. Minä muistan lapsuudestani paljon asioita. Muistan asioita jopa ajalta, jolloin olin neljävuotias.</quote>

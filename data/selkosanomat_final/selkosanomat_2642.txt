@@ -1,0 +1,34 @@
+<title>Teknologia auttaa ilmastonmuutoksen hillitsemisessä</title>
+<lead>Ilmastonmuutoksen hillitseminen vaatii, että otamme käyttöön uutta päästötöntä tekniikkaa. Tätä on jo paljon saatavilla.</lead>
+Ilmasto lämpenee. Tämä johtuu ennen kaikkea ihmisten toiminnasta, esimerkiksi teollisuudesta ja liikenteestä. Päästämme ilmakehään paljon hiilidioksidia ja muita kasvihuonekaasuja.
+Kasvihuonekaasujen eli päästöjen määrää pitää vähentää, jotta ilmastonmuutosta voidaan hillitä.
+Energiateollisuudessa, muussa teollisuudessa ja liikenteessä, pitää siirtyä käyttämään tekniikkaa, joka tuottaa päästöjä vain vähän tai ei ollenkaan.
+Tekniikan tohtori Kirsi Kotilainen kertoo, että päästötöntä tekniikkaa on olemassa jo paljon.
+<quote>– Tärkeää on, että päästötöntä tekniikkaa otetaan käyttöön. Poliitikkojen pitää esimerkiksi tehdä oikeita päätöksiä.</quote>
+Kirsi Kotilainen työskentelee teknologian tutkimuskeskus VTT:ssä. VTT kehittää ja kokeilee uusia päästöttömiä teknologioita.
+<subtitle>Puhtaampaa energiaa</subtitle>
+Päästötöntä energiaa voidaan tuottaa monilla eri tavoilla.
+<subtitle>Päästöttömän sähkön käyttö yleistyy</subtitle>
+Kivihiilen, öljyn ja muiden fossiilisten polttoaineiden polttamisesta syntyy paljon hiilidioksidipäästöjä. Siksi fossiilisia polttoaineita pitää käyttää vähemmän ja päästötöntä sähköä enemmän.
+<quote>– Jos sähkö on valmistettu esimerkiksi tuulivoimalla tai aurinkovoimalla, siitä ei aiheudu päästöjä, Kotilainen kertoo.</quote>
+Sähköä käytetäänkin nykyään aiempaa enemmän teollisuudessa. Myös liikenteessä käytetään yhä enemmän sähköä, kun sähköautot yleistyvät.
+<subtitle>Tuulivoima on suosittua</subtitle>
+Tuulivoimalla voidaan tuottaa päästötöntä ja uusiutuvaa sähköä. Suomessakin rakennetaan nykyään paljon tuulivoimaloita.
+<quote>– Tuulivoimaloiden avulla voidaan nykyään tehdä sähköä varsin edullisesti. Tuulivoimaloiden rakentamiseen ei tarvita enää nykyään valtion tukea.</quote>
+<subtitle>Aurinkopaneeleja on yhä useammalla katolla</subtitle>
+Myös aurinkovoimalla voidaan tuottaa päästötöntä ja uusiutuvaa sähköä. Esimerkiksi omakotitalojen katolle voidaan asentaa aurinkopaneelit, joiden avulla sähköä tuotetaan.
+Asukkaat voivat käyttää sähköä itse ja myydä ylimääräisen sähkön sähköverkkoon.
+<quote>– Aurinkopaneelit ovat kehittyneet ja niiden hinnat ovat laskeneet. Aurinkovoima on yleistynyt voimakkaasti myös Suomessa, Kotilainen kertoo.</quote>
+<subtitle>Vety on kiinnostava tulevaisuuden energialähde</subtitle>
+Tällä hetkellä tutkitaan paljon, miten vetyä voitaisiin hyödyntää energialähteenä.
+Vety on maailman yleisin alkuaine. Sitä on esimerkiksi vedessä. Vety voidaan erotella vedestä sähkön avulla.
+Sähköä on vaikea varastoida. Jos sähköä saadaan paljon, ylimääräisen sähkön avulla vedestä voidaan tehdä vetyä. Vety pystytään varastoimaan ja käyttämään myöhemmin.
+<quote>– Vetyä voidaan käyttää energia-lähteenä esimerkiksi vetyautoissa. Vetyauton pakoputkesta ei tule lainkaan pakokaasua vaan vain puhdasta vettä.</quote>
+<subtitle>Biopolttoaineita saadaan jätteistä</subtitle>
+Viime vuosina on kehitetty paljon erilaisia biopolttoaineita. Niissä hyödynnetään raaka-aineena esimerkiksi jätteitä tai puuta, jotka ovat uusiutuvia energialähteitä.
+Biopolttoaineilla pyritään korvaamaan tai vähentämään öljyn käyttöä. Lisäksi on hyvä, että jätteitä voidaan hyödyntää.
+Biopolttoaineet ovat ympäristön kannalta parempi vaihtoehto kuin öljy. Päästöjä syntyy kuitenkin myös silloin, kun biopolttoaineita poltetaan.
+<subtitle>Myös ydinvoima on päästötöntä</subtitle>
+Ydinvoima on energiamuoto, joka ei tuota hiilidioksidipäästöjä eikä kiihdytä ilmastonmuutosta. Monet maat ovat kuitenkin luopuneet tai luopumassa ydinvoimasta. Ne pelkäävät erityisesti ydinvoimalaonnettomuuksia, joissa ympäristöön voi päästä vaarallista säteilyä.
+Ydinvoimalaonnettomuuksia on tapahtunut esimerkiksi vuonna 1986 Ukrainan Tsernobylissä ja vuonna 2011 Japanin Fukushimassa.
+Suomessa on ydinvoimaloita Loviisassa sekä Rauman lähellä, Eurajoella. Uutta ydinvoimalaa rakennetaan myös Pohjanmaalle Pyhäjoelle. Säteilyturvakeskus STUK valvoo suomalaisten ydinvoimaloiden turvallisuutta.

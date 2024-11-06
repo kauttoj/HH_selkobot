@@ -1,0 +1,21 @@
+<title>Kaikki suomalaisuudesta</title>
+<lead>Kanadanranskalainen André Noël Chaker muutti Suomeen 1990-luvun alussa. Chaker on kirjoittanut teoksen Ihanuuksien ihmemaa. Se kertoo Suomesta ja suomalaisista.</lead>
+André Noël Chaker on valittu kaksi kertaa vuoden puhujaksi. Se on hieno saavutus, sillä hän ei ole syntyperäinen suomalainen. Hänen puheestaan kuuluu edelleen vierasperäinen korostus eli aksentti. Chakerin mukaan se on vahvuus.
+<subtitle>Kuinka päädyit Suomeen?</subtitle>
+<quote>– Tulin Suomeen oikeastaan vahingossa vuonna 1988. Opiskelin tuolloin lakia Pariisissa. Toimin opiskeluvuosinani kuitenkin myös nuorisotyön parissa Montrealissa. Nuorisotyön kautta päädyin kesätyöhön Suomeen. Opetin Suomessa teatteria, musiikkia ja kieliä. Lopullisesti muutin Suomeen vuonna 1992. Tulin silloin töihin Jyväskylään urheilu- järjestöön. Opetin ja tein tutkimustyötä Jyväskylän yliopistossa.</quote>
+<subtitle>Millainen paikka Suomi oli 20 vuotta sitten?</subtitle>
+<quote>– Suomi ei ollut 1990-luvulla kovin monikulttuurinen maa. Suomi oli hiukan sulkeutunut paikka. Sellainen maa, jossa voi olla yksinäinen helposti. Ihmiset eivät puhuneet kovin paljoa. Suomi on muuttunut sen jälkeen paljon. Minä aloin heti hakeutua harrastusten ja seuraelämän pariin hyvin päämäärätietoisesti.</quote>
+<subtitle>Minkälainen maa Suomi on nyt?</subtitle>
+<quote>– Erilaisuutta ei arvostettu aiemmin. Samanlaisuus oli vahvuus. Nyt Suomessakin uskalletaan arvostaa erottuvuutta. Suomessa on paljon erilaisia ihmisiä, jotka muodostavat yhteiskunnan.</quote>
+<subtitle>Miksi sinusta tuli lakimies?</subtitle>
+<quote>– Kannattaa ensinnäkin valita sellainen koulutus, mikä kiinnostaa. Olen kirjallisuuden professorin lapsi. Kirjallisuus, kirjoittaminen ja puhuminen ovat siis olleet elämässäni lapsesta saakka. Meillä kotona oli hirveästi kirjoja. Halusin kuitenkin itse eri alalle, koska olen kilpailuhakuinen ihminen. Haluan menestyä, mutta hyvässä hengessä. En siis halua omalla menetykselläni viedä jotakin pois toiselta. Lakimiehen koulutus on hyvä pohja monelle ammatille.</quote>
+<subtitle>Mitä ajattelet vuoden puhujan tittelistäsi?</subtitle>
+<quote>– Pidän sitä erittäin hyvänä saavutuksena ja suurena kunniana.  Olen iloinen, että minut valittiin vierasperäisestä korostuksestani huolimatta. Se on hauskaa, koska Suomessa menestyjien pitäisi aina puhua täydellistä kirjakieltä naama peruslukemilla. Tämäkin on muutoksen merkki ja osoitus suvaitsevaisuudesta.</quote>
+<subtitle>Millainen on hyvä puhuja?</subtitle>
+<quote>– Ensiksi pitää olla jokin hyvä aihe, mistä puhua. Aiheen pitää myös olla jollakin tapaa ajankohtainen. Pitää olla sanoma ja pitää olla persoonallinen. Puhujalla pitää olla tietenkin myös hyvät perustaidot.</quote>
+<subtitle>Oletko suomalaistunut?</subtitle>
+<quote>– Kyllä, aivan ehdottomasti! Rakastan saunomista. Kun menen Pohjois-Amerikkaan, huomaan myös, että ihmettelen ihmisten käytöstä, liikaa puhetta ja ruuhkia. Pidän myös murtomaahiihdosta, avantouinnista ja laulan tangoa. Olen myös kääntänyt J. Karjalaisen lauluja ranskaksi.</quote>
+<subtitle>Sinua kiusattiin lapsena. Kuinka selvisit siitä?</subtitle>
+<quote>– Isäni ja äitini päättivät muuttaa Montrealin ranskankieliseltä alueelta englanninkieliselle alueelle, kun olin viisivuotias. Minua nimitettiin uudella asuinalueella Fucking Frogiksi. Päätin silloin, että opettelen puhumaan parempaa englantia kuin kiusaajani. Päätin myös menestyä työelämässä. Pahin kiusaajani sen sijaan joutui vankilaan autovarkaudesta.</quote>
+<subtitle>Miksi suomalaiset haluavat aina tietää, mitä ulkomaalaiset ajattelevat heistä?</subtitle>
+<quote>– Siihen on monia syitä. Suomi on nuori ja pieni maa. Suomalaiset hakevat edelleen hyväksyntää. Itseluottamuksen puute saattaa olla joskus ongelma suomalaisille.</quote>

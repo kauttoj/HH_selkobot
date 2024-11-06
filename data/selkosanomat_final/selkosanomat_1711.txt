@@ -1,0 +1,18 @@
+<title>Terveellinen ruoka ehkäisee muistisairauksia</title>
+<lead>Terveellinen ruokavalio ehkäisee muistisairauksia, kertoo tutkija Jenni Lehtisalo Terveyden ja hyvinvoinnin laitokselta.</lead>
+Terveellinen ruokavalio ja ylipainon välttäminen voivat suojata muistisairauksilta, sanoo tutkija Jenni Lehtisalo.
+<subtitle>Miten ravinnon ja muistisairauksien yhteys huomattiin?</subtitle>
+<quote>– Olin mukana tutkimuksissa, joissa yritetään muuttaa ihmisten ruokavalioita. Näissä tutkimuksissa ei tarkastella pelkästään ihmisten elintapoja, vaan yritetään muuttaa niitä terveellisemmiksi.</quote>
+<quote>– Tutkimuksessa kävi ilmi, että ihmisten muisti säilyi vanhana parempana, jos he muuttivat elintapojaan terveellisemmiksi. Lisäksi tutkimuksen perusteella elämäntapojen muutos kannattaa vanhempanakin.</quote>
+<quote>– Muistisairauden kehittyminen on aina monimutkainen asia. Tästä syystä on tärkeää muuttaa monia asioita elämässä, jos haluaa vaikuttaa muistisairauksien kehittymiseen.</quote>
+<subtitle>Millainen ruoka on hyvää ja laadukasta aivoille?</subtitle>
+<quote>– Näyttää siltä, että parasta ruokaa on sellainen ruoka, jota suositellaan muutenkin. Aivoille on hyväksi monipuolinen ruoka, jossa on mukana paljon kasviksia, hedelmiä, marjoja ja kalaa. Myös täysjyvävilja on hyväksi aivoille.</quote>
+<quote>– Vitamiinivalmisteista ei välttämättä ole hyötyä. Terveellisintä on saada vitamiinit oikeasta ruuasta. Tästä asiasta tarvitaan kuitenkin vielä paljon lisää tutkimusta.</quote>
+<subtitle>Millainen uhka muistisairaudet ovat nykymaailmassa?</subtitle>
+<quote>– Muistisairaudet ovat pelkästään rahallisesti merkittävä asia. Viimeisen vaiheen muistisairaus vaatii hoitoa ympäri vuorokauden. Hoito on todella kallista. Muistisairaudet ovat myös omaisille hyvin raskaita sairauksia. Kun väestö ikääntyy, muistisairaiden ihmisten määrä kasvaa. Jos muistisairauden alkamista saadaan siirrettyä viidellä vuodella, rasitteet vähenevät jo paljon. Mitä vanhempana sairastuu, sitä lyhyempi on muistisairauden kesto.</quote>
+<subtitle>Paljonko muistisairaita on?</subtitle>
+<quote>– Euroopassa noin viisi prosenttia yli 60-vuotiaista sairastuu muistisairauteen. Suomessa arvioidaan olevan vajaat 200 000 muistisairasta ihmistä. Kaikki eivät sairastu muistisairauteen, mutta yli 90-vuotiaista se on ainakin puolella.</quote>
+<subtitle>Ovatko muistisairaudet lisääntyneet?</subtitle>
+<quote>– Eivät välttämättä, ihmiset elävät vanhemmiksi ja muistisairaudet ovat vanhojen ihmisten sairaus. Myös tieto on lisääntynyt eli muistisairaudet tunnistetaan nykyisin aiempaa tarkemmin. Sydän- ja verisuonisairauksien hoito on kehittynyt paljon, joten ihmiset eivät enää kuole niihin nuorena.</quote>
+<subtitle>Pystytäänkö muistisairaus pysäyttämään?</subtitle>
+<quote>– Muistisairautta pystytään hidastamaan lääkkeillä. Vielä ei ole hoitokeinoa, jolla sen voisi pysäyttää.</quote>

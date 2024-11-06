@@ -1,0 +1,19 @@
+<title>Luonto on Suomen matkailuvaltti</title>
+<lead>Mervi Holmén on markkinointijohtaja Finpro-Visit Finlandissa. Se markkinoi Suomea ulkomaisille matkailijoille.</lead>
+<subtitle>Mistä Suomi tunnetaan maailmalla?</subtitle>
+<quote>– Suomen luonto tunnetaan parhaiten. Monet tietävät, että Suomessa on kylmä. Jotkut tietävät, että Suomessa on paljon järviä. Jotkut tuntevat keskiyön auringon ja revontulet. Toiset tietävät Suomen rakennustaiteen ja jotkut sen, että joulupukki tulee Suomesta.</quote>
+<subtitle>Onko Suomea vaikea markkinoida, koska tämä on niin kylmä maa?</subtitle>
+<quote>– Ei ole. Kylmyys herättää uteliaisuutta. On paljon ihmisiä, jotka eivät ole kokeneet kylmyyttä ja lunta. Siksi se on positiivinen asia. Talvimatkailu Suomeen kasvaa. Kun matkailijat palaavat lämpimiin kotimaihinsa, heillä on kiinnostavaa kerrottavaa Suomesta.</quote>
+<subtitle>Tuleeko Suomeen siis enemmän matkailijoita talvella kuin kesällä?</subtitle>
+<quote>– Ei. Edelleen yli puolet turisteista tulee Suomeen kesällä. Mutta talvimatkailijoita on yhä enemmän.</quote>
+<subtitle>Markkinoidaanko turisteille nykyään eri asioita kuin ennen?</subtitle>
+<quote>– Luontomme ei muutu. Mutta me tuomme esiin uusia asioita. Esimerkiksi revontulien markkinointi on alkanut vasta äskettäin. Maatamme esitellään nyt monipuolisesti.</quote>
+<quote>– Helsingissä vierailee edelleen eniten turisteja. Lappi on myös merkittävä matkailukohde. Kesäisin tarjoamme matkoja, joilla matkailijat pääsevät matkustamaan eri puolille Suomea.</quote>
+<subtitle>Onko matkailijoille tarjolla uutuuksia?</subtitle>
+<quote>– Turunmaan ja Ahvenanmaan saaristot ovat uusia kohteita. Järvi-Suomea markkinoidaan myös.</quote>
+<subtitle>Mitkä ovat sinun suosikkejasi, jos matkustat Suomessa?</subtitle>
+<quote>– Olen hyvin ihastunut saaristoon. Pidän erityisesti Ahvenanmaasta ja sen saaristosta, mutta pidän myös pienistä kaupungeista, kuten Tammisaaresta ja Hangosta. Hangossa on esimerkiksi hieno luontopolku. Se ulottuu Suomen eteläisimpään kärkeen. Siellä voi tuntea meren ja luonnon läheisyyden.</quote>
+<quote>– Puhtaus ja luonto ovat hienoja asioita Suomessa. Missä tahansa suurkaupungissa, esimerkiksi Kiinassa, on saasteita. Suomessa puhtauden huomaa heti, kun astut ulos lentokoneesta. Meillä on puhdas ilma, ja luonto on todella lähellä jopa Helsingissä.</quote>
+<subtitle>Arvostavatko ulkomaalaiset luontoa vai pitävätkö he Suomea autiona?</subtitle>
+<quote>– Ihmiset suhtautuvat eri tavoin. Monet matkailijat odottavat hyvää palvelua. Esimerkiksi ryhmä espanjalaisia nuoria, jotka olivat vuokranneet mökin, olivat hyvin yllättyneitä. He eivät ymmärtäneet, että mökki on kaukana metsässä ja kauppaan on monen kilometrin matka. Matkailuyrittäjät osaavat kuitenkin nykyään tarjota tietoa ja palveluja yhä paremmin.</quote>
+<quote>– Joskus suomalaiset ja ulkomaalaiset ajattelevat hieman eri tavoilla ja heillä on erilaisia odotuksia. Suomalaisille viiden kilometrin vaellukset ovat lyhyitä. Ulkomaalaisille voi riittää 500 metrin kävely metsässä. Sitten syödään lounasta. He kutsuvat sitä vaellukseksi, ja se on hieno kokemus heille.</quote>

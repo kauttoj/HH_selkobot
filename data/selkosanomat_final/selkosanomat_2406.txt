@@ -1,0 +1,21 @@
+<title>Muista harjata hampaasi</title>
+<lead>Suomalaisten hampaat ovat aika hyvässä kunnossa. Hampaita kannattaa kuitenkin hoitaa huolellisesti ja säännöllisesti. Näin sanoo Leo Tjäderhane.</lead>
+Hammaslääketieteen ammattilainen Leo Tjäderhane valittiin Suomen Hammaslääkäriseura Apollonian puheenjohtajaksi viime vuoden lopussa. Hammaslääkäriseura edistää tutkimusta, joka liittyy hampaiden terveyteen. Tjäderhane on sitä mieltä, että voisimme huolehtia hampaistamme paremmin.
+<subtitle>Mitä työtä teet?</subtitle>
+<quote>– Olen hammaslääketieteen professori Helsingin yliopistossa. Koulutan myös uusia hammaslääkäreitä ja hoidan potilaita. Erikoisalani on juurihoito. Mielestäni minun täytyy tehdä hammaslääkärin työtä, jotta voin opettaa tulevia hammaslääkäreitä.</quote>
+<subtitle>Missä kunnossa suomalaisten hampaat ovat?</subtitle>
+<quote>– Suomalaisilla on melko hyvät hampaat, mutta ne voisivat olla vielä paremmat. Monet suomalaiset hoitavat hampaitaan erittäin hyvin, mutta joillakin on suuria ongelmia hampaissa. On tärkeää huolehtia hampaista, koska ongelmat hampaissa voivat johtaa huonoon yleisterveyteen.</quote>
+<subtitle>Miten meidän pitäisi hoitaa hampaitamme?</subtitle>
+<quote>– Meidän pitäisi syödä hyvin ja puhdistaa hampaamme huolellisesti tarpeeksi usein. Hampaat pitää pestä kaksi kertaa päivässä sellaisella hammastahnalla, jossa on fluoria. Fluori tekee hampaista vahvemmat. Hampaita pitää pestä noin kaksi minuuttia, jotta fluori ehtii vaikuttaa. Sähköhammasharja on hyvä, koska se ilmoittaa, milloin kaksi minuuttia on mennyt.</quote>
+<quote>– Hampaiden välit pitää puhdistaa hammaslangalla tai hammastikuilla.</quote>
+<subtitle>Miten ruoka vaikuttaa hampaisiin?</subtitle>
+<quote>– On hyvä hampaille, jos syö terveellisesti. On tärkeää, että ei napostele kaiken aikaa. Kun syömme, hampaisiin kohdistuu happohyökkäys. Se kestää noin puoli tuntia sen jälkeen, kun olemme syöneet. Hampaille on pahaksi, jos syömme koko ajan pieniä välipaloja tai karkkia.</quote>
+<quote>– Happamat ruuat ja juomat ovat pahaksi hampaille. Monet hedelmät, mehut, limsat ja energiajuomat ovat happamia. Tietysti hedelmiä voi syödä ja mehua juoda, mutta ei monta kertaa päivässä.</quote>
+<subtitle>Miksi monet pelkäävät hammaslääkäriä?</subtitle>
+<quote>– Jos ihminen pelkää hammaslääkäriä, hän on todennäköisesti kokenut jotain kauheaa hammaslääkärillä lapsena. Aiemmin hammaslääkärillä käynti on voinut sattua. Nykyään hammaslääkärissä ei tarvitse kärsiä, koska voi saada puudutuksen.</quote>
+<subtitle>Täytyykö potilaan pyytää puudutusta itse?</subtitle>
+<quote>– Suomessa hammaslääkärit eivät aina anna puudutusta, vaikka he poraavat hampaita. Jos potilas pelkää, hänen kannattaa kertoa siitä hammaslääkärille. Annan mielelläni puudutuksen, jos toimenpide voi satuttaa potilasta.</quote>
+<subtitle>Onko nykyaikainen tekniikka muuttanut hampaidenhoitoa?</subtitle>
+<quote>– Kyllä. Nykyään voi esimerkiksi tulostaa hammaskruunuja ja reikien paikkoja 3D-tulostimella.</quote>
+<subtitle>Kuinka usein pitäisi käydä hammaslääkärissä?</subtitle>
+<quote>– Hyvä pääsääntö on, että kerran vuodessa. Voit myös kysyä hammaslääkäriltäsi, kuinka usein sinun kannattaa käydä siellä. Monille riittää, jos he käyvät hammaslääkärillä joka toinen vuosi.</quote>

@@ -1,0 +1,18 @@
+<title>Hyvinvointivaltio ei katoa</title>
+<lead>Sixten Korkman on Aalto-yliopiston professori. Korkmanin mielestä tarvitaan muutoksia, jotta Suomen velkaantuminen pysähtyy.</lead>
+Sixten Korkman on Aalto-yliopiston taloustieteen professori. Korkman sanoo, että Suomen valtion talous on huonossa kunnossa. Tilanteen paraneminen vaatii suuria muutoksia. Suomalaisten on ehkä pakko tottua siihen, että julkiset palvelut heikentyvät.
+<subtitle>Minkälaisessa kunnossa Suomen talous on?</subtitle>
+<quote>– Tilanne on huono. Suomi on harvoja Euroopan maita, jossa on edelleen taantuma eli laskusuhdanne. Emme ole ikävä kyllä vielä selvinneet vuoden 2009 romahduksesta. Tavaroiden ja palveluiden tuotanto Suomessa laskee edelleen. Pieniä merkkejä on kuitenkin nähtävissä, että tilanne voi pian kääntyä parempaan suuntaan.</quote>
+<subtitle>Kuinka vaarallista on, että Suomella on niin suuri valtion velka?</subtitle>
+<quote>– Valtion ja yksityishenkilön velka ei ole sama asia. Yksityishenkilö haluaa maksaa velkansa pois yleensä ennen kuin hän jää eläkkeelle. Valtiolla ei ole niin kiire. Valtio pyrkii kohtuullistamaan velkaa pitkän ajan kuluessa.</quote>
+<subtitle>Mikä on kohtuullinen velkamäärä?</subtitle>
+<quote>– Valtion velka on jo noin puolet Suomen bruttokansantuotteesta. Olemme saavuttaneet siinä ylärajan, jonka EU hyväksyy. Jos velka nousee yli tämän, se ylittää sallitun rajan. Velka alkoi kasvaa 1990-luvun alussa, kun meillä oli suuri lama. Jos valtio velkaantuu pahasti, valtiontalouden hoitaminen on jatkossa kallista ja vaikeaa.</quote>
+Yhdysvalloilla on valtavasti velkaa. Sillä menee kuitenkin taloudellisesti hyvin. Kuinka se on mahdollista?
+<quote>– USA:lla on kaksi etua. Ne ovat hyvä kasvu ja väestöpohja. Yhdysvaltojen talous kasvaa, se tuottaa palveluja ja tuotteita. Amerikkalaiset ovat suhteellisen nuoria, joten he tekevät paljon töitä. Maa, jonka talous kasvaa, pystyy käsittelemään suuria velkamääriä.</quote>
+<subtitle>Mikä on Suomen suurin ongelma?</subtitle>
+<quote>– Kestävyysvaje on Suomen ongelma. Tosiasia on, että yhä suurempi osa suomalaisista on vanhoja ihmisiä. He eivät enää tee töitä. Työssä olevien määrä siis laskee. Samaan aikaan Suomen vienti- teollisuus kuten paperi- ja metalliteollisuus ovat vaikeuksissa.</quote>
+<quote>– Hyvinvointivaltio luotiin aikana, jolloin nuoria työtä tekeviä ihmisiä oli paljon. Nyt meillä on puutetta sekä verorahoista että ihmisistä, jotka hoitavat esimerkiksi vanhuksia. Vaarana on hyvinvointivaltion heikentyminen, jos emme saa tilannetta muuttumaan.</quote>
+<subtitle>Voiko hyvinvointivaltio kadota?</subtitle>
+<quote>– En usko, että hyvinvointivaltion katoaa, mutta jotkut edut ehkä vähenevät. Meidän täytyy tehostaa toimintaa, jotta hyvinvointia ei tarvitse leikata niin paljon. Ihmisten työuria täytyy pidentää, joudumme siis tekemään töitä entistä vanhemmiksi. Se on sikäli aivan luonnollista, koska ihmiset elävät pitempään ja ovat terveempiä.</quote>
+<subtitle>Suomi kuuluu Euroopan unioniin eli EU:hun. Kuinka yhteistyö kehittyy?</subtitle>
+<quote>– EU muodostuu useasta itsenäisestä valtiosta. Uskon, että tämä asia säilyy vielä pitkään. En siis usko, että EU:sta tulee liittovaltio. Meillä on käytössä yhteinen valuutta, euro. iksi tarvitsemme pankkiunionia. Sen luominen on kuitenkin varmasti hankalaa ja vie aikaa. Euroopan maiden asukkaat haluavat jatkossakin päättää itsenäisesti maiden sisäisistä asioista. Jotkut poliitikot puhuvat EU:n liittovaltiosta, mutta minun mielestäni se on epärealistinen ajatus.</quote>

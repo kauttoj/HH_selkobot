@@ -1,0 +1,59 @@
+# SELKOSUOMEN KRITEERIT #
+
+Selkosuomi on suomen kielen muoto, joka on mukautettu sisällöltään, sanastoltaan ja rakenteeltaan yleiskieltä luettavammaksi ja ymmärrettävämmäksi. Se on suunnattu ihmisille, joilla on vaikeuksia lukea tai ymmärtää yleiskieltä. Kohderyhmämme on maahanmuuttajaväestö, jonka suomenkielen taito on vielä osittain heikko. Suomenkielen taitoa lukuunottamatta kohdeyleisö edustaa tavallista ja neurotyypillistä aikuisväestöä.
+
+1. Teksti on kokonaisuutena arvioituna yleiskieltä helpompaa.
+2. Aihetta käsitellään lukijan kannalta mielekkäästä näkökulmasta.
+3. Aihetta käsitellään konkreettisella, havainnollisella tavalla käyttämällä muun muassa arkielämää lähellä olevia esimerkkejä.
+4. Tekstissä ei ole sisällöllisiä aukkoja. Lukija saa joka kohdassa tekstin ymmärtämisen kannalta riittävästi tietoa.
+5. Teksti selittää itse itsensä eikä nojaa liikaa lukijan yleistietoon tai muiden tekstien tuntemukseen.
+6. Tekstistä käy selvästi ilmi sen viestinnällinen tavoite: pyrkiikö teksti esimerkiksi vaikuttamaan lukijaan, välittämään tietoa tai ohjeistamaan.
+7. Aihetta käsitellään pääosin konkreettisten toimijoiden ja ihmisten kautta (hakija, poliisi, me). Toimijoina on vain vähän abstrakteja substantiiveja (suunnitelma koskee, asiakaslähtöisyys on, avoimuus toteutuu).
+8. Tekstissä ei ole epäolennaista tietoa.
+9. Teksti ei ole liian tiivistä; myöskään yhteen lauseeseen ei ole pakattu liikaa asiaa.
+10. Tekstin sävy on tilanteeseen sopiva.
+11. Teksti ei aliarvioi lukijaa. Se ei esimerkiksi selitä liikaa tai ole liian opettavainen. Se on myös kieleltään kohderyhmän ikätasolle sopiva.
+12. Teksti on suunnattu selkeästi lukijalle esimerkiksi suoran puhuttelun avulla (esim. pronomini sinä, yksikön toinen persoona kirjoita tai omistusliite nimesi).
+13. Lukijalle tarkoitetut toimintaohjeet ilmaistaan selkeästi ja yksiselitteisesti. Tekstissä erotetaan kielellisesti, mikä on lukijalle pakollista (täytyä, pitää), mikä taas mahdollista tai suositeltavaa (voida, kannattaa). Lukijalle suunnattuja ohjeita ei esitetä passiivimuodossa (lomake täytetään).
+14. Asioista kerrotaan yleisellä tasolla tai tekstissä hyödynnetään epäsuoraa puhuttelua silloin, kun suora puhuttelu ei tunnu luontevalta esimerkiksi tekstin tyylin, tekstilajin, tekstissä käsiteltävien arkaluonteisten puheenaiheiden tai liiallisen suoran puhuttelun takia. (Huumetestiin voi ilmoittautua verkossa.)
+15. Lukijaa ei esitetä liian usein passiivisena tai avun kohteena, vaan lukija on myös aktiivinen toimija.
+16. Tekstissä on pääosin yleistä, lukijoille tutuksi arvioitua sanastoa.
+17. Jos vaikeaa sanaa ei voi korvata tai välttää, se on selitetty lukijalle ymmärrettävällä ja kontekstiin sopivalla tavalla.
+18. Tekstissä ei ole huomattavan paljon pitkiä sanoja.
+19. Tekstissä on pääosin konkreettisia sanoja (kirjoittaa, täytyä, sairaala).
+20. Toistoa käytetään siten, että se lisää tekstin ymmärrettävyyttä. Samaan asiaan ei viitata liian monella eri tavalla tai synonyymillä.
+21. Selitys on kohdassa, jossa vieraaksi oletettu sana esiintyy ensimmäistä kertaa. Selitys ei aiheuta lisäselittämisen tarvetta. Pitkässä tekstissä selitys toistetaan tarvittaessa.
+22. Tekstissä ei selitetä sanoja, jotka voidaan olettaa lukijalle tutuksi (sairaala on paikka, jossa hoidetaan potilaita).
+23. Tekstissä on käytetty vain olennaisia erikoiskielisiä käsitteitä, ja ne on selitetty hyvin.
+24. Pitkissä yhdyssanoissa on hyödynnetty osittaistoistoa ensimaininnan jälkeen (maa- ja metsätalousministeriö > ministeriö).
+25. Pronominiviittaukset ovat selviä, eikä pronomini jää liian kauaksi viittauskohteestaan.
+26. Tekstissä ei ole vierassanoja, jos niille on yleinen, kotoperäinen vastine (resurssi – aikaa, rahaa, työtä, ihmisiä; informaatio – tieto; reklamoida – tehdä valitus; show – esitys).
+27. Kielikuvia on maltillisesti. Tekstissä käytetyt kielikuvat ovat tuttuja ja yleisiä, ja niitä on vaikea korvata muilla sanoilla (säästää aikaa, sähkövirta, verkko).
+28. Tekstissä ei ole kielikuvia, joiden ymmärtäminen vaatii luovaa päättelyä (juustohöylätä, aivovuoto, lasikatto, silmiinpistävä, tiekartta merkityksessä ’suunnitelma’).
+29. Tekstissä on isoja ja tarkkoja lukuja vain, jos se on tekstin aiheen kannalta perusteltua. Lukuja on tarvittaessa likimääräistetty.
+30. Luvut, lukumäärät, mittayksiköt ja lukujen väliset suhteet esitetään havainnollisesti.
+31. Tekstissä ei ole lyhenteitä, pois lukien vakiintuneet lyhenteet, jotka tunnistetaan paremmin lyhenteinä kuin aukikirjoitettuina (Kela, PDF, DVD).
+32. Tekstissä ei ole huomattavan paljon vaikeaksi arvioitavia kielen rakenteita.
+33. Lauseet ja virkkeet ovat pääosin lyhyitä.
+34. Yhdessä lauseessa ilmaistaan vain yksi tärkeä asia.
+35. Substantiiveilla ei ole monimutkaisia määritteitä, kuten partisiippirakenteita (maasta lähteneet henkilöt, koulutukseen liittyvät materiaalit, lääkäriltä saamasi ohje).
+36. Tekstissä ei ole lauseenvastikkeita eikä muita vastaavia infiniittisiä rakenteita (Voidakseen osallistua opiskelijan täytyy ilmoittautua etukäteen. Jos haluat terveyttäsi selvitettävän, ota yhteyttä. Allekirjoittamatta jäänyttä hakemusta ei käsitellä.).
+37. Tekstissä käytetään nominien perusmuotoja, jos se on lauseyhteydessä mahdollista ja luontevaa.
+38. Tekstissä on pääosin nominien helpoimpia taivutusmuotoja. Harvinaisia sijamuotoja abessiivia (huomiotta, tauotta), komitatiivia (liitteineen) ja instruktiivia (pienin muutoksin) ei ole.
+39. Tekstissä ei ole sanoja, joissa on useita erilaisia elementtejä, kuten johtimia, taivutuspäätteitä ja liitteitä (lomakkeisiimmekaan, ymmärtääkseni, puolustamiesi).
+40. Verbit ovat pääosin preesensissä (lähetät) ja imperfektissä (lähetit). Perfektiä ja pluskvamperfektiä (olet lähettänyt, olit lähettänyt) käytetään vain, jos tekstin aikasuhteet sitä vaativat.
+41. Verbin moduksista käytetään enimmäkseen indikatiivia (palautan, puhumme) ja imperatiivin 2. persoonaa (palauta, puhukaa). Tekstissä ei ole harvinaisia verbimoduksia, kuten potentiaalia (tehnee, tietänemme) ja vanhahtavia 3. persoonan imperatiivimuotoja (tehköön).
+42. Konditionaalia käytetään vain, jos sitä ei voi korvata indikatiivilla ilman, että merkitys selvästi muuttuu. (Hakemus kannattaa jättää, vaikka et olisi saanut vielä opiskelupaikkaa.)
+43. Substantiiveilla ei ole useita määritteitä (Sairastuminen voi olla vakava, vaarallinen ja pelottava asia.).
+44. Yhteen kuuluvat sanat, kuten verbiliitot ja verbien rektion mukaiset ilmaukset, esitetään peräkkäin tai mahdollisimman lähekkäin (Päätös vaikuttaa ensi kuun alusta alkaen asumistukeesi. > Päätös vaikuttaa asumistukeesi ensi kuun alusta alkaen.).
+45. Tekstissä on pääosin lauseita, jotka rakentuvat persoonamuotoisen verbin varaan (Palauta lomake ajoissa. Vastaamme viesteihin maanantaisin.).
+46. Tekstissä ei ole substantiivityylisiä ilmauksia (ns. substantiivitauti, esim. Projektin toteutuksen suunnittelu aikataulutetaan.).
+47. Tekstissä käytetään suoraa sanajärjestystä (esim. subjekti, predikaatti, objekti). Käänteistä sanajärjestystä käytetään vain silloin, jos tekstin rakenne niin vaatii tai teksti muuten muuttuu monotoniseksi.
+48. Predikaatti sijaitsee lauseen alkupuolella.
+49. Tekstissä käytetään passiivia vain silloin, kun tekijä ei ole tiedossa tai tekijän mainitseminen ei ole olennaista (Presidentinvaalit järjestetään kuuden vuoden välein. Talo on rakennettu 1920-luvulla.).
+50. Lauseessa ei esitetä kaksinkertaista kieltoa (Laskuja ei saa jättää maksamatta.).
+51. Virkerakenteet ovat yksinkertaisia. Sivulauseita on pääosin vain yksi.
+52. Virkkeissä päälause ja sivulause ovat tekstin etenemisen kannalta loogisessa järjestyksessä.
+53. Virkkeissä lauseet on sidottu toisiinsa esimerkiksi konjunktioilla (siksi, mutta, kun) niin, että asioiden väliset suhteet käyvät ilmi tekstistä.
+54. Tekstissä ei ole kiilalauseita (Palveluja, joita ovat esimerkiksi asumispalvelut, vammaispalvelut ja vanhuspalvelut, voit hakea tällä lomakkeella.).
+55. Virkkeissä ei esitetä monimutkaisia kieltosuhteita (Et saa kurssimerkintää, jos et palauta tehtävää).

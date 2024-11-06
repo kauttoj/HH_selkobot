@@ -1,0 +1,22 @@
+<title>Ruokajonoista tuli pysyvä ilmiö</title>
+<lead>Suomessa on paljon köyhiä, joiden on pakko hakea ruokansa ruuanjakelusta.</lead>
+Heikki Hursti johtaa yhdistystä, joka jakaa ruokaa tuhansille köyhille ihmisille Helsingin Kalliossa.
+<subtitle>Mistä saatte ruuat ja tavarat, joita jaatte?</subtitle>
+<quote>– Saamme ruokaa suurilta kaupoilta, kuten S-marketeilta ja K-kaupoilta. Se ruoka menisi muutoin roskiin tai kaatopaikoille.</quote>
+<quote>– Saamme muitakin tuotteita, kuten vaatteita ja kenkiä. Saimme juuri eräältä yritykseltä 30 000 euron arvosta pesuaineita. Yksityishenkilöiltä otamme vastaan puhtaita ja ehjiä vaatteita. Ruokaa emme heiltä ota vastaan, koska emme voi varmistaa, että se säilyy tuoreena.</quote>
+<subtitle>Ketkä hakevat ruokaa ruuanjakelusta?</subtitle>
+<quote>– Jaamme ruokaa Helsinginkadun jakelupisteessä Helsingin Kalliossa kaksi kertaa viikossa. 2 500 ihmistä käy hakemassa meiltä ruokaa joka kerta. Lähetämme myös ruokapaketteja eri puolille Suomea.</quote>
+<quote>– Ruoka-apua käyttää Helsingissä kaikkiaan 7 000 köyhää ihmistä. Joukossa on paljon vanhuksia, opiskelijoita ja yksinhuoltajia. Maahanmuuttajien määrä kasvaa.</quote>
+<quote>– Erilaiset järjestöt ja seurakunnat jakavat ruokaa muualla Suomessa. Koko maassa ruokajonoissa käy 20 000 ihmistä joka viikko.</quote>
+<subtitle>Mitä avunsaajat ajattelevat ruokajonoista?</subtitle>
+<quote>– He ovat kiitollisia. Monet sanovat, että he eivät voisi elää ilman ruoka-apua. Eräs henkilö kävi ruuanjakelussa säännöllisesti kahden vuoden ajan. Sitten hän kertoi, että hän oli saanut töitä. Hän ei enää tarvinnut ruoka-apua. Se oli hienoa kuulla.</quote>
+<subtitle>Mitä pitäisi tehdä, että ihmisten ei tarvitsisi mennä ruokajonoon?</subtitle>
+<quote>– Köyhiä on ollut aina. Olemme jakaneet ruokaa jo 40 vuotta. Nykyään monet tuet kuten kansaneläke, työttömyyspäiväraha tai opintotuki ovat liian pieniä. Ihmiset eivät tule toimeen niillä.</quote>
+<quote>– Kyse on kuitenkin tahdosta ja sydämen asenteesta. Meillä on varaa antaa miljoonia euroja esimerkiksi Kreikan tukemiseen. Esimerkiksi kunnilla ei ole nyt rahaa, jolla ne voisivat järjestää ruoka-apua köyhille.</quote>
+<quote>– Minusta poliitikot voisivat hoitaa köyhien asiat kuntoon, jos haluaisivat.</quote>
+<subtitle>Mitä tapahtuu Töölön Kisahallissa Helsingissä jouluaattona?</subtitle>
+<quote>– Etkö ole koskaan käynyt?</quote>
+Enpä ole. Olen vain nähnyt sieltä kuvia televisiossa ja lukenut lehdistä.
+<quote>– Järjestämme Töölön Kisahallissa joulu- aattona kello 12 perinteisen joulujuhlan. Mukaan mahtuu noin 1 400 juhlavierasta. He saavat kunnon jouluruokaa. Jouluohjelmasta vastaavat muiden muassa laulaja Sami Saari ja gospel-kuoro. Kaikki vieraat saavat mukaansa joulukassin. Lisäksi tapaninpäivänä 26. joulukuuta jaetaan loput ruuat, jos jotain jää yli.</quote>
+<quote>– Tervetuloa! Ja hyvää joulua!</quote>
+<subtitle>Kiitos samoin!</subtitle>

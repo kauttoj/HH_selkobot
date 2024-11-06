@@ -1,0 +1,17 @@
+<title>Lapsuus on lyhyt Suomessa</title>
+<lead>Tuomas Kurttila on Suomen lapsiasiavaltuutettu. Hänen mielestään lapsilla on Suomessa asiat hyvin, jos verrataan moniin muihin maihin. Kurttila toivoisi kuitenkin, että suomalaisten lasten lapsuus voisi kestää pidempään.</lead>
+<subtitle>Mitä lapsiasiavaltuutettu tekee?</subtitle>
+<quote>– Lapsiasiavaltuutettu seuraa, miten lasten oikeudet toteutuvat yhteiskunnassa. Lapsiksi lasketaan kaikki alle 18-vuotiaat. Meitä on lapsiasiavaltuutetun toimistossa viisi työntekijää. Teemme yhteistyötä esimerkiksi opetushallituksen, ministeriöiden ja eri järjestöjen kanssa.</quote>
+<subtitle>Millainen paikka Suomi on lapsille?</subtitle>
+<quote>– Suomi on lapsille yksi parhaita paikkoja maailmassa. Suurin osa eli 90 prosenttia lapsista sanoo myös itse, että heillä on hyvin asiat.</quote>
+<quote>– Mutta ei meilläkään kaikki ole hyvin. Olen huolissani siitä, että kaikilla lapsilla Suomessa ei ole mahdollisuutta hyvään koulutukseen ja harrastuksiin. Esimerkiksi 15-vuotiaista pojista joka kahdeksas ei osaa lukea kunnolla. Se osoittaa, että kaikki lapset eivät saa koulussa tukea, jota he tarvitsevat.</quote>
+<subtitle>Mitä asioita haluaisit muuttaa?</subtitle>
+<quote>– Aikuisten päättäjien pitäisi aina ajatella lapsia, kun he tekevät päätöksiä. Monet yhteiskunnalliset päätökset vaikuttavat lapsiin. Siinä olisi parantamisen varaa.</quote>
+<quote>– Suurin osa lapsista sanoo, että he luottavat vanhempiinsa. Se on hyvä. Mutta kaksi kolmesta lapsesta yläasteella sanoo, että aikuiset eivät puutu kiusaamiseen. Se ei ole hyvä. Valitettavasti kiusaaminen on hyvin yleistä monissa kouluissa. Monien lasten mielestä kiusaamisen lopettaminen kouluissa on heille tärkein asia.</quote>
+<quote>-Suomessa lapsuus on aika lyhyt. Monet teini-ikäiset sanovat, että he haluaisivat leikkiä. He eivät kuitenkaan leiki, koska he ovat jo niin isoja. Se ei kuulosta hyvältä.</quote>
+<quote>– Ilmapiiri Suomessa voisi olla myönteisempi ja parempi. Lapset tarvitsevat kannustamista. Meidän aikuisten tulisi nähdä elämän iloiset ja valoisat puolet yhdessä lasten kanssa. Suomalaisilla on kuitenkin vähän synkeä elämänasenne. Sitä me voisimme muuttaa, eikä se maksa mitään.</quote>
+<subtitle>Miten yhteiskunnan huono taloustilanne ja säästöt vaikuttavat lapsiin?</subtitle>
+<quote>– Kyllä ne vaikuttavat, eivätkä mitenkään hyvällä tavalla. Joskus pienet säästöt voivat johtaa isompiin kustannuksiin. Se nähtiin edellisen laman aikana, kun säästettiin perheiden kotiavusta. Siitä seurasi isompia ja vaikeampia ongelmia myöhemmin. Täytyy muistaa, että lapsuuden kokemukset vaikuttavat koko elämään myöhemmin.</quote>
+<subtitle>Mitä mieltä olet sosiaalisesta mediasta?</subtitle>
+<quote>– Siinä on hyviä ja huonoja puolia. On hienoa, että vanhemmat ovat ylpeitä lapsistaan ja julkaisevat heidän kuviaan. Siihen pitäisi oikeastaan kysyä ensin lupa lapsilta. Sama koskee koulua. Koulussa ei aina kysytä lapselta, saako heidän todistuksensa ja koulutyönsä julkaista blogissa. Lapsen tahto pitäisi ottaa huomioon.</quote>
+<quote>– Sosiaalisessa mediassa on myös hyviä puolia. Ihmiset voivat pitää yhteyttä toisiinsa ja saada apua eri tilanteissa. Myös lapset käyttävät paljon sosiaalista mediaa. Kuvat ovat tärkeitä lapsille. Usein lapset haluavat, että vanhemmat ja muut aikuiset ovat kiinnostuneita kuvista, joita he lataavat nettiin. Täytyy kuitenkin ottaa muut huomioon, kun nettiin laittaa tekstiä tai kuvia. On tärkeää, että vanhemmat puhuvat lasten kanssa siitä, miten netissä toimitaan.</quote>

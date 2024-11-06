@@ -1,0 +1,21 @@
+<title>Piispa Kaisamari Hintikka löytää joulusta hyvää tahtoa ja rakkautta</title>
+<lead>Kaisamari Hintikka on Suomen ainoa naispiispa. Espoon piispa viettää joulua läheistensä kanssa rauhassa, nauttii joulun sanomasta ja hyvästä ruuasta.</lead>
+Kaisamari Hintikka on ainoa nainen luterilaisen kirkon piispojen joukossa.
+<subtitle>Olet työskennellyt piispana vuoden. Miten työ on alkanut sujua?</subtitle>
+<quote>– Tämä on valtavan mielenkiintoinen ja samalla kiireinen työ. Olen tavannut paljon ihmisiä ja vieraillut jokaisessa Espoon seurakunnassa. Piispan on hyvä olla mukana myös yhteiskunnallisessa keskustelussa. Sillä tavalla voi nostaa esiin tärkeitä asioita, huolia ja kysymyksiä. Tavallista työpäivää ei ole, ne ovat kaikki erilaisia.</quote>
+<subtitle>Miten sinusta tuli pappi ja teologi?</subtitle>
+<quote>– Rippikoulu oli minulle merkittävä kokemus. Tiesin sen jälkeen, että haluan kirkollisiin töihin. Kun aloin opiskella teologiaa, halusin lähetystyöhön. Kun valmistuin, jäin töihin Helsingin yliopiston teologiseen tiedekuntaan. Valmistuin sieltä teologian tohtoriksi.</quote>
+<subtitle>Olet työskennellyt myös ulkomailla. Avarsiko se maailmankuvaasi?</subtitle>
+<quote>– Työskentelin Sveitsin Genevessä Luterilaisessa maailmanliitossa seitsemän vuotta. Se oli merkittävää aikaa minulle. Se muutti myös maailmankuvaani. Ymmärsin, että tässä maailmassa voi olla hyvin monella tavalla kristitty ihminen.</quote>
+<subtitle>Millainen johtaja olet?</subtitle>
+<quote>– Yritän olla ihmisen kokoinen johtaja, joka on reilu ja kuuntelee. Haluan tehdä asioista ja tyylistä ymmärrettäviä oman tekemiseni kautta. Osaan olla myös vaativa ja tiukka. Se, mistä on sovittu yhteisesti, myös tehdään.</quote>
+<subtitle>Seuraako kirkko tarpeeksi aikaansa?</subtitle>
+<quote>– Kirkko on yhteisö, jonka kuuluu seurata aikaansa. Sen täytyy elää ajassa ja levittää hyvää sanomaa. Kirkon kuuluu myös kulkea vastavirtaan ja olla omapäinen. Kirkon täytyy haastaa.</quote>
+<subtitle>Millainen tulevaisuus Suomen luterilaisella kirkolla on?</subtitle>
+<quote>– Tulevaisuus näyttää kiinnostavalta. Kirkossa on menossa suuri murros. Olemme siirtyneet eteenpäin ajatuksesta, että luterilaisen kirkon asema on itsestäänselvä. Kirkko on enemmän mukaan ottava ja avoin.</quote>
+<subtitle>Pitäisikö kirkon vihkiä samaa sukupuolta olevia avioliittoon?</subtitle>
+<quote>– Pitäisi. Asiassa pitää saavuttaa yhteinen ratkaisu. Toivon, että se tapahtuu ennen pitkää.</quote>
+<subtitle>Pitäisikö naisia olla enemmän piispoina?</subtitle>
+<quote>– Kyllä. Se olisi kiva siinäkin mielessä, että minulla olisi naispuolisia työtovereita. On se merkittävää myös siltä kannalta, miltä piispajoukkomme näyttää.</quote>
+<subtitle>Miten vietät joulua?</subtitle>
+<quote>– On kiva, että ehdimme sisarusteni kanssa saman katon alle edes kerran vuodessa. Joulun perinteet rytmittävät pari päivää joulunpyhiä. Onneksi ei ole kiire. Toivon, että joulu on se aika vuodesta, jolloin ihmisillä riittää hyvää tahtoa ja lähimmäisenrakkautta.</quote>

@@ -1,0 +1,17 @@
+<title>Eric viihtyy Suomessa ja saunassa</title>
+<lead>Eric Lipchis on toimittaja. Hän muutti Suomeen Espanjasta. Eric tunnetaan Aamulehden Eric Suomessa -videosarjasta.</lead>
+<subtitle>Miten päädyit Suomeen?</subtitle>
+<quote>– Tapasin nykyisen tyttöystäväni junassa Barcelonassa viisi vuotta sitten. Vuonna 2016 muutin pysyvästi hänen luokseen Suomeen.  Asuin jo edellisenä vuonna kolme kuukautta Suomessa. Synnyin Argentiinassa ja muutin perheeni kanssa lapsena Espanjaan. Olen siis ollut maahanmuuttaja melkein koko elämäni ajan. Olen onneksi viihtynyt aina hyvin. Ikävöin välillä perhettäni.</quote>
+<subtitle>Mitä olet opiskellut?</subtitle>
+<quote>– Opiskelen Haaga-Helian ammattikorkeakoulussa maahanmuuttajataustaisten toimittajien koulutuksessa. Opiskelu kestää ensi vuoden kesään saakka. Suoritin toukokuun lopussa suomen kielen keskitason tutkinnon. Olen siitä tosi ylpeä. Opiskelin journalismia Barcelonan yliopistossa. Minulla on toimittajan tutkinto. Haluan työskennellä media-alalla Suomessa ja opiskella suomen kielen kunnolla.</quote>
+<subtitle>Millaista oli, kun muutit Suomeen?</subtitle>
+<quote>– Kun muutin Suomeen, oli kevät. Seuraavat kolme kuukautta Suomessa oli harmaata ja kymmenen astetta. Joka päivä. Silloin minulla oli vähän vaikeaa. Kaipasin aurinkoa. Ei minua haittaa, jos on talvi, lunta ja kylmä.</quote>
+<subtitle>Mikä on parasta Suomessa?</subtitle>
+<quote>– Elämä Suomessa on hyvää. Vaikka talvi on kylmä ja pimeä, on kuitenkin rauhallista. Nautin siitä, kun pääsen hiljaiseen metsään. Pidän kovasti vesistöistä. Suomessa on tosi kauniita järviä ja meri. Barcelonassa on hankala löytää rauhallista paikkaa. Suomen alkukesä on hienoa aikaa. Silloin on valoisaa.</quote>
+<quote>– Rakastan saunaa! Saunon kolme kertaa viikossa. Meillä on vakituinen vuoro asuintalossamme. Lisäksi käyn julkisissa saunoissa.</quote>
+<subtitle>Pidätkö suomalaisesta ruuasta?</subtitle>
+<quote>– Pidän paljon kalaruuista. Lohi on herkkuruokaani. Kun muutin Suomeen, halusin syödä joka päivä lohta. Söin lohikeittoa, uunilohta, graavilohta, savulohta, grillattua lohta. Lohi maistuu Suomessa paljon paremmalta kuin Espanjassa. Tykkään myös uusista perunoista eli varhaisperunoista ja sillistä. Juon kahvia aamuisin, kuten suomalaisen kuuluu tehdä. Syön myös mämmiä, vaikka se ei ole minun suosikkini. Salmiakkia on mukava viedä tuliaisiksi Espanjaan, koska juuri kukaan ei pysty syömään sitä.</quote>
+<subtitle>Olet tehnyt Youtubeen videoita, jossa tutustut suomalaisiin ilmiöihin. Mistä keksit aiheet?</subtitle>
+<quote>– Tein 112 jaksoa Eric Suomessa -sarjan videoita. Teimme sitä sarjaa kolmen vuoden ajan. Saan ideat videoihin omasta elämästäni ja tapahtumista, jotka sattuvat minulle ja ystävilleni. Minulla on paljon uusia aiheita videoita varten.</quote>
+<subtitle>Mitkä ovat Suomen ja Espanjan erot?</subtitle>
+<quote>– Joskus väitetään, että suomalaiset ovat hiljaisia ja etäisiä. Minun mielestäni suomalaiset ovat kuitenkin erittäin mukavia ja ystävällisiä. Monet ovat vain ujoja. Tutustuminen saattaa viedä jonkin aikaa. Espanjassa kaikki puhuvat melkein koko ajan. Hiljaisuus on siellä hyvin vaivaannuttavaa.</quote>

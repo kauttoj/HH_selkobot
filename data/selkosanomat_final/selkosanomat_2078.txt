@@ -1,0 +1,20 @@
+<title>Kirjoja ihmisistä ja tunteista</title>
+<lead>Kjell Westö on tunnettu kirjailija, jonka teoksia on käännetty monille kielille. Westön uusi romaani ilmestyy elokuussa. Kirjan nimi on Tritonus.</lead>
+Kjell Westö on suomenruotsalainen kirjailija. Westö rakastaa kirjoittamista. Kun hän saa yhden kirjan valmiiksi, hän alkaa heti kirjoittaa uutta kirjaa.
+Kjell Westön kirjoja on käännetty yli 20 kielelle. Joistakin hänen kirjoistaan on tehty näytelmiä ja elokuvia. Hän kirjoittaa myös runoja, novelleja ja kolumneja. Westön kahdeksas kirja ilmestyy syksyllä 2020.
+<subtitle>Miten sinusta tuli kirjailija?</subtitle>
+<quote>– Koulussa rakastin kirjoittamista, mutta pidin myös liikunnasta ja musiikista. Ajattelin, että haluan olla muusikko tai toimittaja. Vähitellen kirjoitin yhä enemmän ja enemmän. Kirjoitin laulujen sanoja, artikkeleita, runoja ja novelleja. Silti tunsin itseni oikeaksi kirjailijaksi vasta, kun olin julkaissut 4–5 kirjaa.</quote>
+<quote>– Äidilläni on tarina ajalta, jolloin olin kahdeksan vuotta. Eräänä sateisena syyspäivänä istuin keittiön pöydän ääressä ja kirjoitin ruutuvihkoon. ”Mitä sinä teet?” äiti kysyi. ”Kirjoitan kirjaa”, vastasin. Ehkä kuitenkin tiesin jo lapsena, että minusta tulee kirjailija.</quote>
+<subtitle>Mitä kirjasi käsittelevät?</subtitle>
+<quote>– Kirjani käsittelevät ihmisiä ja ihmissuhteita. Kirjoitan ystävyydestä, petoksista, rakkaudesta ja vihasta. Olen kiinnostunut myös siitä, miten ihmiset selviävät suurista muutoksista kuten sodasta tai taloudellisista vaikeuksista.</quote>
+<subtitle>Ovatko kirjojesi henkilöt olemassa?</subtitle>
+<quote>– Eivät ole. En kirjoita omasta elämästäni tai tutuistani. Toisinaan kirjoissani voi olla joku tunnettu henkilö, mutta ei pääroolissa.</quote>
+<subtitle>Millaisia työpäiväsi ovat?</subtitle>
+<quote>– Yritän elää terveellisesti, liikkua ja nukkua tarpeeksi.</quote>
+<quote>– Hyvä päivärytmi on tärkeä. Kirjoitan päivällä ja nukun yöllä. Olen luovempi, jos pidän huolta itsestäni. Minulle ei kuitenkaan ole tarkkoja aikatauluja. Joskus aloitan kirjoittamisen kahdeksalta aamulla, joskus vasta yhdeltätoista.</quote>
+<quote>– On vaikeaa vaihdella kirjan maailman ja oikean elämän välillä. Elän niin vahvasti kirjan maailmassa. Toisinaan ajattelen koko päivän tarinaa, jota kirjoitan. Kuitenkin myös arjen täytyy toimia. Siksi teen muutakin kuin kirjoitan. Pidän esimerkiksi urheilusta ja meritaimenien kalastamisesta.</quote>
+<subtitle>Kuinka kauan kirjoitat kirjaa?</subtitle>
+<quote>– Ensin saan idean. Kehitän ideaa ja kerään materiaalia muutaman vuoden. Kutsun tätä ideavaiheeksi. Sen jälkeen kirjoitan kirjan valmiiksi yhdessä tai kahdessa vuodessa. Yhden kirjan kirjoittamiseen menee yhteensä 3–6 vuotta.</quote>
+<quote>– Kirjoitan yhden kirjan kerrallaan. Kun kirja on valmis, minulla on yleensä jo uusi idea seuraavaan kirjaan. Elokuussa 2020 ilmestyy uusin kirjani, Tritonus, jota olen tehnyt neljä vuotta.</quote>
+<subtitle>Millaista kieltä käytät kirjoissasi?</subtitle>
+<quote>– Urani alussa käytin runsasta ja monisanaista kieltä. Kirjojeni kieli muuttui noin kymmenen vuotta sitten. Aloin kirjoittaa yksinkertaista kieltä ja antaa tilaa piilotetuille merkityksille. Tarkkuus on kuitenkin aina ollut minulle tärkeää. Haluan löytää oikeat sanat sille, mitä sanon.</quote>

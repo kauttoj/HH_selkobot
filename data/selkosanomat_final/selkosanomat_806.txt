@@ -1,0 +1,22 @@
+<title>Loppuuko urheilun doping?</title>
+<lead>Timo Seppälä johtaa dopingin vastaista työtä Suomessa. Päästäänkö dopingista urheilussa ikinä eroon?</lead>
+Timo Seppälä on taistellut dopingia vastaan melkein 30 vuotta. Hän on Suomen dopingin vastaisen toimikunnan lääketieteellinen johtaja. Doping tarkoittaa kiellettyjen aineiden käyttöä urheilussa.
+<subtitle>Kuinka kauan dopingia on ollut olemassa?</subtitle>
+<quote>– Luulen, että dopingia on käytetty aina. Ainakin niin kauan kuin ihmiset ovat urheilleet ja kilpailleet.</quote>
+<subtitle>Mitä menetelmiä käytettiin ennen vanhaan?</subtitle>
+<quote>– Jo 1800-luvulla urheilijat käyttivät piristeitä, kuten strykniiniä. Myös alkoholia on käytetty dopingina. Ennen ei ollut sääntöjä, jotka kieltävät dopingaineita.</quote>
+<subtitle>Milloin säännöt tulivat?</subtitle>
+<quote>– 1920-luvulla laadittiin sääntöjä, jotka kielsivät piristeiden käytön. Silloin urheilijoita ei vielä testattu, joten piristeiden käyttö jatkui. Pyöräilijät käyttivät esimerkiksi amfetamiinia. Kun urheilijoita kuoli, ymmärrettiin, että dopingia vastaan täytyy taistella kovemmin.</quote>
+<quote>– Ensimmäinen kiellettyjen aineiden lista syntyi vuonna 1968. Silloin alkoi myös urheilijoiden testaus.</quote>
+<subtitle>Miksi dopingia käytetään edelleen?</subtitle>
+<quote>– Testaus on ongelma. Huijarit käyttävät usein menetelmiä, jotka eivät vielä paljastu testeissä. 1970-luvulla kiellettiin testosteroni ja anaboliset steroidit, otka kasvattavat lihaksia. Mutta vasta 1980-luvulla steroidit pystyttiin havaitsemaan testeissä.</quote>
+<subtitle>Luuletko, että urheilijat käyttävät edelleen dopingia?</subtitle>
+<quote>– Uskon, että vähemmän kuin 1970- ja 1980-luvuilla. Mutta huijareita on yhä. Kehitetään uusia aineita, joita ei havaita testeissä.</quote>
+<quote>– Valitettavasti yhä tapahtuu isoja skandaaleja, kuten äskettäin Venäjällä. Siellä koko urheilujärjestelmä oli mukana huijauksessa. Urheilijoita varoitettiin etukäteen, milloin heitä testataan. Huijauslaboratoriot piilottivat positiiviset testitulokset ja lähettivät vain puhtaat tulokset eteenpäin.</quote>
+<subtitle>Norjalaiset urheilijat, erityisesti hiihtäjät, ovat ylivoimaisia. Luuletko, että he käyttävät dopingia?</subtitle>
+<quote>– Uskon, että norjalaiset hiihtäjät ovat niin hyviä, koska Norjassa on niin vahva urheilu- ja varsinkin hiihtokulttuuri. Hyvin monet norjalaiset urheilevat ja kilpailevat. Se selittää, miksi he voittavat niin usein.</quote>
+<subtitle>Loppuuko dopingin käyttö koskaan?</subtitle>
+<quote>– Ei, en usko. Kilpaurheilijat yrittävät aina käyttää aineita, jotka tekevät heistä parempia. Mutta toivon, että voimme säilyttää nykyisen, melko puhtaan tason.</quote>
+<quote>– Urheilussa liikkuu valtavasti rahaa. Urheilijoiden palkintorahat ovat usein suuria. Urheiluorganisaatiot saavat mainoksista ja tv-oikeuksista todella suuria korvauksia. Siksi menestys ja ennätykset ovat erityisen tärkeitä.</quote>
+Käyttävätkö suomalaiset urheilijat dopingia?
+<quote>– Uskon, että suomalaiset eivät juuri käytä dopingia. Testit ovat olleet erittäin tiukkoja vuoden 2001 hiihdon MM-kisojen dopingskandaalin jälkeen.</quote>

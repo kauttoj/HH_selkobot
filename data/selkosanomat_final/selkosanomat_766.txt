@@ -1,0 +1,18 @@
+<title>Lisää liikettä lapsille</title>
+<lead>Lasten liikuntasuositukset muuttuivat juuri. Asiantuntijat suosittelevat nyt, että alle 8-vuotiaat lapset liikkuvat vähintään kolme tuntia päivässä.</lead>
+Aiemmin suositeltiin vähintään kahta tuntia liikuntaa päivässä. Professori Timo Lakka kuuluu ryhmään, joka laati uuden suosituksen.
+<subtitle>Miksi suositusta kasvatettiin?</subtitle>
+<quote>– Se perustuu uusiin tutkimuksiin. Liikunnan runsas määrä ja monipuolisuus ovat tärkeitä. Riittävä liikunta ehkäisee monia sairauksia ja ylipainoa.</quote>
+<quote>– Lasten liikuntaan kuuluu leikkiä ja kevyttä liikuntaa. Se kehittää motoriikkaa eli liikkeiden osaamista. Se vähentää myös kehon rasvaa ja estää liian rasvan kertymistä. Liikunnan suuri määrä on tärkeää. Siksi suositus nostettiin vähintään kolmeen tuntiin.</quote>
+<subtitle>Millaista liikuntaa kolmeen tuntiin pitää sisältyä?</subtitle>
+<quote>– Kaksi tuntia on kevyttä leikkiä ja ulkona puuhastelua. Sen lisäksi pitäisi olla tunti liikuntaa, jossa hengästyy ja hikoilee. Juoksentelu metsässä, hippaleikit, pallopelit, hiihto tai lumisota rasittavat sopivasti. Puissa kiipeily on hyvää liikuntaa, vaikka usein vanhemmat eivät anna lasten tehdä sitä. Rohkaiskaa lapsia liikkumaan luonnossa!</quote>
+<quote>– Raskas liikunta kuluttaa energiaa ja rasvaa. Se kehittää parhaiten verenkiertoa, luita ja lihaksia. Sen takia on hyvä olla raskastakin liikuntaa.</quote>
+<subtitle>Onko Pokémon Go hyvää liikuntaa?</subtitle>
+<quote>– Pidän sitä tosi hyvänä. Siinä tulee liikuttua kuin huomaamatta. Jotkut liikkuvat 10 kilometriä päivässä ja jopa 100 kilometriä viikossa. Muitakin liikunnallisia pelejä on. Niistä voi tulla liiketoimintaa, joka edistää terveyttä.</quote>
+<subtitle>Miksi liika istuminen on vaarallista?</subtitle>
+<quote>– Istuminen ei juuri kuluta energiaa. Kun istumme, emme käytä paljonkaan lihaksia. Päinvastoin lihasten verenkierto heikkenee. Lihakset menevät jumiin.</quote>
+<subtitle>Paljonko saa istua päivän aikana?</subtitle>
+<quote>– Suosittelen lapsille enintään kahta tuntia istumista päivässä. Jos lapsi istuu joskus kolme tuntia päivässä, ei se haittaa, jos hän liikkuu vähintään kolme tuntia päivässä. Tärkeintä on, että ei istuta pitkään yhteen menoon. Välillä pitää lähteä liikkeelle. Minäkin kävelen työpaikalla varmaan kymmenen kertaa päivässä portaat ylös ja alas.</quote>
+<subtitle>Onko lapsilla aikaa liikkua tarpeeksi?</subtitle>
+<quote>– Lapsen terveellisen elämän kolme tärkeintä asiaa ovat liikunta, ravitsemus ja lepo. Jos nukkuu riittävästi, jaksaa seuraavana päivänä liikkua. Kun on nukkunut hyvin, syö myös terveellisemmin.</quote>
+<quote>– Alle 8-vuotiaan on tärkeää nukkua noin 10 tuntia vuorokaudessa. Jäljelle jää 14 tuntia. On hyvin aikaa liikkua vähintään kolme tuntia. Sen lisäksi jää aikaa hyville harrastuksille, kuten  lukemiselle, askartelulle tai musiikille.</quote>

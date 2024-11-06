@@ -1,0 +1,26 @@
+<title>Poliitikkojen pitää käyttää selkeää kieltä</title>
+<lead>Antti Kaikkonen on puolustusministeri. Puolustusministeri hoitaa puolustusvoimia koskevia asioita puolustusministeriössä.</lead>
+Antti Kaikkonen sanoo, että Suomi on hieno maa. Suomea kannattaa puolustaa. Puolustusministeri muistuttaa, että puolustusvoimat auttavat koko yhteiskuntaa.
+<subtitle>Mitkä ovat Suomen suurimmat uhat?</subtitle>
+<quote>– Suomella ei ole tällä hetkellä suuria sotilaallisia uhkia. Suomen täytyy kuitenkin valmistautua niihin, koska tilanne voi muuttua. Eriarvoisuus, rikollisuus ja ilmastonmuutos ovat uhkia kaikille yhteiskunnille.</quote>
+<subtitle>Millainen tulevaisuus puolustusvoimilla on?</subtitle>
+<quote>– Puolustusvoimia tarvitaan myös tulevaisuudessa. Armeija on itsenäisen kansakunnan turva. Korona-aikana puolustusvoimat auttaa muuta yhteiskuntaa.</quote>
+<subtitle>Riittääkö asevelvollisia?</subtitle>
+<quote>– Yleinen asevelvollisuus toimii hyvin. Meillä on 280 000 reservi eli niin paljon joukkoja on käytettävissä. Naiset hakevat yhä enemmän vapaaehtoisesti asepalvelukseen.</quote>
+<subtitle>Pitääkö naisten päästä kutsuntoihin?</subtitle>
+<quote>– Mielestäni kutsuntoihin pitäisi kutsua koko ikäluokka. Kutsunnoissa voidaan tarkastaa palveluskelpoisuuden lisäksi myös ikäluokan yleinen tila. En kuitenkaan kannata naisten pakollista asepalvelusta.</quote>
+Suomi hankkii uusia hävittäjiä ilmavoimille. Hävittäjät maksavat 10 miljardia euroa. Miksi kalliiden hävittäjien hankinta on tärkeää?
+<quote>– Hävittäjät ovat tärkeä osa puolustusta. Ilmavoimien nykyiset Hornet-hävittäjät ovat jo vanhoja, ne ostettiin 1990-luvulla. Ymmärrän, että kyse on kalliista hankinnasta. Uusilla koneilla pärjätään kuitenkin kymmeniä vuosia, jopa 2050–2060-luvulle saakka.</quote>
+<subtitle>Pitääkö Suomen liittyä puolustusliitto Natoon?</subtitle>
+<quote>– Ei pitäisi. Suomi ja Ruotsi eivät kuulu Natoon, mutta ovat sen läheisiä kumppaneita. Tilanne on hyvä. Suomella on kuitenkin oikeus miettiä tätä asiaa uudelleen, jos haluamme muuttaa mielipiteemme.</quote>
+<subtitle>Millaisena pidätte Venäjän tilannetta?</subtitle>
+<quote>– Venäjä haluaa osoittaa, että se on sotilaallinen suurvalta. Venäjän ja länsimaiden suhteet ovat huonot. Se on valitettava asia. Venäjä on sekaantunut esimerkiksi Krimin alueen tilanteeseen ja Ukrainan sotaan. Näitä ongelmia ei ole ratkaistu. Suomella on kaikesta huolimatta hyvät suhteet Venäjän kanssa. Voimme keskustella asioista. Venäjä ei uhkaa Suomea sotilaallisesti.</quote>
+<subtitle>Mitä mieltä olette Yhdysvaltojen tilanteesta?</subtitle>
+<quote>– On hyvä, että Yhdysvallat palaa kansainvälisiin neuvotteluihin ja sopimuksiin. Toivottavasti EU:n ja Yhdysvaltojen väliset kauppasuhteet paranevat.</quote>
+<subtitle>Mitä voimme oppia koronapandemiasta?</subtitle>
+<quote>– Omavaraisuus on tärkeä asia. Suomen täytyy tulla toimeen omillaan ja ilman riippuvuutta muista. Suomella oli vaikeuksia vuosi sitten saada suojatarvikkeita koronaa vastaan. Esimerkiksi rokotusosaamista täytyy kehittää.</quote>
+<subtitle>Täytyykö politiikan kielen olla selkeää?</subtitle>
+<quote>– Ehdottomasti pitää. Yritän puhua selkeästi. En tiedä, onnistunko siinä aina. Vältän erilaisten sivistyssanojen käyttöä. Jos poliitikko ei kykene viestimään selkeästi, kuulijat eivät välttämättä ymmärrä. Monella poliitikolla on tässä asiassa parantamisen varaa.</quote>
+<quote>– Pidän selkokieltä tärkeänä asiana. Poliitikkojen pitää käyttää selkokieltä.</quote>
+<subtitle>Mitkä asiat tuovat elämään iloa?</subtitle>
+<quote>– Pienen vauvan kehityksen ja kasvamisen seuraaminen on hienoa. Siinä tapahtuu muutosta joka päivä. Se on varmasti parasta omassa elämässäni tällä hetkellä.</quote>

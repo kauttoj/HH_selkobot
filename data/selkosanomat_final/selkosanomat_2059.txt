@@ -1,0 +1,21 @@
+<title>Filosofiaa ja muumeja</title>
+<lead>Filosofi Sanna Tirkkonen tuntee Muumit. Tirkkosen artikkeli Yksinäisyyden tunteet sai Vuoden tiedekynä -palkinnon. Kirjoituksessa tarkastellaan Tove Janssonin kirjaa Muumipappa ja meri.</lead>
+Sanna Tirkkonen on filosofi eli filosofian tutkija. Hän voitti palkinnon artikkelista, jossa hän tutkii muumikirjaa. Millaisia ajattelutapoja filosofeilla ja muilla ihmisillä on? Miten ihmiset perustelevat ajatuksiaan? Mitä tieto on?
+Filosofia on tiede, joka tutkii näitä suuria kysymyksiä. Filosofian tehtävä on myös luoda uusia sanoja ja käsitteitä, jotka kuvaavat maailman ilmiöitä. Filosofia auttaa näkemään asioita eri näkökulmista.
+Sanna Tirkkonen on filosofi, joka voitti Vuoden tiedekynä -palkinnon tänä vuonna. Palkinto myönnetään erittäin hyvälle tieteelliselle tekstille joka vuosi.
+<subtitle>Millaista työtä filosofi tekee?</subtitle>
+<quote>– Filosofi tutkii tekstejä ja kirjoittaa niistä artikkeleita tai kirjoja. Monet ajattelevat, että filosofi pohtii kysymyksiä yksin ja saa hienoja ajatuksia päähänsä yhtäkkiä. Se ei pidä paikkansa, vaan filosofit tekevät paljon yhteistyötä. Filosofi saa ajatuksia teksteistä ja keskusteluista muiden kanssa.</quote>
+<subtitle>Miten sinusta tuli filosofi?</subtitle>
+<quote>– Kiinnostuin filosofiasta lukiossa, jossa minulla oli hyvä filosofian opettaja. En kuitenkaan tiennyt vielä silloin, että minusta tulee filosofi.</quote>
+<quote>– Huomasin, että ajattelen filosofisia kysymyksiä usein. Ajatukset olivat sellaisia, joita filosofit ovat ajatelleet jo tuhansia vuosia. Oli kiinnostavaa löytää sanoja ilmiöille, joita ajattelin myös itse.</quote>
+<subtitle>Mikä filosofian aihe kiinnostaa sinua eniten?</subtitle>
+<quote>– Yleensä minua kiinnostavat ajankohtaiset aiheet. Viimeksi minua kiinnosti yksinäisyys, josta kirjoitin artikkelin. Minua kiinnostaa myös se, miten ihmiset kokevat erilaisia tunteita tai mielenterveyden häiriöitä.</quote>
+<subtitle>Voitit Vuoden tiedekynä -palkinnon artikkelilla, jonka kirjoitit Tove Janssonin Muumipappa ja meri -kirjasta. Mistä artikkeli kertoo?</subtitle>
+<quote>– Artikkeli kertoo siitä, miltä yksinäisyys voi tuntua. Näytän muumikirjan henkilöiden avulla, mitä tunteita yksinäiset kokevat. Muumit ovat perhe, mutta silti he ovat yksinäisiä toisinaan.</quote>
+<subtitle>Mitä Muumit merkitsevät sinulle?</subtitle>
+<quote>– Muumit ovat minulle ja monelle muulle suomalaiselle todella tärkeitä. Monet lapset ja aikuiset ovat katsoneet Muumeja televisiosta tai lukeneet muumikirjoja.</quote>
+<quote>– Kun olin lapsi, luin muumikirjoja. Myöhemmin huomasin, että monet muumikirjat on kirjoitettu aikuisille. Niissä on mukana paljon synkkiä aiheita, kuten yksinäisyyden kokemuksia. Lapset ja aikuiset kiinnittävät huomiota eri asioihin, kun he lukevat Muumeja.</quote>
+<subtitle>Millaisia elämänohjeita löydät muumikirjoista?</subtitle>
+<quote>– Muumien tärkein ohje on, että jokainen saa olla oma itsensä. Muumien luona käy paljon erilaisia Muumilaakson asukkaita. He ottavat kaikki vastaan iloisesti. Kukaan Muumien hahmoista ei ole vain hyvä tai paha, vaan muumeilla on erilaisia piirteitä. Myös hankalat tyypit saavat tulla Muumitaloon.</quote>
+<subtitle>Noudatatko itse jotakin Muumien ohjetta omassa elämässäsi?</subtitle>
+<quote>– Opiskelujen alusta asti minulla on ollut tärkeä ohje: Älä ole Piisamirotta. Muumeissa Piisamirotta on synkkä hahmo, jonka mielestä kaikki on huonosti. Piisamirotta ajattelee, että millään ei ole mitään merkitystä. En halua olla samanlainen kuin Piisamirotta.</quote>

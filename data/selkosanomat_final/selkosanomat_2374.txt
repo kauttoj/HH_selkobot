@@ -1,0 +1,20 @@
+<title>Iris Toivosella on liikkuva kahvila</title>
+<lead>Iris Toivosella on mopo, jolla hän kulkee ja myy kahvia. Toivosen kahvimopo tunnetaan hyvin Turussa.</lead>
+Turkulaisella Iris Toivosella on mopo, jolla hän kulkee valmistamassa ja myymässä kahvia. Moni asiakas pysähtyy juttelemaan Iriksen kanssa pidemmäksikin aikaa. Kahvimyyjän kanssa jaetaan niin ilot kuin surutkin.
+<subtitle>Miten sinusta tuli kahvimopo-yrittäjä?</subtitle>
+<quote>– Lähdin lukion jälkeen töihin Australiaan. Opiskelin sillä matkalla baristaksi eli kahvijuomien asiantuntijaksi. Kun palasin Suomeen, niin halusin toimia täälläkin baristana. Ostin mopon, jossa on esimerkiksi kahvimylly, jolla jauhan kahvipapuja. Siinä on myös erikoisvalmisteinen kaasulla käyvä kahvinkeitin–espressokone. Nyt olen toiminut kahvimopo-yrittäjänä viisi vuotta.</quote>
+<subtitle>Missä kierrät kahvimopon kanssa?</subtitle>
+<quote>– Kiertelen ympäri Turkua. Minut voi nähdä esimerkiksi Aurajoen rannassa tai Kupittaan puistossa. Kahvimopoa voi tilata myös yksityistilaisuuksiin. Pian menen esimerkiksi hautajaisiin, uurnanlaskutilaisuuteen.</quote>
+<subtitle>Minkälaista kahvia valmistat?</subtitle>
+<quote>– Valikoimissani on aina kahta erilaista kahvilaatua. Toinen merkki sopii hyvin kahvijuomiin, joissa on maitoa. Toinen on sellainen, josta syntyy maukasta väkevää espressoa.</quote>
+<subtitle>Suomalaiset ovat kovia kahvinjuojia. Mutta olemmeko löytäneet myös erikoiskahvit?</subtitle>
+<quote>– Kyllä. Suomalainen kahvikulttuuri on muuttunut paljon jo sinäkin aikana, kun minulla on ollut kahvimopo. Aluksi asiakkaat olivat lähinnä nuoria aikuisia. Nykyisin kahvimopolta tulevat hakemaan erikoiskahvia kaiken ikäiset ihmiset. Minulla on myös paljon kanta-asiakkaita. Moni saattaa jäädä juttelemaan pidemmäksikin aikaa, se kuuluu asiaan.</quote>
+<subtitle>Mistä kahvimopon äärellä juttelette?</subtitle>
+<quote>– Näin korona-aikaan, kun rajoitusten takia joudutaan pitämään etäisyyttä muihin ihmisiin, meillä kaikilla taitaa olla kova juttuseuran tarve. Keskustelen usein asiakkaiden kanssa siitä, että tämä poikkeusaika on ollut raskasta. Mutta kahvimopolle tullaan juhlistamaan myös iloisia asioita</quote>
+<subtitle>Minkälaisista iloisia asioilla kahvimopolla on juhlistettu?</subtitle>
+<quote>– Moni on juhlistanut kahvilla esimerkiksi sitä, että on saanut koronarokotuksen. Joku toinen on tarjonnut ystävälleen syntymäpäiväkahvit. Korona-aikaan sisätilojen ravintolat ja kahvilat ovat olleet kokonaan tai osittain kiinni. Ulkona kahvimopolla on ollut senkin takia paljon asiakkaita.</quote>
+<subtitle>Mikä työssäsi on mukavinta?</subtitle>
+<quote>– Ihmisten tapaaminen on tietenkin mukavaa. Pidän todella paljon myös siitä, että saan olla ulkona, ympäri vuoden. Talvella joku saattaa säälitellä, että minulle tulee kylmä. Ei tule. Talvella pitää vain laittaa vähän enemmän vaatetta päälle.</quote>
+<subtitle>Sinulla on myös kaksi pientä lasta, 2-vuotias Elsi ja 5-vuotias Alva. Miten olet onnistunut yhdistämään äidin ja yrittäjän roolit?</subtitle>
+<quote>– Mielestäni se on mennyt aika hyvin. Minulla on nykyään apulaisia, jotka hoitavat kahvimopoa silloin, jos en itse pysty. On jännittävää nähdä, mitä Elsi ja Alva ajattelevat sitten, kun he ovat vähän vanhempia, ja huomaavat, että ihan joka äidillä ei olekaan omaa kahvimopoa.</quote>
+<quote>– Haluan rohkaista tyttäriäni tekemään rohkeasti omia ratkaisujaan. Haluan, että hekin seuraavat omia unelmiaan.</quote>

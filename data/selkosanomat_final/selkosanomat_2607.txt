@@ -1,0 +1,16 @@
+<title>Fingrid pitää huolta Suomen sähköverkostosta</title>
+<lead>Sähkön riittävyys ja hinta on nyt ajankohtainen aihe. Sähköverkoston toimintaa turvataan monella eri tavalla. Vasta viimeisenä keinona on sähköjen katkaisu ihmisiltä.</lead>
+Suomessa Fingrid-yhtiö on vastuussa sähkön riittämisestä ja suurista sähköverkoista. Fingrid-yhtiön omistaa Suomen valtio ja suomalaiset eläkeyhtiöt.
+<subtitle>Sähkönsiirtoa säädetään jatkuvasti</subtitle>
+Sähköverkot toimivat vain silloin, kun sähkön kulutus ja tuotanto ovat yhtä suuret. Tästä tasapainosta pitävät huolen Fingrid ja sähkömarkkinat eli sähkön osto ja myynti. Pohjoismaat säätävät yhdessä sähkönsiirtoa kaikille sopivaksi. Sähkömarkkinoilla sähkön hinta muuttuu koko ajan. Hinnan muuttuminen vaikuttaa siihen, milloin sähköä kannattaa käyttää.
+Fingrid ja sähkömarkkinat toimivat ennusteiden avulla. Sähkön tarvetta ennakoidaan koko ajan. Ennakointi on mahdollista, koska ihmiset ja yhteiskunta toimivat yleensä samalla tavalla vuodesta toiseen.
+Suurin osa ihmisistä herää aamulla ja laittaa silloin valot päälle, keittää kahvia ja käy suihkussa. Monet lähtevät töihin tai kouluun. Toimistoissa ja tehtaissa laitetaan valot päälle ja koneet tai tietokoneet käyntiin. Aamuisin sähkön kulutuksessa on siis äkillinen nousu, jota sanotaan kulutuspiikiksi.
+Toinen kulutuspiikki on alkuillasta. Suuri määrä ihmisiä tulee kotiin, pesee pyykkiä ja laittaa ruokaa. Valot laitetaan päälle, televisiot ja muut viihdelaitteet otetaan käyttöön. Kodin ulkopuolella tapahtuu myös paljon asioita, jotka käyttävät sähköä. Kahvilat, kaupat ja liikuntapaikat ovat vielä avoinna.
+<subtitle>Varajärjestelmät auttavat poikkeustilanteissa</subtitle>
+Joskus sähkönsiirrossa tapahtuu jotain, mitä ei osata ennakoida. Esimerkiksi sähkön siirtolinja tai tuotantolaitos voi mennä rikki. Fingridillä on useita keinoja, joilla sähkön siirto saadaan pysymään tasapainossa. Jos sähkönsiirtoa ei saada pysymään tasapainossa, sähköverkko kaatuu eli sähköt katkeavat.
+Ensimmäisen 15 minuutin aikana tasapainoa pitää yllä automaattinen järjestelmä, joka katkaisee sähkön hetkeksi esimerkiksi tietyistä kasvihuoneista. Fingrid maksaa tällaisille paljon sähköä käyttäville yrityksille siitä, että sähköt voidaan katkaista automaattisesti vähäksi aikaa. Yritykset ovat sellaisia, joissa lyhyt sähkökatko ei haittaa.
+Sähkömarkkinat ehtivät nopeasti paikkamaan epätasapainoa. Fingrid ilmoittaa myös markkinoille, jos sähkö uhkaa loppua. Silloin sähkön hinta nousee paljon ja nopeasti. Esimerkiksi isot tehtaat voivat silloin päättää vähentää sähkön käyttöä vähäksi aikaa.
+Jos mikään muu ei tasapainota sähkönsiirtoa, Fingrid käynnistää varavoimalan. Suomessa on useita varavoimaloita, jotka saadan käyntiin 15 minuutin varoitusajalla. Varavoimalat ovat viimeinen apu ja niitä käytetään harvoin.
+<subtitle>Sähköjen katkaiseminen auttaa sähköpulassa</subtitle>
+Jos varajärjestelmät eivät riitä, sähköt katkeavat koko Suomessa. Silloin sähköjen palautuminen voi kestää todella kauan. Tällaisen tilanteen estämiseksi sähköjä pitää katkaista joistain paikoista tarkoituksella. Fingrid ilmoittaa sähköyhtiöille milloin sähköt katkaistaan.
+Sähkökatkot kestävät enintään pari tuntia. Kaikissa elintärkeissä paikoissa, kuten esimerkiksi sairaaloissa turvataan sähkön saanti.

@@ -1,0 +1,23 @@
+<title>Tika Sevón Liljegren haluaa musiikista ammatin</title>
+<lead>Tika Sevón Liljegren syntyi Nepalissa. Hänen biologiset vanhempansa kuolivat, kun Tika oli pieni lapsi. Tika adoptoitiin puolentoista vuoden ikäisenä Ruotsiin. Hänen isänsä on ruotsalainen ja äitinsä on suomenruotsalainen.</lead>
+Kun Tika oli viisivuotias, perhe muutti Tammisaareen. Nykyisin Tika asuu Karjaalla. Tika voitti tänä keväänä laulukilpailu X Factorin.
+<subtitle>Kuinka kauan olet harrastanut musiikkia?</subtitle>
+<quote>– Hyvin pitkään. Kävin pienenä musiikkileikkikoulua. Olen ollut musiikkiluokalla ja opiskellut viulun soittoa. Olen laulanut bändeissä ja kuoroissa. Kun pääsin yläkouluun, aloin laulaa myös yksin. Olen käynyt Lärkkullan kansanopiston musiikkilinjan.</quote>
+<subtitle>Sinulla on myös ammatillinen koulutus?</subtitle>
+<quote>– Olen ammatiltani rakennusmaalari. Ajattelin hankkia oikean ammatin siltä varalta, jos musiikki ei elätä. En ole kuitenkaan vielä koskaan tehnyt maalarin töitä.</quote>
+<subtitle>Voitit laulukilpailu X Factor Suomen. Oletko jo julkisuuden henkilö eli julkkis?</subtitle>
+<quote>– Työskentelen ruokakaupan kassalla kotipaikkakunnallani Karjaalla. Siellä minut kyllä tunnistetaan. Monet tulevat juttelemaan kanssani, kun olen töissä. Ei minua kuitenkaan muualla Suomessa tunnisteta, jos kävelen kadulla.</quote>
+<subtitle>Mitä suositun laulukilpailun voitto merkitsee sinulle?</subtitle>
+<quote>– X Factor oli mahtava kokemus. Minulla oli mukavaa ja tutustuin moniin tosi kivoihin ihmisiin. Kilpailun ansiosta olen saanut paljon keikkoja ja työtarjouksia. Olin Saara Aallon tiimissä. Saara on erittäin mukava, hän antoi minulle tosi hyviä neuvoja.</quote>
+<subtitle>Miltä nyt tuntuu?</subtitle>
+<quote>– Koko seikkailu X Factorissa kesti kahdeksan kuukautta. Minusta tuntui kuin olisin elänyt kuplassa sen ajan. Loppukilpailu eli finaali oli toukokuun alussa. Sen jälkeen minusta tuntui hetken tyhjältä. Nyt tuntuu mukavalta, kun olen päässyt elämässäni eteenpäin.</quote>
+<subtitle>Kilpailussa selvisi, että et osaa kovin hyvin suomen kieltä. Onko se vaikea asia sinulle?</subtitle>
+<quote>– En todellakaan osaa kovin hyvin suomen kieltä. Se johtuu siitä, että vanhempani ovat ruotsinkielisiä. Olen opiskellut aina ruotsinkielisessä koulussa. Olen opiskellut myös suomea, mutta jos ei käytä kieltä, se unohtuu. Tammisaaressa suomen kieltä ei välttämättä tarvitse. Se ei kuitenkaan ole minulle ongelma. Toisinaan käytän suomen sijaan englantia.</quote>
+<subtitle>Minkälaisesta musiikista pidät?</subtitle>
+<quote>– Olen iloinen ihminen, joka tykkää melankolisesta ja surumielisestä musiikista. Pidän myös soul-musiikista ja jonkin verran rockista.</quote>
+<subtitle>Kirjoitatko omaa musiikkia?</subtitle>
+<quote>– Keikoilla esitän enimmäkseen covereita eli jonkun muun artistin tunnetuksi tekemiä kappaleita. Teen kuitenkin myös omia lauluja. Minusta on helpompi kirjoittaa sanoituksia kuin säveltää. Toivon, että voin tulevaisuudessa keskittyä enemmän oman musiikkini tekemiseen.</quote>
+<subtitle>Minkälainen kesä sinulla on tulosa?</subtitle>
+<quote>– Kesä näyttää kiireiseltä. Minulla on paljon menoja, meillä on paljon esiintymisiä. Laulamme yhdessä ystäväni Annette Lundellin kanssa Apollo Orchestrassa. Sen lisäksi teen keikkoja poikaystäväni Tomi Westin kanssa. Tomi on kitaristi.</quote>
+<subtitle>Mitä odotat tulevaisuudelta?</subtitle>
+<quote>– Haluan työskennellä musiikin parissa. Sain laulukilpailun voitosta palkinnoksi levytyssopimuksen. Levyn teko alkaa hiljalleen. Haluaisin tehdä musiikkia työkseni. Toistaiseksi jatkan kuitenkin työtäni myös kaupan kassalla. Minulla on ymmärtäväinen esimies, joka antaa vapaata musiikin tekemistä ja keikkailua varten. Toivoisin, että olisin tulevaisuudessa täysipäiväinen musiikin ammattilainen.</quote>

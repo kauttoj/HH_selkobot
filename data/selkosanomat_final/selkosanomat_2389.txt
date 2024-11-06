@@ -1,0 +1,20 @@
+<title>Helsinki on maailman hienoimpia kaupunkeja</title>
+<lead>Jan Vapaavuori on Helsingin pormestari eli korkein johtaja. Korona on hallinnut myös pormestarin työtä jo vuoden.</lead>
+Jan Vapaavuori vakuuttaa, että koronapandemiasta selvitään. Yli vuoden kestänyt korona-aika on rankkaa meille kaikille. Vapaavuori muistuttaa, että maailmassa on ollut vielä pahempia aikoja.
+<subtitle>Olette työskennellyt Helsingin pormestarina neljä vuotta. Millaista aikaa tämä on ollut?</subtitle>
+<quote>– Vauhdikasta ja kiinnostavaa. Alussa pohdimme kaupunkien merkityksen kasvua. Viimeisen vuoden ajan kaikkea on hallinnut koronapandemia. Maailma muuttuu kuitenkin koronasta huolimatta. Me emme saa unohtaa ilmastonmuutoksen uhkaa tai digitalisaation kehittymistä. Väestö ikääntyy.</quote>
+<quote>– Helsinki on Suomen suurin kaupunki ja suurin työnantaja. Helsingin kaupunki työllistää 40 000 ihmistä. Toiminta on laajaa.</quote>
+<subtitle>Mikä Helsingissä on parasta? Mikä voisi olla paremmin?</subtitle>
+<quote>– Helsingissä parasta on kokonaisuus. Filosofi Aristoteles sanoi yli 2 000 vuotta sitten, että kaupunki on hyvää elämää varten. Tämä on lempilauseitani.</quote>
+<quote>– Hyvä elämä tarkoittaa eri ihmisille eri asioita. On hyvä, että kaupunki on puhdas, siisti, vehreä, turvallinen ja elävä. Palveluiden täytyy toimia. Nämä toteutuvat Helsingissä. Parantamisen varaa on kaikessa.</quote>
+<subtitle>Miksi ette jatka pormestarina?</subtitle>
+<quote>– Meillä jokaisella on vain yksi elämä. Sen aikana on kiva tehdä erilaisia asioita. Olen toiminut erilaisissa poliittisissa tehtävissä melkein koko aikuisikäni. Nyt on aika tehdä muuta. Olen utelias luonne ja innostun uusista asioista. Politiikkaan palaaminen ei ole tällä hetkellä ajankohtaista.</quote>
+<subtitle>Olette työskennellyt Euroopan investointi-pankissa. Avarsiko se maailmankuvaanne?</subtitle>
+<quote>– Ilman muuta. Se on monikansallinen ja -kulttuurinen työyhteisö. Ihmiset tulivat hyvin monenlaisista kulttuureista ja taustoista. Investointipankki on maailman suurin julkinen pankki. Se antoi aika hyvän kuvan siitä, mikä pyörittää Eurooppaa.</quote>
+<subtitle>Minkälainen johtaja olette?</subtitle>
+<quote>– Uskon, että olen selkeä ja johdonmukainen. Olen myös kunnianhimoinen ja vaativa, mutta reilu. En mene piiloon, kun minua tarvitaan.</quote>
+<subtitle>Nyt eletään poikkeusaikaa. Miten tästä selvitään?</subtitle>
+<quote>– Uskon tulevaisuuteen. Tästä selvitään kyllä. Rokotteiden antaminen on alkanut, joten olemme matkalla takaisin kohti tavallista elämää. Maailman historiassa on ollut paljon pahempia poikkeusaikoja. Aiemmin pandemiat olivat vakavampia, koska lääketiede ei ollut yhtä kehittynyt kuin nykyään. Sodat ja nälänhätä koettelevat maailmaa.</quote>
+<quote>– Uskon ja toivon, että korona-aika on tehnyt meistä yhteisöllisempiä. Olemme ehkä ymmärtäneet läheisten ihmisten merkityksen ja heistä huolehtimisen jälleen uudelleen. On tärkeää, että voi liikkua ja kokoontua vapaasti, käydä töissä, tavata ystäviä ja osallistua juhliin. Sellaista elämää alkaa arvostaa ehkä vasta, kun niin ei voi tehdä.</quote>
+<subtitle>Miten pidätte huolta omasta hyvinvoinnistanne ja jaksamisestanne?</subtitle>
+<quote>– Liikunta on minulle tärkeä asia. Jo pelkkä ulkona oleminen auttaa jaksamaan. Kävely ja pieni puuhastelu ovat tärkeitä asioita vapaa-ajalla.</quote>

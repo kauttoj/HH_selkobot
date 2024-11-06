@@ -1,0 +1,16 @@
+<title>Uutisankkuri ja dekkaristi</title>
+<lead>Matti Rönkä on tuttu mies televisiosta. Hän lukee Ylen tv-uutisia. Rönkä on uutisankkurin työn lisäksi suosittu kirjailija.</lead>
+Matti Rönkä on Ylen uutisankkuri eli uutistenlukija. Hän seuraa maailman tapahtumia innokkaasti työajan ulkopuolellakin. Rönkä tunnetaan myös dekkaristina eli jännityskirjailijana.
+<subtitle>Mikä sinusta piti tulla isona?</subtitle>
+<quote>– Ajattelin, että minusta tulee arkkitehti. Piirsin paljon ja osasin hahmottaa muotoja. Nuorena matematiikka kuitenkin pelotti. Minusta tuntui, että en ole siinä tarpeeksi hyvä. Lukiossa tajusin, että asioiden selittäminen muille on se minun juttuni. Minusta tuli toimittaja.</quote>
+<subtitle>Kirjoititko jo nuorena?</subtitle>
+<quote>– En haaveillut kirjailijan työstä. Kirjoitin ensimmäisen Viktor Kärppä -dekkarini, koska halusin nähdä omin silmin kirjan, jonka tekijä on Matti Rönkä. Kyse ei ollut tunteesta, että jotakin jäi toimittajana sanomatta. Sain sanottua asiat toimittajan työssäni.</quote>
+<subtitle>Minkälainen kirjailija olet?</subtitle>
+<quote>– En kirjoita aamuisin vaan yleensä puuhailen mielelläni jotakin ruumiillista työtä, esimerkiksi pihamaalla. Mietiskelen samalla asioita ja aiheita. Olen hyvin suunnitelmallinen. Tekeillä olevasta kirjasta on olemassa kartta, tiedän sen alun, lopun ja tapahtumat. Mietin asiat mielessäni valmiiksi ennen kuin kirjoitan ne. Hyvänä päivänä syntyy pari sivua valmista tekstiä. Seuraava teokseni ilmestyy kesällä 2017. Se sijoittuu nykyaikaiseen työelämään. Kirjoitan Viktor Kärpällekin vielä jatkoa.</quote>
+<subtitle>Mikä kirjailijasta tuntuu mukavalta?</subtitle>
+<quote>– Ensimmäisen kirjan ilmestyminen vuonna 2002 oli iso juttu, samoin ensimmäiset arvostelut. Oli hienoa tavata omia lukijoita. Myös se oli kivaa, kun sain tehdä toisen kirjan. Tuntuu hyvältä, kun kirja käännetään toiselle kielelle tai siitä tehdään tv-sarja ja elokuva.</quote>
+<subtitle>Minkälaista on uutisankkurin työ?</subtitle>
+<quote>– Pidän tätä arvokkaana työnä. Minun ei tarvitse pohtia sitä, onko tällä työllä arvoa. On tärkeää, että voi seurata uutisista maailman tapahtumia. Minun käsitykseni mukaan kansalainen pärjää yhteiskunnassa, kun hänellä on riittävästi vapautta ja riittävästi tietoa. Jotta voisi olla jotain mieltä, pitää tietää. Vain silloin voi kunnioittaa toistenkin näkemyksiä.</quote>
+<subtitle>Mitkä uutiset ovat jääneet mieleen 26 vuoden aikana uutistenlukijana?</subtitle>
+<quote>– Ikävä kyllä ne ovat useimmiten ikäviä uutisia. Tuntuu siltä, että uutiskone toimii kaikkein parhaiten silloin, kun tapahtuu jotakin kamalaa. Silloin tuntee myös tekevänsä erityisen arvokasta työtä. On hyvä ajatella niin, että onneksi ikävät asiat ovat uutisia. Maailmassa on kuitenkin suurimmaksi osaksi kaikki hyvin. Uutinen poikkeaa vain siitä valtavirrasta.</quote>
+<quote>– Olin töissä nuorena uutispäällikkönä, kun Estonia-laiva upposi vuonna 1994. Se kosketti meitä kaikkia toimituksessa. Aasian tsunami vuonna 2004 on jäänyt myös mieleeni. Onneksi työuralleni on mahtunut myös jääkiekon maailmanmestaruuksia ja yksi euroviisuvoitto.</quote>

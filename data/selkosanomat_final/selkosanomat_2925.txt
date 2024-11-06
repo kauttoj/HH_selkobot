@@ -1,0 +1,31 @@
+<title>Presidentinvaalit 2024 – Ehdokkaat esittelyssä</title>
+<lead>Suomen uusi presidentti valitaan tammi-helmikuussa. Selkosanomat esittelee tasavallan presidentin vaalin ehdokkaat.</lead>
+<subtitle>Mika Aaltola</subtitle>
+Mika Aaltola on Ulkopoliittisen instituutin johtaja. Aaltola tuli tunnetuksi, kun hän kommentoi televisiossa Ukrainan sotaa. Aaltola pyrkii presidentiksi valitsijayhdistyksen kautta.
+<quote>– Presidentin täytyy olla rohkea. Hänen täytyy aina ajatella kansakunnan etua. Uskon, että presidentin tärkein ominaisuus on se, että hän ymmärtää, mitä maailmalla tapahtuu.</quote>
+<subtitle>Li Andersson</subtitle>
+Li Andersson on vasemmistoliiton ehdokas. Hän on toiminut vuodesta 2016 vasemmistoliiton puheenjohtajana. Andersson on kansanedustaja, ja hän oli edellisessä hallituksessa opetusministeri.
+<quote>– Haluan olla koko kansan presidentti. Keskustelen vaalikampanjassa siitä, millainen on Suomen Nato-linja ja mitä ilmastokriisille voidaan tehdä. Haluan puolustaa kansainvälistä oikeutta ja ihmisoikeuksia.</quote>
+<subtitle>Sari Essayah</subtitle>
+Sari Essayah on kristillisdemokraattien ehdokas ja puolueen puheenjohtaja. Essayah on nyt maa- ja metsätalousministeri. Hän on ollut edustajana Euroopan parlamentissa.
+<quote>– Tärkeää on muistaa kristillinen ohje: rakasta lähimmäistä niin kuin itseäsi. Mielestäni meidän pitää auttaa niitä, jotka tarvitsevat apua kipeimmin, eli sotaa ja vainoa pakenevia ihmisiä. Kansainvälinen suojelujärjestelmä ei ole tarkoitettu elintason nostoon.</quote>
+<subtitle>Pekka Haavisto</subtitle>
+Pekka Haavisto on kansanedustaja, entinen vihreiden puheenjohtaja ja entinen ulkoministeri. Hän on toiminut myös ympäristö- ja kehitysministerinä. Myös Haavisto pyrkii presidentiksi valitsijayhdistyksen kautta.
+<quote>– Uuden presidentin tärkein tehtävä on saada rauha Eurooppaan. Seuraavat vuodet ovat vaikeita, kun ajatellaan Suomen turvallisuutta. Tarvitaan presidentti, jolla on kokemusta, näkemystä ja varmuutta ulkopolitiikassa.</quote>
+<subtitle>Jussi Halla-aho</subtitle>
+Jussi Halla-aho on perussuomalaisten ehdokas. Hän on nyt eduskunnan puhemies ja perussuomalaisten entinen puheenjohtaja. Halla-aho on ollut edustajana myös Euroopan parlamentissa
+<quote>– Päätöksenteon pitää ajaa Suomen kansalaisten etua. Presidentin ei pidä ajaa yksittäisten ryhmien etua. Poliittisen toiminnan vapaus on minulle ja perussuomalaisille tärkeä peruskysymys.</quote>
+<subtitle>Harry Harkimo</subtitle>
+Harry Harkimo on Liike Nyt -puolueen ehdokas ja puolueen puheenjohtaja.
+<quote>– Presidentti-instituutiossa voisi olla rennompi ote. Presidentti voisi mielestäni ottaa asioihin enemmän kantaa. Presidentin virka vaatii laajaa kokemusta elämästä ja mielellään näkemyksiä muistakin asioista kuin politiikasta. Presidenttinä kiinnittäisin huomiota erityisesti nuoriin.</quote>
+<subtitle>Olli Rehn</subtitle>
+Olli Rehn on keskustan ja valitsijayhdistyksen ehdokas. Rehn on kokenut poliitikko ja Suomen Pankin pääjohtaja. Hän on toiminut EU-komissaarina ja Euroopan komission varapuheenjohtajana.
+<quote>– Presidentin täytyy olla kaikkien suomalaisten presidentti. Haluan, että erotun muista arvojeni, toimintatapojeni ja kokemukseni avulla. En halua kärjistää ja riidellä, vaan keskustella rakentavasti.</quote>
+<subtitle>Alexander Stubb</subtitle>
+Alexander Stubb on kokoomuksen ehdokas. Hän toimii professorina Italiassa. Hän on ollut esimerkiksi pääministeri, ulkoministeri, valtiovarainministeri ja edustajana Euroopan parlamentissa.
+<quote>– Lupaan puolustaa demokratiaa, sananvapautta ja oikeusvaltiota. Lupaan kuunnella ja välittää. Haluan, että Suomi on kaikille meille maailman paras maa. Lupaan myös, että Suomi on turvallinen maa tulevaisuudessakin.</quote>
+<subtitle>Jutta Urpilainen</subtitle>
+Jutta Urpilainen on SDP:n ehdokas. Urpilainen on nyt EU-komissaari ja entinen valtiovarainministeri. Urpilaisen mukaan uusi presidentti joutuu täysin erilaiseen maailmaan kuin edellinen 12 vuotta sitten.
+<quote>– Nyt Suomi on Naton jäsen. Venäjän hyökkäys Ukrainaan ja Gazan sota ovat käynnissä. Elämme aikaa, jossa on suuria muutoksia. Suomalaisten pitää voida luottaa siihen, että ketään ei jätetä yksin.</quote>
+Vaalipäivä on sunnuntaina 28.1.2024. Ennakkoäänestys on Suomessa 17.–23.1. Mahdollinen toinen äänestys on 11.2.
+Juttua on muokattu 16.1.2024. Korjattu Li Andersson. Li Andersson on toiminut puolueen puheenjohtajana vuodesta 2016, ei vuodesta 2011.

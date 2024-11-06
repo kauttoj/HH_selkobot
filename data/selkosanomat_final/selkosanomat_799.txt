@@ -1,0 +1,19 @@
+<title>Positiivinen johtaja</title>
+<lead>Helsingin apulaiskaupunginjohtaja Pekka Sauri kertoo, miksi Helsinki on hyvä kaupunki. Sauri muistetaan edelleen radion Yölinjalla-ohjelmasta, vaikka ohjelma loppui jo 14 vuotta sitten.</lead>
+Helsingin apulaiskaupunginjohtaja Pekka Sauri kirjoittaa Twitteriin ja Facebookiin useita kertoja päivässä. Sauri muistetaan myös radio-ohjelmasta Yölinja.
+<subtitle>Olet rakennus- ja ympäristötoimen apulaiskaupunginjohtaja. Mitä työhösi kuuluu?</subtitle>
+<quote>– Vastaan kahdeksasta virastosta. Mukana ovat joukkoliikenne, kadut ja puistot, koulu- ja laitosruoka sekä ympäristö ja pelastuslaitos. Näissä paikoissa työskentelee 6 500 henkilöä. Tehtävä on laaja ja monipuolinen.</quote>
+<subtitle>Minkälainen on hyvä kaupunginjohtaja?</subtitle>
+<quote>– Johtajan täytyy pystyä keskustelemaan avoimesti kaupungin organisaatioiden ja kaupunkilaisten kanssa. Kun ihmiset puhuvat kaupungista, he puhuvat usein kasvottomista laitoksista. Kaupunki on kuitenkin yhteisö, me kaikki. Se on ollut johtoajatukseni tässä työssä.</quote>
+<subtitle>Olet somen eli sosiaalisen median puolestapuhuja. Miksi somen käyttö on niin tärkeää nykyään?</subtitle>
+<quote>– Se on areena, jolla kaupunki pystyy käymään kaksisuuntaista keskustelua kaupunkilaisten kanssa. Se on erittäin hyvä keino rakentaa kaupunkiyhteisöä. Kaupungin työntekijät ovat kaupunkilaisten palveluksessa, joten jatkuva yhteydenpito on tarpeen. Ihmiset tulevat juttelemaan edelleen myös kadulla.</quote>
+<subtitle>Mikä on sinulle työn ja vapaa-ajan ero?</subtitle>
+<quote>– En oikeastaan enää edes vedä siihen eroa. Saatan vastata kysymyksiin somessa ympäri vuorokauden. Vastaan usein aika nopeasti, eikä se ole iso homma. Totta kai osaan myös sulkea puhelimeni tarvittaessa.</quote>
+<subtitle>Mikä Helsingissä on parasta?</subtitle>
+<quote>– Helsingissä on onnistuttu yhdistämään luotettavuus ja luovuus. Palvelut pelaavat ja aikataulut toimivat.   Helsinkiläiset järjestävät nykyisin myös itsenäisesti tapahtumia. Se on kivaa.</quote>
+<subtitle>Pitäisikö Helsingin ja Tallinnan välille rakentaa tunneli?</subtitle>
+<quote>– Olen edistänyt tätä asiaa kovasti. Olemme tehneet yhdessä Viron kanssa EU:lle hakemuksen, jolla haetaan rahoitusta asian selvittämiseksi. Päätös tulee kesäkuussa. Tulevaisuudessa Tallinnasta pääsee nopealla junayhteydellä Berliiniin. Siksi nopea yhteys myös Helsingin ja Tallinnan välillä on tärkeä. Tunneli voisi olla valmis vuonna 2035. Kannatan myös Raide-Jokeria ja Kruunuvuoren siltaa.</quote>
+<subtitle>Millaisena näet Suomen tulevaisuuden?</subtitle>
+<quote>– Erittäin hyvänä. Meidän pitää päästä irti alistumisesta. Tarvitsemme luottamusta ja myönteistä ajattelua. Suomella on kaikki mahdollisuudet, mitään ei ole menetetty. Meillä on maailman parhaat edellytykset. Asennetta on vain tarkistettava.</quote>
+<subtitle>Monet muistavat sinut Yölinjalla-ohjelmasta. Kaipaatko radiotyötä?</subtitle>
+<quote>– Kaipaan niitä keskusteluja ihmisten kanssa. Aamuyöhön jatkuvia lähetyksiä en kuitenkaan enää jaksaisi. Ohjelma on jäänyt monien mieleen. Ihmiset puhuvat siitä edelleen.</quote>

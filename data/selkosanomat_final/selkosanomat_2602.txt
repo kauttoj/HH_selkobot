@@ -1,0 +1,30 @@
+<title>”Tanssi on upea tapa  liikuttaa kehoa”</title>
+<lead>Niki Matheson on Tanssin talon uusi johtaja. Matheson alkoi työskennellä Tanssin talon johtajana viime vuoden alussa.</lead>
+<subtitle>Kerro jotain Tanssin talosta.</subtitle>
+<quote>– Tanssin talo on Suomen ensimmäinen talo tanssille. Tanssin talossa järjestetään erilaisia tapahtumia ja esityksiä. Tanssin talo sijaitsee Helsingissä ja siellä on monta tanssisalia.</quote>
+<quote>– Suuri sali on nimeltään Erkko-sali. Sinne mahtuu 700 katsojaa. Suuri sali sijaitsee uudessa rakennuksessa Kaapelitehtaan vieressä. Vanhassa Kaapelitehtaassa on pienempi sali 236 katsojalle. Molempia saleja voi muokata niin, että ne sopivat moniin erilaisiin esityksiin.</quote>
+<subtitle>Millaista tanssia Tanssin talossa esitetään?</subtitle>
+<quote>– Tanssin talossa tulee olemaan laaja valikoima erilaisia tanssityylejä ja jopa sirkusesityksiä. Keväällä ja kesällä 2022 meillä on esimerkiksi nykytanssia Tero Saariselta, Johanna Nuutiselta ja Carl Knifiltä. Meille tulee myös esityksiä ulkomailta, katutanssia ja tanssikoulujen esityksiä.</quote>
+<subtitle>Saako myös yleisö tanssia?</subtitle>
+<quote>– Tulevaisuudessa tulee varmasti tilaisuuksia, joissa myös yleisö saa tanssia.</quote>
+<subtitle>Onko Tanssin talossa tanssikouluja?</subtitle>
+<quote>– Tanssin talo on paikka esityksille, joten meillä ei ole tanssitunteja. Onneksi koko Suomessa on paljon tanssikouluja.</quote>
+<subtitle>Miten liikuntarajoitteiset otetaan huomioon Tanssin talossa?</subtitle>
+<quote>– Kaikki Tanssin talon esitykset ovat ensimmäisessä kerroksessa, eikä meillä ole kynnyksiä. Liikuntarajoitteisten on helppo liikkua Tanssin talossa.Liikuntarajoitteisille on varattu erikseen paikkoja eturivissä.</quote>
+<quote>– Saleissa on induktiosilmukka, joka auttaa kuulemaan paremmin. Se on tarkoitettu ihmisille, jotka käyttävät kuulolaitetta.</quote>
+<subtitle>Voiko tanssia ilman musiikkia?</subtitle>
+<quote>– Ilman musiikkia voi hyvin tanssia. Jokaisella on sydämen sisäinen rytmi sekä sisään- ja uloshengitys. Pieni vartalon liike johtaa usein uusiin liikkeisiin. Hiljaisuudessa tanssiminen voi olla upea elämys. Jokainen voi tanssia jollain tavalla.</quote>
+<subtitle>Mitä tanssi merkitsee sinulle?</subtitle>
+<quote>– Rakastan tanssia, ihailen tanssin monia mahdollisuuksia ja vaihtoehtoja. Tanssi on upea tapa liikuttaa kehoa. Nuorempana unelmoin, että minusta tulisi ammattitanssija. Sen sijaan olen suunnitellut ja johtanut kulttuuria ja taidetta yli 20 vuoden ajan.</quote>
+<subtitle>Mitä toivot Tanssin talon tulevaisuudelta?</subtitle>
+<quote>– Toivon, että saamme paljon uusia kävijöitä Tanssin taloon. Toivon myös, että monet ihmiset oppisivat nauttimaan tanssista.</quote>
+<subtitle>Onko sinulle tärkeää olla yhteydessä myös muiden maiden tanssijoihin?</subtitle>
+<quote>– Tanssi on hyvin kansainvälinen ammatti. Suomalaisia on tanssijan työssä maailmalla, ja Suomessa työskentelee kansainvälisiä tanssijoita. Vuorovaikutus eri kulttuurien välillä on tärkeää. On tärkeää kuunnella ja yrittää ymmärtää toisiamme. On tärkeää opetella uusia asioita. On myös hyvä yrittää olla avoin uusille asioille ja suhtautua elämään uteliaasti.</quote>
+<subtitle>Kuka?</subtitle>
+Niki Matheson
+Ikä: 54 vuotta
+Asuinpaikka: Helsinki
+Perhe: teini-ikäinen poika ja Valo-koira
+Työ: Tanssin talon johtaja
+Harrastukset: valokuvaaminen
+Lempiruoka: aamiainen

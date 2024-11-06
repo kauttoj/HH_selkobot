@@ -1,0 +1,19 @@
+<title>Tarja Halonen arvostaa yhteistyötä</title>
+<lead>Presidentti Tarja Halonen on edelleen ahkera yhteiskunnallinen keskustelija. Presidentti Halonen uskoo yhdenvertaisuuden voimaan.</lead>
+Presidentti Tarja Halosen elämä on kiireistä. Halonen haluaa osallistua yhteiskunnalliseen keskusteluun säännöllisesti, vaikka se tarkoittaa usein pitkiä työpäiviä.
+<subtitle>Katri Merikallio on kirjoittanut elämänne vaiheista kirjassa Erään aktivistin tarina. Miksi halusitte kertoa tarinanne?</subtitle>
+<quote>– Toivoisin, että tämä kirja täydentää kuvaa urastani ja yhteiskunnallisesta vaikuttamisestani Suomessa. Kirjan sanoma on se, että kansalaisjärjestöt ovat tärkeä osa demokratiaa. Vaikuttaminen kansalaisjärjestöissä on ollut minulle tärkeää työtä. Tällainen vaikuttaminen ei kuitenkaan näy julkisuudessa samalla tavalla kuin poliittinen toiminta.</quote>
+<subtitle>Kuntavaalit järjestetään ensi keväänä. Miksi äänestäminen on tärkeää?</subtitle>
+<quote>– Tässä on kyse tavalliselle kansalaiselle tärkeimmästä tavasta vaikuttaa. Me kaikki emme voi olla tekemässä päätöksiä, joten valtuutamme vaaleissa toisen henkilön tekemään niitä puolestamme. Kuntavaalit on erityisen tärkeä asia, koska kunnat pitävät huolen tärkeimmistä palveluista ja ihmisten hyvinvoinnista.</quote>
+<subtitle>Millainen on Suomen tulevaisuus?</subtitle>
+<quote>– Kyllä minä uskon, että se on kohtuullisen hyvä. Meillä on vahva kansalaisyhteiskunta, jossa demokratia toimii. Sekin on tärkeää, että Suomen presidentti valitaan suoralla kansanäänestyksellä, eikä valitsijamiesten kautta.</quote>
+<subtitle>Mitkä ovat Suomen suurimmat haasteet?</subtitle>
+<quote>– Me olemme pieni kansa, meitä on ainoastaan 5,5 miljoonaa. Vanhusten määrä kasvaa koko ajan. Me elämme pitempään hyvän terveydenhuollon ja sosiaaliturvan ansiosta. Vauvoja syntyy kuitenkin liian vähän ja työssäkäyviä ihmisiä on pian liian vähän. Maahanmuutto voi lieventää tätä ongelmaa.</quote>
+<subtitle>Miksi on tärkeää, että Suomi on mukana Euroopan unionissa (EU) ja Yhdistyneissä kansakunnissa (YK)?</subtitle>
+<quote>– Suomi on hyvä esimerkki siitä, mitä yhteistyöllä saa aikaan. YK:ssa suuret ja pienet maat ovat samanlaisessa asemassa. Suomen ääni painaa yhtä paljon kuin Ranskan tai Saksan. EU:ssa suuret maat voivat määrätä. YK:n kestävän kehityksen ohjelma tarkoittaa maapallon tulevaisuuden turvaamista.</quote>
+<subtitle>Muuttuiko maailma koronan takia?</subtitle>
+<quote>– Maailma on muuttunut. Toivon, että rajoituksista ei tule pysyviä. Saattaa kuitenkin olla, että joistakin pandemian rajoituksista tulee pysyviä.</quote>
+<subtitle>Mitä on tasa-arvo?</subtitle>
+<quote>– Tasa-arvo tarkoittaa sitä, että meitä kaikkia ihmisiä kohdellaan yhdenvertaisesti. Eli kaikki ihmiset ovat samanarvoisia.</quote>
+<subtitle>Onko teillä elämänohjetta?</subtitle>
+<quote>– Älä suunnittele uraasi, vaan sitä, mitä teet. Kannattaa noudattaa sitä, mitä sydän sanoo ja mihin omat kyvyt riittävät. Ystävyyden merkitystä tai omaa perhettä ei pidä laiminlyödä. Meillä on vain yksi elämä.</quote>

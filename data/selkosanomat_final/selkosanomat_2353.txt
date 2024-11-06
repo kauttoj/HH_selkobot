@@ -1,0 +1,32 @@
+<title>”Musiikki virkistää mieltäni”</title>
+<lead>Maria Lund on näyttelijä ja laulaja. Hänen vanhempansa olivat oopperalaulajia. Musiikki on kuulunut Lundin elämään lapsesta asti. Hän esiintyy tällä hetkellä hauskassa musiikkinäytelmässä Hajuvettä ja lihapullia. Esitys kiertää eri paikkakunnilla ympäri Suomea.</lead>
+Vanhempasi olivat tunnettuja muusikkoja. Kerro hieman musiikkitaustasi.
+<quote>– Lapsena kuljin vanhempieni mukana konserttimatkoilla. 4-vuotiaana sain koskea erään muusikon harppuun. Ihastuin siihen heti ja pyysin vanhemmiltani harppua monta vuotta. Vanhempani laittoivat minut ensin soittamaan pianoa. 8-vuotiaana halusin kuitenkin edelleen soittaa harppua. Silloin pääsin viimein opiskelemaan harpunsoittoa. Nykyään soittaminen on ainoastaan harrastus.</quote>
+<quote>– Aloitin laulamisen vasta täysi-ikäisenä. Epäröin pitkään ryhtyä laulajaksi, koska pelkäsin työn epävarmuutta. Minusta tuli silti laulaja, ja rakastan työtäni.</quote>
+<subtitle>Mitä musiikki merkitsee sinulle?</subtitle>
+<quote>– Kuuntelen paljon erilaisia musiikkityylejä. Musiikki ei ole minulle vain työtä. Kuuntelen musiikkia, kun lenkkeilen, siivoan, ajan autoa tai puuhaan keittiössä. Musiikki viihdyttää minua ja virkistää mieltäni.</quote>
+<subtitle>Olet myös näyttelijä. Miten näyttelijän työ eroaa laulajan työstä?</subtitle>
+<quote>– Näyttelijä on lavalla aina joku muu kuin oma itsensä, joten omat epävarmuudet ja pelot voi unohtaa. Myös laulajalla on tavallaan rooli, kun hän esiintyy yleisön edessä. Laulajan rooli ei kuitenkaan ole niin korostettu kuin näyttelijän rooli. Näyttelijä ja laulaja kertovat kumpikin yleisölle tarinoita tekstin tai laulun muodossa.</quote>
+<subtitle>Olet ehtinyt tehdä todella paljon erilaisia töitä. Millaisia kokemuksia sinulla on urasi varrelta?</subtitle>
+<quote>– Minulle on tärkeintä, että yleisö viihtyy. Joskus lavalla tapahtuu hauskoja erehdyksiä, joista kuitenkin selviää. –Välillä pitää esiintyä, vaikka on kuumeessa tai vatsataudissa. Jos kukaan ei silloin huomaa mitään outoa, tietää, että on onnistunut.</quote>
+<subtitle>Sinulla on kansainvälinen tausta. Miten eri kulttuurit ovat vaikuttaneet elämässäsi?</subtitle>
+<quote>– Olen suvaitsevainen ihminen. Osaan olla missä tahansa ympäristössä, koska ymmärrän eri kulttuureja ja minulla on hyvä kielitaito. Puhun suomea, saksaa, englantia, ranskaa, romaniaa ja espanjaa. Olen myös opiskellut latinaa, italiaa ja venäjää.</quote>
+<quote>– Eniten yhdistän eri kulttuureja keittiössä, kun valmistan eri maiden ruokalajeja.</quote>
+<subtitle>Mitä suunnitelmia sinulla on vuodelle 2022?</subtitle>
+<quote>– Esitykseni Hajuvettä ja lihapullia jatkaa kiertämistä Suomessa. Olen käsikirjoittanut sen puoliksi. Erään ison musikaalin harjoitukset alkavat keväällä. Sen ensi-ilta on syksyllä. Lisäksi minulla on paljon konsertteja eri puolilla Suomea.</quote>
+Miten valmistaudut esityksiin? Jännittääkö sinua?
+<quote>– Minua jännittää aina. Mitä vanhemmaksi tulen, sitä enemmän minua jännittää. Välillä vain tärisen, mutta joskus minulla on huono olo ja minun on vaikea hengittää rauhallisesti. Siksi yritän valmistautua hyvin, jotta voin olla varma osaamisestani. Kestää silti hetken ennen kuin keho rentoutuu yleisön edessä. Varmistan myös aina, että olen syönyt ennen kuin esiinnyn.</quote>
+<subtitle>Millaisia unelmia sinulla on laulamiseen ja näyttelemiseen liittyen?</subtitle>
+<quote>– En ole koskaan haaveillut isoista asioista. Haluan näytellä elokuvassa tai tv-sarjassa tai kokeilla radiojuontamista. Teatterissa haluan tehdä esimerkiksi hauskoja rooleja. Pidän itsestäni hyvää huolta enkä ole vielä kauhean vanha, mutta prinsessaroolit kuuluu jo antaa minua nuoremmille.</quote>
+<subtitle>Miten rentoudut?</subtitle>
+<quote>– Työni on välillä todella kiireistä, mutta kiireisen jakson jälkeen minulla on taas paljon aikaa olla perheeni kanssa. Vapaapäivinä saatan laittaa puhelimen äänettömälle pitkäksi aikaa, joskus jopa moneksi päiväksi. Minun on helppo rentoutua. Olen kireä kun olen kiireinen.</quote>
+<subtitle>Kuka?</subtitle>
+Maria Lund
+Ikä: 38 vuotta
+Asuinpaikka: Porvoo
+Syntymäpaikka: München, Saksa
+Vanhemmat: Tamara Lund ja Alexandru Ioniță
+Perhe: aviomies, kolme lasta, kissa ja koira
+Ammatti: näyttelijä ja laulaja
+Harrastukset: riippuu vuodenajasta
+Lempiruoka: kaikki, missä on suklaata.

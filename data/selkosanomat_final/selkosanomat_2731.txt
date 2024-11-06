@@ -1,0 +1,61 @@
+<title>Eduskuntavaalit 2023</title>
+<lead>Eduskuntavaalit järjestetään Suomessa joka neljäs vuosi. Vaaleissa valitaan 200 kansanedustajaa. Kansanedustajat päättävät yhteisistä asioistamme.</lead>
+Selkosanomat esittelee puolueet, jotka ovat mukana tämän kevään vaaleissa.
+<subtitle>Nykyiset eduskuntapuolueet:</subtitle>
+Sosialidemokraatit (SDP)
+· 40 kansanedustajaa
+· sdp.fi
+· Tunnettuja ehdokkaita: Maria Guzenina, Timo Harakka, Krista Kiuru, Nasima Razmyar, Tytti Tuppurainen. SDP lupaa panostaa opetukseen ja koulutukseen.
+<quote>– Emme vastusta valtion menojen vähentämistä eli leikkauksia, jos ne ovat oikeudenmukaisia. SDP ei kuitenkaan usko, että suomalainen yhteiskunta menestyy paremmin, jos vähennämme rahaa ihmisten hyvinvoinnista, SDP:n puheenjohtaja Sanna Marin sanoo.</quote>
+<subtitle>Perussuomalaiset (PS)</subtitle>
+· 39 kansanedustajaa
+· perussuomalaiset.fi
+· Tunnettuja ehdokkaita: Kike Elomaa, Jussi Halla-aho, Laura Huhtasaari, Arja Juvonen, Leena Meri.
+Perussuomalaiset haluaa vähentää Suomeen muuttavien ulkomaalaisten määrää paljon. Perussuomalaiset haluaa myös, että Suomi eroaa tulevaisuudessa EU:sta eli Euroopan unionista.
+<quote>– Suomen väestö ikääntyy, mutta meidän ratkaisumme ei ole lisätä maahanmuuttoa ja turvata sillä tavalla hyvinvointiyhteiskuntaa, Riikka Purra sanoo.</quote>
+<subtitle>Kansallinen Kokoomus (KOK)</subtitle>
+· 37 kansanedustajaa
+· kokoomus.fi
+· Tunnettuja ehdokkaita: Antti Häkkänen, Kai Mykkänen, Paula Risikko, Elina Valtonen, Ben Zyskowicz.
+Kokoomus haluaa pysäyttää Suomen velkaantumisen. Kokoomus lupaa keventää myös verotusta. Velan vähentäminen ja verotuksen keventäminen tarkoittaa, että rahoitusta leikataan muualta. Puolue haluaa Suomeen lisää työntekijöitä ulkomailta.
+<quote>– Tuulivoiman ja ydinvoiman rakentamista pitää lisätä, Petteri Orpo sanoo.</quote>
+<subtitle>Suomen Keskusta (Kesk)</subtitle>
+· 31 kansanedustaa
+· keskusta.fi
+· Tunnettuja ehdokkaita: Antti Kaikkonen, Eeva Kalli, Antti Kurvinen, Katri Kulmuni, Mikko Kärnä.
+Keskustan mielestä on tärkeää, että Suomen työvoimapula ratkaistaan.
+<quote>– Suomi voisi olla edelläkävijä energian tuotannossa, esimerkiksi vetytaloudessa ja uusiutuvassa energiassa. Suomen täytyy myös antaa perustaa uusia kaivoksia, joista saamme tuloja, raaka-aineita ja työpaikkoja, Annika Saarikko sanoo.</quote>
+<subtitle>Vihreät</subtitle>
+· 20 kansanedustajaa
+· vihreat.fi
+· Tunnettuja ehdokkaita: Pekka Haavisto, Atte Harjanne, Jenni Pitko, Iiris Suomela, Ozan Yanar.
+Vihreät eivät halua leikata valtion menoja liian nopeasti. Vihreät haluaa myös, että saastuttavan toiminnan verotusta kiristetään. Näin saadaan lisää rahaa valtiolle.
+<quote>– Jos leikkaamme sosiaaliturvasta ja koulutuksesta, ihmisten pahoinvointi lisääntyy, eikä meillä ole koulutettuja työntekijöitä, Maria Ohisalo sanoo.</quote>
+<subtitle>Vasemmistoliitto (Vas)</subtitle>
+· 16 kansanedustajaa
+· vasemmisto.fi
+· Tunnettuja ehdokkaita: Veronika Honkasalo, Anna Kontula, Merja Kyllönen, Hanna Sarkkinen, Jussi Saramo.
+Vasemmistoliitto ei halua leikata sosiaaliturvasta ja hyvinvointipalveluista. Vasemmistoliiton mukaan yhteiskunnan palveluihin pitää panostaa eli niihin pitää antaa lisää rahaa.
+<quote>– Hyvä koulutus ja terveydenhuolto pitää turvata. Haluamme paljon lisää rahaa koulutukseen ja oppimisen tukeen, Li Andersson sanoo.</quote>
+<subtitle>Suomen ruotsalainen kansanpuolue (RKP)</subtitle>
+· 10 kansanedustajaa
+· sfp.fi
+· Tunnettuja ehdokkaita: Anders Adlercreutz, Eva Biaudet, Thomas Blomqvist, Henrik Dettmann, Juha Hurme.
+RKP:n mielestä Suomi tarvitsee paljon uusia työntekijöitä, mutta Suomen täytyy varoa tekemästä samoja virheitä maahamuutossa kuin Ruotsi. Maahanmuuttajien jengit ovat vakava uhka Ruotsissa.
+<quote>– Ruotsissa on kuitenkin hyvä taloustilanne. Se on laajan maahanmuuton ja avoimen työvoimapolitiikan ansio, Anna-Maja Henriksson sanoo.</quote>
+<subtitle>Kristillisdemokraatit (Kd)</subtitle>
+· 5 kansanedustajaa
+· kd.fi
+· Tunnettuja ehdokkaita: Antero Laukkanen, Mika Poutala, Päivi Räsänen, Sari Tanus, Peter Östman.
+Kristillisdemokraatit sanovat, että suomalaisia uhkaa eniten hyvinvointiyhteiskunnan loppu.
+<quote>– Seuraavan eduskunnan pitää turvata hyvinvointi. Valtiolla ei ole loputtomasti rahaa sosiaalimenoihin, koulutukseen ja terveydenhoitoon. Suomalaiset ikääntyvät ja vanhukset tarvitsevat hoitoa. Näihin täytyy löytyä ratkaisu, Sari Essayah sanoo.</quote>
+<subtitle>Liike Nyt</subtitle>
+· 1 kansanedustaja
+· liikenyt.fi
+· Tunnettuja ehdokkaita: Amanda Harkimo, Joel Harkimo, Jere Karalahti, Alpo Rusi, Anni Vuohijoki.
+Liike Nytin mielestä Suomen täytyy vähentää velkaantumista miljardilla eurolla joka vuosi. Liike Nyt leikkaisi eli säästäisi kehitysyhteistyöstä, asumistuesta ja yritystuesta.
+<quote>– Suomen talous on saatava kuntoon. Koulutukseen ja sosiaali- ja terveydenhuoltoon haluamme lisää rahaa, Harry Harkimo sanoo.</quote>
+Valta kuuluu kansalle (Vkk). Edukunnassa on lisäksi Vkk puolue. Vkk:n puheenjohtaja on Ano Turtiainen. valtakuuluukansalle.fi
+Pienet puolueet, jotka ovat mukana eduskuntavaaleissa: Liberaalipuolue, Piraattipuolue, Eläinoikeuspuolue, Kansalaispuolue, Feministinen puolue, Kansalaisliitto, Korjausliike, Suomen Kansa Ensin, Seitsemän tähden liike, Avoin Puolue, Suomen Kommunistinen Puolue, Kristallipuolue, Vapauden liitto, Sinimusta Liike.
+Eduskuntavaalit 2023 selkosuomeksi. Selkouutisten vaaliohjelmassa keskustellaan vaaleista ja vaalien teemoista. Ohjelmassa on vieraita, joille tavallinen suomen kieli on vaikeaa. Ohjelman juontaa Tuukka Lukinmaa. Katso Eduskuntavaalit 2023 selkosuomeksi -ohjelma TV1 maanantaina 27.3. kello 15 ja Yle Areena.
+Eduskuntavaalien vaalipäivä on sunnuntaina 2.4. Ennakkoäänestys on Suomessa 22.-28.3. ja ulkomailla 22.-25.3.

@@ -1,0 +1,23 @@
+<title>Reidar on VR:n uusi ääni</title>
+<lead>Tämän miehen äänen voi kohta kuulla junissa. Reidar Wasenius on lainannut äänensä VR:lle junien kuulutuksiin.</lead>
+Reidar Wasenius tunnetaan kouluttajana  ja radiotoimittajana. Hänen uusin työnsä liittyy Valtion rautateihin: Wasenius on VR:n uusi ääni. Reidar Wasenius opiskeli Teknillisessä korkeakoulussa. Hänellä on myös yritys, joka tarjoaa aivojumppakursseja.
+<subtitle>Mitä tarkoittaa, että olet VR:n ääni?</subtitle>
+<quote>– Minun ääneni kuuluu junien kuulutuksissa koko maassa. Ääni sanoo esimerkiksi mille asemalle juna on saapumassa.</quote>
+<subtitle>Miksi juuri sinut valittiin VR:n uudeksi ääneksi?</subtitle>
+<quote>– Näin syksyllä lehtijutun, että VR aikoo uudistaa kuulutukset ja etsii sopivaa henkilöä lukemaan ne. Aikaisempi kuulutusten ääni, joka kuuluu Eija Ahlbergille, jää eläkkeelle. Ilmoitin heti, että olen kiinnostunut. Sitä seurasi pitkä valintaprosessi. Lopulta minut valittiin työhön.</quote>
+<subtitle>Mitä työhösi kuuluu?</subtitle>
+<quote>– Olen juuri alkanut äänittää kuulutuksia studiossa Helsingissä. Yhteensä äänitän noin 2 700 virkettä. Lyhyin on yhden sanan pituinen ja pisin on neljä riviä. Virkkeet äänitetään kolmella kielellä: suomeksi, ruotsiksi ja englanniksi.</quote>
+<subtitle>Mitä äänityksille tapahtuu tämän jälkeen?</subtitle>
+<quote>– Ensin ne leikataan ja sitten niitä käsitellään. Äänenvoimakkuutta säädetään ja korkeimmat ja matalimmat äänen- korkeudet otetaan pois digitaalisista äänitiedostoista. Sillä tavalla kuulutus saadaan kuulumaan mahdollisimman selvästi kaikkialla junassa.</quote>
+<quote>– Sen jälkeen virkkeet syötetään tietokoneelle. Tietokone valitsee sieltä sopivat virkkeet ja yhdistää ne.</quote>
+<subtitle>Miten junassa kuulutetaan, jos tapahtuu jotakin odottamatonta?</subtitle>
+<quote>– Junan henkilökunta voi tietenkin kuuluttaa tietoa matkustajille suoraan kaiuttimen kautta. Tietokoneella on kuitenkin kuulutuksia myös hätätilanteita varten. Esimerkiksi jos on tapahtunut onnettomuus ja matkustajia pyydetään poistumaan junasta. Hätätiedotuksissa minun täytyy käyttää ääntä, joka on pehmeä ja ystävällinen, mutta myös päättäväinen. Silloin ihmiset noudattavat ohjeita.</quote>
+<subtitle>Äänitettävää on paljon. Kuinka kauan äänittäminen kestää?</subtitle>
+<quote>– Tarkoitus on, että työ on valmis toukokuun lopussa. Usein äänitys onnistuu toisella tai kolmannella kerralla. Mutta on aika vaikeaa käyttää ääntä tasaisesti. Ei myöskään ole helppoa tietää, miltä äänen pitäisi kuulostaa. Pitäisi olla ystävällinen, mutta ei liian pirteä.</quote>
+<subtitle>Onko tämä ensimmäinen kerta, kun lainaat ääntäsi?</subtitle>
+<quote>–  Ei. Olen äänittänyt kuulutuksia jo 1990-luvun alusta lähtien. Olin esimerkiksi puhelinverkon ääni, joka sanoo: ”Numero, johon soitatte, ei vastaa”. Sen jälkeen olen äänittänyt puhelin- palveluiden kuulutuksia tullille ja Kelalle. Uskon, että useimmat suomalaiset ovat kuulleet ääneni.</quote>
+<subtitle>Teetkö kuulutuksia monella kielellä?</subtitle>
+<quote>– Olen tehnyt kuulutuksia 11 kielellä. Tässä on apua siitä, että olen kiinnostunut kielitieteestä. Olen opetellut lukemaan ja ääntämään useita kieliä.</quote>
+<subtitle>Olet mukana myös aivan muunlaisessa toiminnassa. Mitä on aivobic?</subtitle>
+<quote>– Aivojumppaa. Monet urheilevat paljon, mutta harva ymmärtää, että myös aivot voivat tarvita treenaamista.</quote>
+<quote>– Voimme kehittyä monissa  asioissa: päätöksenteossa, muistamaan nimiä, rentoutumaan tai olemaan luovia. Silloin selviämme paremmin niistä haasteista, joita työssä ja elämässä tulee vastaan.</quote>

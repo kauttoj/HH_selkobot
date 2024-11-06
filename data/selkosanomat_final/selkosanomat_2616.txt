@@ -1,0 +1,30 @@
+<title>Tekoäly muuttaa maailmaa</title>
+<lead>Vaikka emme sitä aina huomaa, tekoälystä on tullut jo osa arkeamme. Mutta mitä tekoäly oikeastaan tarkoittaa?</lead>
+<subtitle>Mitä on tekoäly?</subtitle>
+Tekoälyllä tarkoitetaan yleensä tietokonetta, tietokoneohjelmaa tai sovellusta, joka pystyy tekemään älykkäitä toimintoja.
+Tietokoneohjelma voi esimerkiksi kääntää automaattisesti kieltä toiseksi, vaikka suomea englanniksi.
+Tekoäly voi auttaa myös lääkäriä. Se voi esimerkiksi tunnistaa ihosairauksia kuvien perusteella.
+<subtitle>Tekoäly voi auttaa ihmisiä tekemään päätöksiä</subtitle>
+Tekoäly perustuu siihen, että tietokoneohjelmia voidaan ohjelmoida suorittamaan erilaisia tehtäviä.
+Tietokoneohjelmat voivat esimerkiksi hakea valtavasta tietomäärästä jotain tiettyä asiaa. Ne pystyvät vertailemaan erilaisia asioita keskenään ja tekemään päätelmiä.
+Älykkäät tietokoneohjelmat voivat myös korjata virheitään ja oppia.
+<quote>– Ihmiset voivat käyttää tekoälyä tukenaan, kun he tekevät päätöksiä, kognitiotieteen yliopistonlehtori Anna-Mari Rusanen kertoo.</quote>
+<subtitle>Tekoälyn avulla voi luoda keinotekoisia maailmoja</subtitle>
+Tekoälyn avulla voidaan tehdä erilaisia ennusteita, esimerkiksi siitä, miten ilmastonmuutos etenee.
+Tekoälyn avulla pystytään luomaan myös erilaisia virtuaalimaailmoja eli keinotekoisia todellisuuksia.
+<quote>– Virtuaalimaailmoja voidaan käyttää viihteessä. Ne voivat auttaa myös uusien keksintöjen ja tuotteiden suunnittelussa, Rusanen toteaa.</quote>
+<subtitle>Tekoäly auttaa hyvässä – ja pahassa</subtitle>
+Tekoäly ei ole hyvä tai paha. Kyse on siitä, mihin ihmiset käyttävät tietokoneohjelmia.
+Tekoälyn ansiosta monia työtehtäviä voidaan tehdä entistä nopeammin, tehokkaammin ja tarkemmin. Tekoälyn avulla voidaan luoda uusia keksintöjä. Se saattaa auttaa myös ihmiskunnan suurten ongelmien ratkomisessa.
+Tekoälystä voi olla hyötyä esimerkiksi ilmastonmuutoksen hillitsemisessä. Se auttaa jo nyt isoja yrityksiä ja kaupunkeja toimimaan niin, että ne eivät tuhlaa energiaa.
+Tekoäly voi auttaa myös monia yksittäisiä ihmisiä elämään parempaa arkea.
+Tekoälyn puhesovellus voi esimerkiksi auttaa ihmistä, jolla on vaikeuksia puhumisessa. Sovellus ymmärtää, mitä henkilö haluaa sanoa ja sanoo sen niin, että muutkin ymmärtävät.
+<subtitle>Tekoälyä voidaan käyttää myös väärin</subtitle>
+Tekoälyä on kuitenkin mahdollista käyttää myös pahaan. Tätä tapahtuu jo nykyään.
+Jotkin maat valvovat tekoälyn avulla kansalaisiaan. Tietokoneohjelmat tarkkailevat, missä ihmiset liikkuvat ja mitä he tekevät. Ne myös seuraavat, mitä ihmiset kirjoittavat sosiaaliseen mediaan. Mielipiteistä voi joutua vaikeuksiin, jos valtio ei hyväksy niitä.
+Suomen kaltaisessa demokraattisessa maassa tällaista ongelmaa ei ole. Meillä viranomaiset korostavat, että tekoälyä pitää käyttää niin, että se tukee tasa-arvon toteutumista.
+Suomessa kiinnitetään huomiota siihen, että tietokoneohjelmiin ei tule edes vahingossa ominaisuuksia, jotka johtavat ihmisten epäoikeudenmukaiseen kohteluun.
+<subtitle>Tekoälyn määritelmä on hankala</subtitle>
+Anna-Mari Rusanen kertoo, että tutkijat ovat hieman eri mieltä siitä, miten tekoäly määritellään.
+<quote>– Minun mielestäni esimerkiksi nykyiset ohjelmistot eivät ole vielä aidosti älykkäitä. Ne eivät pysty tekemään vaativia tehtäviä tai ymmärtämään merkityksiä. Tällöin niitä ei voi kutsua tekoälyksi.</quote>
+Rusasen tieteenalalla, kognitiotieteessä, tutkitaan oppimista, muistia, kieltä ja käsitteitä.

@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+	<meta charset="UTF-8">
+	<title>Useita iskuja maailmalla &#8211; Selkosanomat</title>
+<meta name='robots' content='max-image-preview:large' />
+<meta name="viewport" content="width=device-width, initial-scale=1"><link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link href='https://fonts.googleapis.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Selkosanomat &raquo; syöte" href="https://selkosanomat.fi/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Selkosanomat &raquo; kommenttien syöte" href="https://selkosanomat.fi/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Selkosanomat &raquo; Useita iskuja maailmalla kommenttien syöte" href="https://selkosanomat.fi/maailma/useita-iskuja-maailmalla/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/selkosanomat.fi\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel='stylesheet' id='generate-fonts-css' href='//fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://selkosanomat.fi/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--contrast: var(--contrast);--wp--preset--color--contrast-2: var(--contrast-2);--wp--preset--color--contrast-3: var(--contrast-3);--wp--preset--color--base: var(--base);--wp--preset--color--base-2: var(--base-2);--wp--preset--color--base-3: var(--base-3);--wp--preset--color--accent: var(--accent);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wct_stylesheet-css' href='https://selkosanomat.fi/wp-content/plugins/wp-forms-custom-templates/wct-styles.css?ver=6.6.2' media='all' />
+<link rel='stylesheet' id='wp-polls-css' href='https://selkosanomat.fi/wp-content/plugins/wp-polls/polls-css.css?ver=2.77.2' media='all' />
+<style id='wp-polls-inline-css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background: #d8e1eb;
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='kuvasanomat-artikkeli-css' href='https://selkosanomat.fi/wp-content/themes/generatepress_child/assets/css/kuvasanomat-artikkeli.css?ver=1718812705' media='all' />
+<link rel='stylesheet' id='kuvasanomat-linkki-css' href='https://selkosanomat.fi/wp-content/themes/generatepress_child/assets/css/kuvasanomat-linkki.css?ver=1652167035' media='all' />
+<link rel='stylesheet' id='kuvasanomat-nav-css' href='https://selkosanomat.fi/wp-content/themes/generatepress_child/assets/css/kuvasanomat-nav.css?ver=1653295600' media='all' />
+<link rel='stylesheet' id='kuvasanomat-css' href='https://selkosanomat.fi/wp-content/themes/generatepress_child/assets/css/kuvasanomat.css?ver=1645779270' media='all' />
+<link rel='stylesheet' id='selkosanomat-artikkeli-css' href='https://selkosanomat.fi/wp-content/themes/generatepress_child/assets/css/selkosanomat-artikkeli.css?ver=1712737621' media='all' />
+<link rel='stylesheet' id='selkosanomat-footer-css' href='https://selkosanomat.fi/wp-content/themes/generatepress_child/assets/css/selkosanomat-footer.css?ver=1652102210' media='all' />
+<link rel='stylesheet' id='selkosanomat-linkki-css' href='https://selkosanomat.fi/wp-content/themes/generatepress_child/assets/css/selkosanomat-linkki.css?ver=1712737622' media='all' />
+<link rel='stylesheet' id='selkosanomat-lomakkeet-css' href='https://selkosanomat.fi/wp-content/themes/generatepress_child/assets/css/selkosanomat-lomakkeet.css?ver=1652854267' media='all' />
+<link rel='stylesheet' id='selkosanomat-nav-css' href='https://selkosanomat.fi/wp-content/themes/generatepress_child/assets/css/selkosanomat-nav.css?ver=1653295664' media='all' />
+<link rel='stylesheet' id='selkosanomat-readspeaker-css' href='https://selkosanomat.fi/wp-content/themes/generatepress_child/assets/css/selkosanomat-readspeaker.css?ver=1712737748' media='all' />
+<link rel='stylesheet' id='selkosanomat-css' href='https://selkosanomat.fi/wp-content/themes/generatepress_child/assets/css/selkosanomat.css?ver=1665386947' media='all' />
+<link rel='stylesheet' id='generate-comments-css' href='https://selkosanomat.fi/wp-content/themes/generatepress/assets/css/components/comments.min.css?ver=3.5.1' media='all' />
+<link rel='stylesheet' id='generate-widget-areas-css' href='https://selkosanomat.fi/wp-content/themes/generatepress/assets/css/components/widget-areas.min.css?ver=3.5.1' media='all' />
+<link rel='stylesheet' id='generate-style-css' href='https://selkosanomat.fi/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.5.1' media='all' />
+<style id='generate-style-inline-css'>
+body{background-color:#e5e5e5;color:#000000;}a{color:#000000;}a:hover, a:focus, a:active{color:#000000;}.grid-container{max-width:1075px;}.wp-block-group__inner-container{max-width:1075px;margin-left:auto;margin-right:auto;}.site-header .header-image{width:170px;}:root{--contrast:#222222;--contrast-2:#575760;--contrast-3:#b2b2be;--base:#f0f0f0;--base-2:#f7f8f9;--base-3:#ffffff;--accent:#1e73be;}:root .has-contrast-color{color:var(--contrast);}:root .has-contrast-background-color{background-color:var(--contrast);}:root .has-contrast-2-color{color:var(--contrast-2);}:root .has-contrast-2-background-color{background-color:var(--contrast-2);}:root .has-contrast-3-color{color:var(--contrast-3);}:root .has-contrast-3-background-color{background-color:var(--contrast-3);}:root .has-base-color{color:var(--base);}:root .has-base-background-color{background-color:var(--base);}:root .has-base-2-color{color:var(--base-2);}:root .has-base-2-background-color{background-color:var(--base-2);}:root .has-base-3-color{color:var(--base-3);}:root .has-base-3-background-color{background-color:var(--base-3);}:root .has-accent-color{color:var(--accent);}:root .has-accent-background-color{background-color:var(--accent);}body, button, input, select, textarea{font-family:"Open Sans", sans-serif;font-size:20px;}body{line-height:1.5;}.entry-content > [class*="wp-block-"]:not(:last-child):not(.wp-block-heading){margin-bottom:1.5em;}.main-title{font-family:"Open Sans", sans-serif;}.site-description{font-family:"Open Sans", sans-serif;font-size:16px;}.main-navigation a, .menu-toggle{font-family:"Open Sans", sans-serif;font-weight:600;font-size:20px;}.main-navigation .menu-bar-items{font-size:20px;}.main-navigation .main-nav ul ul li a{font-size:17px;}.widget-title{font-family:"Open Sans", sans-serif;font-weight:bold;margin-bottom:14px;}.sidebar .widget, .footer-widgets .widget{font-size:16px;}button:not(.menu-toggle),html input[type="button"],input[type="reset"],input[type="submit"],.button,.wp-block-button .wp-block-button__link{font-family:"Open Sans", sans-serif;font-weight:600;font-size:16px;}h1{font-family:"Open Sans", sans-serif;font-weight:bold;font-size:45px;margin-bottom:45px;}h2{font-family:"Open Sans", sans-serif;font-weight:bold;}h3{font-weight:bold;font-size:28px;}h4{font-weight:bold;font-size:22px;}h5{font-weight:bold;}h6{font-weight:600;}.site-info{font-family:"Open Sans", sans-serif;font-size:11px;}@media (max-width:768px){.main-title{font-size:20px;}h1{font-size:31px;}h2{font-size:27px;}h3{font-size:24px;}h4{font-size:22px;}h5{font-size:19px;}}.top-bar{background-color:#636363;color:#ffffff;}.top-bar a{color:#ffffff;}.top-bar a:hover{color:#303030;}.site-header{background-color:#e5e5e5;color:#000000;}.main-title a,.main-title a:hover{color:#000000;}.site-description{color:#000000;}.main-navigation,.main-navigation ul ul{background-color:#ffffff;}.main-navigation .main-nav ul li a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{color:#000000;}.main-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a, .main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{color:#000000;background-color:rgba(241,196,15,0);}button.menu-toggle:hover,button.menu-toggle:focus{color:#000000;}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#000000;background-color:#ffffff;}.navigation-search input[type="search"],.navigation-search input[type="search"]:active, .navigation-search input[type="search"]:focus, .main-navigation .main-nav ul li.search-item.active > a, .main-navigation .menu-bar-items .search-item.active > a{color:#000000;background-color:#ffffff;opacity:1;}.main-navigation ul ul{background-color:#eaeaea;}.main-navigation .main-nav ul ul li a{color:#515151;}.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover > a,.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"]) > a{color:#7a8896;background-color:#eaeaea;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#7a8896;background-color:#eaeaea;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{color:#000000;background-color:#ffffff;}.inside-article a,.paging-navigation a,.comments-area a,.page-header a{color:#000000;}.entry-header h1,.page-header h1{color:#000000;}.entry-title a{color:#000000;}.entry-title a:hover{color:#000000;}.entry-meta{color:#595959;}h1{color:#000000;}h2{color:#000000;}h3{color:#000000;}h4{color:#000000;}h5{color:#000000;}.sidebar .widget{background-color:#ffffff;}.footer-widgets{color:#000000;background-color:#e5e5e5;}.footer-widgets .widget-title{color:#000000;}.site-info{color:#000000;background-color:#e5e5e5;}.site-info a{color:#ffffff;}.site-info a:hover{color:#d3d3d3;}.footer-bar .widget_nav_menu .current-menu-item a{color:#d3d3d3;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:#666666;background-color:#fafafa;border-color:#cccccc;}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:#666666;background-color:#ffffff;border-color:#bfbfbf;}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.wp-block-button__link:not(.has-background){color:#000000;background-color:#e5e5e5;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#000000;background-color:#ffbc10;}a.generate-back-to-top{background-color:#e5e5e5;color:#000000;}a.generate-back-to-top:hover,a.generate-back-to-top:focus{background-color:#ffbc10;color:#000000;}:root{--gp-search-modal-bg-color:var(--base-3);--gp-search-modal-text-color:var(--contrast);--gp-search-modal-overlay-bg-color:rgba(0,0,0,0.2);}@media (max-width: 992px){.main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{background:none;color:#000000;}}.inside-header{padding:40px 40px 20px 40px;}.nav-below-header .main-navigation .inside-navigation.grid-container, .nav-above-header .main-navigation .inside-navigation.grid-container{padding:0px 10px 0px 10px;}.site-main .wp-block-group__inner-container{padding:40px;}.separate-containers .paging-navigation{padding-top:20px;padding-bottom:20px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-40px;width:calc(100% + 80px);max-width:calc(100% + 80px);}.sidebar .widget, .page-header, .widget-area .main-navigation, .site-main > *{margin-bottom:60px;}.separate-containers .site-main{margin:60px;}.both-right .inside-left-sidebar,.both-left .inside-left-sidebar{margin-right:30px;}.both-right .inside-right-sidebar,.both-left .inside-right-sidebar{margin-left:30px;}.separate-containers .featured-image{margin-top:60px;}.separate-containers .inside-right-sidebar, .separate-containers .inside-left-sidebar{margin-top:60px;margin-bottom:60px;}.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .menu-bar-item > a{padding-left:30px;padding-right:30px;}.main-navigation .main-nav ul ul li a{padding:13px 30px 13px 30px;}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:30px;}.menu-item-has-children .dropdown-menu-toggle{padding-right:30px;}.menu-item-has-children ul .dropdown-menu-toggle{padding-top:13px;padding-bottom:13px;margin-top:-13px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:30px;}.footer-widgets-container{padding:60px 0px 40px 0px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:30px;}.site-main .wp-block-group__inner-container{padding:30px;}.inside-top-bar{padding-right:30px;padding-left:30px;}.inside-header{padding-right:30px;padding-left:30px;}.widget-area .widget{padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;}.footer-widgets-container{padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;}.inside-site-info{padding-right:30px;padding-left:30px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-30px;width:calc(100% + 60px);max-width:calc(100% + 60px);}.one-container .site-main .paging-navigation{margin-bottom:60px;}}/* End cached CSS */.is-right-sidebar{width:30%;}.is-left-sidebar{width:30%;}.site-content .content-area{width:100%;}@media (max-width: 992px){.main-navigation .menu-toggle,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav,.main-navigation:not(.slideout-navigation):not(.toggled) .main-nav > ul,.has-inline-mobile-toggle #site-navigation .inside-navigation > *:not(.navigation-search):not(.main-nav){display:none;}.nav-align-right .inside-navigation,.nav-align-center .inside-navigation{justify-content:space-between;}}
+.dynamic-author-image-rounded{border-radius:100%;}.dynamic-featured-image, .dynamic-author-image{vertical-align:middle;}.one-container.blog .dynamic-content-template:not(:last-child), .one-container.archive .dynamic-content-template:not(:last-child){padding-bottom:0px;}.dynamic-entry-excerpt > p:last-child{margin-bottom:0px;}
+.page-hero{color:#000000;text-align:center;}.page-hero .inside-page-hero.grid-container{max-width:calc(1075px - 0px - 0px);}.page-hero h1, .page-hero h2, .page-hero h3, .page-hero h4, .page-hero h5, .page-hero h6{color:#000000;}.inside-page-hero > *:last-child{margin-bottom:0px;}.page-hero time.updated{display:none;}
+@media (max-width: 992px){.main-navigation .menu-toggle,.main-navigation .mobile-bar-items a,.main-navigation .menu-bar-item > a{padding-left:0px;padding-right:0px;}.main-navigation .main-nav ul li a,.main-navigation .menu-toggle,.main-navigation .mobile-bar-items a,.main-navigation .menu-bar-item > a{line-height:60px;}.main-navigation .site-logo.navigation-logo img, .mobile-header-navigation .site-logo.mobile-header-logo img, .navigation-search input[type="search"]{height:60px;}}.post-image:not(:first-child), .page-content:not(:first-child), .entry-content:not(:first-child), .entry-summary:not(:first-child), footer.entry-meta{margin-top:1.5em;}.post-image-above-header .inside-article div.featured-image, .post-image-above-header .inside-article div.post-image{margin-bottom:1.5em;}
+</style>
+<link rel='stylesheet' id='generate-child-css' href='https://selkosanomat.fi/wp-content/themes/generatepress_child/style.css?ver=1637330302' media='all' />
+<link rel='stylesheet' id='generate-blog-css' href='https://selkosanomat.fi/wp-content/plugins/gp-premium/blog/functions/css/style.min.css?ver=2.5.0' media='all' />
+<link rel='stylesheet' id='generate-secondary-nav-css' href='https://selkosanomat.fi/wp-content/plugins/gp-premium/secondary-nav/functions/css/main.min.css?ver=2.5.0' media='all' />
+<style id='generate-secondary-nav-inline-css'>
+.secondary-navigation{background-color:#ffffff;}.secondary-nav-below-header .secondary-navigation .inside-navigation.grid-container, .secondary-nav-above-header .secondary-navigation .inside-navigation.grid-container{padding:0px 20px 0px 20px;}.secondary-navigation .main-nav ul li a,.secondary-navigation .menu-toggle,.secondary-menu-bar-items .menu-bar-item > a{color:#000000;font-family:"Open Sans", sans-serif;font-weight:600;font-size:16px;padding-left:60px;padding-right:60px;line-height:60px;}.secondary-navigation .secondary-menu-bar-items{color:#000000;font-size:16px;}button.secondary-menu-toggle:hover,button.secondary-menu-toggle:focus{color:#000000;}.widget-area .secondary-navigation{margin-bottom:60px;}.secondary-navigation ul ul{background-color:#303030;top:auto;}.secondary-navigation .main-nav ul ul li a{color:#ffffff;font-size:15px;padding-left:60px;padding-right:60px;}.secondary-navigation .menu-item-has-children .dropdown-menu-toggle{padding-right:60px;}.secondary-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .secondary-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .secondary-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a, .secondary-menu-bar-items .menu-bar-item:hover > a{color:#000000;background-color:#f1c40f;}.secondary-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover > a,.secondary-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus > a,.secondary-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"]) > a{color:#ffffff;background-color:#474747;}.secondary-navigation .main-nav ul li[class*="current-menu-"] > a{color:#222222;background-color:#f1c40f;}.secondary-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#474747;}.secondary-navigation.toggled .dropdown-menu-toggle:before{display:none;}@media (max-width: 992px) {.secondary-menu-bar-items .menu-bar-item:hover > a{background: none;color: #000000;}}
+</style>
+<script src="https://selkosanomat.fi/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://selkosanomat.fi/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://selkosanomat.fi/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://selkosanomat.fi/wp-json/wp/v2/posts/8176" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://selkosanomat.fi/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.2" />
+<link rel="canonical" href="https://selkosanomat.fi/maailma/useita-iskuja-maailmalla/" />
+<link rel='shortlink' href='https://selkosanomat.fi/?p=8176' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://selkosanomat.fi/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fselkosanomat.fi%2Fmaailma%2Fuseita-iskuja-maailmalla%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://selkosanomat.fi/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fselkosanomat.fi%2Fmaailma%2Fuseita-iskuja-maailmalla%2F&#038;format=xml" />
+<script>
+let getIcons = document.querySelectorAll('.svg');
+
+getIcons.forEach(function (iconEach) {
+  let getIconAttr = iconEach.getAttribute('aria-hidden');
+  if (!getIconAttr) {
+    iconEach.setAttribute('aria-hidden', 'true');
+  }
+});
+</script>
+<script src="//cdn-eu.readspeaker.com/script/7437/webReader/webReader.js?pids=wr" id="rs_req_Init"></script>
+<link rel='shortcut icon' type='image/x-icon' href='https://selkosanomat.fi/wp-content/themes/generatepress_child/assets/images/favicon.ico'>
+<link rel='icon' type='image/png' href='https://selkosanomat.fi/wp-content/themes/generatepress_child/assets/images/favicon.png'>
+<link rel='apple-touch-icon' type='image/png' href='https://selkosanomat.fi/wp-content/themes/generatepress_child/assets/images/apple-touch-icon-precomposed.png'>
+
+
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//stats.kvl.fi/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '3']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>
+		<meta property="og:site_name" content="Selkosanomat" />
+		<meta property="og:type" content="article" />
+		<meta property="og:locale" content="fi_FI" />
+    <meta property="og:title" content="Useita iskuja maailmalla" />
+		<meta property="og:url" content="https://selkosanomat.fi/maailma/useita-iskuja-maailmalla/" />
+		<meta property="og:image" content="https://selkosanomat.fi/wp-content/uploads/2020/11/macrolehte.gif" />
+		<meta property="og:description" content="Ranskassa on tehty viime aikoina väkivaltaisia iskuja. Itävallan Wienissä tehtiin terrori-isku maanantaina." /><link rel="icon" href="https://selkosanomat.fi/wp-content/uploads/2021/09/cropped-w640px_nelio_selkosanomat-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://selkosanomat.fi/wp-content/uploads/2021/09/cropped-w640px_nelio_selkosanomat-512x512.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://selkosanomat.fi/wp-content/uploads/2021/09/cropped-w640px_nelio_selkosanomat-512x512.png" />
+<meta name="msapplication-TileImage" content="https://selkosanomat.fi/wp-content/uploads/2021/09/cropped-w640px_nelio_selkosanomat-512x512.png" />
+</head>
+
+<body class="post-template-default single single-post postid-8176 single-format-standard wp-embed-responsive post-image-below-header post-image-aligned-center secondary-nav-above-header secondary-nav-aligned-center sticky-menu-fade no-sidebar nav-above-header separate-containers nav-aligned-center header-aligned-center dropdown-hover featured-image-active" itemtype="https://schema.org/Blog" itemscope>
+	<a class="screen-reader-text skip-link" href="#content" title="Siirry sisältöön">Siirry sisältöön</a>		<nav class="main-navigation nav-align-center sub-menu-right" id="site-navigation" aria-label="Pääasiallinen"  itemtype="https://schema.org/SiteNavigationElement" itemscope>
+			<div class="inside-navigation">
+				<div class="etusivulinkki hideonmobile" aria-hidden="true">
+  <a class="etusivulinkki hideonmobile" href="https://selkosanomat.fi/" tabindex='-1'>
+    <img border="0" alt="Selkosanomat - etusivulle" src="https://selkosanomat.fi/wp-content/uploads/2021/09/h90px_linkki_selkosanomat.png" width="180">
+  </a>
+</div>
+				<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+					<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="mobile-menu">Valikko</span>				</button>
+				<div id="primary-menu" class="main-nav"><ul id="menu-primary-menu" class=" menu sf-menu"><li id="menu-item-328" class="nav-etusivu menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-328"><a href="https://selkosanomat.fi/">Etusivu</a></li>
+<li id="menu-item-133" class="nav-suomi menu-item menu-item-type-taxonomy menu-item-object-category menu-item-133"><a href="https://selkosanomat.fi/suomi/">Suomi</a></li>
+<li id="menu-item-132" class="nav-maailma menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-132"><a href="https://selkosanomat.fi/maailma/">Maailma</a></li>
+<li id="menu-item-134" class="nav-urheilu menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134"><a href="https://selkosanomat.fi/urheilu/">Urheilu</a></li>
+<li id="menu-item-131" class="nav-kulttuuri menu-item menu-item-type-taxonomy menu-item-object-category menu-item-131"><a href="https://selkosanomat.fi/kulttuuri/">Kulttuuri</a></li>
+<li id="menu-item-130" class="nav-arki menu-item menu-item-type-taxonomy menu-item-object-category menu-item-130"><a href="https://selkosanomat.fi/arki/">Arki</a></li>
+<li id="menu-item-8848" class="nav-arkisto menu-item menu-item-type-post_type menu-item-object-page menu-item-8848"><a href="https://selkosanomat.fi/arkisto/">Arkisto</a></li>
+<li id="menu-item-140" class="nav-uutisiakuvilla menu-item menu-item-type-post_type menu-item-object-page menu-item-140"><a href="https://selkosanomat.fi/kuva/">Uutisia kuvilla</a></li>
+<li id="menu-item-10381" class="nav-lattabladet menu-item menu-item-type-custom menu-item-object-custom menu-item-10381"><a href="https://ll-bladet.fi/">Lätta bladet</a></li>
+</ul></div>			</div>
+		</nav>
+				<header class="site-header" id="masthead" aria-label="Sivusto"  itemtype="https://schema.org/WPHeader" itemscope>
+			<div class="inside-header grid-container">
+				<button class="back" onclick="history.back();">
+  <svg class="nuoli vasemmalle" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16.17px"
+    height="16.44px" viewBox="0 0 16.17 16.44" style="overflow:visible;"
+    xml:space="preserve" aria-hidden="true">
+    <style>
+    .st0 {fill: none; stroke: #2E2E2E; stroke-width: 1.5; stroke-linecap: round; stroke-miterlimit: 10;}
+    </style>
+    <defs></defs>
+    <g transform="translate(0.75 1.061)">
+      <path class="st0" d="M14.67,6.98l-7.33,7.33L0,6.98"/>
+      <line class="st0" x1="7.33" y1="14.32" x2="7.33" y2="-0.31"/>
+    </g>
+  </svg>
+  <p>Takaisin</p>
+</button><div class="lattabladet-button hideonmobile">
+  <button id="bladet-hideonmobile" class="buttonbladet" aria-label="Lätta bladet">
+    <img src="https://selkosanomat.fi/wp-content/uploads/2021/09/h90px_linkki_lattabladet.png" alt="Lätta bladet" class="lattabladet-logo">
+    <svg class="nuoli oikealle" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16.17px" height="16.44px" viewBox="0 0 16.17 16.44" style="overflow:visible;" xml:space="preserve" aria-hidden="true">
+      <style>
+      .st0 {fill: none; stroke: #2E2E2E; stroke-width: 1.5; stroke-linecap: round; stroke-miterlimit: 10;}
+      </style>
+      <defs></defs>
+      <g transform="translate(0.75 1.061)">
+        <path class="st0" d="M14.67,6.98l-7.33,7.33L0,6.98"/>
+        <line class="st0" x1="7.33" y1="14.32" x2="7.33" y2="-0.31"/>
+      </g>
+    </svg>
+  </button>
+</div>
+<script>
+document.querySelector("#bladet-hideonmobile").addEventListener("click", function(event) {
+  event.preventDefault();
+  location.assign("https://ll-bladet.fi/");
+}, false);
+</script><div class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList"> Olet tässä:<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a class="breadcrumbs__link" href="https://selkosanomat.fi/" itemprop="item"><span itemprop="name">Etusivu</span></a><meta itemprop="position" content="1" /></span><span class="breadcrumbs__separator">
+
+<svg class="murunuoli" aria-hidden="true" focusable="false" role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17.041" height="17.494" viewBox="-8 -8 32.082 34.988">
+  <g transform="translate(-1385.854 -167.756)">
+    <path data-name="Path 5" d="M216.641,375.251l7.333,7.333-7.333,7.333" transform="translate(1177.506 -206.081)" fill="none" stroke="#1a1818" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line data-name="Line 14" x1="14.627" transform="translate(1386.854 176.503)" fill="none" stroke="#1a1818" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg></span><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a class="breadcrumbs__link" href="https://selkosanomat.fi/maailma/" itemprop="item"><span itemprop="name">Maailma</span></a><meta itemprop="position" content="2" /></span><span class="breadcrumbs__separator">
+
+<svg class="murunuoli" aria-hidden="true" focusable="false" role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17.041" height="17.494" viewBox="-8 -8 32.082 34.988">
+  <g transform="translate(-1385.854 -167.756)">
+    <path data-name="Path 5" d="M216.641,375.251l7.333,7.333-7.333,7.333" transform="translate(1177.506 -206.081)" fill="none" stroke="#1a1818" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line data-name="Line 14" x1="14.627" transform="translate(1386.854 176.503)" fill="none" stroke="#1a1818" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg></span><span class="breadcrumbs__current">Useita iskuja maailmalla</span></div><!-- .breadcrumbs -->
+			</div>
+		</header>
+		<div class="page-hero grid-container grid-parent">
+					<div class="inside-page-hero grid-container grid-parent">
+						<form method="get" class="custom-search-form" action="https://selkosanomat.fi/" role="search">
+	<span>Hae sivustolta:</span>
+
+    <label for="search">
+         <span class="screen-reader-text">Hae sivustolta</span>
+		</label>
+		<input type="search" class="search-field" value="" name="s" id="search" title="Hae sivustolta">
+
+<button type="submit" class="search-submit"><span>Hae</span>
+<svg class="sl" viewbox="0 0 512 512" aria-hidden="true" focusable="false" role="img" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1em" height="1em">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z"></path>
+    </svg>
+</button>
+</form>
+					</div>
+				</div>
+	<div class="site grid-container container hfeed" id="page">
+				<div class="site-content" id="content">
+			<button onclick="downFunction();" id="buttondown" class="hide-on-mobile hide-on-tablet visiblebtn" title="Vieritä alareunaan" aria-hidden="true" tabindex="-1">
+  <p>Sivun alareunaan</p>
+  <svg class="nuoli" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16.17px" height="16.44px" viewBox="0 0 16.17 16.44" style="overflow:visible;" xml:space="preserve" aria-hidden="true">
+    <style>
+    .st0 {fill: none; stroke: #2e2e2e; stroke-width: 1.5; stroke-linecap: round; stroke-miterlimit: 10;}
+    </style>
+    <g transform="translate(0.75 1.061)">
+      <path class="st0" d="M14.67,6.98l-7.33,7.33L0,6.98"/>
+      <line class="st0" x1="7.33" y1="14.32" x2="7.33" y2="-0.31"/>
+    </g>
+  </svg>
+</button>
+<script>
+function downFunction() {
+  document.querySelector(".copyright-bar").scrollIntoView({ behavior: 'smooth' });  
+}	
+</script>
+	<div class="content-area" id="primary">
+		<main class="site-main" id="main">
+			<div class="rs_skip rsbtn rs_preserve rs_artikkeli" role="button" aria-hidden="true">
+  <a rel="nofollow" class="rsbtn_play" accesskey="L" aria-label='Kuuntele ReadSpeaker webReaderilla' href="//app-eu.readspeaker.com/cgi-bin/rsent?customerid=7437&amp;lang=fi_fi&amp;readid=post-8176&amp;url=https%3A%2F%2Fselkosanomat.fi%2Fmaailma%2Fuseita-iskuja-maailmalla%2F">
+    <span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Kuuntele uutinen</span></span></span>
+  </a>
+</div><article id="post-8176" class="post-8176 post type-post status-publish format-standard has-post-thumbnail hentry category-maailma infinite-scroll-item maailma" itemtype="https://schema.org/CreativeWork" itemscope>
+  <div class="inside-article rs_lue">
+    
+<div class="flex-container rs_skip" aria-hidden="true">
+<div class="post-category category-maailma"><p>Maailma</p></div>
+<time class="date">05.11.2020</time>
+</div>      <header class="entry-header">
+        <h1 class="entry-title" itemprop="headline">Useita iskuja maailmalla</h1>      </header>
+          <div class="info-row">
+    <div class="single-author">Teksti: Petri Kiuttu</div>    <div class="single-pic-rights">Kuva: Lehtikuva</div>    <div class="single-date">Uutinen julkaistu: 05.11.2020</div>
+    </div>
+    <div class="single-excerpt"><p>Ranskassa on tehty viime aikoina väkivaltaisia iskuja. Itävallan Wienissä tehtiin terrori-isku maanantaina.</p>
+</div><div class="featured-image  page-header-image-single ">
+				<div class="wp-caption thumb-caption rs_skip"><img width="1024" height="528" src="https://selkosanomat.fi/wp-content/uploads/2020/11/macrolehte.gif" class="attachment-full size-full" alt="" itemprop="image" decoding="async" fetchpriority="high" /><p class="wp-caption-text thumb-caption-text rs_skip">Mielenosoittajat polttivat Ranskan lipun ja presidentti Emmanuel Macronin kuvan. Kuva Pakistanin Lahoresta 1. marraskuuta.</p></div>
+			</div>
+    <div class="entry-content" itemprop="text">
+      <p>Wienissä kuoli ainakin neljä ihmistä. Poliisin mukaan kyseessä on terrori-isku.</p>
+<p>Etelä-Ranskassa Nizzassa tapahtui viikko sitten puukotus. Puukotuksessa kuoli kolme ihmistä. Nizzan pormestarin mukaan kyse oli terrorismista.</p>
+<p>Avignonin kaupungissa poliisi ampui miehen, jolla oli puukko. Myös Kanadan Quebecissa tapahtui viikonloppuna isku, jossa kuoli kaksi ihmistä.</p>
+<p>Muslimit ovat suuttuneet Ranskan presidentille Emmanuel Macronille. Macron puolustaa sananvapautta ja opettaja Samuel Patyta. Paty murhattiin Ranskan pääkaupungissa Pariisissa. Murhaaja oli nuori tšetšeenimies. Mies raivostui, kun Paty käytti opetuksessaan pilapiirroksia profeetta Muhammadista. Monet muslimimaat eivät hyväksy Muhammad-pilakuvia.</p>
+    </div>
+
+    
+<div class="rs_skip article-end-buttons">
+  <button onclick="printArticle();" id="buttonprint" class="button tulosta" class="hide-on-mobile hide-on-tablet" title="Tulosta">
+    Tulosta uutinen
+    <svg class="tulostin" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="28" xml:space="preserve">
+      <style>
+      .st1 {fill: none; stroke: #2E2E2E; stroke-width: 2; stroke-linejoin: round;}
+      .st2 {clip-path: url(#SVGID_4_);}
+      </style>
+      <g>
+        <g>
+          <defs>
+            <rect width="25.57" height="27.12"/>
+          </defs>
+          <clipPath>
+            <use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+          </clipPath>
+          <g class="st0">
+            <rect x="1.1" y="7.12" class="st1" width="23.38" height="9.18"/>
+            <path class="st1" d="M5.65,7.12V1.19h14.27v5.92"/>
+            <path class="st1" d="M19.92,16.23v9.92H5.65V16.3"/>
+          </g>
+        </g>
+      </g>
+    </svg>
+  </button>
+		<button class="button shareFB" onclick="shareToFacebook();">Jaa Facebookissa
+		<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 506.86 506.86"><defs><style>.cls-1{fill:#ffffff;}.cls-2{fill:transparent;}</style></defs><title>facebook-round-color</title><path class="cls-1" d="M506.86,253.43C506.86,113.46,393.39,0,253.43,0S0,113.46,0,253.43C0,379.92,92.68,484.77,213.83,503.78V326.69H149.48V253.43h64.35V197.6c0-63.52,37.84-98.6,95.72-98.6,27.73,0,56.73,5,56.73,5v62.36H334.33c-31.49,0-41.3,19.54-41.3,39.58v47.54h70.28l-11.23,73.26H293V503.78C414.18,484.77,506.86,379.92,506.86,253.43Z"/><path class="cls-2" d="M352.08,326.69l11.23-73.26H293V205.89c0-20,9.81-39.58,41.3-39.58h31.95V104s-29-5-56.73-5c-57.88,0-95.72,35.08-95.72,98.6v55.83H149.48v73.26h64.35V503.78a256.11,256.11,0,0,0,79.2,0V326.69Z"/></svg>
+	</button>
+</div>
+
+<script>
+function printArticle() {
+	var contents = document.getElementsByTagName('article')[0].innerHTML;
+	var a = window.open('', '', 'height=800, width=600');
+	
+	a.document.write('<html>');
+	a.document.write('<body>');
+	a.document.write(contents);
+	a.document.write('<p style="margin-top:50px;">Uutinen tulostettu osoitteesta: selkosanomat.fi</p>');
+	a.document.write('</body></html>');
+	a.document.getElementsByClassName('single-excerpt')[0].style.fontWeight = "700";
+	a.document.getElementsByClassName('flex-container')[0].style.display = "none";
+	a.document.getElementsByClassName('article-end-buttons')[0].style.display = "none";
+	a.document.getElementsByTagName('body')[0].style.fontFamily = "Open Sans";
+	var articleImages = a.document.getElementsByTagName("img");
+	for (let i = 0; i < articleImages.length; i++) {
+    articleImages[i].style.width = "60%";
+		articleImages[i].style.height = "auto";
+	}
+	var imageWrappers = a.document.getElementsByTagName("figure");
+	for (let i = 0; i < imageWrappers.length; i++) {
+    imageWrappers[i].style.marginLeft = "0";
+	}
+	var imageCaptions = a.document.getElementsByClassName("wp-caption-text");
+	for (let i = 0; i < imageCaptions.length; i++) {
+    imageCaptions[i].style.margin = "8px 0";
+	}
+	
+	a.document.close();
+	a.print();
+}
+
+function shareToFacebook() {
+	var url = window.location.href;
+	window.open("https://www.facebook.com/sharer/sharer.php?u="+url, "pop", "width=600, height=400, scrollbars=no");
+}
+</script>  </div>
+</article>
+
+			<div class="comments-area">
+				<div id="comments">
+
+		<div id="respond" class="comment-respond">
+		<h2 id="reply-title" class="comment-reply-title">Kommentoi <small><a rel="nofollow" id="cancel-comment-reply-link" href="/maailma/useita-iskuja-maailmalla/#respond" style="display:none;">Peruuta vastaus</a></small></h2><form action="https://selkosanomat.fi/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>  <p id="teksti">
+    Voit kirjoittaa mielipiteesi uutisesta kommenttilaatikkoon. </p>
+  <p id="teksti2">
+    Sinun pitää kirjoittaa myös nimesi tai keksiä nimimerkki.
+  </p>
+  <div id="kommentti-nimi">Nimi tai nimimerkki:<label for="author" class="screen-reader-text" value="Nimi tai nimimerkki:">First Name and Location</label><input placeholder="Kirjoita nimi tai nimimerkki tähän" id="author" name="author" type="text" value="" size="30" /></div>
+<div id="kommentti-laatikko"><p id="kommentti-teksti">Kommentti:</p><p class="comment-form-comment"><label for="comment" class="screen-reader-text">Kommentti</label><textarea placeholder="Kirjoita kommentti tähän" id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea></p></div><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Lähetä kommentti" /> <input type='hidden' name='comment_post_ID' value='8176' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><!-- Anti-spam plugin wordpress.org/plugins/anti-spam/ --><div class="wantispam-required-fields"><input type="hidden" name="wantispam_t" class="wantispam-control wantispam-control-t" value="1730020130" /><div class="wantispam-group wantispam-group-q" style="clear: both;">
+					<label>Current ye@r <span class="required">*</span></label>
+					<input type="hidden" name="wantispam_a" class="wantispam-control wantispam-control-a" value="2024" />
+					<input type="text" name="wantispam_q" class="wantispam-control wantispam-control-q" value="7.3.5" autocomplete="off" />
+				  </div>
+<div class="wantispam-group wantispam-group-e" style="display: none;">
+					<label>Leave this field empty</label>
+					<input type="text" name="wantispam_e_email_url_website" class="wantispam-control wantispam-control-e" value="" autocomplete="off" />
+				  </div>
+</div><!--\End Anti-spam plugin --><a class="tietoturva" href="https://www.kehitysvammaliitto.fi/wp-content/uploads/2022/08/tietosuojaseloste-kehitysvammaliitto-jasen-asiakas-ja-lehtirekisteri.pdf" target="_blank">Tietoturvaseloste (PDF)</a></form>	</div><!-- #respond -->
+	
+</div><!-- #comments -->
+			</div>
+
+					</main>
+	</div>
+
+	
+</div>
+</div>
+
+			<nav id="secondary-navigation" aria-label="Secondary" class="secondary-navigation grid-container sub-menu-left" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+				<div class="inside-navigation grid-container grid-parent">
+										<button class="menu-toggle secondary-menu-toggle">
+						<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="mobile-menu">Alanavigaatio</span>					</button>
+					<div class="main-nav"><ul id="menu-secondary-menu" class=" secondary-menu sf-menu"><li id="menu-item-1921" class="nav-otayhteytta menu-item menu-item-type-post_type menu-item-object-page menu-item-1921"><a href="https://selkosanomat.fi/ota-yhteytta/">Ota yhteyttä</a></li>
+<li id="menu-item-306" class="nav-tilaaselkosanomat menu-item menu-item-type-post_type menu-item-object-page menu-item-306"><a href="https://selkosanomat.fi/tilaa-selkosanomat/">Tilaa Selkosanomat</a></li>
+<li id="menu-item-8853" class="nav-saavutettavuusseloste menu-item menu-item-type-custom menu-item-object-custom menu-item-8853"><a href="https://selkosanomat.fi/saavutettavuusseloste/">Saavutettavuusseloste</a></li>
+<li id="menu-item-8850" class="nav-tietoasivusta menu-item menu-item-type-post_type menu-item-object-page menu-item-8850"><a href="https://selkosanomat.fi/lisatietoa-lehdesta/">Lisätietoa Selkosanomista</a></li>
+</ul></div>				</div><!-- .inside-navigation -->
+			</nav><!-- #secondary-navigation -->
+			
+<footer class="site-footer grid-container footer-bar-active footer-bar-align-right">
+      <div class="site-footer grid-container footer-bar-active footer-bar-align-right">
+    <div id="footer-widgets" class="site footer-widgets">
+      <div class="footer-widgets-container grid-container">
+        <div class="inside-footer-widgets">
+          <div class="footer-widget-1">
+            <div id="text-15" class="widget inner-padding widget_text" aria-label="Yhteystiedot">
+              <h1 class="widget-title">Yhteystiedot:</h1>
+              <div class="textwidget">
+                <p><strong>Selkosanomat</strong></p>
+                <p>Linnoitustie 2 B</p>
+                <p>02600 ESPOO</p>
+                <p>Puhelin: (09) 34809 240</p>
+                <p>Sähköposti: <a href="mailto:selkokeskus@kvl.fi" style="color:blue;">selkokeskus@kvl.fi</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="footer-widget-2">
+            <div id="text-16" class="widget inner-padding widget_text" aria-label="Toimitus">
+              <h1 class="widget-title">Toimitus:</h1>
+              <div class="textwidget">
+                <p><strong>Päätoimittaja:</strong> Petri Kiuttu</p>
+                <p><strong>Toimittajat: </strong>Kaisa Kaatra, Maria Österlund</p>
+                <!-- <p><strong>Kuvatoimittaja: </strong>Heidi Ahlström</p> -->
+                <p><strong>Tekniikka: </strong>Kehitysvammaliitto / Papunet</p>
+                <p><strong>Julkaisija:</strong> Selkokeskus / Kehitysvammaliitto</p>
+              </div>
+            </div>
+          </div>
+          <div class="footer-widget-3">
+            <div id="text-17" class="widget inner-padding widget_text" aria-label="Muita sivustoja">
+              <h1 class="widget-title">Muita sivustoja:</h1>
+              <div class="textwidget">
+                <p><a href="https://selkokeskus.fi/">Selkokeskuksen sivut</a></p>
+                <p><a href="https://yle.fi/uutiset/osasto/selkouutiset/">YLE:n selkouutiset</a></p>
+                <br />
+                <p><a href="https://www.facebook.com/selkosanomat/">Selkosanomat Facebookissa</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="site-info">
+      <div class="grid-container">
+        <div class="footer-bar">
+          <img width="100" height="122" src="https://selkosanomat.fi/wp-content/uploads/2020/12/vastuullista-journalismia-420x512.png" class="image wp-image-444 vastuullistaimg attachment-100x122 size-100x122" alt="Vastuullista journalismia logo" loading="lazy" style="max-width: 100%; height: auto;" sizes="(max-width: 100px) 100vw, 100px">
+          <img width="130" height="130" src="https://selkosanomat.fi/wp-content/uploads/2020/12/Selko-merkki_suomi_mv_NETTIIN_300px-copy-150x150.png" class="image wp-image-445 selkoimg attachment-130x130 size-130x130" alt="Selkotunnus logo" loading="lazy" style="max-width: 100%; height: auto;" sizes="(max-width: 130px) 100vw, 130px">
+        </div>
+        <div class="copyright-bar">© 2023 Selkosanomat</div>
+      </div>
+    </div>
+  </div>
+
+  </footer>
+
+<button id="buttonup" class= "button buttonup hide-on-mobile hide-on-tablet" title="Vieritä takaisin ylös">
+  <p>Sivun yläreunaan</p>
+  <svg class="nuoli ylos" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16.17px" height="16.44px" viewBox="0 0 16.17 16.44" style="overflow: visible; enable-background: new 0 0 16.17 16.44;" xml:space="preserve">
+    <style>
+    .st0 {fill: none; stroke: #2e2e2e ;stroke-width: 1.5; stroke-linecap: round; stroke-miterlimit: 10;}
+    </style>
+    <g transform="translate(0.75 1.061)">
+      <path class="st0" d="M0,7.33L7.33,0l7.33,7.33"/>
+      <line class="st0" x1="7.33" y1="0" x2="7.33" y2="14.63"/>
+    </g>
+  </svg>
+</button>
+<script>
+//Hae button
+var mybutton = document.getElementById("buttonup");
+var buttondown = document.getElementById("buttondown");
+
+// Kun käyttäjä skrollaa annetun verran alaspäin, nappi tulee näkyviin
+window.onscroll = function () {
+  scrollFunction();
+  toBottom();
+};
+
+// Korkeus X on 20 % sivun korkeudesta
+function scrollFunction() {
+  var korkeus = document.body.scrollHeight;
+  var x = korkeus * 0.2;
+
+  // Nappi on ylälaidassa näkymätön ja muuttuu näkyväksi, kun sivua on skrollattu 20 % alaspäin
+  if (document.body.scrollTop > x || document.documentElement.scrollTop > x) {
+    mybutton.style.opacity = "1";
+    mybutton.style.visibility = "visible";
+    mybutton.style.transition = "visibility 0s linear 0s, opacity 300ms, background-color 150ms";
+    mybutton.style.pointerEvents = "all";
+
+  } else {
+    mybutton.style.visibility = "hidden";
+    mybutton.style.opacity = "0";
+    mybutton.style.transition = "visibility 0s linear 300ms, opacity 300ms, background-color 150ms";
+    mybutton.style.pointerEvents = "none";
+  }
+}
+
+function toBottom() {
+  var y = window.pageYOffset;
+  var windowHeight = window.innerHeight;
+  var max = document.body.scrollHeight;
+
+  // Nappi on ylälaidassa näkymätön ja muuttuu näkyväksi, kun sivua on skrollattu 20 % alaspäin
+  if (y + windowHeight >= max) {
+    buttondown.style.visibility = "hidden";
+    buttondown.style.opacity = "0";
+    buttondown.style.transition = "visibility 0s linear 300ms, opacity 300ms, background-color 150ms";
+    buttondown.style.pointerEvents = "none";
+  } else {
+    buttondown.style.opacity = "1";
+    buttondown.style.visibility = "visible";
+    buttondown.style.transition = "visibility 0s linear 0s, opacity 300ms, background-color 150ms";
+    buttondown.style.pointerEvents = "all";
+  }
+}
+
+/*Hissinapin painaminen*/
+
+// Nappia painaessa kelataan hitaasti ylös
+document.getElementById("buttonup").onclick = function () {
+  scrollTo(0, 1000); // 1 sekuntia että päästään ylös.
+}
+
+// Element to move, time in ms to animate
+function scrollTo(element, duration) {
+  var e = document.documentElement;
+  if (e.scrollTop === 0) {
+    var t = e.scrollTop;
+    ++e.scrollTop;
+    e = t + 1 === e.scrollTop-- ? e : document.body;
+  }
+  scrollToC(e, e.scrollTop, element, duration);
+}
+
+function scrollToC(element, from, to, duration) {
+  if (duration <= 0) {
+    return;
+  }
+  if (typeof from === "object") {
+    from = from.offsetTop;
+  }
+  if (typeof to === "object") {
+    to = to.offsetTop;
+  }
+  scrollToX(element, from, to, 0, 1 / duration, 20, easeOutCuaic);
+}
+
+function scrollToX(element, xFrom, xTo, t01, speed, step, motion) {
+  if (t01 < 0 || t01 > 1 || speed <= 0) {
+    element.scrollTop = xTo;
+    return;
+  }
+  element.scrollTop = xFrom - (xFrom - xTo) * motion(t01);
+  t01 += speed * step;
+
+  setTimeout(function () {
+    scrollToX(element, xFrom, xTo, t01, speed, step, motion);
+  }, step);
+}
+
+function easeOutCuaic(t) {
+  t--;
+  return t * t * t + 1;
+}
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(i, s, o, g, r, a, m) {
+  i['GoogleAnalyticsObject'] = r;
+  i[r] = i[r] || function() {
+    (i[r].q = i[r].q || []).push(arguments)
+  }, i[r].l = 1 * new Date();
+  a = s.createElement(o),
+    m = s.getElementsByTagName(o)[0];
+  a.async = 1;
+  a.src = g;
+  m.parentNode.insertBefore(a, m)
+})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+ga('create', 'UA-150378-7', 'auto');
+ga('send', 'pageview');
+/* ]]> */
+</script>
+<script id="generate-a11y">!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("mousedown",function(){e.classList.add("using-mouse")}),e.addEventListener("keydown",function(){e.classList.remove("using-mouse")})}}();</script><script>
+jQuery(document).ready(function($) {
+  var body = $('body');
+  if (!body.hasClass('category-kysely')) {
+    if (body.hasClass('blog') || body.hasClass('archive') || body.hasClass('search')) {
+      $('.type-post').on('click', function() {
+        if (!$(this).hasClass('category-kysely')) {
+          var link = $(this).find('.entry-title a').attr('href');
+          if (link) {
+            window.location = link;
+          }
+        }
+      });
+    }
+  }
+});
+var loadMore = document.querySelector('.masonry-load-more a');
+	if (loadMore) {
+		loadMore.setAttribute("role", "button");
+	}
+</script><script src="https://selkosanomat.fi/wp-content/plugins/anti-spam/assets/js/anti-spam.js?ver=7.3.5" id="anti-spam-script-js"></script>
+<script id="generate-smooth-scroll-js-extra">
+var gpSmoothScroll = {"elements":[".smooth-scroll","li.smooth-scroll a"],"duration":"800","offset":""};
+</script>
+<script src="https://selkosanomat.fi/wp-content/plugins/gp-premium/general/js/smooth-scroll.min.js?ver=2.5.0" id="generate-smooth-scroll-js"></script>
+<script id="wp-polls-js-extra">
+var pollsL10n = {"ajax_url":"https:\/\/selkosanomat.fi\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+</script>
+<script src="https://selkosanomat.fi/wp-content/plugins/wp-polls/polls-js.js?ver=2.77.2" id="wp-polls-js"></script>
+<!--[if lte IE 11]>
+<script src="https://selkosanomat.fi/wp-content/themes/generatepress/assets/js/classList.min.js?ver=3.5.1" id="generate-classlist-js"></script>
+<![endif]-->
+<script id="generate-menu-js-extra">
+var generatepressMenu = {"toggleOpenedSubMenus":"1","openSubMenuLabel":"Avaa alivalikko.","closeSubMenuLabel":"Sulje alivalikko."};
+</script>
+<script src="https://selkosanomat.fi/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.5.1" id="generate-menu-js"></script>
+<script src="https://selkosanomat.fi/wp-includes/js/comment-reply.min.js?ver=6.6.2" id="comment-reply-js" async data-wp-strategy="async"></script>
+
+</body>
+
+</html>

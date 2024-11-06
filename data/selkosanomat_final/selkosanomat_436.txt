@@ -1,0 +1,23 @@
+<title>Ristomatti Ratian ensimmäinen suunnittelutyö oli peili</title>
+<lead>Ristomatti Ratia on Suomen tunnetuimpia suunnittelijoita. Hän on Marimekon perustajan Armi Ratian poika.</lead>
+Ristomatti Ratian suunnittelemiin esineisiin kuuluvat maailmallakin tunnetut Marimekon olkalaukku 301 ja Palaset-hyllysarja. Ratialla on nykyisin oma Ratia-yritys.
+<subtitle>Kuka olet, Ristomatti Ratia?</subtitle>
+<quote>– Olen sisustaja, joka muokkaa oman elinympäristönsä. Sitä kautta on tullut tavaroiden suunnittelu. Olen aina lähtenyt sisustuksen suunnittelusta, en yksittäisistä esineistä. Olen kotoisin meren rannalta. Olen asunut aina isojen valtamerien tai järvien lähellä. Olen kokenut aina meren ankaraksi, kunnioitan sitä. Meressä on voimaa. Meri on minulle hyvin tärkeä elementti myös suunnittelussa uusien ideoiden antajana.</quote>
+<subtitle>Mitä toivot tulevaisuudelta?</subtitle>
+<quote>– Olen luonut Ristomatti Ratia -tuotemerkin ja aikanaan tehnyt Marimekon tunnetuksi tavallisille amerikkalaisille kuluttajille. Haluan, että Ratia-tuotteet ovat pitkäikäisiä, kestäviä, laadukkaita ja edustavat hyvää suunnittelua. Suunnittelen edelleen Marimekolle laukkuja ja teen omaa laukkumallistoani. Toivon, että nämä työt ovat tuotannossa vielä pitkään.</quote>
+<subtitle>Kenelle olet kiitollinen?</subtitle>
+<quote>– Olen kiitollinen kirkasotsaisille ihmisille, jotka osaavat ottaa vastuuta. Äitini Armi käytti termiä kirkasotsaisuus Marimekon taiteellisesta johtajasta Hilkka Rahikaisesta. Olen kiitollinen myös äidilleni. Hän kannusti minua oppimaan englannin kielen, vaikka opiskelu oli minulle aluksi hyvin vastenmielistä. Äitini oli viisas, erikoinen ja lahjakas ihminen.</quote>
+<subtitle>Mikä on lempipaikkasi?</subtitle>
+<quote>– Koti. Tykkään katsoa merta ikkunastani. Viihdyn kotona hyvin. Viihdyn tietysti myös Saarenmaalla, Virossa. Olen kunnostanut Saarenmaan 1700-luvulla rakennetun talomme. Olen jopa tehnyt sinne ruokokaton. Viihdyn myös monissa suurissa, kansainvälisissä kaupungeissa. Matka on kuitenkin aina matka. Olen onnellinen kotona tai saarella meren ympäröimänä. En minä tarvitse siihen mitään muuta.</quote>
+<subtitle>Ketä ihailet?</subtitle>
+<quote>– Monia ihmisiä. Lapsuudenkotini tuttavapiiriin kuului paljon mielenkiintoisia taiteilijoita, kuten Birger Kaipiainen ja Tarmo Manni. Eniten kunnioitin kuitenkin meidän kodinhoitajaamme Kerttu Mäntykiveä. Hän oli hieno ihminen ja aina hyvällä tuulella.</quote>
+<subtitle>Mitkä ovat elämäsi kohokohtia?</subtitle>
+<quote>– Minulle naiset ovat olleet elämäni tärkein asia. Kaikki naissuhteeni ovat olleet ainutlaatuisia kokemuksia. Olen onnellinen myös siitä, että lapseni ovat terveitä.</quote>
+<subtitle>Missä asioissa haluat kehittyä?</subtitle>
+<quote>– Haluaisin näyttelijäksi. Se on aina kiinnostanut minua ja kiinnostaa nykyisin entistä enemmän. Kun kävelen teatterin ohi, haluaisin mennä kysymään, pääsenkö mukaan. Pidän siitä, että joudun laittamaan itseni peliin ja on pakko uskaltaa. Esitin komediallisessa koulunäytelmässä matematiikan opettajaamme niin hyvin, että hän suuttui.</quote>
+<subtitle>Ketkä ovat lempitaiteilijoitasi?</subtitle>
+<quote>– Pidin nuorena kovasti David Hockneysta ja Andy Warholista. Omistin jopa heidän töitään. Nykyisin pidän Oliver Whiteheadin ja Maija Vainosen teoksista. Myös Radoslaw Gryta on minulle tärkeä. Hän on kuvanveistäjä. Pidän hiukan alkukantaisesta taiteesta. Taiteen ei tarvitse miellyttää ketään.</quote>
+<subtitle>Mikä on mielestäsi merkittävin työ suomalaisessa muotoilussa?</subtitle>
+<quote>– Alvar Aallon ja Eliel Saarisen työt ovat hienoja. He ovat myös ylittäneet kansallisen kynnyksen, eli he ovat kansainvälisiä taiteilijoita. Kaj Franck oli hieno muotoilija. Minulla oli kunnia tavata Kaj Franck. Hän kävi usein meillä syömässä.</quote>
+<subtitle>Miksi suomalainen muotoilu menestyy maailmalla?</subtitle>
+<quote>– Siihen vaikuttaa sattuma. Ei kukaan etsi nimenomaan suomalaiselta tekijältä seuraavaa näyttelyä. Kansainvälinen menestys vaatii pitkää ja perusteellista työtä. Se vaatii myös hyvää onnea. Kun muotoilija tekee massatuotantoon tarkoitettuja tuotteita, on hänen hyvä muistaa ylpeys. Kädestään ei saisi päästää keskeneräisiä töitä, joita häpeää myöhemmin. Myös massatuotannon voi tehdä hyvin ja huolellisesti. Oma suunnittelijan urani alkoi käsipeilistä. Minä kehittelin sen massatuotantoon halvaksi käyttöesineeksi. Se on edelleen pätevä käyttöesine.</quote>

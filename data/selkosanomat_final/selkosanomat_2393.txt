@@ -1,0 +1,23 @@
+<title>Soittamisen täytyy olla hauskaa</title>
+<lead>Hannu Annala on keksinyt eläinkuvanuotit. Nuottien avulla soittamisen harjoittelu on hauskaa ja helppoa.</lead>
+Hannu Annala on kehittänyt eläinkuvanuotit, joiden avulla soittamisen harjoittelu on helpompaa. Nuotit sopivat varhaiskas­vatukseen, esiopetukseen ja alkuopetukseen.
+Eläinkuvanuotit ovat tavallisia nuotteja suurempia. Nuoteissa on eri eläinten kuvia. Nuotin alkukirjain kertoo sävelen. Jokaisella nuotilla on myös oma väri.
+<subtitle>Miten keksit eläinkuvanuotit?</subtitle>
+<quote>– Nuotit ja soinnut ovat usein liian vaikeita ihmiselle, joka opettelee musiikin alkeita. Aloin kehittää nuotteja ja sointumerkintöjä, jotka olisivat ymmärrettävämpiä. Eläinkuvan alkukirjan kertoo, mikä sävel on kyseessä. E-sävel on elefantti, a on apina ja h on hevonen.</quote>
+<quote>– Soittimissa on samanlaiset tarrat, joissa on eläinten kuvia. Soittaja voi seurata kuvanuotteja ja etsiä soittimesta samanlaisen kuvan. Nuottien ymmärtäminen ja musiikin alkeiden opiskelu on helpompaa, kun apuna ovat kuva, väri ja kirjain.</quote>
+<subtitle>Kenelle opetustapa sopii?</subtitle>
+<quote>– Eläinkuvanuotit sopivat kaikille, jotka haluavat oppia soittamaan tai säestämään hauskasti ja helposti. Lasten ja nuorten lisäksi myös iäkkäät ihmiset voivat opetella soittamista tällä tavalla.</quote>
+<quote>– Monet ikäihmiset harrastavat nykyään musiikkia. Se on hyvä asia, koska soittaminen ja laulaminen pitävät yllä aivojen terveyttä ja toimintakykyä. Soittamisen täytyy olla hauskaa. Ilon täytyy kuulua myös harjoittelussa.</quote>
+<subtitle>Voiko jokainen oppia soittamaan nuoteista?</subtitle>
+<quote>– Useimmat voivat oppia soittamaan nuottien avulla. Tavalliset nuotit ovat tietysti vaikeampia kuin eläinkuvanuotit. Soittamisen opettelu vaatii tietysti myös harjoittelua. Soittamaan ei voi oppia ilman soittamista.</quote>
+<subtitle>Ketkä käyttävät eläinkuvanuotteja?</subtitle>
+<quote>– Henkilöt, joilla on oppimisrajoitteita hyötyvät tästä menetelmästä. Eläinkuvanuotit sopivat hyvin myös henkilölle, jolla on lukivaikeuksia sekä kehitysvammaisille ihmisille ja muille vammaisryhmille.</quote>
+<quote>– Merkittävä kohderyhmä on myös alle kouluikäiset lapset. 5–7-vuotiaat lapset jäävät usein vaille soitonopetusta sen jälkeen, kun he lähtevät musiikkileikkikoulusta. Musiikkiopistoon ja henkilökohtaisille soittotunneille mennään usein vasta alakouluiässä.</quote>
+<subtitle>Olet kehittänyt myös uudenlaisia soittimia. Millaisia?</subtitle>
+<quote>– Ne ovat soittimia, joilla on helppo säestää lauluja. Soittimia ovat sointukellopeli, sointukantele ja sointupainikkeet pianon koskettimiin.</quote>
+<subtitle>Olet diplomikitaristi. Milloin aloit soittaa kitaraa?</subtitle>
+<quote>– Aloin soittaa kitaraa 12-vuotiaana. Silloin oli 1960-aluvun alku. The Beatles -yhtye oli juuri noussut suosioon. Monet pojat alkoivat silloin soittaa kitaraa.</quote>
+<subtitle>Kauanko olet opettanut kitaransoittoa?</subtitle>
+<quote>– Olen opettanut kitaransoittoa vuodesta 1972 alkaen. Opetan Keski-Pohjanmaan konservatoriossa Kokkolassa.</quote>
+<subtitle>Mitä tulevaisuudensuunnitelmia sinulla on?</subtitle>
+<quote>– Tasavertaisen soitonopetuksen kehittäminen innostaa minua. Aion jatkaa soittamista niin kauan kuin pystyn.</quote>

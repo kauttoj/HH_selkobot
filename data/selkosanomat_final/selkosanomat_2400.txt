@@ -1,0 +1,41 @@
+<title>Vitamiineja koko keholle</title>
+<lead>Oikeanlainen ruoka auttaa meitä pysymään terveinä. Ruuasta saa vitamiineja, jotka suojaavat kehoa. Tästä löydät lisätietoa vitamiineista.</lead>
+<subtitle>Mitä ovat vitamiinit?</subtitle>
+Vitamiinit ovat tärkeitä aineita, jotka auttavat kehoasi toimimaan. Vitamiineja on kahdenlaisia, rasvaliukoisia ja vesiliukoisia.
+Rasvaliukoiset vitamiinit jäävät kehoon. Niitä ei saa syödä liikaa, koska silloin niistä voi tulla epämukavia sivuvaikutuksia.
+Vesiliukoiset vitamiinit poistuvat kehosta virtsan mukana, jos ihminen on syönyt niitä liikaa. Vesiliukoisia vitamiineja voi syödä paljon, koska keho ei vahingoitu niistä.
+<subtitle>Mistä saa vitamiineja?</subtitle>
+Vitamiineja saa ruuasta. On tärkeää syödä monipuolista ruokaa, koska eri vitamiineja on eri ruuissa.
+Vitamiineja on kasviksissa, hedelmissä ja marjoissa. Vitamiineja on myös lihassa, kalassa, maksassa, kananmunissa ja maitotuotteissa.
+Joitakin vitamiineja saa monesta ruuasta. Esimerkiksi C-vitamiinia on monissa hedelmissä ja kasviksissa.
+Joskus ruuasta ei saa tarpeeksi vitamiineja. Silloin voi tarvita vitamiinipillereitä. Monilla on liian vähän D-vitamiinia kehossa erityisesti talvella.
+Iho muodostaa D-vitamiinia auringon valosta. Suomessa ei kuitenkaan ole tarpeeksi auringonvaloa talvella. Siksi D-vitamiinia suositellaan tabletin muodossa talvella.
+<subtitle>Vitamiinien hyödyt ja lähteet:</subtitle>
+Rasvaliukoiset vitamiinit
+A-vitamiini Hyväksi limakalvoille, silmille ja iholle.
+A-vitamiinia on kananmunan keltuaisessa, rasvaisessa kalassa, maksassa, porkkanassa, pippurissa, pinaatissa ja lehtikaalissa.
+D-vitamiini Hyväksi luustolle, hampaille ja lihaksille. Auttaa kalsiumia imeytymään.
+D-vitamiinia on kananmunissa, rasvaisessa kalassa ja maidossa. D-vitamiinia syntyy iholla auringonvalon vaikutuksesta.
+E-vitamiini Suojaa ja korjaa soluja.
+E-vitamiinia on kananmunissa, kasviöljyssä, pähkinöissä ja täysjyväviljassa.
+K-vitamiini Hyväksi verelle ja luustolle.
+K-vitamiinia on pinaatissa, parsakaalissa, vihreissä kasviksissa ja maksassa.
+<subtitle>Vesiliukoiset vitamiinit</subtitle>
+B-vitamiinit B-vitamiineihin kuuluu kahdeksan vitamiinia, jotka ovat samantapaisia. B-vitamiinien nimessä on numero: B1 (tiamiini), B2 (riboflaviini), B3 (niasiini), B5 (pantoteenihappo), B6 (pyridoksiini), B7 (biotiini), B9 (foolihappo) ja B12 (kobalamiini).
+Osa numeroista puuttuu, koska joitakin aineita ei enää kutsuta vitamiineiksi.
+Hyväksi suolistolle, hermostolle, verelle ja hormoneille.
+Monia B-vitamiineja on helppo saada, jos syö monipuolista ruokaa. Vegaanit ja kasvissyöjät tarvitsevat B12-vitamiinipillereitä, koska B12-vitamiinia on vain eläintuotteissa.
+C-vitamiini Hyväksi luustolle, ikenille, hampaille, iholle ja hermostolle. Antaa energiaa keholle ja auttaa rautaa imeytymään.
+C-vitamiinia on sitrushedelmissä, marjoissa, keräkaalissa, paprikassa ja parsakaalissa.
+<subtitle>Immuunijärjestelmä</subtitle>
+Vitamiinit ovat tärkeitä kehon immuunijärjestelmälle. Immuunijärjestelmää kutsutaan myös puolustusjärjestelmäksi. Immuunijärjestelmä suojaa kehoa ulkoisilta hyökkäyksiltä, bakteereilta ja viruksilta.
+Kun immuunijärjestelmä havaitsee haitallisen viruksen tai bakteerin, se alkaa muodostaa vasta-aineita. Vasta-aineet ovat ikään kuin immuunijärjestelmän poliiseja. Ne lähtevät ympäri kehoa taistelemaan hyökkääjiä vastaan ja tuhoamaan ne.
+Kun nukumme tarpeeksi ja liikumme ja ulkoilemme, autamme samalla immuunijärjestelmäämme. Terveellinen ruoka ja vitamiinit ovat tärkeitä immuunijärjestelmälle.
+<subtitle>Mihin aikaan päivästä kannattaa ottaa vitamiinipilleri?</subtitle>
+Rasvaliukoiset vitamiinipillerit otetaan ruuan yhteydessä. Ruuassa täytyy olla rasvaa, jotta keho voi käyttää rasvaliukoisia vitamiineja. On myös D-vitamiinikapseleita, joissa on öljyä.
+Vesiliukoiset vitamiinipillerit voi ottaa milloin tahansa, mutta mielellään ruuan yhteydessä.
+<subtitle>Marttaliiton vinkit</subtitle>
+1) Syö monipuolisesti. Ruoka sisältää erilaisia määriä vitamiineja ja kivennäisaineita. Siksi on tärkeää syödä vähän kaikkea, jotta saa mahdollisimman paljon erilaisia ravintoaineita.
+2) Syö enemmän kotiruokaa ja vähemmän pikaruokaa. Yritä syödä ruokaa, jota on käsitelty mahdollisimman vähän. Peruna on hyvää perusruokaa. Se sisältää monia vitamiineja. Paistetut ja keitetyt perunat säilyttävät suuren määrän vitamiineja. Perunasosejauheessa ja perunalastuissa ei ole vitamiineja.
+Lähteet livsmedelsverket.se, terveyskirjasto.fi, Marttaliitto
+Ruokakuvat Papunetin kuvapankki, papunet.net, Sergio Palao, Heidi Ahlström Muokkaus, kehokuva ja muu grafiikka Heidi Ahlström

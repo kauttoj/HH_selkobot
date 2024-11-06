@@ -1,0 +1,19 @@
+<title>Ministeri uskoo tulevaisuuteen</title>
+<lead>Työministeri Lauri Ihalaisen mielestä Suomen tulevaisuus on valoisa ja mahdollisuuksia täynnä. Ministeri myöntää kuitenkin,
+että 315 000 työtöntä on vaikea asia.</lead>
+<subtitle>Mikä on Suomen suurin haaste?</subtitle>
+<quote>– Meidän suurin haasteemme on se, miten Suomi pärjää maailmassa, joka kansainvälistyy kovaa vauhtia. Hyvinvointimme rakentuu suurelta osin vientiteollisuuden varaan. Suomen taloudellinen kasvu on kuitenkin ollut viime vuodet hidasta, ja Suomen vienti on hiipunut. Myös ulkomaiset yritykset ovat sijoittaneet Suomeen vähän. Onneksi myönteisiäkin uutisia on viime aikoina tullut, esimerkiksi metsäteollisuudesta.</quote>
+<subtitle>Miten Suomi pärjää tässä tilanteessa?</subtitle>
+<quote>– Suomen pitää löytää paikkansa uudelleen kansainvälisillä markkinoilla. Meidän täytyy tietää, missä olemme vahvoja. Pitää uskoa tulevaisuuteen. Meidän menestyvät yrityksemme metsäteollisuudessa ja teknologiateollisuudessa, kuten Nokia, ovat heikentyneet. Tilalle on kuitenkin myös syntynyt uusia asioita ja uusissa muodoissa.</quote>
+<quote>– Suomen talous pohjautuu vahvasti vientiin. Taloutemme on siitä syystä myös hyvin haavoittuva. Meidän pitää saada uusia vientiyrityksiä. Nyt vain 25 yritystä vie yli puolet kaikesta Suomen viennistä.</quote>
+<subtitle>Mitä vahvuuksia Suomella on nyt?</subtitle>
+<quote>– Meillä on hyvät mahdollisuudet  jalostetuissa tuotteissa ja biometsätaloudessa. Meillä on  korkeatasoista osaamista, tutkimusta ja tuotekehittelyä.</quote>
+<quote>– Suomen julkinen sektori on melko terveellä pohjalla verrattuna moniin muihin Euroopan maihin, vaikka meillä onkin taloudellisia vaikeuksia yhteiskunnassa.</quote>
+<subtitle>Työttömyys kasvaa. Onko se ohimenevää?</subtitle>
+<quote>– Meiltä on hävinnyt 100 000 teollisuuden työpaikkaa viimeisten 10 vuoden aikana. Osa näistä työpaikoista palaa, osa ei. Suuri osa teollisuuden työpaikoista ei tule takaisin. Se johtuu yhteiskuntamme rakenteellisista muutoksista.</quote>
+<subtitle>Monet tekevät nykyisin pätkätöitä eli työllistyvät lyhyiksi jaksoiksi. Ovatko pätkätyöt pysyvä ilmiö?</subtitle>
+<quote>– Kyllä, käsitys elämänmittaisesta yhdestä työsuhteesta on muuttunut. Me joudumme kaikki jatkossa vaihtamaan keskimäärin 3–5 kertaa ammattia elämämme aikana. Pätkätyösuhteet ovat varmasti pysyvä asia. Osa-aikaisessa työssä on pulmia, mutta osa-aikatyössä on myös hyvää, esimerkiksi työn joustavuus.</quote>
+<subtitle>Mikä on työministerin uranne vaikein asia?</subtitle>
+<quote>– Työttömyyden kasvu on minun työtehtäväni vaikein asia. Suuri työttömyys kasvattaa tuloeroja ja lisää syrjäytymisen riskiä.</quote>
+<subtitle>Olette ammatiltanne kirvesmies. Mitä olette tehnyt viimeksi omin käsin?</subtitle>
+<quote>– Enhän minä kirvesmiehen taidoillani pystyisi itseäni enää elättämään. Tulin toimistohommiin vuonna 1970. Arvostan kovasti käden taitoja. Minä rakentelen linnunpönttöjä ja jakkaroita mökillä.</quote>

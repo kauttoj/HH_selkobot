@@ -1,0 +1,26 @@
+<title>Demokratiassa kaikki saavat sanoa mielipiteensä</title>
+<lead>Staffan Himmelroos on yliopiston lehtori yhteiskuntatieteissä. Hän kertoo, kuinka demokraattinen valtio toimii.</lead>
+<subtitle>Mitkä asiat tekevät jostakin maasta demokratian?</subtitle>
+<quote>– On tärkeää, että järjestetään vaaleja. Vaalien täytyy olla vapaat ja reilut. Niitä täytyy järjestää tarpeeksi usein. Kaikkien aikuisten täytyy saada äänestää. Ihmisten täytyy saada olla ehdolla vaaleissa riippumatta siitä, mitä mielipiteitä heillä on.</quote>
+<quote>– On myös tärkeä asia, että ihmisillä on oikeus vastustaa suunnitelmia ja päätöksiä. Demokraattisissa maissa ihmiset saavat järjestää mielenosoituksia ja sanoa mielipiteensä.</quote>
+<quote>– Vapaa media eli sanomalehdet, radio ja tv ovat myös tärkeitä demokratiassa. Medialla täytyy olla oikeus kertoa tapahtumista, suunnitelmista ja päätöksistä. Median täytyy myös voida kertoa, jos maan johtajat tekevät huonoja asioita.</quote>
+<quote>– Liberaalissa demokratiassa myös oikeusjärjestelmä toimii hyvin. Ihmiset voivat siis luottaa siihen, että oikeuden tuomiot ovat reiluja. Liberaali demokratia suojelee myös niiden ihmisten oikeuksia, jotka kuuluvat johonkin vähemmistöön.</quote>
+<subtitle>Milloin Suomesta tuli demokratia?</subtitle>
+<quote>– Suomi on ollut demokratia yhtä kauan kuin Suomi on ollut itsenäinen. Suomessa myös naiset saivat äänioikeuden jo vuonna 1906 ensimmäisenä Euroopassa.</quote>
+<quote>– Suomessa kansa valitsee edustajia, jotka sitten tekevät päätöksiä. Suomalaiset saavat valita kunnalliset päättäjät, kansanedustajat ja presidentin. Nykyään valitaan edustajat myös hyvinvointialueille.</quote>
+<quote>– Kansalaisaloite on esimerkki siitä, miten demokratiaa on kehitetty. Vuodesta 2013 ihmiset ovat voineet tehdä Suomessa kansalaisaloitteen eli ehdottaa muutosta lakeihin. Jos 50 000 suomalaista allekirjoittaa aloitteen eli ehdotuksen, eduskunnan täytyy käsitellä aloite. Tasa-arvoinen avioliittolaki lähti liikkeelle kansalaisaloitteesta.</quote>
+<subtitle>Miksi Suomessa niin monet eivät äänestä?</subtitle>
+<quote>– Monissa muissa demokraattisissa maissa riittää, että äänestäjä valitsee puolueen. Joissain maissa voi olla vain kaksi tärkeää puoluetta, joista pitää valita toinen. Suomessa on paljon eri puolueita. Täällä äänestäjien pitää valita puolueen lisäksi myös ehdokas. Se voi olla vaikeaa, jos ei seuraa politiikkaa tarkkaan.</quote>
+<subtitle>Millaisia uhkia demokratialla on?</subtitle>
+<quote>– Joissain demokraattisissa maissa ero rikkaiden ja köyhien välillä on kasvanut suureksi. Yhdysvallat on esimerkki demokraattisesta maasta, jossa tuloerot ovat suuria. Yhdysvalloissa monet pienituloiset ovat tyytymättömiä, eivätkä he enää usko demokratiaan. Tyytymättömyys purkautui esimerkiksi vuonna 2021, kun ihmiset tunkeutuivat kongressitaloon Washingtonissa.</quote>
+<subtitle>Oletko huolissasi demokratiasta?</subtitle>
+<quote>– En ole huolissani demokratiasta Suomessa. Olen kuitenkin huolissani siitä, että monissa maissa demokratiassa on puutteita. Tulevaisuudessa demokraattisten ja epädemokraattisten maiden välinen yhteistyö voi olla vaikeampaa. Epädemokraattiset maat, kuten Kiina, Venäjä ja arabimaat, tekevät mieluiten yhteistyötä toistensa kanssa.</quote>
+<subtitle>Demokratia on kansanvalta</subtitle>
+Sana demokratia on peräisin antiikin kreikasta. Se tarkoittaa kansanvaltaa. Edustuksellinen demokratia tarkoittaa sitä, että äänestämme itsellemme kansanedustajat eduskuntaan.
+Liberaalissa demokratiassa ihmisillä on lisäksi vapaus päättää omista valinnoistaan eli turvallista esimerkiksi puhua, osallistua ja uskoa.
+Liberaalissa demokratiassa vallan väärinkäyttöä pyritään estämään. Siksi lainsäädäntövalta, toimeenpanovalta ja tuomiovalta ovat erillään. Suomessa eduskunta päättää lait ja hallitus toteuttaa ne. Tuomiovaltaa käyttävät hallinto-oikeus, käräjäoikeus, hovioikeus ja korkein oikeus.
+Media osoittaa virheitä, joita lainsäädäntövalta, toimeenpanovalta ja tuomiovalta eivät itse pysty korjaamaan. Siksi sitä sanotaan joskus neljänneksi valtiovallaksi.
+<subtitle>Diktatuurissa valta on yhdellä ihmisellä tai pienellä joukolla</subtitle>
+Diktatuurissa kaikki valta on vain yhdellä ihmisellä tai pienellä ihmisjoukolla.
+Autoritäärisessä diktatuurissa voi olla demokraattisia piirteitä. Joissakin diktatuureissa ihmiset saavat äänestää, mutta tulos on päätetty etukäteen tai ihmisillä ei ole mahdollisuutta äänestää niin kuin he itse haluavat.
+Totalitaristisessa diktatuurissa johtajan valta ulottuu kaikkialle yhteiskunnassa.

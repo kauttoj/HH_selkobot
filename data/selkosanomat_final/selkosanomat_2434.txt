@@ -1,0 +1,15 @@
+<title>Digitaalinen henkilöllisyystodistus käyttöön vuonna 2023</title>
+<lead>Digi- ja väestötietovirasto tekee yhdessä poliisin kanssa digitaalista henkilöllisyystodistusta. Erilaiset käyttäjät ovat mukana suunnittelussa.</lead>
+Digitaalinen henkilöllisyystodistus toimii älypuhelimessa tai tabletissa. Sitä voi käyttää esimerkiksi kaupan kassalla. Digitaalista henkilöllisyystodistusta voi käyttää myös verkossa, kun tarvitaan pankkitunnuksia.
+Pankkitunnukset ovat yleisin tapa tunnistautua erilaisiin palveluihin netissä. Kaikilla ei kuitenkaan ole pankkitunnuksia. Digitaalinen henkilötodistus parantaa palveluiden yhdenvertaisuutta. Se tarkoittaa sitä, että kaikki ihmiset voivat käyttää niitä.
+Digitaalista henkilöllisyystodistusta voi käyttää sekä internetissä että käyntiasioinnissa. Käyntiasiointi tarkoittaa asioiden hoitamista kasvokkain ihmisten kanssa.
+<subtitle>Digitaalinen henkilöllisyystodistus toimii mobiililaitteella tai tunnuslukulaitteella</subtitle>
+Tulevaisuudessa voit ottaa käyttöön digitaalisen henkilöllisyystodistuksen, jos sinulla on voimassa oleva suomalainen passi tai henkilökortti. Poliisi myöntää digitaalisen henkilöllisyystodistuksen. Ulkomaille matkustamiseen todistus ei vielä käy.
+Digitaalinen henkilöllisyystodistus on sovellus, jonka voi ladata ilmaiseksi sovelluskaupasta omaan puhelimeen tai tablettiin. Vaikka et omista älypuhelinta, voit tulevaisuudessa ottaa käyttöön digitaalisen henkilöllisyystodistuksen.
+<quote>– Kehitämme myös tunnuslukulaitetta, joka toimii verkkoasioinnissa. Tunnuslukulaitetta voivat käyttää ihmiset, joilla ei ole älypuhelinta, palvelumuotoilija Marika Tähti Digi- ja väestötietovirastosta kertoo.</quote>
+<subtitle>Käyttäjät testaavat henkilöllisyystodistusta</subtitle>
+Digi- ja väestötietoviraston tavoitteena on, että sovellus on luotettava ja helppo käyttää. Siksi käyttäjät ovat mukana sovelluksen kehittämisessä. Testauksiin on tähän mennessä osallistunut yli 200 ihmistä, joiden tarpeet ja kyvyt ovat erilaisia. He testaavat sovellusta ja antavat siitä palautetta.
+<quote>– Kehittämisessä on mukana esimerkiksi vanhuksia ja erityistä tukea tarvitsevia ihmisiä. Sokeille ja kuurosokeille on myös tulossa testiversio. Jos erityisryhmät pystyvät käyttämään sovellusta, se on todennäköisesti kaikille helppo käyttää, Marika Tähti sanoo.</quote>
+<subtitle>Käyttäjä hallitsee omia tietojaan</subtitle>
+Digitaalisen henkilöllisyystodistuksen käyttäjä pystyy vaikuttamaan siihen, mitä tietoja sovellus hänestä antaa. Tämä on digitaalisen henkilöllisyystodistuksen etu. Käyttäjän nimi ja henkilötunnus näkyvät vain silloin, kun niitä tarvitaan. Kun esimerkiksi kaupan kassa pyytää ostajaa todistamaan ikänsä, sovellus näyttää ainoastaan tarvittavat tiedot.
+Digitaalinen henkilöllisyystodistus tarvitsee vielä eduskunnan hyväksynnän. Digitaalinen henkilöllisyystodistus on tarkoitus ottaa käyttöön vuonna 2023.

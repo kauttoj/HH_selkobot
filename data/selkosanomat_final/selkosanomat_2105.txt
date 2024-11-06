@@ -1,0 +1,20 @@
+<title>Metallimiehestä tuli kirjailija</title>
+<lead>Sami Lopakka on oululainen kirjailija ja muusikko. Lopakan toinen romaani julkaistiin viime syksynä. Romaani on synkän humoristinen katsaus pohjoispohjanmaalaisen miehen sieluun.</lead>
+Sami Lopakka on kiitetty kirjailija Pohjois-Suomesta. Hänet muistetaan myös metalliyhtye Sentencedin kitaristina ja sanoittajana.
+<subtitle>Olet koulutukseltasi suomen kielen maisteri. Miten sinusta tuli kirjailija?</subtitle>
+<quote>– Haaveilin kirjailijan urasta jo teini-ikäisenä. Romaani on kirjallisuuden kuningaslaji. Romaanin kirjoittaminen vaatii mielestäni elettyä ja nähtyä elämää. En ole ikinä halunnut olla muusikko, joka on myös kirjailija.</quote>
+Olet julkaissut kaksi romaania. Marras ja Loka käsittelevät synkkiä aiheita huumorilla. Oletko ahdistunut?
+<quote>– Kun kirjoitin Loka-kirjaa, mieleeni tuli, että ehkä kaikilla meillä on elämässä raskas taakka. Se kivireki syntyy aikuisikään mennessä. Se painaa hartiat lyttyyn ja saa askeleet laahaamaan. Siihen liittyvät häpeä, menneisyyden taakat ja syyllisyyden tunne.</quote>
+<quote>– Kyllä minulla itselläni on vahvoja taipumuksia ahdistua. Se on osa minun luonnettani. Onneksi minulla on esimerkiksi kirjottaminen ja musiikki, joiden avulla voin purkaa paineita.</quote>
+<subtitle>Mitä suomen kieli merkitsee sinulle?</subtitle>
+<quote>– Kieli on iso osa omaa yksilöllisyyttä ja keskeinen tapa ilmaista itseä maailmassa. Suomi on pieni kielialue, joten kieltämme on syytä vaalia. Kieli on myös ikkuna ihmisen mielen maisemaan. Sen käyttö kertoo paljon puhujasta.</quote>
+<subtitle>Olet saanut kirjoistasi erittäin positiivista palautetta. Miltä se tuntuu?</subtitle>
+<quote>– Totta kai se tuntuu hienolta. Olen panostanut tähän paljon, opiskellut luovaa kirjoittamista. Kirjan kirjoittaminen on yksinäistä työtä. Ei sitä tehdessä voi tietää, kuinka lukija ottaa sen vastaan. Jos joku pitää lopputulosta hyvänä ja puhuu komeasti, niin se on täyttymys.</quote>
+<subtitle>Kuka lukee kirjojasi?</subtitle>
+<quote>– Arvelin, että musiikin kuuntelijat saattavat olla kiinnostuneita kirjoistani. Yllätyin kuitenkin iloisesti, kun palautetta alkoi tulla hyvin monenlaisista piireistä ja ihmisiltä, joilla on täysin erilainen tausta kuin minulla itselläni.</quote>
+<subtitle>Millaista on olla kirjailija pohjoisessa?</subtitle>
+<quote>– Kirjallisuus on enemmän läsnä Etelä-Suomessa. Siellä ovat kaikki tapahtumat ja kustantamot. Kirjalliset piirit ovat Oulussa hyvin pienet.</quote>
+<quote>– Olen nykyisin Kirjailijaliiton jäsen, joten siinä mielessä olen mukana piireissä. Viihdyn kuitenkin hyvin täällä hiukan syrjässä. Niinhän sitä sanotaan, että mies voi lähteä pohjoisesta, mutta pohjoinen ei miehestä.</quote>
+<subtitle>Sentenced oli suosittu yhtye. Miksi lopetitte vuonna 2005?</subtitle>
+<quote>– Syitä oli monia, ja lopettamista mietittiin pitkään. Suurin syy oli se, että kukaan meistä ei nauttinut kiertueilla olosta kaukana kotona. Bändi kasvoi koko ajan suositummaksi, ja samalla kiertueet vain pitenivät. Siitä olisi pitänyt nauttia, mutta se ahdisti. Yhtye väsyi ja turhautui.</quote>
+<quote>– Sentenced ei palaa koskaan. Soitan nykyisin Kypck-yhtyeessä, uusi levy tulee tänä vuonna.</quote>

@@ -1,0 +1,35 @@
+<title>Maapallon esihistoria auttaa ymmärtämään myös meidän aikaamme</title>
+<lead>Maija Karala on biologi, tiedetoimittaja ja kuvittaja. Hän on erikoistunut maapallon esihistoriaan, eli tietää paljon muinaisista eläimistä ja luonnosta.</lead>
+Maija Karala on toiminut tiedekeskus Heurekassa dinosaurusten asiantuntijana. Hän on myös kirjoittanut ja kuvittanut selkokielisen tietokirjan dinosauruksista.
+Karala sanoo, että muinainen luonto auttaa meitä ymmärtämään, mitä maapallolle tapahtuu nykyisin. Hänestä on tärkeää, että tieteestä kerrotaan selkokielellä.
+<subtitle>Kuka olet? Kerro vähän itsestäsi.</subtitle>
+<quote>– Olen tiedetoimittaja ja kuvittaja. Asun nykyisin Helsingissä, mutta olen kotoisin Lapista. Olen opiskellut biologian maisteriksi Jyväskylän yliopistossa.</quote>
+<subtitle>Olet esihistorian asiantuntija. Miksi maapallon historia ja muinainen luonto kiinnostavat sinua?</subtitle>
+<quote>– Olin jo lapsena kiinnostunut dinosauruksista ja muista muinaisista eläimistä, niin kuin monet lapset ovat.</quote>
+<quote>– Kiinnostuin dinosaurusten ajasta uudelleen, kun opiskelin yliopistossa. Ajattelin, että esihistoria ja dinosaurukset ovat hyvä tapa yhdistää tiede ja mielikuvitus. Tieteen ja tutkimuksen avulla tiedämme paljon dinosauruksista ja muista muinaiseläimistä. Tiedämme, että ne olivat olemassa ja toimivat kuten nykyiset eläimet. Emme silti tiedä niistä kaikkea, ja esihistorian asiantuntijan pitää käyttää myös mielikuvitusta.</quote>
+<subtitle>Olet myös paleotaiteilija. Mitä se tarkoittaa?</subtitle>
+<quote>– Paleotaiteilija tarkoittaa, että kuvaan taiteen keinoin esihistoriallista luontoa ja eläimiä. Esimerkiksi piirrän ja maalaan.</quote>
+<quote>– Otan kuvissa aina huomioon tieteen, eli sen, mitä tiedämme muinaisesta luonnosta ja eläimistä. Esitän eläimet, kasvit ja maiseman mahdollisimman tarkasti sellaisina kuin ne olisivat voineet oikeasti olla.</quote>
+<subtitle>Mistä saa tietoa, jos maapallon esihistoria ja dinosaurusten aika kiinnostavat?</subtitle>
+<quote>– Selkokielistä tietoa saa minun kirjastani Dinosaurusten aika selkokielellä. Kirjassa on tietoa ja paljon kuvia maapallon historiasta sekä muinaisista eläimistä ja luonnosta.</quote>
+<quote>– Kirjastoissa on myös monenlaisia muita dinosauruskirjoja lapsille ja aikuisille, mutta ne eivät ole selkokielellä. Netissä on vain vähän suomenkielistä tietoa maapallon esihistoriasta ja dinosauruksista.</quote>
+<subtitle>Moni ihminen on ainakin jossain vaiheessa elämäänsä kiinnostunut dinosauruksista. Mistä se sinun mielestäsi johtuu?</subtitle>
+<quote>– On totta, että monet innostuvat dinosauruksista ainakin lapsuudessa tai nuoruudessa. Tästä asiasta on monta teoriaa. Ajatellaan esimerkiksi, että dinosauruksissa kiehtoo meitä se, että ne ovat kuin satujen hirviöitä, mutta ne olivat oikeasti olemassa.</quote>
+<quote>–Minua kiinnostavat kaikenlaiset eläimet. Nykyisistä eläimistä olen kuitenkin huolissani. Moni eläinlaji on uhanalainen, ja monia eläimiä kohdellaan väärin. Dinosauruksia voin ajatella huolettomasti, sillä niiden aika on jo ohi emmekä voi kohdella niitä väärin.</quote>
+<subtitle>Mitä hyötyä muinaisen maapallon tuntemisesta on tänä päivänä?</subtitle>
+<quote>– Tutkijoille on paljon hyötyä siitä, että he tietävät, millaista maapallolla oli ennen. Esimerkiksi ilmastonmuutos on tapahtunut useita kertoja aiemminkin. Tieto menneistä ilmastonmuutoksista auttaa tutkijoita päättelemään, miten luonto muuttuu nyt, kun ilmasto muuttuu ihmisten toimien takia.</quote>
+<quote>–  Maapallolla on myös monia muita asioita ja ilmiöitä, jotka tapahtuvat harvoin. Niitä tutkimalla voimme varautua tulevaisuuteen. Maapallon historiaa tutkimalla saadaan tietoa, miten usein jokin asia tapahtuu ja miten se vaikuttaa maapalloon ja ihmisten elämään.</quote>
+<quote>– Lisäksi kaikille ihmisille on hyötyä siitä, että ymmärtää, millaisessa maailmassa elää. Luonnontieteellinen sivistys ja ymmärrys siitä, miten maailma toimii, ovat kiinnostavia asioita. Tieto maapallosta ja sen historiasta voi auttaa ymmärtämään esimerkiksi ilmastoon liittyviä uutisia. Ja tietenkin dinosaurukset ja esihistoria voivat olla myös mukava harrastus.</quote>
+<subtitle>Miksi on tärkeää, että tieteestä kerrotaan selkokielellä?</subtitle>
+<quote>– Tiede kuuluu kaikille ja on iso osa ihmiskunnan yhteistä ymmärrystä ja sivistystä. On tärkeää, että tieto maailmasta on saatavilla kaikille eikä vain tietyille ihmisille.</quote>
+<subtitle>Mikä on lempidinosauruksesi ja miksi?</subtitle>
+<quote>– Lempidinosauruksiani ovat pienet, pörröiset ja höyhenikkäät dinosaurukset. Ne juoksentelivat aikoinaan isojen dinosaurusten jaloissa.</quote>
+<quote>– Minua kiinnostaa myös Mei. Se on hyvin pienen dinosauruksen fossiili ja nukkuu pää siiven alla. Mei löytyi Kiinasta.</quote>
+<subtitle>Kuka?</subtitle>
+Maija Karala
+Ikä: 34 vuotta
+Asuinpaikka: Helsinki
+Perhe: puoliso ja yhdeksän kesyrottaa
+Työ: tiedetoimittaja ja kuvittaja
+Harrastukset: kirjojen lukeminen, luontovalokuvaus
+Ruoka: sushi

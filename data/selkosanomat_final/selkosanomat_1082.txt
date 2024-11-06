@@ -1,0 +1,17 @@
+<title>Satavuotias teknikko</title>
+<lead>Levi Sjövall syntyi vuonna 1917. Hän on yhtä vanha kuin itsenäinen Suomi.</lead>
+Hän suunnitteli Fiskarsin tehtailla työkaluja yli 30 vuoden ajan. Fiskars on nykyään iso kansainvälinen yritys. Fiskars myy yhä samoja tuotteita, joita Levi oli suunnittelemassa.
+<subtitle>Kerro jotakin perheestäsi.</subtitle>
+<quote>– Me asuimme Pedersöressä eli Pietarsaaren maalaiskunnassa. Perheemme oli ruotsinkielinen, ja meillä oli viisi poikaa. Äitini kuoli synnytykseen, kun olin 8-vuotias. Isäni meni uusiin naimisiin, ja sain onneksi hyvän äitipuolen.</quote>
+<subtitle>Mitkä asiat ovat olleet merkittäviä elämässäsi</subtitle>
+<quote>– Sodat ennen kaikkea ja pitkät kaudet parantolassa. Ja sitten tietysti naimisiinmeno ja kahden pojan syntymä. Olin suurin piirtein viisi vuotta sodassa. Ensin talviodassa ja sitten jatkosodassa. Parantolassa olin yhteensä 16 kuukautta. Jouduin parantolaan, koska olin ollut kylmässä ja syönyt huonoa ruokaa ja sain tuberkuloosin.</quote>
+<subtitle>Miten elämäsi muuttui, kun sota syttyi?</subtitle>
+<quote>– Kaikki muuttui, kun lähdin vuonna 1938 sotaväkeen. Erkanin silloin kokonaan lapsuuden ympäristöstä. Se on myös ihan luonnollista. Olimme kaikki viisi veljestä sodassa. Olen miettinyt, miltä isästä tuntui, kun hän sanoi jäähyväiset pojilleen. Hän oli hiljainen mies, eikä hän puhunut paljon.</quote>
+<subtitle>Mitä sodan jälkeen tapahtui?</subtitle>
+<quote>– Muistan hyvin yhden tilanteen, kun sota oli loppunut. Me kaikki viisi veljestä istuimme kahvipöydässä. Äitipuoli oli keittänyt kahvia ja tehnyt kakkua. Joku sanoi, että on suuri ihme, että kaikki viisi poikaa tulivat takaisin. Äitipuolesta se ei ollut mikään ihme. Hän kertoi, että isä rukoili joka ilta, että pojat säilyisivät hengissä. Lisäksi isä lupasi antaa vaivaisukolle rahaa, jos pojat pääsevät kotiin. Ja se oli iso summa rahaa, jonka isä antoi! Vaivaisukko oli veistetty ukko kirkon edessä, joka keräsi rahaa seurakunnan köyhille.</quote>
+Olet ammatiltasi teknikko. Työskentelit suurimman osan työurastasi Fiskarsilla. Fiskars on tunnettu tuotteiden muotoilusta ja käytettävyydestä. Millaista työ Fiskarsissa oli?
+<quote>– Fiskars oli hieno paikka asua ja tehdä työtä. Siellä minä kehityin todelliseksi ammattimieheksi. Työskentelin ensin työkalusuunnittelijana Fiskarsin konepajalla. Työurani loppu oli myös hienoa aikaa. Olin noin 15 vuotta Billnäsissä Fiskarsin tehtaalla tuotekehittäjänä. Työssä työkalujen toimintaan perehtyminen on tärkeintä. Piirtäminen on sitten tulos aivotyöstä.</quote>
+<subtitle>Mikä oli parasta työssä?</subtitle>
+<quote>– Se, että sai keksiä ja kehittää tuotteita niin paljon kuin järki antoi myöten. Ja voi että niitä kehitettiinkin! Suunnittelimme nimenomaan käsityökaluja. Minun päätehtäväni oli metsätyökalut kuten esimerkiksi kirveet ja vesurit. Suunnittelimme esimerkiksi kuuluisan Billnäsin kirveen uuden version.</quote>
+<subtitle>Mikä mielestäsi on muuttunut Suomessa sadan vuoden aikana?</subtitle>
+<quote>– Ihan kaikki. Sodan jälkeen oli kortilla kaikki tavarat. Se oli tiukka paikka. Myös ruoasta oli pulaa. Etenkin hyvinvointi on kasvanut Suomessa huomattavasti.</quote>

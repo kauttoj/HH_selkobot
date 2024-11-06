@@ -1,0 +1,17 @@
+<title>Lentäminen on upeaa!</title>
+<lead>Riika Kaipainen on Finnairin lentäjä. Hänelle lentäminen on intohimo. Se on sekä työ että harrastus.</lead>
+Riika Kaipainen työskentelee unelma-ammatissaan, lentäjänä Finnairilla.
+<subtitle>Miten sinusta tuli lentäjä?</subtitle>
+<quote>– Kerroin jo neljävuotiaana vanhemmilleni, että minusta tulee isona ”lentotäti”. Opiskelin ensin lentoemännäksi. Kun näin naislentäjiä, niin ymmärsin, että ammatti käy myös naisille. Hain alan kouluun ja valmistuin sieltä. Nyt olen ollut Finnairilla lentäjänä noin kolme vuotta.</quote>
+<subtitle>Mitä työhösi kuuluu?</subtitle>
+<quote>– Toimin lentäjänä pääasiassa Euroopan reiteillä. Olen lentoperämies. Lähin työtoverini on lentokapteeni. Työnjako on yleensä sellainen, että kapteeni lentää matkustajakoneen kohteeseen, vaikkapa Helsingistä Amsterdamiin. Paluumatkalla perämies lentää konetta.</quote>
+<subtitle>Mitä ominaisuuksia lentäjältä vaaditaan?</subtitle>
+<quote>– Lentäjältä vaaditaan hyvää terveyttä. Työ on vuorotyötä eli lennämme myös yöllä. Vuorotyö voi tuntua jostakin ihmisestä raskaalta, mutta minulle se sopii hyvin. Lentäjän pitää tuntea hyvin myös lentokoneen tekniikka. Alan kouluun on vaikea päästä, mutta lentäjän ei kyllä tarvitse olla mikään supermies tai supernainen. Naislentäjiä on Suomessa aika vähän, mutta nainen pärjää tässä työssä yhtä hyvin kuin mies. Lentokoneissa on paljon automatiikkaa eli kone voi lentää lähes itsekseen.</quote>
+<subtitle>Mistä asioista lentäjä vastaa koneessa?</subtitle>
+<quote>– Automatiikka auttaa lentäjää. Lentäjä tekee tärkeät ratkaisut koneessa. Hän esimerkiksi ohjaa konetta, kun noustaan ilmaan tai laskeudutaan. Lentäjä voi ohjata konetta myös esimerkiksi huonossa säässä. Suomessa on aika usein huono sää, sataa esimerkiksi lunta, joten lentäjät saavat paljon hyvää harjoitusta.</quote>
+<subtitle>Kuinka turvallista lentäminen on?</subtitle>
+<quote>– Lentäminen on erittäin turvallista. Onnettomuuksia tapahtuu paljon harvemmin kuin vaikkapa maantiellä autolla ajettaessa. Lentäjän ja muun henkilökunnan hyvä ammattitaito, koneen luotettava tekniikka ja automatiikka tekevät lentämisestä hyvin turvallista.</quote>
+<subtitle>Harrastat taitolentoa pienillä lentokoneilla. Mikä siinä kiehtoo?</subtitle>
+<quote>– Lentäminen on upeaa. Minua kiehtoo esimerkiksi lentämisen vapaus. Samalla lentäminen on hyvin säädeltyä, Toimimme tarkkojen määräysten mukaan. Lentäminen taitaa olla vähän kuin elämäntapa. Myös monella muulla lentäjällä lentäminen on intohimo. Se on samaan aikaan sekä työ että harrastus.</quote>
+<subtitle>Miltä maailma näyttää lentokoneen ohjaamosta?</subtitle>
+<quote>– Maisemat ovat aivan upeat. Se on yksi asia, mikä tekee lentämisestä niin hienoa. Kun esimerkiksi lennän oikein korkealla, niin voin nähdä, miten maapallo kaareutuu reunoiltaan.</quote>

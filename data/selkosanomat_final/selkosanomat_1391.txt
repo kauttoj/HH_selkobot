@@ -1,0 +1,17 @@
+<title>Suvi teki haaveista totta</title>
+<lead>Kaarinalainen Suvi Silvennoinen toimii katsastajana Krossin katsastuksessa. Hän valmistuu pian autoalan insinööriksi. Suvi on lähtenyt rohkeasti alalle, joka häntä kiinnostaa.</lead>
+<subtitle>Suomessa ei ole paljon naisia katsastajina. Miten sinä päädyit autoalalle?</subtitle>
+<quote>– Isälläni on autokorjaamo. Vietin siellä jo pikkutyttönä paljon aikaa. Lajittelin esimerkiksi ruuveja, jotka olivat lattialla. Olen ollut aina kiinnostunut autoista ja tekniikasta.</quote>
+Opiskelin aluksi kaupallista alaa. Sitten päätin opiskella autoalan insinööriksi. Tiesin, että alalla ei ole paljon naisia, mutta se ei haitannut minua.
+Halusin toteuttaa haaveeni.
+<subtitle>Miten asiakkaat suhtautuvat katsastajaan, joka on nainen?</subtitle>
+<quote>– Usein asiakkaat yllättyvät iloisesti, kun he huomaavat, että katsastusmies onkin nainen. Joskus joku saattaa myös ajatella, että nainen on miestä lempeämpi katsastaja ja päästää auton helpommin tarkastuksesta läpi. Mutta katsastajan sukupuoli ei tietenkään vaikuta katsastuksen lopputulokseen. Kaikki autot tarkastetaan aina tarkkojen määräysten ja sääntöjen mukaan.</quote>
+<subtitle>Onko koskaan tullut kielteistä palautetta?</subtitle>
+<quote>– Kun auto ei mene läpi katsastuksesta, joku on voinut joskus tuhahtaa jotain tyyliin, että ”naiset eivät ymmärrä autoista mitään”. Yritän olla välittämättä tuollaisesta. Ymmärrän, että ihmisiä voi harmittaa, jos autossa on vika, joka vaatii korjausta. Yritän aina antaa oman palautteeni autosta mahdollisimman nätisti. Tämä on asiakaspalvelutyötä.</quote>
+<subtitle>Mitä katsastuksessa tapahtuu?</subtitle>
+<quote>– Suomen lain mukaan kaikki autot on katsastettava säännöllisesti. Katsastuksessa tarkastetaan, että auto on turvallisessa kunnossa. Siinä tutkitaan muun muassa jarrut, iskunvaimentimet, valot, auton alusta, pakokaasut ja pyörien ripustus. Jos näistä löytyy merkittäviä vikoja, niin autoilijaa pyydetään korjauttamaan viat. Sen jälkeen auto on tuotava uudelleen tarkastukseen. Silloin katsotaan, että viat on korjattu.</quote>
+<subtitle>Mikä työssäsi on mukavinta?</subtitle>
+<quote>– Työni on mielenkiintoista, koska jokainen katsastukseen tuleva auto on erilainen. Pidän myös asiakkaiden kohtaamisesta. Lisäksi minulla on mukavia työkavereita.</quote>
+<subtitle>Julkisuudessa puhutaan paljon sähköautoista ja jopa robottiautoista. Näkyvätkö nämä vielä työssäsi?</subtitle>
+<quote>– Katsastukseen tulee jonkin verran myös sähköautoja, hybridiautoja ja esimerkiksi kaasuautoja. Autoala kehittyy voimakkaasti. Katsastajat täydentävät jatkuvasti tietojaan ja osaamistaan. Robottiautojen tuloon taitaa kuitenkin kulua vielä aikaa.</quote>
+Mutta katsastajia tarvitaan varmasti myös tulevaisuudessa, sillä robottiautotkin on katsastettava!

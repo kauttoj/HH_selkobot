@@ -1,0 +1,21 @@
+<title>Virkakieli voisi olla helppoa!</title>
+<lead>Kielentutkija Ulla Tiililä haluaa, että virastojen kieli on selkeää ja ymmärrettävää.</lead>
+Ulla Tiililä työskentelee Kotimaisten kielten keskuksessa eli Kotuksessa. Hän on virkakielen ja tekstintutkimuksen asiantuntija.
+<subtitle>Mitkä ovat Kotuksen tehtävät?</subtitle>
+<quote>– Kotus on valtion laitos, jossa tutkitaan ja kehitetään suomen ja ruotsin kieltä. Yksi tärkeä tehtävä on myös sanakirjojen tekeminen. Valtion säästöt ovat kohdistuneet myös Kotukseen. Ennen tehtiin enemmän työtä esimerkiksi viittomakielen hyväksi. Myös kielentutkimusta tehtiin enemmän.</quote>
+<subtitle>Mitä työhösi Kotuksessa kuuluu?</subtitle>
+<quote>– Tutkin virkakieltä ja työskentelen virkatekstien parissa. Annan myös lausuntoja erilaisista teksteistä esimerkiksi poliisille. Lisäksi ohjaan eri alojen väitöskirjoja ja pro gradu -tutkimuksia. Tämä on tärkeä osa työtäni. Tarvitsemme tutkimusta, jotta voimme parantaa virkakieltä. Olen myös ollut mukana monissa hallinnon työryhmissä. Virkakieltä pitää kehittää siellä, missä hallintoa kehitetään.</quote>
+<subtitle>Miten sinusta tuli virkakielen asiantuntija?</subtitle>
+<quote>– Kiinnostuin virkateksteistä, kun äitini vammautui auto-onnettomuudessa. Vaikka isäni oli juristi, äidin asioiden hoitaminen viranomaisten kanssa oli todella hankalaa.</quote>
+<subtitle>Miksi virkakieli on usein  niin vaikeaa?</subtitle>
+<quote>– Viranomaisten kanssa asioinnissa hankalaa ei ole pelkästään kieli vaan koko prosessi. Viranomaiset toimivat ennakoimattomasti ja arkijärjen vastaisesti.</quote>
+<quote>– On hankala tietää, mistä löytää tietyn palvelun ja mitä pitää tehdä, että sen saa. Yhden viranomaisen kanssa ei voi toimia  samalla tavalla kuin toisen viranomaisen kanssa. Vaikeaa on myös se, että päätökset viivästyvät eikä mitään vastausta tule. Viranomaiselta voi myös saada sellaisia päätöksiä, joita ei ole edes hakenut.</quote>
+<quote>– Vaikea kieli on ihmisten huonoa kohtelua ja tekee tylyn vaikutelman. Ihmiset kokevat, että heitä nöyryytetään ja pompotellaan. Tämä on tullut esiin hallinnon ja julkisen palvelun tutkimuksissa sekä virkakielen tutkimuksissa.</quote>
+<subtitle>Mistä nämä ongelmat johtuvat?</subtitle>
+<quote>– Isoimmat ongelmat liittyvät tekniikkaan. Tekstejä pitää tuottaa nopeasti ja suuria määriä. Viranomaisten tietojärjestelmiä ei kuitenkaan ole luotu kirjoittamista varten. Usein työntekijät eivät edes voi nähdä tekstiä kokonaisuutena. Päätös saattaa tulostua kokonaan toisella paikkakunnalla.</quote>
+<quote>– Ongelmana on myös koko kirjoitustapa. Esimerkiksi Kelan etuuskäsittelijät käyttävät  lyhyitä näppäinkomentoja, jotka vastaavat tiettyjä tekstikatkelmia. Päätöksistä voi tämän takia tulla jopa käsittämättömiä.</quote>
+<quote>– Pitäisi ymmärtää, että tekstit ovat virastojen tärkein tuote. Virastot ovat tekstitehtaita. Työntekijöillä ovat usein hyviä ja taitavia, mutta käytännöt eivät virastoissa ole toimivia.</quote>
+<subtitle>Mikä on työssäsi vaikeinta?</subtitle>
+<quote>– Vaikeaa on sen hyväksyminen, että asiat muuttuvat todella hitaasti. Itsekin olen osa valtionhallintoa, joka toimii usein kankeasti.</quote>
+<subtitle>Mikä työssäsi on palkitsevaa?</subtitle>
+<quote>– Palkitsevaa on huomata, että asiat kuitenkin etenevät. Hyvät ja rohkeat esimerkit ovat sellaisia, joihin muutkin voivat helposti tarttua.</quote>

@@ -1,0 +1,21 @@
+<title>Minustako presidentti?</title>
+<lead>Matti Vanhanen on keskustan ehdokas presidentiksi.</lead>
+<subtitle>Miksi olet paras presidenttiehdokas?</subtitle>
+<quote>‑ Minulla on eniten kokemusta ulkopolitiikan johtamisesta. Olin seitsemän vuotta pääministerinä. Silloin sain työskennellä presidentin kanssa. Johdimme yhdessä Suomen ulkopolitiikkaa.</quote>
+<quote>‑ Jännitys on lisääntynyt maailmalla. Tulevaisuuden ennustaminen on vaikeampaa. Nykyään presidentillä pitää olla ymmärrystä, näkemystä ja kokemusta ulkopolitiikasta.</quote>
+<quote>‑ Presidenttinä laajennan ulkopolitiikkaa siten, että katsomme kauemmaksi. Suomen arvojen tulee näkyä, kun vastaamme esimerkiksi Afrikan kehityksen ja pakolaisuuden haasteisiin. Ne uhkaavat myös suomalaisten turvallisuutta, jos kehitys ei muutu paremmaksi. Myös ilmastonmuutos on uhka.</quote>
+<quote>‑ Afrikan maissa tarvitaan uusia liikeyrityksiä, jotka luovat uusia työpaikkoja. Tarvitaan myös sitkeää rauhanrakennusta ja rauhanvälitystä.</quote>
+<quote>‑ Suomen sisäisiin asioihin vaikutan kahdella tavalla. Ensiksi pyrin liennyttämään yhteiskunnan jakoa. Pyrin siihen, että meillä on vähemmän vastakkainasettelua. Vähennän vastakkainasettelua esimerkiksi maahanmuuttajien ja kantaväestön tai Helsingin ja muun Suomen välillä.</quote>
+<quote>‑ Liennyttämisellä tarkoitan, että ihmiset pitää saada keskustelemaan ja rakentamaan yhdessä yhteistä linjaa. Presidentti voi lisätä keskustelua yhteiskunnassa ja ymmärrystä moniarvoisuudesta. Keskustelun pitää perustua tosiasioihin.</quote>
+<quote>‑ Toiseksi uudistan presidentin työtä. Sen pitää suuntautua tulevaisuuteen. Avaa presidentinlinnan ovet tutkijoiden ryhmille, jotka pohtivat isoja tulevaisuuden kysymyksiä. Iso tulevaisuuden kysymys on esimerkiksi työn tulevaisuus, kun robotit ja keinoäly yleistyvät. Tarvitaan uudenlaista osaamista ja koulutusta. Yhteiskunnan tapoja hankkia veroja tulee uudistaa.</quote>
+<subtitle>Miten aiot presidenttinä vaikuttaa siihen, että ketään ei kiusata työssä tai koulussa?</subtitle>
+<quote>‑ Kiusaaminen johtuu yleensä pahan olon purkamisesta. Haluan työskennellä sen puolesta, että pahoinvointi Suomessa vähenee.</quote>
+<quote>‑ Haluan, että suomalaiset keskustelevat keskenään ja ymmärtävät toisiaan paremmin. Nyt meille syntyy aivan liikaa jakolinjoja ja kuppikuntia eli ryhmiä. Jakolinjoja syntyy erilaisten tai eri tavalla ajattelevien ihmisten välille. Hyvinvointi ei lisäänny näissä kuppikunnissa eli ryhmissä. Kaikkien etu on, että tulemme toimeen keskenämme ja olemme yhtenäisiä.</quote>
+<quote>‑ Presidentti voi myös käyttää tärkeitä puheenvuoroja esimerkiksi kiusaamista vastaan tai mielenterveystyön puolesta. Presidentti voi osallistua seminaareihin, jotka käsittelevät kiusaamista.</quote>
+<subtitle>Miten aiot ottaa maahanmuuttajat huomioon, jos sinusta tulee presidentti?</subtitle>
+<quote>‑ Haluan lisätä suvaitsevaisuutta ja kitkeä rasismia. Korostan sitä, että me tavalliset ihmiset olemme kotouttajia – ei yksin yhteiskunta tai viranomainen.</quote>
+<quote>‑ Maahanmuuttajat ovat aina tuoneet kulttuuriimme ja talouteemme rikkautta.</quote>
+<subtitle>Mitä aiot presidenttinä tehdä, että suomalaisten lukutaito pysyy hyvänä?</subtitle>
+<quote>‑ Presidentti voi puhua sivistyksen puolesta. Presidentti voi toimia esimerkiksi keulakuvana kampanjassa, joka innostaa lukemaan. On tärkeää, että lukutaito ja sivistys eivät jaa suomalaisia. Silloin myös käsityksemme todellisuudesta erkaantuvat toisistaan.</quote>
+<subtitle>Tuleeko Suomen presidentille selkokieliset nettisivut, jos sinusta tulee presidentti?</subtitle>
+<quote>‑ Hyvä idea. Sen lupaan.</quote>

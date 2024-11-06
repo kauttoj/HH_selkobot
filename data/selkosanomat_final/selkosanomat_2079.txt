@@ -1,0 +1,16 @@
+<title>Tietokirjailijan pitää olla selkeä</title>
+<lead>Robert Brantberg on oululainen tietokirjailija ja toimittaja. Brantberg on kirjoittanut melkein 40 tietokirjaa. Monet ovat historiallisia elämäkertoja.</lead>
+Robert Brantberg on suomenruotsalainen kirjailija. Brantberg syntyi Helsingissä. Hän muutti Ouluun 1980-luvun alussa. Brantberg teki pitkän uran toimittajana, ennen kuin hänestä tuli tietokirjailija. Hän on työskennellyt toimittajana esimerkiksi sanomalehti Kalevassa, Hymy-lehdessä ja Ylen Akuutti-ohjelmassa. Brantberg oli myös perustamassa oululaista paikallisradio Kaikua.
+<subtitle>Miten sinusta tuli tietokirjailija?</subtitle>
+<quote>– Tein kymmenen vuotta lehtiin laajoja juttuja historiallisista henkilöistä ja sotatapahtumista. Sitten Revontuli-kustantamon johtaja pyysi minua kirjoittamaan kirjan suomalaisista sotakenraaleista. Siitä alkoi urani kirjailijana.</quote>
+<quote>– Oli helppo alkaa tietokirjailijaksi, koska olin tehnyt paljon laajoja historiallisia juttuja. Minulla oli jo monen kirjan pohjatyö valmiina.</quote>
+<subtitle>Miten kirjasi syntyvät?</subtitle>
+<quote>– Kirjoitan kirjaa joka päivä aamukuudesta kello kahteen iltapäivällä. Pidän välillä taukoja. Käyn kaupassa ja kävelyllä, se piristää. Joskus otan torkut iltapäivällä. Silloin jatkan kirjoittamista illalla. Kun kirja alkaa valmistua, teen töitä myös viikonloppuisin. Tämä on istumatyötä, joka vaatii keskittymistä.</quote>
+<subtitle>Kauanko tietokirjan tekeminen kestää?</subtitle>
+<quote>– Kirjan tekeminen kestää noin kaksi vuotta. Ensin on ajatus siitä, mikä on kirjan teema ja työskentely on enemmän suunnittelua. Sen jälkeen alkaa varsinainen kirjoitustyö. Kirja syntyy kustantajan kanssa yhteistyössä. Teen yleensä kahta kirjaa yhtä aikaa. Kun toisen teoksen aihe alkaa kyllästyttää, voin siirtyä toiseen.</quote>
+<quote>– Kirjoitan historiallisen tietokirjan siinä järjestyksessä kuin asiat ovat tapahtuneet. Valitsen aina kirjan ensimmäiseksi luvuksi jonkin erityisen merkittävän tapahtuman, josta kirja alkaa.</quote>
+<subtitle>Uusin kirjasi Hitler – Koko tarina ilmestyi viime syksynä. Miten päädyit tähän aiheeseen?</subtitle>
+<quote>– Kun aloin miettiä Adolf Hitleriä tietokirjan aiheena, yllätyin itsekin. Vaikka Hitleristä on kirjoitettu valtavasti, kukaan suomalainen ei ole tehnyt hänestä tietokirjaa. Tämä on siis ensimmäinen suomalainen Hitlerin elämäkerta.</quote>
+<subtitle>Selvisikö sinulle jotakin uutta Hitleristä, kun kirjoitit hänestä?</subtitle>
+<quote>– Erityisesti sain selville asioita Hitlerin nuoruudesta. Hän asui nuorena Wienissä ja halusi taiteilijaksi. Tutkin Hitlerin kirjeitä, joita hän kirjoitti tuttavilleen. Niitä on säilynyt paljon. Minun tulkintani on, että natsipuolue ja Hitler pääsivät valtaan Yhdysvaltojen taloudellisen romahduksen ansiosta. Taloudellinen lama levisi koko maailmaan. Natsit käyttivät sitä hyväkseen. Tällaista kehitystä on syytä varoa myös nykyään.</quote>
+<quote>– Aihe on mielenkiintoinen ja kauhea. 1930–1940-luvut ja natsi-Saksa ovat hirveää aikaa. Minä pyrin kertomaan historialliset tapahtumat mahdollisimman totuudenmukaisesti. Hitlerin viha juutalaisia kohtaan eli antisemitismi tulee esiin jo 1920-luvulla hänen Mein Kampf- eli Taisteluni-kirjassa.</quote>

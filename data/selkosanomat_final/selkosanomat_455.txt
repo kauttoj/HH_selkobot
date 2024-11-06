@@ -1,0 +1,17 @@
+<title>Kaikki voivat laulaa ja soittaa!</title>
+<lead>Soili Perkiö opettaa tulevia musiikinopettajia Sibelius-Akatemiassa. Perkiö on myös tunnettu lastenmusiikin säveltäjä.</lead>
+Soili Perkiö sai lastenkulttuurin valtionpalkinnon vuonna 2009. Hän on myös saanut kaksi kertaa Vuoden lastenlevy -palkinnon.
+Perkiön ja Liisa Kallion lastenlevy Pikku Papun laulut palkittiin vuonna 2012. Vuonna 2014 palkittiin Perkiön ja Hannele Huovin yhteistyö Muumiperheen lauluretki.
+<subtitle>Miten musiikkia pitäisi mielestäsi opettaa?</subtitle>
+<quote>– Ajatukseni on, että kaikki pystyvät soittamaan, laulamaan tai liikkumaan musiikin tahdissa. Musiikkikasvattajien tehtävänä onkin ottaa kaikenlaiset ihmiset mukaan soittamaan ja laulamaan. Musiikin opetuksen pitäisi auttaa ihmisiä havainnoimaan erilaisia ääniä ja nauttimaan niistä. Opetuksessa voidaan käyttää esimerkiksi sellaisia soittimia, joita kaikki pystyvät soittamaan. Tärkeintä on herättää uteliaisuus ja kiinnostus musiikkiin. Soittamisesta voi nauttia ja siitä saa iloa. Tietenkin jonkin tietyn soittimen hallinta vaatii paljon harjoittelua ja pitkäjänteisyyttä.</quote>
+<subtitle>Millaiset soittimet sopivat kaikille?</subtitle>
+<quote>– Esimerkiksi puulattia voi soida. Kaikki pystyvät soittamaan lattiaa vaikka jaloilla tai käsillä koputtamalla. Äänenlaatuun vaikuttaa kuitenkin soittimen materiaali, ja se pitää ottaa huomioon. Soittimet eivät saa olla esimerkiksi liian kaikuvia, että ääni kuuluu hyvin.</quote>
+<subtitle>Miksi musiikki on tärkeää meille kaikille?</subtitle>
+<quote>– Taiteesta saa elämään energiaa ja voimaa. On myös hirveän harvinaista, että musiikki ei koskettaisi ihmistä mitenkään. Kaikki voivat laulaa ja soittaa!</quote>
+<quote>– Pelkkä musiikin kuuntelu aktivoi aivoja. Aivot aktivoituvat vielä laajemmin, jos itse laulaa, soittaa tai tanssii. Musiikki on siis aivojumppaa. Musiikki myös auttaa meitä löytämään toiset ihmiset. Musiikki saa meissä aikaan yhteenkuuluvuuden tunteen. Kun yhdessä laulamme jonkin laulun, niin olemme laulamisen jälkeen samassa tunnetilassa.</quote>
+<subtitle>Miten kiinnostuit lastenmusiikista?</subtitle>
+<quote>– Oikeastaan kaikki asiat, joista äsken kerroin, yhdistyvät lastenmusiikissa. Lastenmusiikki ei myöskään ole sidottu mihinkään musiikkityyliin. Lastenmusiikissa minua innostaa myös lasten mielikuvituksen rajattomuus.</quote>
+<subtitle>Millaisesta musiikista itse pidät?</subtitle>
+<quote>– Olen kiinnostunut monenlaisesta musiikista ja haluan tutustua erilaisten ihmisten mielimusiikkiin. Esimerkiksi kummipoikani on hevirokkari. Käyn mielelläni hänen kanssaan konserteissa, vaikka hevi ei olekaan mielimusiikkiani. Matkustan myös paljon ja tutustun matkoilla eri kulttuurien musiikkiin. Minun ominta musiikkiani on maailmanmusiikki. Pidän siinä erilaisista soittimista, rytmeistä ja erilaisten äänten kirjosta.</quote>
+<subtitle>Miten ohjaisit ihmisiä musiikin pariin?</subtitle>
+<quote>– Esimerkiksi on paljon erilaisia kuoroja, joihin voi liittyä, vaikka ei olisi koskaan harrastanut laulua. Laulamista ja soittamista voi opetella minkä ikäisenä tahansa. Musiikkikasvattajat ovat juuri tätä varten. Myös monissa palvelutaloissa ja päiväkeskuksissa tarjotaan onneksi enemmän ja enemmän mahdollisuuksia harrastaa musiikkia.</quote>

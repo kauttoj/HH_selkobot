@@ -1,0 +1,22 @@
+<title>Kohteliaisuus on tyylikästä</title>
+<lead>Tuija Kauppinen on tyylineuvoja. Tyylineuvoja antaa vinkkejä esimerkiksi pukeutumiseen ja omien värien löytämiseen. Kauppinen neuvoo ihmisiä: Hymyilkää enemmän!</lead>
+Tuija Kauppinen tietää, mikä on tyylikästä. Hän on ammatiltaan tyylineuvoja.
+<subtitle>Sinulla on yritys, joka neuvoo ihmisiä tyylikysymyksissä. Milloin kiinnostuit vaatteista ja tyylistä?</subtitle>
+<quote>– Kiinnostuin vaatteista ja pukeutumisesta jo nuorena. Pienenä ompelin vaatteita Barbie-nukeilleni. Värit ja erilaiset materiaalit ovat aina kiehtoneet minua. Myöhemmin asuin Lontoossa ja Tokiossa. Seurasin silloin tarkkaan suurkaupunkien ihmisten pukeutumistyylejä.</quote>
+<subtitle>Mitkä asiat liittyvät tyyliin?</subtitle>
+<quote>– Tyyli on se kuva, jonka haluamme antaa itsestämme muille ihmisille. Vaatteet ovat luonnollisesti osa tyyliä, mutta tyyliin kuuluu myös muita asioita. Henkilökohtainen hygienia on tärkeä osa tyyliä. On tärkeää olla puhdas ja tuoksua hyvältä. Kannattaa myös huolehtia hiuksista ja käsistä. Miesten kannattaa huolehtia siitä, että parta näyttää siistiltä.</quote>
+<quote>– Se, kuinka kohtaamme toiset ihmiset, on osa tyyliä. Kohteliaisuus on tärkeä asia. Kohtelias ja ystävällinen ihminen menestyy työelämässä.</quote>
+<subtitle>Miksi tyylikkyys on tärkeää?</subtitle>
+<quote>– Suomessa ajatellaan, että ei ole niin tärkeää, miltä ihminen näyttää. Jos ihminen panostaa ulkonäköön ja vaatteisiin, häntä pidetään helposti snobina eli hienostelijana. Monien mielestä riittää, kun hoitaa työnsä kunnolla. Ulkonäkö vaikuttaa kuitenkin siihen, miten ihmiset näkevät meidät ja miten he kohtaavat meidät.</quote>
+<quote>– Työntekijät edustavat työelämässä omaa työpaikkaansa. Silloin tulee pukeutua tavalla, joka on linjassa yrityksen tai työpaikan arvojen ja tyylin kanssa. Tämä on erityisen tärkeää, jos ihminen työskentelee asiakaspalvelutyössä.</quote>
+<subtitle>Kuinka töihin tulee pukeutua?</subtitle>
+<quote>– Se riippuu tietenkin siitä, millaista työtä tekee. Yritysmaailmassa tyyli on melko tiukka ja perinteinen. Miehet käyttävät pukua, naisilla on mekko tai jakkupuku. Meidän kaikkien on pukeuduttava oikealla tavalla töissä. Naisella todella lyhyt hame tai liian avokaulainen yläosa ei sovi työasuksi. Vaatteiden täytyy olla puhtaita ja sileitä. Jos käyttää sandaaleita töissä, kynsien tulee olla hoidetut ja kauniit.</quote>
+<subtitle>Täytyykö naisten meikata töissä?</subtitle>
+<quote>– Pieni meikki tekee useimmista paremman näköisen. Liian voimakas meikkaus ei kuitenkaan kuulu työpaikalle. Ihonhoito on tärkeä asia. Miestenkin kannattaa käyttää kosteusvoidetta.</quote>
+<subtitle>Pukeutuvatko suomalaiset huonosti?</subtitle>
+<quote>– Suomalaiset ovat alkaneet pukeutua paremmin viime vuosina. Suomalaiset käyttävät edelleen aika vähän rahaa vaatteisiin ja pukeutumiseen, jos meitä vertaa muihin maihin.</quote>
+<subtitle>Täytyykö muotia seurata?</subtitle>
+<quote>– Ei ole tärkeää seurata nopeasti muuttuvaa muotia. Kesällä kannattaa kuitenkin käyttää kesävaatteita, talvella talvivaatteita. Silloin tällöin kannattaa ostaa joitakin uusia vaatteita, jos haluaa seurata aikaansa. Vaatteista kannattaa pitää huolta niin, että ne säilyvät hyvinä pitkään.</quote>
+<subtitle>Onko sinulla hyviä tyylivinkkejä?</subtitle>
+<quote>– Terveellinen ruokavalio ja riittävä liikunta auttavat voimaan paremmin ja näyttämään hyvältä. Kannattaa käyttää vaatteissa värejä ja malleja, jotka sopivat juuri sinulle. Itsetunto paranee, kun vaatteet tuntuvat mukavilta.</quote>
+<quote>– Hymy ja silmiin katsominen ovat aina hyviä tyylivinkkejä. Ystävällinen hymy tekee vaikutuksen. Se on hyvä vinkki myös sellaiselle ihmiselle, joka ei mielellään puhu vieraiden kanssa.</quote>

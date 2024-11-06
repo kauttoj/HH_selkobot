@@ -1,0 +1,22 @@
+<title>Nuori yrittäjä ei lepää keväisin</title>
+<lead>Pyöräkorjaaja Ilmari Ekonen on 17-vuotias yrittäjä. Hän perusti yrityksensä jo 13-vuotiaana.</lead>
+Kevät tuli ja pyöräilykausi alkoi. Pyöräkorjaaja Ilmari Ekosen työpäivät venähtävät usein 16 tuntiin. Pyöräkorjaaja Ilmari Ekonen perusti  toiminimen jo 13-vuotiaana koululaisena. Nyt 17-vuotias Ekonen on ollut vuoden ajan kokopäiväinen yrittäjä. Hänen yrityksenä on Katajanokan pyöräkorjaamo Helsingissä. Pyöräkorjaamon lisäksi Ekosella on nettikauppa.
+<subtitle>Mistä sait idean perustaa yrityksen jo koululaisena?</subtitle>
+<quote>– Halusin jotain töitä kesäksi, kun koulua ei ollut. Ajattelin, että sitä kautta voisin saada töitä. Perustin toiminimen vuonna 2011, mutta eihän toimintaa silloin vielä ollut paljon mitään.</quote>
+<subtitle>Miten olet oppinut korjaamaan pyöriä?</subtitle>
+<quote>– Olen aina korjannut itse kaiken, mikä on mennyt rikki. Opin pyörien korjaamisenkin, kun korjasin omaa pyörääni.</quote>
+<subtitle>Minkälaisia työpäiväsi ovat?</subtitle>
+<quote>– Pyöränkorjauksen lisäksi iso osa ajastani menee kirjanpitoon, tilausten tekemiseen, siivoamiseen ja järjestelyyn.</quote>
+<quote>– Kun pyöräilykausi alkaa keväällä, töitä on todella paljon. Huhtikuusta kesäkuun loppuun olen töissä seitsemänä päivänä viikossa, 16 tuntia päivässä. Aloitan kahdeksalta aamulla ja lähden kotiin kahdeltatoista yöllä. Talvisin taas on hiljaista. Pyörien korjausta ei ole juuri lainkaan, mutta kyllä silloinkin hommaa riittää nettitilausten ja järjestelyjen kanssa.</quote>
+<subtitle>Mikä yrittämisessä on parasta?</subtitle>
+<quote>– Parasta on kai se, että ei ole ketään, joka hengittäisi niskaan. Saan itse päättää kaikesta, mutta toisaalta minulla on kyllä myös paljon vastuuta.</quote>
+<subtitle>Mikä työssäsi on vaikeinta?</subtitle>
+<quote>– Vaikeinta on saada sovitettua työpäivät normaaliin päivärytmiin. Töitä tulee aina lisää, vaikka en ehtisi tehdä niitä.</quote>
+<subtitle>Mitä olet oppinut työssäsi?</subtitle>
+<quote>– Ainakin olen huomannut, että yrityksellä on paljon sellaisia kuluja, joita en ole aikaisemmin tullut ajatelleeksi. Esimerkiksi arvonlisävero, vuokra, sähkö, vedet, korttimaksupääte, nettisivut ja vakuutukset. Loppujen lopuksi pyörän korjaamisesta jää itselleni vain 10 prosenttia käteen.</quote>
+<subtitle>Kuinka usein pyörä pitäisi huoltaa?</subtitle>
+<quote>– Jos pyörä on pienellä käytöllä, huolto kerran kahdessa vuodessa voi riittää. Jos pyörää käyttää esimerkiksi työmatkoihin tai paljon huonossa säässä, se pitäisi huoltaa vähintään kerran vuodessa.</quote>
+<subtitle>Millaisia vikoja pyöriin yleensä tulee?</subtitle>
+<quote>– Useimmiten ainakin jarrupalat pitää vaihtaa vuosihuollossa. Myöskään renkaiden kulumista monet eivät huomaa, vaikka ne olisivat todella huonossa kunnossa.</quote>
+<subtitle>Aiotko korjata pyöriä myös tulevaisuudessa?</subtitle>
+<quote>– Olen ajatellut jatkaa yrittämistä, mutta en ole varma alasta. Saa nähdä,  miten pyöräkorjaamon pitäminen toimii.</quote>

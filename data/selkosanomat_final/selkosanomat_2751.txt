@@ -1,0 +1,30 @@
+<title>Työtä ihmisoikeuksien puolesta</title>
+<lead>Amnesty on kansainvälinen järjestö, joka tekee töitä ihmisoikeuksien puolesta. Järjestö perustettiin 1960-luvulla. Nykyään Amnesty toimii yli 150 maassa. Frank Johansson johtaa Amnestyn toimintaa Suomessa.</lead>
+<subtitle>Milloin Amnesty tuli Suomeen?</subtitle>
+<quote>– Amnesty aloitti Suomessa vuonna 1964. Ensin se oli pieni järjestö, jossa oli paljon vapaaehtoisia ihmisiä tekemässä työtä. Amnesty yritti auttaa vankeja, jotka olivat vankilassa mielipiteidensä takia. Amnestyn vapaaehtoistyöntekijät kirjoittivat kirjeitä päättäjille ja yrittivät saada mielipidevangit vapaiksi.</quote>
+<subtitle>Millaista toiminta on nykyään?</subtitle>
+<quote>– Amnesty on kasvanut hyvin paljon. Meillä on Suomessa nykyään yli 30 työntekijää. Budjettimme on suuri, yli 5 miljoonaa euroa vuodessa. Suurin osa rahoista tulee lahjoituksena ihmisiltä. Jopa 40 000 ihmistä lahjoittaa rahaa Amnestylle Suomessa.</quote>
+<quote>– Vapaaehtoisten työntekijöiden sijaan meillä on nyt ammattilaisia töissä. Työntekijämme ovat oikeustieteen, kampanjoinnin, viestinnän, talouden, ilmastoasioiden ja muiden tärkeiden asioiden ammattilaisia.</quote>
+<quote>– Nykyään Amnestyä voi kutsua lobbausjärjestöksi. Se tarkoittaa, että pyrimme vaikuttamaan päättäjiin. Teemme edelleen töitä ihmisoikeuksien puolesta. Haluamme, että kaikilla ihmisillä on oikeus elämään, ruokaan, koulutukseen, terveydenhoitoon ja kotiin. Kaikilla pitää olla myös oikeus omiin mielipiteisiinsä. Autamme yksittäisiä ihmisiä, mutta haluamme vaikuttaa myös lakeihin ja politiikkaan.</quote>
+<subtitle>Minkä asioiden kanssa teette eniten töitä?</subtitle>
+<quote>– Tällä hetkellä ajankohtaisin asia on tietenkin Ukrainan sota. Ukrainassa on tapahtunut paljon ihmisoikeusrikkomuksia. Rikokset ihmisoikeuksia vastaan pahenevat aina, kun jossain on sota. Amnesty on puhunut ihmisoikeusrikkomuksista ja tuominnut sodan.</quote>
+<subtitle>Mitä mieltä eri maat ovat Amnestyn työstä?</subtitle>
+<quote>– Yleensä Amnestyn työtä arvostetaan. Joskus se on kuitenkin vaikeaa, jos raporteissamme sanotaan jotain ikävää omasta maasta. On helpompaa nähdä ongelmia muissa maissa.</quote>
+<quote>– Esimerkiksi Venäjä ei halua kuunnella meitä. Venäjä on sulkenut Amnestyn toimiston Moskovassa. Myös Kiina on sulkenut Amnestyn toimiston Hong Kongissa.</quote>
+<subtitle>Mihin muihin asioihin haluatte vaikuttaa?</subtitle>
+<quote>– Ennen autoimme paljon ihmisiä muissa maissa. Nykyään yritämme myös saada aikaan muutoksia Suomessa. Viime vuosina olemme esimerkiksi tehneet töitä naisiin kohdistuvaa väkivaltaa vastaan.</quote>
+<quote>– Teemme paljon töitä myös ilmastoasioiden parissa. Meidän mielestämme myös ilmasto liittyy ihmisoikeuksiin. Jos jotkin paikat maapallolla kuumenevat liikaa, ihmiset eivät voi enää elää niissä. Silloin todella monien ihmisten on pakko etsiä uusia paikkoja, joissa elää. Meille pohjoiseurooppalaisille se voi tarkoittaa sitä, että hyvin suuri määrä ihmisiä tulee tänne ja haluaa asua täällä.</quote>
+<quote>– Myös taloudelliset ja sosiaaliset oikeudet ovat tärkeitä. Niiden kanssa olemme tähän asti tehneet melko vähän töitä. Perustoimeentulotuki on Suomessa niin pieni, että se ei riitä elämiseen. Noin puoli miljoonaa ihmistä elää perustoimeentulotuella Suomessa. Heidän taloudelliset oikeutensa eivät toteudu. Haluamme muuttaa asian.</quote>
+<subtitle>Mitä ajattelet maailman kehityksestä?</subtitle>
+<quote>– Maailmassa on kaksi suurta uhkaa, ilmastonmuutos ja tuloerojen kasvu. Tuloerojen kasvu tarkoittaa, että köyhien ja rikkaiden välillä on iso ero. Ero köyhien ja rikkaiden välillä on kasvanut koko maailmassa. Taloudellinen tasa-arvoisuus on vähentynyt 1970-luvulta asti. Kun erot kasvavat liian suuriksi, sotien riski kasvaa. Ja sotien takia ihmiset joutuvat usein pakolaisiksi.</quote>
+<quote>– Usein Yhdysvalloissa ja Euroopassa on puhuttu eniten ihmisten oikeuksista. Mutta nyt näiden alueiden mailla ei ole enää yhtä paljon valtaa. Esimerkiksi Kiinalla, Intialla ja Indonesialla on nykyään entistä enemmän valtaa. Niillä on usein erilainen näkemys ihmisten oikeuksista.</quote>
+<subtitle>Kuinka jaksat tehdä töitä, kun näet niin suuria uhkia?</subtitle>
+<quote>– Hyvien asioiden eteen täytyy joka tapauksessa tehdä töitä. Ja toki saamme myös hyviä uutisia. Saamme kuulla ihmisistä, jotka ovat istuneet vankilassa mielipiteidensä takia ja jotka on vapautettu. Tuntuu hyvältä kuulla, että ihmiset ovat päässeet vapaiksi.</quote>
+<quote>– Mielestäni olemme myös onnistuneet joissain asioissa täällä Suomessa. Suomessa on tehty muutoksia esimerkiksi lakeihin, jotka koskevat raiskauksia ja aborttia. On tehty muutoksia myös sääntöihin, jotka koskevat aseiden vientiä muihin maihin. Näemme, että pystymme vaikuttamaan asioihin.</quote>
+<quote>– Uskon myös, että ihminen voi paremmin itse, kun yrittää auttaa muita ihmisiä. Tuntuu hyvältä tietää, että on ainakin yrittänyt tehdä jotain hyvää.</quote>
+<subtitle>Kuka?</subtitle>
+Nimi: Frank Johansson
+Ammatti: Amnestyn toiminnanjohtaja Suomessa
+Asuinpaikka: Malmilla Helsingissä ja Antskogissa Raaseporissa
+Perhe: naimisissa, 3 aikuista lasta
+Harrastukset: Lukeminen, mieluiten luen romaaneja töiden vastapainoksi. Jalkapallo, Tammisaaressa EIF ja Englannissa Arsenal. Ruoanlaitto. Matkustelu, tosin olen vähentänyt matkustamista. En enää lennä vapaa-ajalla. On kuitenkin paljon mukavia paikkoja, joihin pääsee myös junalla.

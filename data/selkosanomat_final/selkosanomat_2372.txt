@@ -1,0 +1,21 @@
+<title>Meidän täytyy muuttaa elämäntapaamme</title>
+<lead>Tina Nyfors on tutkija. Hän tekee väitöskirjaa kohtuullisuudesta eli kestävästä elämäntavasta.</lead>
+Tina Nyfors on ollut tekemässä Suomen ilmastopaneelin raporttia. Hänen mielestään meidän täytyy muuttaa elämäntapaamme, jotta emme tuhoaisi maapalloa.
+<subtitle>Mitä tarkoittaa kohtuullisuus?</subtitle>
+<quote>– Se tarkoittaa, että elintaso on riittävän hyvä, mutta se ei kuluta liikaa luonnonvaroja eikä saastuta ympäristöä.</quote>
+<subtitle>Millainen suomalaisten elintaso on nykyisin?</subtitle>
+<quote>– Suomi on yksi maailman rikkaista maista. Meillä on hyvin korkea elintaso. Jos kaikki maailman ihmiset eläisivät kuin suomalaiset, luonnonvarat eivät riittäisi lainkaan.</quote>
+<quote>– Suomen tavoitteena on hidastaa ilmastonmuutosta. Jotta se onnistuu, meidän täytyy vähentää hiilidioksidipäästöjä. Se tarkoittaa sitä, että meidän täytyy muuttaa elämäntapaamme.</quote>
+<subtitle>Mitä asioita meidän pitäisi muuttaa?</subtitle>
+<quote>– Tällä hetkellä eniten hiilidioksidipäästöjä tulee asumisesta, liikenteestä, ruoasta, tavaroista ja palveluista. Meidän pitää ehkä asua pienemmissä asunnoissa, joiden lämmittämiseen tarvitaan vähemmän energiaa. Voimme myös  tottua siihen, että kotona on talvella viileämpää.</quote>
+<quote>– Meidän täytyy varmasti vähentää matkustamista, erityisesti lentämistä. Lyhyemmät matkat on parempi tehdä junalla. Arkena hyvä tapa liikkua on pyöräillä tai käyttää junaa tai bussia.</quote>
+<quote>– Meidän pitäisi syödä vähemmän lihaa ja maitotuotteita ja enemmän kasviksia ja hedelmiä. Vähemmälläkin kulutuksella tulee hyvin toimeen. Voimme ostaa laadukkaita tavaroita, jotka kestävät pitkään ja jotka voi korjata. Tämä korvaisi tavan, että ostamme jatkuvasti uusia tavaroita ja heitetään vanhoja pois. Meidän ei tarvitse myöskään omistaa kaikkea, vaan voimme vuokrata tai lainata.</quote>
+<subtitle>Kuinka onnistumme tässä?</subtitle>
+<quote>– Siihen tarvitaan monia keinoja. Asioiden, jotka saastuttavat, pitäisi olla kalliimpia. Ympäristöystävällisten asioiden pitäisi olla halvempia.</quote>
+<quote>– Tulevaisuudessa ei välttämättä enää saa matkustaa monta kertaa vuodessa lentokoneella. Uskon myös, että me ihmiset haluamme muuttaa elämäntapaamme, kun huomaamme, että luonto kärsii. Kun ilmastonmuutos tulee lähemmäs, yhä useammat haluavat auttaa.</quote>
+<subtitle>Mitä teet itse, jotta eläisit ympäristö- ja ilmastoystävällisesti?</subtitle>
+<quote>– Asun yhteisössä. Meitä on siis monta aikuista, jotka asuvat yhdessä. Jaamme kotimme ja tavaramme. Syön useimmiten kasvisruokaa. Syön lihaa vain harvoin. Lennän harvoin, ja arkena pyöräilen.</quote>
+<subtitle>Onko sinulla jokin ilmastosynti?</subtitle>
+<quote>– Minulla on kissa, joka syö lihaa. Emme aina muista, että myös kotieläimet ovat osa korkeaa elintasoamme.</quote>
+<subtitle>Muuttuuko elämä huonommaksi, kun meidän on pakko elää ilmastoystävällisesti?</subtitle>
+<quote>– Elämästä tulee erilaista, mutta se voi myös muuttua paremmaksi. Meillä on ehkä enemmän aikaa, kun ei tarvitse tehdä niin paljon töitä, jotta saisi rahaa ja voisi ostaa paljon tavaroita. Kun jaamme tavaroita ja autamme toisiamme, voimme ehkä kokea vahvempaa yhteyttä toisiin ihmisiin.</quote>

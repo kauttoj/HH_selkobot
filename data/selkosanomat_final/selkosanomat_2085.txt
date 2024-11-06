@@ -1,0 +1,21 @@
+<title>Mikä on henkilökohtainen avustaja?</title>
+<lead>Yodit Melaku kertoo, mikä on henkilökohtainen avustaja ja mitä avustaja tekee. Melaku on töissä Kynnys-järjestössä.</lead>
+Yodit Melaku on vammaisjärjestö Kynnyksen sosiaalityöntekijä. Hän tietää paljon siitä, mitä on henkilökohtainen apu.
+<subtitle>Mikä on henkilökohtainen avustaja?</subtitle>
+<quote>– Henkilökohtainen avustaja on palkattu työntekijä, joka auttaa vammaista henkilöä päivittäin tai tietyn tuntimäärän viikossa. Avustaja avustaa vammaista henkilöä tämän kotona sekä kodin ulkopuolella.</quote>
+<subtitle>Kuka voi saada henkilökohtaisen avustajan?</subtitle>
+<quote>– Kunnassa tulee tehdä palvelusuunnitelma jokaiselle henkilölle, joka tarvitsee vammaispalvelua. Palvelusuunnitelman perusteella henkilö voi saada henkilökohtaista apua. Valtaosa henkilöistä, joilla on päivittäinen avustaja, on tällä hetkellä vaikeasti liikuntavammaisia. Henkilökohtaista apua voivat saada eri tavoin vammaiset henkilöt.</quote>
+<quote>– Jos vammainen henkilö asuu asumisyksikössä, hän saa päivittäiset palvelut sieltä. Silloin hän voi saada avustajan töihin, opiskeluun tai vapaa-ajalle.</quote>
+<subtitle>Kuka avustajan etsii ja palkkaa?</subtitle>
+<quote>– Kunta voi järjestää henkilökohtaista apua kolmella tavalla. Vammainen henkilö voi olla avustajan työnantaja. Tämä järjestelmä on vaativa. On osattava monenlaisia asioita. On esimerkiksi tehtävä työsopimus.</quote>
+<quote>– Toinen vaihtoehto on se, että kunta antaa vammaiselle henkilölle palvelusetelin. Silloin vammainen voi valita paikkakunnan palveluntuottajista sen, jonka katsoo parhaaksi. Tällöin vammaisen ei tarvitse itse toimia työnantajana. Kolmas vaihtoehto on, että kunta järjestää koko palvelun.</quote>
+<subtitle>Mitä avustaja tekee?</subtitle>
+<quote>– Avustaja auttaa päivittäisissä toimissa, työssä ja opiskelussa sekä harrastuksissa. Vammainen henkilö määrää tehtävät.</quote>
+<subtitle>Mitä jos ei tule toimeen oman avustajansa kanssa?</subtitle>
+<quote>– Työsuhteen alkuun voidaan sopia enintään kuuden kuukauden koeaika. Sen aikana sekä avustaja että vammainen henkilö voivat miettiä, vastaako tilanne heidän odotuksiaan.</quote>
+<quote>– On tärkeää, että molemmat ymmärtävät, että kyseessä on työnantaja-työntekijä-suhde. Jos suhde mielletään ystävyydeksi, homma ei toimi.</quote>
+<subtitle>Voivatko vanhemmat toimia avustajina?</subtitle>
+<quote>– Omainen voi toimia avustajana vain silloin, jos siihen on erityisen painavia syitä. Tällainen syy voi olla esimerkiksi se, että perheen ulkopuolisen avustajan löytäminen osoittautuu mahdottomaksi.</quote>
+<subtitle>Onko avustajalla oltava tutkinto?</subtitle>
+<quote>– Avustajan koulutusta järjestetään esimerkiksi ammatillisissa oppilaitoksissa. Avustajana voi kuitenkin työskennellä myös ilman koulutusta, koska työhön ei ole pätevyysvaatimuksia.</quote>
+<quote>– Henkilökohtaisena avustajana toimiminen edellyttää tietynlaista luonnetta. Siis sitä, että kykenee olemaan sivustaseuraaja. Avustaja ei esimerkiksi saa olla keskustelujen aloittaja ja ylläpitäjä.</quote>

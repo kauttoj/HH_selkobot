@@ -1,0 +1,16 @@
+<title>Kotus pitää kielen kunnossa</title>
+<lead>Ulla-Maija Forsberg on kielentutkija ja Kotuksen johtaja. Hän tutkii suomen ja unkarin kieltä. Kotus on kotimaisten kielten eli suomen ja ruotsin keskus.</lead>
+<subtitle>Mitä Kotus tekee?</subtitle>
+<quote>– Kotuksen tarkoitus on pitää suomen ja ruotsin kielet elävinä ja käyttökelpoisina. Teemme kielenhuoltoa, nimistönhuoltoa ja sanakirjoja. Nimistönhuolto tarkoittaa, että annamme neuvoja esimerkiksi kaksikielisissä paikannimissä ja yritysten nimissä. Esimerkiksi, jos joku kunta keksii nimen uudelle toiminnolle, se kysyy, mitä se on ruotsiksi. Kirkkonummen kunnasta kysyttiin, miten sana elinvoimatoimiala käännetään ruotsiksi. Kerroimme, että suomeksikaan se ei ole hyvä! Se ei kerro kuntalaisille mitään.</quote>
+<quote>– Teemme monenlaisia sanakirjoja, esimerkiksi suomen ja ruotsin murteiden sanakirjoja, vanhan kirjakielen sanakirjaa ja suomen yleiskielen sanakirjaa. Ne ovat verkossa vapaasti kaikkien käytössä. Yleiskielen sanakirja on valmis, muut ovat vielä kesken.</quote>
+<subtitle>Mistä asioista teiltä kysytään neuvoa?</subtitle>
+<quote>– Yhdyssanoista kysytään usein. Kirjoitetaanko sana yhteen vai erikseen? Esimerkiksi niin kuin vai niinkuin? Onko se yksi vai kaksi sanaa? Vastaus on, että kaksi sanaa.</quote>
+<quote>– Uusista ilmiöistä kysytään, että voiko näin sanoa. Tai käännöksistä englannin kielestä. Myös lyhenteistä kysytään. Kirjoitetaanko isolla vai pienellä alkukirjaimella?</quote>
+<subtitle>Onko suomen kieli vaikeampi kuin muut kielet?</subtitle>
+<quote>– Jos suomi on äidinkieli, se ei ole vaikeampi kuin muut kielet. Äidinkieli on jokaiselle aina yhtä helppo.</quote>
+<quote>– Ei se vieraana kielenäkään ole vaikeampi kuin muut kielet. Suomen kieli tuntuu vaikealta, koska se kuuluu eri kieliperheeseen kuin monet muut kielet. Ruotsi, saksa, ranska, englanti, venäjä ja latina kuuluvat kaikki samaan kieliperheeseen. Suomi kuuluu erilaiseen kieliperheeseen, jossa sukulaisia ovat unkari ja viro.</quote>
+<quote>– Vaikeaa on se, että suomen kielen sanat taipuvat. Mutta helppoa on se, että suomen sanoilla ei ole sukuja. Ruotsissa on kaksi sukua, den ja det. Saksassa on kolme sukua der, die ja das.</quote>
+<subtitle>Riittääkö viisi miljoonaa suomalaista siihen, että suomen kieli säilyy?</subtitle>
+<quote>– Riittää ehdottomasti. Myös ruotsin kieli Suomessa on vahvassa asemassa, koska se on virallinen kieli. Sillä on lain turva. Saamen kielet ovat kovin pieniä. Niiden asema on uhatumpi.</quote>
+<subtitle>Miten Suomen kielimaisema muuttuu tulevaisuudessa, kun yhä useampi puhuu venäjää, viroa, arabiaa tai somalia?</subtitle>
+<quote>– Kielimaisema muuttuu monipuoliseksi. Helsingin seudulla se näkyy jo. On kiva, että Suomessa asuu monenkielisiä ihmisiä. Suomalaiset tottuvat nyt siihen, että ihmiset puhuvat useita kieliä. Aiemmin meillä on ajateltu, että ihmiset puhuvat vain yhtä kieltä. Kotuksessa muutos näkyy siten, että teemme suomi–somali- ja suomi–kurdikieli sanakirjoja.</quote>

@@ -1,0 +1,21 @@
+<title>Viineistä oppii aina uutta</title>
+<lead>Viiniasiantuntija Linda Forssell kertoo, että suomalaiset ostavat viinejä, joiden etiketissä on eläimen kuva.</lead>
+Linda Forssell on viinituntija. Hän kirjoittaa viineistä ruotsinkielisiin lehtiin Hufvudstadsbladetiin ja Forumiin.
+<subtitle>Miten kiinnostuit viineistä?</subtitle>
+<quote>– Kasvoin Ranskassa, koska isäni työskenteli siellä. Molemmat vanhempani olivat innostuneita viineistä, joten minäkin opin niistä jo lapsuudenkodissani. Ensimmäinen työpaikkani oli ravintolassa. Siellä opin lisää viineistä.</quote>
+<subtitle>Miksi viini kiinnostaa?</subtitle>
+<quote>– Viineistä voi aina oppia lisää. Ala muuttuu koko ajan, tulee uusia rypälelajikkeita ja uusia kasvualueita. Viinit muuttuvat. Kun elintarvikekulttuuri muuttuu, muuttuu myös viinikulttuuri.</quote>
+<subtitle>Mikä viinissä on parasta?</subtitle>
+<quote>– Viini yhdistää ihmisiä ja erilaisia kulttuureita. Ihmiset ovat juoneet viiniä tuhansien vuosien ajan maapallon eri puolilla. Viini on tehty nautittavaksi seurassa.</quote>
+<subtitle>Miten viiniä ja ruokaa yhdistellään?</subtitle>
+<quote>– Helpoin tapa on valita ruoka, josta pitää ja valita sen jälkeen viini, josta pitää. On tietenkin olemassa joitakin sääntöjä. Vanha neuvo on valita punaviini liharuuille ja valkoviini kalaruuille. Tätä sääntöä saa rikkoa. Jotkut kevyet punaviinit sopivat erinomaisesti yhteen kalaruuan kanssa. Jotkut täyteläiset valkoviinit sopivat hienosti yhteen lihan kanssa, erityisesti kanan kanssa. Voit myös kysyä neuvoa Alkon henkilökunnalta. Heiltä saat asiantuntevia vinkkejä.</quote>
+<subtitle>Olet työskennellyt itsekin Alkossa. Millaisesta viinistä suomalaiset pitävät?</subtitle>
+<quote>– Ihmiset haluavat helposti tunnistettavia viinejä. Viinit, joiden etiketissä on eläin, myyvät hyvin. Chileläiset punaviinit ovat perinteisesti suomalaisten suosikkeja.</quote>
+<subtitle>Kuinka paljon maksaa hyvä viini?</subtitle>
+<quote>– 12 eurolla saa jo hyvän pullon viiniä. 15–25 euron hintainen viini on jo todella hyvä. Yli 25 euron hintainen viinipullo ei välttämättä ole paljon parempi.</quote>
+<subtitle>Onko viineissä jokin trendi eli muotivirtaus juuri nyt?</subtitle>
+<quote>– Nykyisin ostetaan koko ajan enemmän ekologisia eli luomu- viinejä. Uskon, että tämä on pysyvä suuntaus. On myös olemassa alkuviinejä (englanniksi natural wine). Nämä viinit valmistetaan samalla tavalla kuin tuhansia vuosia sitten, eikä niissä ole lisäaineita. Jotkut ovat maultaan hyviä, toiset hieman outoja.</quote>
+<subtitle>Minkälaisia viinejä juot itse?</subtitle>
+<quote>– Minulla ei ole suosikkia. Tykkään kokeilla erilaisia uusia viinejä. Pidän ranskalaisista, italialaisista, portugalilaisista ja itävaltalaisista viineistä. Ostan harvoin samaa viiniä toisen kerran peräkkäin.</quote>
+<subtitle>Voitko suositella jotain viiniä?</subtitle>
+<quote>– Kevät ja roseeviinit sopivat yhteen. Roseeviiniä voi juoda ilman ruokaa tai ruuan kanssa. Australialaisten roseeviinien hinta-laatusuhde on hyvä.</quote>

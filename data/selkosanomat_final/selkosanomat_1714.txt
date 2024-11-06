@@ -1,0 +1,16 @@
+<title>Tulli estää salakuljetusta</title>
+<lead>Tulliylitarkastaja ja koulutussuunnittelija Kirsi Azaize-Dria kertoo, että tullin tehtäviin kuuluu suojella yhteiskuntaa. Tulli yrittää huolehtia esimerkiksi siitä,  että maahan ei salakuljeteta huumeita tai aseita.</lead>
+<subtitle>Miten sinusta tuli tullivirkailija?</subtitle>
+<quote>– Asuin pitkään Israelissa, palestiinalaisessa kylässä. Kun muutimme Suomeen, halusin tehdä työtä, jossa voin olla hyödyksi yhteiskunnalle. Pääsin töihin tulliin ja kouluttauduin tullivirkailijaksi. Työssäni on ollut hyötyä siitä, että osaan arabiaa. Se on auttanut esimerkiksi Lähi-idästä tulevien matkustajien kanssa asioimisessa. Nykyään opetan Tullikoululla muita tullivirkailijoita. Kerron tullin työstä myös asiakkaillemme.</quote>
+<subtitle>Mitä tulli tekee?</subtitle>
+<quote>– Tulli suojelee yhteiskuntaa. Varmistamme, että maahan tuodaan vain turvallisia tavaroita. Lisäksi, jos Suomeen tulee EU:n ulkopuolelta tavaraa, joudutaan usein maksamaan tullimaksu. Tulli perii tämän maksun. Tulli esimerkiksi tarkastaa rajalla matkatavaroita. Tulli tarkastaa myös kuljetuksia ja postipaketteja.</quote>
+<subtitle>Millä tavalla tulli suojelee yhteiskuntaa?</subtitle>
+<quote>– Tullin tehtävänä on varmistaa, että Suomeen ei tuoda esimerkiksi aseita, huumausaineita tai tuoteväärennöksiä. Tulli yrittää varmistaa myös, että EU:n ulkopuolelta tulevat elintarvikkeet ovat turvallisia. Tullilla on oma laboratorio, jossa voidaan tutkia, että ruuissa ei ole vaarallisia aineita.</quote>
+<subtitle>Kuinka yleistä on, että maahan yritetään salakuljettaa kiellettyä tavaraa?</subtitle>
+<quote>– Salakuljetusta tapahtuu päivittäin. Tavallista on, että postipaketeissa yritetään tuoda Suomeen pieniä eriä huumausaineita. Ruotsista salakuljetetaan erityisesti nuuskaa. Alkoholin salakuljetus on vähentynyt.</quote>
+<subtitle>Kuinka yleisiä tuoteväärennökset ovat?</subtitle>
+<quote>– Tuoteväärennökset ovat varsin yleisiä. Nykyään väärennetään kaikenlaisia merkkituotteita: vaatteita, elektroniikkaa, lääkkeitä ja elintarvikkeita. Kannattaa olla varovainen, jos tilaa tavaroita vaikka Kaukoidästä. Silloin on suuri vaara, että saa väärennöksen. Esimerkiksi väärennetty lääke voi olla terveydelle hyvin vaarallinen.</quote>
+<subtitle>Millä keinoilla tulli pystyy estämään salakuljetuksia?</subtitle>
+<quote>– Kaikkia käytössä olevia keinoja en voi tietenkään paljastaa. Tullilla on esimerkiksi laitteita, joilla voidaan läpivalaista paketteja ja laukkuja. Apua on myös koirista, jotka koulutettu löytämään esimerkiksi huumeita, rahaa tai aseita. Tulli tekee paljon erilaisia selvityksiä ja tutkii tullirikoksia.</quote>
+<subtitle>Mitä haluaisit vielä kertoa tullin työstä?</subtitle>
+<quote>– Haluaisin korostaa sitä, että tullityö on asiakaspalvelua. Pyrimme huomioimaan eri kulttuurien erilaiset tavat ja käyttäytymissäännöt, kun teemme esimerkiksi tarkastuksia rajoilla. Meiltä voi myös kysyä aina ja mitä vaan.</quote>

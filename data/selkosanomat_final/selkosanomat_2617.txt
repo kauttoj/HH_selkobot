@@ -1,0 +1,24 @@
+<title>Esimerkkejä tekoälystä</title>
+<lead>Tekoälyn avulla voidaan esimerkiksi ohjailla liikennevalojen toimintaa ja käsitellä virastojen tietoja. Seuraavassa esimerkkejä siitä, missä kaikkialla tekoälyä käytetään apuna.</lead>
+<subtitle>Liikennevalot</subtitle>
+Tekoäly ohjaa usein liikennevalojen toimintaa. Sen ansiosta valot vaihtuvat niin, että autot pääsevät ajamaan risteyksistä sujuvasti.
+<subtitle>Kela, verovirasto ja pankit</subtitle>
+Kelassa käsitellään paljon tietoja, esimerkiksi toimeentulotuesta ja vammaistuesta. Tekoäly voi olla Kelan virkailijoiden apuna. Kelan työntekijä tekee kuitenkin lopulliset päätökset.
+Tekoäly voi auttaa myös veroviraston työntekijöitä laskemaan, minkä verran kunkin ihmisen tai yrityksen pitää lain mukaan maksaa veroja. Tällöinkin työntekijä tekee lopulliset päätökset.
+Myös esimerkiksi pankeissa tekoäly avustaa erilaisten laskujen ja ennusteiden tekemisessä.
+<subtitle>Facebook</subtitle>
+Facebook näyttää meille sisältöjä, jotka kiinnostavat meitä tekoälyn mielestä. Tekoäly tekee meistä päätelmiä esimerkiksi tykkäyksien perusteella.
+<subtitle>Netflix ja muut suoratoistopalvelut</subtitle>
+Netflixin tietokoneohjelma suosittelee käyttäjälle samanlaisia elokuvia ja sarjoja kuin ne, joita hän on aikaisemmin katsonut. Myös muut suoratoistopalvelut toimivat samalla periaatteella. Spotify suosittelee meille samanlaista musiikkia, jota olemme kuunnelleet aiemmin.
+<subtitle>Internetin mainokset</subtitle>
+Kun haemme jotakin tuotetta Googlen kautta, saamme pian saman tuotteen mainoksia sosiaaliseen mediaan tai muualle internetiin. Tekoäly on seurannut, mistä asioista haemme tietoa ja millä nettisivuilla vierailemme.
+<subtitle>Virtuaaliset avustajat</subtitle>
+Moniin tietokoneisiin ja matkapuhelimiin voi ladata virtuaalisen avustajan, joka ymmärtää puhetta. Avustajan voi pyytää esimerkiksi hakemaan tietoa internetistä, avaamaan tietokoneen sovelluksia tai kirjoittamaan viestejä. Tällä tavalla toimivat esimerkiksi Applen Siri, Amazonin Alexa sekä Google Assistant.
+<subtitle>Deepfake -videot</subtitle>
+Deepfake on videoväärennös. Video näyttää aidolta, mutta se on luotu tekoälyn avulla erilaisia videoita ja kuvia yhdistelemällä. Todellisuudessa videolla esiintyvä ihminen ei ole oikea ihminen. Videon suunnittelija on päättänyt, mitä hahmo tekee ja puhuu.
+Deepfake-videoita on käytetty esimerkiksi valtionjohtajien puheiden vääristelyyn.
+Jos näet oudon videon, kannattaa miettiä, voiko kyseessä olla videoväärennös.
+<subtitle>Robottiautot</subtitle>
+Robottiautot hyödyntävät tekoälyä. Ne pystyvät liikkumaan itsenäisesti ilman kuljettajaa. Robottiautoja on jo koekäytössä.
+Myös tavallisissa uusissa autoissa on paljon älykkäitä tietokoneohjelmia. Auto voi osata esimerkiksi pysäköidä itse itsensä.
+Kestää kuitenkin vielä kauan ennen kuin robottiautot yleistyvät. Liikenne on vaikea saada sujuvaksi ilman oikeita kuljettajia.

@@ -1,0 +1,18 @@
+<title>Kaikki järjestyy</title>
+<lead>Järjestyksen tarkoitus on, että arki on sujuvaa, sanoo ammattijärjestäjä Eveliina Lindell. Jos kotona tavarat ovat sekaisin, voi avuksi pyytää ammattijärjestäjän.</lead>
+Suomessa on noin 200 ammattijärjestäjää. Yksi heistä on Eveliina Lindell. Hän auttaa perheitä järjestämään tavaroita.
+Asiakkaita ovat tavalliset työssäkäyvät ihmiset, lapsiperheet ja eläkeläiset. Lindell pitää myös kursseja, joilla opiskellaan tavaroiden järjestämistä.
+<subtitle>Miksi tavarat eivät pysy järjestyksessä?</subtitle>
+<quote>– Tavaroita on yleensä aika paljon. Epäjärjestys syntyy, koska tavaroita käytetään. Niitä ei palauteta paikoilleen. Palauttaminen ei ole aina hauskaa eikä mielenkiintoista.</quote>
+<quote>– Yleisin syy epäjärjestykselle on kiire. Ihmiset eivät ehdi laittaa tavaroita takaisin paikoilleen. Perheeseen on esimerkiksi syntynyt lapsia, jolloin aikaa on entistä vähemmän. Kaikki ihmiset eivät ehkä tiedä, mistä järjestäminen kannattaa aloittaa. Meillä on yhtä paljon tavaraa kuin entisajan ruhtinailla, mutta palvelijat puuttuvat.</quote>
+<subtitle>Miten ihmisen ajattelun pitää muuttua, jotta tavarat pysyvät järjestyksessä?</subtitle>
+<quote>– Pitää olla halua ja intoa järjestää. Järjestämisen tarkoitus on, että arki on sujuvaa. Silloin on helpompi olla kotona. Tavarat löytyvät, kun niitä tarvitaan. Etsiminen ja kiire vähenevät. Kotityöt sujuvat helpommin, kun tavarat eivät ole esteenä.</quote>
+<quote>– Kannattaa opetella rutiini. Tavarat laitetaan säilytyspaikkaan käytön jälkeen.</quote>
+<subtitle>Miksi tavaroista on niin vaikea luopua?</subtitle>
+<quote>– Taustalla voi olla pelko siitä, että tekee väärän päätöksen. Luopuminen kaduttaa. Joku voi ajatella, että hänellä on velvollisuus säilyttää tavaroita muiden puolesta. Niihin voi liittyä muistoja. Voi myös olla, että ei tiedetä, miten tavarat pitää hävittää.</quote>
+<quote>– Mutta ne ovat vain ajatuksia, joita voi muuttaa. Sen voi tehdä esimerkiksi kodinjärjestämisen kurssilla tai lukemalla alan kirjoja. Luopumista helpottaa, jos valitsee ne tavarat, jotka haluaa säilyttää.</quote>
+<subtitle>Jos pidän epäjärjestyksestä, niin haittaako se?</subtitle>
+<quote>– Ei haittaa, jos ei halua järjestää! Jos arki sujuu, se ei ole ongelma.</quote>
+<quote>– Mutta jos sairastut, muutat pienempään asuntoon tai joku joutuu tyhjentämään asuntosi, ongelma siirtyy muille. Järjestystä kannattaa opetella, kun vielä jaksaa. Eläkeläisenä se on hankalampaa. Kannattaa aloittaa nuorena!</quote>
+<subtitle>Ovatko tavarat sinun kodissasi järjestyksessä?</subtitle>
+<quote>–  Kyllä ne ovat melko hyvässä järjestyksessä. Vaikka ne eivät aina ole järjestyksessä, melkein kaikille tavaroille on oma paikka. Ammattini on alun perin maantieteilijä. Järjestäminen on kuin kodin maantiedettä.</quote>

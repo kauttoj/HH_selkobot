@@ -1,0 +1,16 @@
+<title>EU puolustaa kansalaisiaan</title>
+<lead>Euroopan unioni voisi puolustaa enemmän kansalaistensa oikeuksia, sanoo kansainvälisten suhteiden tutkija Hanna Ojanen. Ojanen on Jean Monnet -professori Tampereen yliopistossa.</lead>
+<subtitle>Kuka oli Jean Monnet?</subtitle>
+<quote>– Hän oli ranskalainen valtiomies, jota pidetään yhtenä EU:n perustajista. Hän oli johtopaikoilla unionin alkuvaiheessa 1950-luvulla. Monnet piti Euroopan valtioiden yhteistyötä hyvin tärkeänä toisen maailmansodan jälkeen.</quote>
+<subtitle>Mitä tarkoittaa Jean Monnet -professori?</subtitle>
+<quote>– Jean Monnet -professoreja on useita satoja yliopistoissa eri puolilla maailmaa. Kiinassakin heitä on kymmenkunta. Euroopan unioni rahoittaa aluksi professuuria. Myöhemmin yliopistot ottavat professuurin hoitaakseen. Jean Monnet -professorit tekevät ja ohjaavat tutkimusta, joka liittyy Eurooppaan.</quote>
+<subtitle>Suomi liittyi Euroopan unioniin 20 vuotta sitten. Onko päätösvalta siirtynyt Suomesta ja muista jäsenmaista EU:n päämajaan Brysseliin?</subtitle>
+<quote>– Valta ei ole karannut pois EU:n jäsenmailta. Sitä on päätetty käyttää yhdessä. Monessa asiassa on hyvä, että päätöksiä tehdään yhdessä, ja ne koskevat laajoja alueita. Tällaisia ovat esimerkiksi ilmastonmuutos ja ruuan turvallisuus.</quote>
+<quote>– Joissakin asioissa jopa EU on niin pieni, ettei se pysty yksin ratkaisemaan ongelmia. Tällainen on esimerkiksi nykyinen maailmanlaajuinen talouskriisi.</quote>
+<quote>– EU pystyy puolustamaan kansalaisten oikeuksia. Jäsenvaltioilla on aika paljon valtaa, ja ne voivat käyttää sitä väärin. Esimerkiksi Unkarin hallitus on heikentänyt maansa demokratiaa. Demokratia ja ihmisoikeudet ovat EU:n tärkeitä arvoja. EU:n pitäisi saada puuttua jäsenvaltion asioihin, jos kansalaisten oikeudet ovat vaarassa.</quote>
+<subtitle>Mitkä ovat EU:n suurimmat ongelmat?</subtitle>
+<quote>– Jäsenvaltioilta puuttuu yhteinen näkemys. Valtiot ajavat asioita eri suuntiin. EU on nyt hidas, ja se polkee paikallaan. Toisaalta EU:lta toivotaan monia asioita, mutta ei malteta odottaa niiden toteutumista. Isojen hankkeiden toteutumisessa saattaa mennä kymmeniä vuosia.</quote>
+<subtitle>Mihin suuntaan EU:n pitäisi mennä tulevaisuudessa?</subtitle>
+<quote>– Tähän asti Euroopan yhdentyminen on edistänyt liikkuvuutta. Tuotteiden liikkumisesta vapaasti yli rajojen on hyötyä. Ihmisten vapaa liikkuvuus hyödyttää niitä, jotka voivat vaihtaa työpaikkaa ulkomaille. Toisaalta ne, jotka ovat paikallaan, eivät hyödy siitä. EU:n pitäisi osoittaa, että unionista on hyötyä muillekin. Se tarkoittaa esimerkiksi, että EU tukee demokratiaa, kansalaisten ilmaisuvapautta tai oikeutta koulutukseen.</quote>
+<subtitle>Miksi rupesit kansainvälisten suhteiden tutkijaksi?</subtitle>
+<quote>– Olen aina ollut kiinnostunut siitä, mitä tapahtuu Suomen ulkopuolella. Myös asioiden kyseenalaistaminen kiinnostaa minua. Tutkimus antaa välineitä erilaisten näkemysten kyseenalaistamiseen.</quote>

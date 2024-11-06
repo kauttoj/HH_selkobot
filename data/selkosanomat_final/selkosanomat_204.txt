@@ -1,0 +1,17 @@
+<title>Selkokielelle lain suoja!</title>
+<lead>Pertti Rajala on selkokielen uranuurtaja ja selkokirjailija. Rajalan mielestä selkokielelle pitäisi Suomessa saada lain suoja.</lead>
+Suomen selkokielen pioneeri Pertti Rajala täyttää 60 vuotta toukokuussa. Hän on ollut mukana perustamassa Selkosanomia ja Selkokeskusta ja vaatinut viranomaisilta selkeän kielen käyttöä.  Pertti Rajala on myös selkokirjailija, joka on kirjoittanut lähes 80 selkokirjaa. Se on todennäköisesti maailmanennätys.
+<subtitle>Olet muokannut selkokielelle monia kirjoja. Millainen on hyvä selkokirja?</subtitle>
+<quote>– Hyvä selkokirja antaa lukijalle elämyksiä. Kirja on hyvä, kun se puhuttelee lukijaa. Vaikka kirja on kirjoitettu selkokielellä, sen pitää olla elävää ja rikasta kieltä.</quote>
+<subtitle>Olet kirjoittanut kymmeniä selkokielisiä tietokirjoja. Mikä on paras selkokirjasi?</subtitle>
+<quote>– Minulle paras kirja on aina se, jota juuri kirjoitan. Mutta yksi kirjoistani on muita tärkeämpi. Se on Helmi Haapasen sisällissota. Tämä kirja kertoo omasta tädistäni ja hänen elämästään Tampereella sisällissodan vuosina. Kirja on minulle tärkeä, koska se on henkilökohtaisempi kuin muut kirjani.</quote>
+<subtitle>Saatko palautetta lukijoiltasi?</subtitle>
+<quote>– Saan kyllä, mutta toivoisin sitä vielä enemmän. Paras palaute tulee suoraan lukijoilta. Kerran eräs lukija kertoi minulle, että minun kirjani oli ollut ensimmäinen kirja, jonka hän oli lukenut alusta loppuun. Se on koskettavin palaute, jonka olen saanut. Palaute on yleensä myönteistä. Haluaisin kuitenkin saada myös rakentavaa kritiikkiä ja korjausehdotuksia. Niistä olisi minulle paljon hyötyä.</quote>
+<subtitle>Olet ollut mukana edistämässä virkakielen selkeyttämistä. Miksi viranomaiset käyttävät  Suomessa usein epäselvää kieltä?</subtitle>
+<quote>– Siinä on kyse asenteista. Viranomaiset eivät aina ymmärrä, että osa ihmisistä todella tavitsee selkokielistä viestintää. Jokaisen viranomaisen pitäisi muistaa, että Suomen lain mukaan viranomaisen on käytettävä selkeää ja ymmärrettävää kieltä. Joskus vaikeaa kieltä käytetään laiskuuden tai kiireen vuoksi.</quote>
+<subtitle>Mikä viralliset tahot Suomessa ovat mielestäsi onnistuneet parhaiten selkokielen käytössä?</subtitle>
+<quote>– Yleisradion Selkouutiset on hieno uutispalvelu selkokieltä tarvitseville ihmisille. Toivon, että selkouutislähetys saataisiin myös televisioon. Oikeusministeriön selkokielinen vaalitiedotus on tärkeä asia. Myös Kela on julkaissut joitakin selkokielisiä esitteitä.</quote>
+<subtitle>Olet selkokielen pioneeri, joka on edistänyt selkokieltä 1980-luvulta lähtien. Mitkä asiat ovat selkokielessä edenneet hyvään suuntaan?</subtitle>
+<quote>– Olen iloinen siitä, että Suomessa selkokielen tuottamisen perusta on kunnossa. Meillä on Selkosanomat ja Selkokeskus sekä Yleisradion selkouutiset. Opetus- ja kulttuurinimisteriö tukee selkokirjallisuutta valtiontuella. Näiden varassa selkokieltä voidaan Suomessa kehittää edelleen. Mutta työtä riittää, vielä ei ole valmista.</quote>
+<subtitle>Mikä on suurin unelmasi selkokielen suhteen?</subtitle>
+<quote>– Selkokielelle pitäisi saada lain suoja. Olisi hienoa, jos laki määräisi käyttämään selkokieltä tietyissä tilanteissa. Esimerkiksi tiedotusvälineissä, viranomaisten teksteissä ja kulttuuripalveluissa selkokieltä pitäisi olla paljon enemmän.</quote>

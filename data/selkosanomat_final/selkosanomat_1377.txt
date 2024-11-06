@@ -1,0 +1,18 @@
+<title>Robottien asiantuntija</title>
+<lead>Konsultti ja tietokirjailija Cristina Anderssonin mukaan maailma muuttuu, kun robotit yleistyvät.</lead>
+<subtitle>Miten kiinnostuit roboteista?</subtitle>
+<quote>– Olen koulutukseltani kasvatustieteilijä. Olen tehnyt työtä aikaisemmin esimerkiksi opettajana. Muutama vuosi sitten huomasin, että robotit alkoivat yleistyä maailmalla.</quote>
+Suomessa ei silloin vielä oikein keskusteltu asiasta.
+Kirjoitin yhdessä Jari Kaivo-Ojan kanssa kirjan nimeltä Bohobusiness, jossa pohdittiin paljon esimerkiksi sitä, miten robotit muuttavat maailmaa.
+<subtitle>Mitä työhösi nykyään kuuluu?</subtitle>
+<quote>– Kierrän puhumassa roboteista. Autan ihmisiä näkemään, mitä mahdollisuuksia robotit tarjoavat. Herätän myös keskustelua siitä, mistä meidän pitää huolehtia, jotta robottien käyttöönotto aiheuttaisi mahdollisimman vähän ongelmia. Lisäksi vedän Hyvinvoinnin tekoäly ja robotiikka -ohjelmaa. Se on verkosto, joka on tarkoitettu alan yhteydenpitoon ja kehittämiseen.</quote>
+<subtitle>Missä kaikkialla robotteja jo on?</subtitle>
+<quote>– Olemme joka päivä tekemisissä robottien kanssa. Esimerkiksi tietokoneen Google-haut tekee robotti. Monissa kodeissa on jo itsestään kulkevia robottiruohon-leikkureita ja robottipölynimureita. Robottiautot ovat tulossa pian. Teollisuudessa käytetään paljon robotteja. Myös esimerkiksi sairaalassa kirurgia saattaa avustaa leikkauksessa robotti. Robotteja on melkein kaikilla aloilla.</quote>
+<subtitle>Ovatko robotit tulossa myös hoiva- ja hoitoalalle?</subtitle>
+<quote>– Robotteja käytetään jo nyt hoiva- ja hoitoalalla. Suomessa on kehitetty esimerkiksi robotti, joka annostelee kotona lääkkeet ja hälyttää, jos lääkkeet jäävät ottamatta. Erilaiset hoivarobotit ja myös esimerkiksi kodinhoitorobotit yleistyvät nopeasti. Uskon, että jo noin kymmenen vuoden kuluttua jokaisella apua tarvitsevalla on kotonaan robotti.</quote>
+<subtitle>Mitä sanot, jos ihmistä pelottaa ajatus siitä, että häntä hoitaisi robotti?</subtitle>
+<quote>– On huomattu, että ihmiset kiintyvät robotteihin. Robotti ei voi kuitenkaan koskaan korvata aitoa ihmistä. Yhteiskunnassa on keskusteltava siitä, miten voidaan taata se, että jokaisella olisi ympärillään riittävästi myös muita ihmisiä, vaikka robotit yleistyvätkin.</quote>
+<subtitle>Loppuvatko ihmisiltä lopulta kokonaan työt, kun robotit tulevat joka alalle?</subtitle>
+<quote>– Työelämä muuttuu. Monet ammatit häviävät, mutta uusia tulee tilalle. Niin on tapahtunut aina ennenkin, kun tekniikka on kehittynyt. On myös muistettava, että vaikka roboteista tulee koko ajan taitavampia, niin meillä ihmisillä on kykyjä, joihin koneet eivät pysty. Meidän vahvimpia ominaisuuksiamme ovat mielikuvitus ja luovuus.</quote>
+<subtitle>Onko sinulla itselläsi vielä robottia?</subtitle>
+<quote>– Kuljetan usein luentomatkoillani mukana pientä Aira-robottia, jolla esittelen robotteja. Se on saanut nimensä tanssija Aira Samulinin mukaan. Mutta se on kyllä paljon huonompi tanssija!</quote>

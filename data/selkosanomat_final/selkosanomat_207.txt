@@ -1,0 +1,19 @@
+<title>”Pääsiäiseen liittyy anteeksianto”</title>
+<lead>Irja Askola on ensimmäinen nainen, joka on vihitty piispaksi Suomessa. Hän on toiminut Helsingin hiippakunnan piispana vuodesta 2010.</lead>
+<subtitle>Mitä piispan työhön kuuluu?</subtitle>
+<quote>– Piispa on hiippakunnan ja seurakuntien työntekijöiden hengellinen johtaja. Työhön kuuluu hallinnollista työtä, saarnojen ja esitelmien pitämistä sekä median edustajien</quote>
+ja poliitikkojen tapaamista.
+<subtitle>Olet Suomen ensimmäinen naispiispa. Miten se on vaikuttanut työhösi?</subtitle>
+<quote>– Olin yllättynyt siitä, miten julkista tämä työ on. Ihmiset tietävät, kuka minä olen ja tulevat luokseni raitiovaunussa tai kaupan kassajonossa. Usein ihmiset haluavat sanoa jotakin ystävällistä minulle. Ihmiset esittävät myös kysymyksiä ja toiveita kirkolle. Minulla onkin tapana sanoa, että olen kirkon liikkuva postilaatikko.</quote>
+<subtitle>Oletko kokenut vastustusta?</subtitle>
+<quote>– Kirkon sisällä on pieni ryhmä, joka on naispiispoja tai naispappeja vastaan. Muut ovat kuitenkin positiivisia. Sain apua ja tukea muilta piispoilta, kun työ oli minulle uutta.</quote>
+<subtitle>Viime aikoina monet ovat eronneet kirkosta. Seuraako kirkko tarpeeksi aikaansa?</subtitle>
+<quote>– Ihmiset eroavat kirkosta monista eri syistä. Jotkut ajattelevat, että kirkko on liian vanhanaikainen. Jotkut taas ajattelevat, että kirkko on liian moderni ja liberaali eli vapaamielinen. Kuitenkin iso osa suomalaisista kuuluu yhä kirkkoon. Helsingissä kirkkoon kuuluu suunnilleen 70 prosenttia asukkaista.</quote>
+<quote>–  Minusta on hyvä, että kaikki saavat itse valita, haluavatko he kuulua kirkkoon vai eivät.</quote>
+<subtitle>Mistä yhteiskunnallisista ongelmista olet huolestunut?</subtitle>
+<quote>– Olen huolestunut syrjäytymisestä ja kuilusta ihmisten välillä. Osalla ihmisistä menee erittäin hyvin, mutta on paljon ihmisiä, joilla on todella vaikeaa.</quote>
+Monet vanhukset ja myös monet lapset kärsivät yksinäisyydestä. Nykyajan yhteiskunta sopii hyvin niille, jotka ovat nuoria ja nopeita ja pärjäävät hyvin. Kuitenkin myös hitailla on oikeus tuntea olonsa hyväksi yhteiskunnassamme.
+<subtitle>Onko kirkko kaikille saavutettava? Miten kirkko ottaa saavutettavuuden huomioon?</subtitle>
+Kirkolla on oma saavutettavuusohjelma. Pyrimme siihen, että kirkkoihin olisi helpompi päästä pyörätuolilla. Meillä on myös käytössä tekniikkaa, joka auttaa kuulovammaisia. Puheen saavutettavuus on kuitenkin haaste kirkossa.
+<subtitle>Pian on pääsiäinen. Mikä tässä juhlassa on tärkeintä?</subtitle>
+Pääsiäinen on tärkeä juhla kristityille. Silloin Jeesus kärsi ja kuoli meidän syntiemme takia, mutta Jeesus kuitenkin nousi kuolleista. Siksi ei pidä takertua kärsimykseen, vaan pääsiäinen on ilon juhla. Pääsiäisen tapahtumat osoittavat meille, että kuolema ei ole lopullista. Sen perusteella, mitä pääsiäisenä tapahtui, saamme nähdä uudelleen kaikki rakkaamme kuoleman jälkeen.

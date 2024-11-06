@@ -1,0 +1,15 @@
+<title>Musiikin monitoiminainen</title>
+<lead>Aija Puurtinen on monipuolinen muusikko ja musiikin opettaja. Hän on blues-yhtyeen basisti ja musiikkikasvatuksen lehtori.</lead>
+Aija Puurtinen on monipuolinen musiikin ammattilainen. Hän on musiikkikasvatuksen lehtori Sibelius-Akatemiassa. Hän on esiintynyt bluesyhtye Honey B. & The T-Bonesissa kohta 40 vuotta. Puurtinen tekee myös soolouraa ja esiintyy perheyhtyeensä Honey B. Familyn kanssa. Puurtinen on levyttänyt sekä suomeksi että englanniksi.
+<subtitle>Olet monipuolinen musiikintekijä. Mikä on omin alueesi musiikissa?</subtitle>
+<quote>– Musiikki on minulle kanava, jolla viestin. Toteutan musiikilla omaa taiteellista näkemystäni. En ole koskaan sitoutunut yhteen musiikin lajiin. Minua viehättävät hyvin monenlaiset musiikkityylit. Koen, että tämä on vapautta. Saan tehdä mitä haluan. Musiikkini ydin on muuttunut vuosien aikana. Olen muuttunut paljon esiintyjänä 1980-luvun jälkeen.</quote>
+<subtitle>Milloin aloit soittaa?</subtitle>
+<quote>– Halusin oppia soittamaan pianoa ja lukemaan nuotteja viisivuotiaana. Halusin opiskelemaan Sibelius- Akatemiaan ja klassisen musiikin pianonsoiton opettajaksi. 1980-luvun alussa sattui kuitenkin vahinko, jonka seurauksena jouduin Honey B. & T-Bonesin basistiksi. En ollut ikinä haaveillut basistin urasta rock-yhtyeessä. Kaikki ei mennyt aivan suunnitelmieni mukaan.</quote>
+<subtitle>Miten musiikkimaailma on muuttunut?</subtitle>
+<quote>– Musiikkimaailma on muuttunut valtavasti. Nykyisin tyyli on tärkeä asia ja tietyntyylinen musiikki soi ainoastaan joissain klubeissa. Ennen kaikenlainen musiikki soi radiossa. Keikkapaikkoja on paljon vähemmän. Uran alussa teimme paljon keikkoja myös arki-iltoina. Nykyisin keikkoja tehdään isommissa paikoissa ja lähinnä viikonloppuisin. Musiikkiyleisö ei sen sijaan ole muuttunut niin paljon.</quote>
+<subtitle>Onko keikkailu edelleen mukavaa?</subtitle>
+<quote>– Keikkailu on minulle akateemisen työn vastapaino. Tykkään siitä. En varmaankaan pystyisi tekemään virkatyötäni, jos en pääsisi muusikkona ja laulajana toteuttamaan omaa taiteellista työtäni. Matkustaminen ei kuitenkaan enää ole kivaa.</quote>
+Perheyhtye Honey B. Familyssa soittavat miehesi Esa ja poikanne Mooses. Minkälaista se on?
+<quote>– Jammailimme Mooseksen kanssa jo silloin, kun hän oli kolmevuotias. Hän valitsi itse soittimensa eli rummut. Meidän kannaltamme se oli hyvä valinta. Yhdessä soittaminen on hienoa. Meillä on selvästi jokin syvempi yhteys, joka syntyy, kun soitamme yhdessä</quote>
+<subtitle>Miksi taidekasvatus on tärkeää?</subtitle>
+<quote>– Taidekasvatus on lähtökohta, jonka pitäisi olla mukana pienestä saakka. Musiikin avulla voi löytää tunnetiloja, joita ei ehkä voi selittää sanoilla. Kaikki ei ole älyllistä. Ihminen pystyy käsittelemään taiteen avulla elämän kolhuja. Saman kehollisen kokemisen voi tuntea myös esimerkiksi tanssimalla.</quote>

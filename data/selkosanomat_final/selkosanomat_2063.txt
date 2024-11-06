@@ -1,0 +1,22 @@
+<title>On ihanaa tehdä töitä televisiossa</title>
+<lead>Sonja Kailassaari on tv-juontaja. Kailassaari juontaa suosittua Efter Nio -ohjelmaa yhdessä Mårten Svartströmin kanssa.</lead>
+Sonja Kailassaari juontaa Efter Nio -ohjelmaa tv:ssä. Efter Nio on keskusteluohjelma, jossa on uusia vieraita joka viikko.
+Ohjelmassa puhutaan usein ruotsia, mutta puhe tekstitetään suomeksi. Ohjelmaa on esitetty jo kuusi vuotta. Tämän syksyn ensimmäinen jakso esitettiin televisiossa 24. elokuuta. Ohjelman voi katsoa myös Yle Areenassa.
+<subtitle>Millaisia työpäiväsi ovat?</subtitle>
+<quote>– Ohjelmaa tekee meidän pieni tiimimme, joka työskentelee tiiviisti yhdessä. Meillä on todella hauskaa, kun käymme läpi ideoita ja mielenkiintoisia teemoja. Mårten Svartström ja minä olemme juontajia. Tiimissä on myös muita jäseniä, joista on meille paljon apua. He eivät näy televisiossa.</quote>
+<quote>– Juontajan täytyy olla aina oma itsensä. Hän ei voi piiloutua roolin taakse.</quote>
+<subtitle>Onko aiheita vaikea keksiä?</subtitle>
+<quote>– Yleensä se on helppoa. Kaikki tiimin jäsenet keksivät ideoita. Meille on tärkeää, että kaikki vieraat saavat olla oma itsensä. Keskustelu on melko vapaata. Kuuntelemme vieraiden ajatuksia. Se on helppoa minulle, koska olen utelias. Rakastan työtäni!</quote>
+<subtitle>Miten valitsette vieraanne?</subtitle>
+<quote>– Vieraan ei tarvitse olla julkkis. Kuka tahansa voi olla vieraana. Kaikilla ihmisillä on tarina kerrottavana.</quote>
+<subtitle>Kuinka usein saatte palautetta ohjelmasta?</subtitle>
+<quote>– Saamme palautetta vaihtelevasti. Ohjelma herättää enemmän ajatuksia, jos se koskettaa yleisöä tai tuntuu henkilökohtaiselta.</quote>
+<subtitle>Oliko työ televisiossa unelmasi, kun olit lapsi?</subtitle>
+<quote>– Ei ollut. En tiennyt, mitä teen lukion jälkeen. Se oli aivan kamalaa. Hain teatterikorkeakouluun muutaman kerran, koska pidin esiintymisestä. Mietin myös psykologin ammattia. Sitten minua pyydettiin TV-ohjelmaan. Nyt olen tehnyt erilaisia ohjelmia yli 20 vuotta. Olen ollut mukana ohjelmissa, joiden aiheita ovat esimerkiksi muoti, urheilu ja musiikki.</quote>
+<quote>– Olen nyt unelmatyössä! Olen utelias ihminen, joka mieluummin kuuntelee kuin puhuu. Mårten ja minä kokeilemme usein uusia asioita televisiossa. Olemme esimerkiksi suorittaneet ylioppilaskokeen, hankkineet ajokortin ja tehneet Cooperin juoksutestin. Opin pitämään avantouinnista, kun joogaopettaja Magnus Appelberg oli vieraana ohjelmassa.</quote>
+<subtitle>Ketä haluaisit haastatella ohjelmassa?</subtitle>
+<quote>– Haluaisin tavata kirjailija Eeva Kilven, koska rakastan hänen kirjojaan. Haluaisin haastatella myös Ricky Gervaisia. Hän on englantilainen koomikko.</quote>
+<subtitle>Voitko kertoa jotain itsestäsi?</subtitle>
+<quote>– Minulla on kääpiömäyräkoira, jonka nimi on Elsa. Elsa on 5-vuotias. Rakastan Elsaa todella paljon, ja olen myös hemmotellut sitä hieman.</quote>
+<quote>– Olen kaksikielinen, eli puhun ruotsia ja suomea. Isäni puhuu suomea ja äitini ruotsia. Nyt kun olen aikuinen, puhun suomea kotona ja ruotsia työssäni.</quote>
+<quote>– Suosikkiruokani ovat makaronilaatikko ja pasta. Suosikkivärini on Waikiki Blue, joka on sekoitus sinistä ja vihreää.</quote>

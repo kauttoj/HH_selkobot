@@ -1,0 +1,24 @@
+<title>Tasapuolinen puhenainen</title>
+<lead>Maria Lohela on järjestyksessään toinen pitkäaikainen naispuolinen eduskunnan puhemies.</lead>
+Maria Lohela on eduskunnan puhemies ja perussuomalaisten kansanedustaja. Hänet valittiin eduskuntaan vuonna 2011.
+Lohelan mielestä ihmisten huomio kiinnittyy sukupuolta enemmän hänen ikäänsä ja poliittiseen kokemattomuuteen.
+<subtitle>Mikä on puhemiehen tehtävä eduskunnassa?</subtitle>
+<quote>– Puhemies johtaa puhetta ja jakaa puheenvuorot eduskunnassa. Puhemies johtaa myös puhemiesneuvostoa ja kansliatoimikuntaa. Kansliatoimikunta johtaa eduskunnan hallintoa. Puhemies osallistuu myös Suomen 100-vuotisjuhlien valmisteluun.</quote>
+<subtitle>Miten puhemiehen ja kansanedustajan työtehtävät eroavat?</subtitle>
+<quote>– Puhemies ei osallistu arkisen politiikan tekoon. Hän ei äänestä täysistunnoissa, käytä puheenvuoroja tai osallistu julkiseen poliittiseen keskusteluun. Puhemies ei myöskään kuulu valiokuntiin.</quote>
+<subtitle>Millainen puhemies olette?</subtitle>
+<quote>– Haluan olla hyvä, tasapuolinen ja reilu puhemies. Pyrin kohtelemaan kaikkien puolueiden kansanedustajia ja eduskunnan työntekijöitä tasavertaisesti. Haluan saavuttaa nämä tavoitteet vuorovaikutuksella. Arvostan varapuhemies Mauri Pekkarista ja toista varapuhemiestä Paula Risikkoa paljon.</quote>
+<subtitle>Suomessa eletään poikkeuksellisen vaikeita aikoja. Millaisena näette tulevaisuuden?</subtitle>
+<quote>– Toivon, että Suomessa uskalletaan uudistua. Meidän täytyy uskaltaa muuttua ja hyväksyä se, että yhteiskunta muuttuu. Ehkä kaikki eivät ymmärrä sitä, kuinka vakava taloudellinen tilanne on  ja kuinka paha työttömyys meillä on. Kaikilla kansalaisilla on oikeus osallistua yhteiskunnan rakentamiseen. Se ei tällä hetkellä toteudu.</quote>
+<subtitle>Eurooppaan tulee paljon pakolaisia. Miten Euroopan pakolaistilanne tulisi hoitaa?</subtitle>
+<quote>– Euroopan unionin täytyy ratkaista nämä ongelmat maailman muiden maiden kanssa paikan päällä. Mikään asia ei ratkea niin, että hoidetaan ainoastaan seuraukset. Tämä vaatii rauhanvälitystä, kaupankäyntiä ja yhteistyötä. Nämä asiat luovat hyvinvointia ja vakautta.</quote>
+<subtitle>Suomen väestö ikääntyy. Miten vanhusten hoito tulisi järjestää, jotta inhimillinen vanhuus turvataan?</subtitle>
+<quote>– Suomalaiset ovat perinteisesti luottaneet siihen, että yhteiskunta takaa kaikille riittävän toimeentulon ja hoivan. Kaikkea vastuuta lähimmäisestä ei voi kuitenkaan laittaa yhteiskunnalle. Lähimmäisistä täytyy huolehtia. Vanhukselle kuuluu oikeus päättää omista asioistaan. Jos ihminen ei selviä kotona, häntä ei saa jättää heitteille.</quote>
+<subtitle>Pitäisikö politiikan kielen olla selkeämpää ja ymmärrettävämpää?</subtitle>
+<quote>– Selkokielellä ja tiivistämisellä on paljon käyttöä politiikassa. Tiivistäminen on taito ja lahja. On ilo kuunnella ymmärrettävää puhetta ja lukea selkokielistä tekstiä. Olen saanut palautetta kansalaisilta, jotka haluavat selkokieltä. Monet palautteen antajista eivät ole edes selkokielen varsinaista kohderyhmää.</quote>
+<subtitle>Poliitikon ammatti on julkinen. Onko julkisuuden ihmisellä mahdollisuus elää myös yksityiselämää?</subtitle>
+<quote>– Esilläolo kuuluu poliitikon ammattiin. Itse olen kuitenkin hyvin yksityinen ihminen. En kaipaa julkisuutta, enkä ole kiinnostunut siitä. En halua lehtien kansiin tai televisioon, vaan haluan hoitaa työni hyvin. On mahdollista vetää raja yksityisen ja julkisen välille.</quote>
+<subtitle>Asutte Turussa. Matkustatteko päivittäin Turun ja Helsingin väliä?</subtitle>
+<quote>– En matkusta. Minulla on kaksi kotia. Molemmissa on silitysrauta, kahvinkeitin ja pölynimuri.</quote>
+<subtitle>Onko teillä jokin elämänohje?</subtitle>
+<quote>– Yritän löytää jokaisesta päivästä myönteisiä kokemuksia.</quote>

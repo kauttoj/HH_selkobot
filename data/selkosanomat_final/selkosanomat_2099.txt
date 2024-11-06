@@ -1,0 +1,33 @@
+<title>Tiesitkö tämän ilmastonmuutoksesta?</title>
+<lead>Ilmastonmuutos on vakava uhka koko maapallolle. Maapallon elinolot saattavat muuttua sietämättömiksi, jos ilmasto muuttuu paljon.</lead>
+<subtitle>Mikä on ilmasto?</subtitle>
+Ilmastolla tarkoitetaan maapallon sääoloja. Ilmasto on melko pysyvä, mutta se saattaa muuttua pitkän ajan aikana. Ilmasto on siis eri asia kuin sää, joka vaihtelee enemmän.
+Ilmastoon kuuluu lämpötila, kosteus, ilmanpaine, tuuli ja sade. Nämä asiat vaikuttavat myös siihen, mitä kutsumme sääksi.
+Eri puolilla maapalloa on erilainen ilmasto. Suomen ilmasto on kylmempi kuin monien Afrikan maiden ilmasto.
+Maapallon yleinen ilmasto on sen kaltainen, että ihmiset, eläimet ja kasvit selviytyvät useimmissa maapallon osissa.
+<subtitle>Mitä ilmastonmuutos tarkoittaa?</subtitle>
+Ilmastonmuutos tarkoittaa sitä, että maapallon ilmasto muuttuu.
+Maapallon ilmasto muuttuu esimerkiksi lämpimämmäksi tai sateisemmaksi.
+Jos aurinko paistaa aiempaa enemmän, se ei johdu ilmastonmuutoksesta.
+Myöskään lämpimämpi tai sateisempi kesä ei johdu ilmastonmuutoksesta.
+Sää vaihtelee. Kun maapallon keskilämpötila nousee, on kyse ilmastonmuutoksesta.
+<subtitle>Miksi ilmaston lämpeneminen on vaarallista?</subtitle>
+Suomen kylmässä ilmastossa parin asteen lämpeneminen ei ole vaarallista. Suomessa voi olla erittäin kylmiä talvia. Kesällä on harvoin liian kuuma.
+Jos koko maapallon keskilämpötila nousee kaksi astetta, maapallolla tapahtuu suuria muutoksia. Näin sanovat ilmastoasiantuntijat.
+Jos maapallon keskilämpötila nousee 1,5 astetta, ilmasto on vaarallisen kuuma 14 prosentille maapallon asukkaista.
+Jos lämpötila nousee kaksi astetta, elinolosuhteet ovat vaaralliset 37 prosentille maapallon asukkaista. Se on yli kolmasosa kaikista maapallon asukkaista.
+Pohjoisnavan ja etelänavan jää alkaa sulaa. Sen takia merenpinta nousee. Jos maapallo lämpenee kaksi astetta, merenpinta saattaa nousta useita metrejä. Tämä aiheuttaa vakavia ongelmia niille, jotka asuvat rannikolla ja saarilla.
+Kaupunkeihin voi tulla suuria tulvia. Myös säätila muuttuu. Suuret myrskyt ja rankkasateet ovat todennäköisiä. Myös kuivuus lisääntyy.
+<subtitle>Mistä ilmastonmuutos johtuu?</subtitle>
+Maapallon ilmastonmuutos johtuu lisääntyneistä hiilidioksidipäästöistä.
+Maapallon ilmasto on ollut erilainen historian eri aikoina. Auringon lämmön vaikutus vaihtelee. 10 000 vuotta sitten Pohjolaa peitti paksu jääkerros. Silloin oli jääkausi.
+200 vuotta sitten ihmisen toimet maapallolla alkoivat vaikuttaa ilmastoon.
+1800-luvulla ihmiskunta alkoi käyttää hiiltä, öljyä ja kaasua polttoaineena, tehtaisiin ja myöhemmin autoiluun.
+Hiili, öljy ja maakaasu ovat fossiilisia polttoaineita. Ne ovat syntyneet, kun muinaisten eliöiden jäänteet ovat muuttuneet fossiileiksi miljoonia vuosia sitten.
+Fossiiliset polttoaineet ovat uusiutumattomia tai erittäin hitaasti uusiutuvia luonnonvaroja.
+Kun käytämme fossiilisia polttoaineita, saamme energiaa. Samalla aiheutamme kuitenkin lisää hiilidioksidipäästöjä ilmakehään.
+<subtitle>Miksi hiilidioksidi on vaarallista?</subtitle>
+Aurinko, ilma ja maa toimivat yhdessä niin, että maanpinta lämpenee ja maassa voi elää.
+Auringonsäteet kuumentavat maanpintaa. Osa lämmöstä säilyy ilmassa. Ilma on kuin näkymätön katto, joka estää lämmön katoamista avaruuteen.
+Hiilidioksidi aiheuttaa ilmaston lämpenemistä. Ilmassa on hiilidioksidia luonnollisesti. Hiilidioksidi on tarpeellista kasveille. Jos hiilidioksidia on liian paljon, aurinko lämmittää maapallon ilmastoa liikaa.
+Lähteet Naturskyddsförening.se, Wikipedia

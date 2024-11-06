@@ -1,0 +1,24 @@
+<title>Maantieteilijä kirjoittaa maapallosta</title>
+<lead>Laura Ertimo kirjoittaa kirjoja, jotka käsittelevät maantiedettä. Ertimo on maantieteilijä. Hän sai Tietopöllö-palkinnon viime vuonna.</lead>
+Laura Ertimo on maantieteilijä ja tietokirjailija. Hän yhdistää molemmat kiinnostuksen kohteensa, koska hän kirjoittaa tietokirjoja maantieteestä.
+Laura Ertimo voitti Tietopöllö-palkinnon vuonna 2020. Palkinto annetaan kirjailijalle, joka kirjoittaa hyviä lasten ja nuorten tietokirjoja.
+Laura Ertimo kirjoittaa myös selkokielisiä tietokirjoja. Maapallo – Planeettamme selkokielellä -kirjan hän kirjoitti yhdessä Markus Hotakaisen kanssa. Vuonna 2021 ilmestyy Ertimon uusi selkokielinen tietokirja, jossa kerrotaan ilmastonmuutoksesta.
+<subtitle>Mitä maantieteilijät tekevät?</subtitle>
+<quote>– Maantieteilijät tutkivat maapallolla kaikkea, mistä voi piirtää kartan. Tällaisia asioita ovat esimerkiksi luonto, ilmasto ja meret. Maantieteilijät selvittävät, miten ihminen ja luonto vaikuttavat toisiinsa.</quote>
+<quote>– Maantieteilijöillä on paljon erilaisia ammatteja. Heidän työnsä voi olla esimerkiksi opettaja, kaupunkisuunnittelija, diplomaatti tai tutkija.</quote>
+<subtitle>Millaisia kirjoja olet kirjoittanut?</subtitle>
+<quote>– Olen kirjoittanut lasten ja koko perheen tietokirjoja, joiden aiheita ovat esimerkiksi ilmasto, vesi ja yö. Olen tehnyt myös kartastoja, joissa on erilaisia karttoja ja tietoa.</quote>
+<subtitle>Miten valitset aiheet, joista kirjoitat?</subtitle>
+<quote>– Haluan kirjoittaa tärkeistä aiheista, joista ei ole kirjoitettu paljon. Aiheen pitää kiinnostaa minua, jotta kirjasta tulee hyvä.</quote>
+<subtitle>Millaista taustatyötä teet, kun kirjoitat kirjaa?</subtitle>
+<quote>– Kerään tietoa, eli luen paljon tietokirjoja, tutkimuksia ja artikkeleita. Teen kirjoja, joissa on paljon kuvitusta. Siksi yhteistyö kuvittajan kanssa on tärkeä osa työtäni.</quote>
+<subtitle>Kenelle suosittelet Maapallo-kirjaa?</subtitle>
+<quote>– Suosittelen kirjaa ihmisille, jotka haluavat tietoa luonnosta ja ympäristöstä. Kirja sopii kaikille, koska siinä kerrotaan selkeästi meidän planeetastamme ja sen muutoksista.</quote>
+<subtitle>Kerro jokin yllättävä tieto maapallosta.</subtitle>
+<quote>– Koko maapallon ympärillä on kiinteää kiveä, jota sanotaan kallioperäksi. Suomen kallioperässä on jopa yli 3 miljardia vuotta vanhoja osia, eli siinä on Euroopan vanhinta kiveä.</quote>
+<subtitle>Miksi halusit kirjoittaa kirjan ilmastonmuutoksesta?</subtitle>
+<quote>– Halusin, että kaikki lukijat voivat saada tietoa ilmastonmuutoksesta selkeästi. Ilmastonmuutoksesta puhutaan paljon, mutta joillakin ihmisillä on siitä väärää tietoa.</quote>
+<quote>– Kirjassa kerrotaan siitä, mitä ilmastonmuutos tarkoittaa ja mistä se johtuu. Lukija saa tietoa myös ilmastonmuutoksen torjumisesta.</quote>
+<subtitle>Miten ilmastonmuutosta voidaan torjua?</subtitle>
+<quote>– Ilmastonmuutosta voidaan torjua vain, jos koko ihmiskunta tekee yhteistyötä. Ihmiskunta muodostuu ihmisistä, joten jokainen ihminen voi vaikuttaa omalla toiminnallaan.</quote>
+<quote>– Yksittäinen ihminen voi tehdä ilmastotekoja eli valintoja, jotka torjuvat ilmastonmuutosta. Joku voi esimerkiksi vähentää autoilua. Kaikille ihmisille eivät kuitenkaan sovi samat ilmastoteot. Esimerkiksi liikuntaesteisen ihmisen ei kannata lopettaa auton käyttöä, mutta hän voi tehdä muita ilmastotekoja.</quote>

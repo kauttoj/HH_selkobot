@@ -1,0 +1,21 @@
+<title>Melkein kaikki kampaamon asiakkaat katosivat koronaviruksen takia</title>
+<lead>Aila Soliman on yrittäjä, joka työskentelee ekologisen hiustenhoidon ja kosmetiikan parissa. Hänellä on oma kampaamo Helsingin keskustassa. Hän sanoo, että tämä kevät on ollut todella epätavallinen koronaviruksen takia.</lead>
+<subtitle>Milloin tilanne muuttui kampaamossasi?</subtitle>
+<quote>– Se tapahtui 16. maaliskuuta. Puhelin alkoi soida, ja melkein kaikki asiakkaat peruivat varauksensa. Kukaan ei halunnut tulla kampaamoon. Jotkut siirsivät varaustaan, mutta jotkut peruivat varauksensa kokonaan.</quote>
+<subtitle>Onko kampaamosi ollut auki vai kiinni?</subtitle>
+<quote>– Kampaamo on ollut auki koko ajan kolme päivää viikossa, jos meillä on ollut asiakkaita.</quote>
+<subtitle>Miten koronakevät on vaikuttanut yrityksesi talouteen?</subtitle>
+<quote>– Se on vaikuttanut paljon. Huhtikuussa tienasimme paljon vähemmän kuin tavallisesti. Yleensä huhtikuu on hyvä kuukausi. Monet haluavat uuden kampauksen keväällä. Tämä vuosi oli erilainen.</quote>
+<subtitle>Oletko pelännyt, että menetät yrityksesi?</subtitle>
+<quote>– Ensin pelkäsin ja mietin, tarkoittaako koronavirus loppua koko maailmalle. Kaikki oli uutta, ja kukaan ei tiennyt, kuinka kauan rajoitukset kestävät. Meidän kadullamme on paljon kauppoja, mutta katu oli hiljainen ja tyhjä. Silloin olin huolissani.</quote>
+<quote>– Itse olen kampaaja. Täällä työskentelee myös kolme muuta kampaajaa ja yksi kosmetologi, jotka ovat itsenäisiä yrittäjiä. Vaikka tulot ovat olleet huonoja, minulla on silti menoja. Minun täytyy maksaa esimerkiksi yritykseni vuokra. Onneksi yritykseni myy myös shampoota ja muita hoitotuotteita internetissä. Myynti internetissä on jatkunut, ja se on auttanut minua.</quote>
+<subtitle>Oletko tehnyt muutoksia, jotta yrityksesi talous pysyy kunnossa?</subtitle>
+<quote>– Olen säästänyt rahaa. Olen ostanut vähemmän tavaraa kampaamoon kuin tavallisesti. Valikoima on siksi ollut pienempi kuin yleensä.</quote>
+<subtitle>Ovatko asiakkaat jo alkaneet tulla takaisin?</subtitle>
+<quote>– Kyllä. Vielä toukokuussa monet eivät halunneet tulla. Nyt kesäkuussa monet ovat varanneet ajan, koska hallitus on vähentänyt rajoituksia. Asiakkaat sanovat, että he haluavat hemmotella itseään vaikean kevään jälkeen.</quote>
+<quote>– Varmasti kestää vielä kauan, ennen kuin kaikki palaa normaaliksi. Monet ihmiset ovat vielä varovaisia. Nyt meidän täytyy toivoa, että koronavirus ei lähde leviämään uudelleen ja tuo mukanaan uusia rajoituksia.</quote>
+<subtitle>Teettekö nyt jotakin uudella tavalla täällä kampaamossa?</subtitle>
+<quote>– Huhtikuussa ja toukokuussa täällä oli useimmiten vain yksi työntekijä ja asiakas kerrallaan. Halusimme vähentää koronaviruksen leviämistä.</quote>
+<quote>– Jos asiakkaat haluavat, käytämme kasvomaskeja ja käsineitä. Tietenkin myös siivoamme ja desinfioimme paikkoja kunnolla.</quote>
+<subtitle>Onko koronassa mitään hyvää?</subtitle>
+<quote>– Minun mielestäni ei ole. Toisaalta nyt ihmiset tietävät, että hyvä käsihygienia on tärkeää. Ihmiset ovat pesseet käsiään paljon, joten tavallinen flunssa on levinnyt vähemmän. Se on hyvä asia.</quote>

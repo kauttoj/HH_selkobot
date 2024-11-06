@@ -1,0 +1,15 @@
+<title>Noora Sipilä on vuoden tarjoilija</title>
+<lead>Noora Sipilä on loistava tarjoilija. Hän voitti Vuoden Tarjoilija 2018 -kilpailun.</lead>
+Noora Sipilä on erinomainen tarjoilija. Hänet valittiin Suomen parhaaksi Vuoden Tarjoilija 2018 -kilpailussa. Sipilä on osallistunut myös pohjoismaiden tarjoilija -kilpailuun. Siellä hän sijoittui toiseksi ja sai hopeamitalin.
+<subtitle>Mitä olet opiskellut?</subtitle>
+<quote>– Minulla on restonomin ammattikorkeakoulututkinto. Opiskeluni painottuivat kuitenkin enemmän kaupalliselle alalle kuin ravintoala-alaan. Olen oppinut paljon käytännön työssä. Suoritin keväällä viinimestarin ja baarimestarin ammattitutkinnon.</quote>
+<subtitle>Mitä tarjoilijan työhön kuuluu?</subtitle>
+<quote>– Jokaiseen päivään mahtuu paljon erilaisia työtehtäviä. Tämä ala muuttuu koko ajan, ja sen takia myös henkilökunnalta vaadittavat ominaisuudet muuttuvat.</quote>
+<quote>– Tarjoilijat tekevät paljon muutakin kuin pelkästään kuljettavat kokkien valmistamia ruoka-annoksia keittiöstä asiakkaille. Tarjoilijan täytyy tietää paljon ruuasta ja erilaisista juomista. Hyvän tarjoilijan täytyy osata vastata asiakkaan kysymyksiin esimerkiksi siitä, mistä ruoka tulee ja miten se on valmistettu. Tarjoilijan täytyy tietää, mikä viini sopii tietyn ruuan kanssa. Tärkein tehtävä on kuitenkin saada asiakas viihtymään.</quote>
+<subtitle>Minkälaisia työtehtäviä sinulla on?</subtitle>
+<quote>– Tarjoilijan tehtävät ovat erilaisia ja riippuvat siitä, millaisessa ravintolassa työskentelee. Olen työskennellyt aina pienissä ravintoloissa, joissa täytyy tehdä monenlaisia asioita. Se on myös opettanut minulle paljon. Kattamisen ja tarjoilun lisäksi työhöni kuuluu siivoamista, ruoka- ja juomatilausten hoitamista ja jopa talouden hoitoa. Tarjoilija tekee tiivistä yhteistyötä keittiöpuolen henkilö- kunnan kanssa. Tärkein tehtäväni on kuitenkin pitää huoli asiakkaista.</quote>
+<subtitle>Millä tavalla huomioit asiakkaat?</subtitle>
+<quote>– Hyvää ruokaa saa jo monista ravintoloista. Ravintola ei enää menesty pelkästään laadukkaalla ruualla. Ravintolan täytyy houkutella asiakkaita hyvillä kokemuksilla. Tarjoilijoilla on tässä asiassa tärkeä rooli. Ravintolan ruuan täytyy olla hyvää, mutta asiakkaan täytyy lisäksi viihtyä ravintolassa.</quote>
+<quote>– Vastaan asiakkaiden kysymyksiin ja avustan heitä valitsemaan heille sopivia ruokia ja juomia. Jos asiakas on huonolla tuulella, pidän sitä haasteena. Yritän saada asiakkaan paremmalle tuulelle. Tavoitteeni on, että yksikään asiakas ei lähde ravintolasta kotiin surullisena ja onnettomana.</quote>
+<subtitle>Mitä ominaisuuksia hyvällä tarjoilijalla on?</subtitle>
+<quote>– Tärkein on varmasti se, että osaa toimia oikealla tavalla erilaisissa tilanteissa ja ratkaista vaikeita tilanteita. Täytyy olla ystävällinen ja avulias, jotta asiakkaat tuntevat olonsa mukavaksi. Tämä on aika raskas työ. Tästä syystä täytyy jaksaa tehdä paljon töitä. Täytyy pitää huolta itsestään ja kunnostaan.</quote>
