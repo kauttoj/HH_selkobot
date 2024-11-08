@@ -5,3 +5,6 @@ logs.db
 output_file.txt
 writer_output.txt
 .env
+evaluation_results_part1 - Copy.pickle
+evaluation_results_part2 - Copy.pickle
+.ipynb_checkpoints/evaluation_plots-checkpoint.ipynb

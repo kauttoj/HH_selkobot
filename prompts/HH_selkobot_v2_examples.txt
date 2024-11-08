@@ -1,7 +1,7 @@
 # SELKOSUOMEN ESIMERKKITEKSTIT #
 
 Jokainen teksti sisältää aina otsikon ja ingressin eli tiivistelmäkappaleen. Lisäksi tekstissä voi olla väliotsikoita ja lainauksia. Kaikki nämä neljä kenttää on merkitty tageilla, joita ovat:
- otsikko: <headline>...</headline>
+ otsikko: <title>...</title>
  ingressi: <lead>...</lead>
  väliotsikko: <subtitle>...</subtitle>
  lainaukset: <quote>...</quote>

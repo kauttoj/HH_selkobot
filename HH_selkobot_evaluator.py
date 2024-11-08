@@ -10,8 +10,11 @@ from autogen.agentchat.conversable_agent import ConversableAgent
 from autogen.agentchat.assistant_agent import AssistantAgent
 from autogen.agentchat.groupchat import GroupChat
 from openai import OpenAI
+from anthropic import Anthropic
 
+import time
 from dotenv import load_dotenv
+
 load_dotenv('.env')
 # .env file is a text file that contains lines:
 # OPENAI_API_KEY="[your key]"   <--- so far only this is needed
@@ -31,6 +34,13 @@ gpt4_config_full = {
     "temperature": 0.05,
     "model": 'gpt-4o',
     "timeout": 60
+}
+claude_config = {
+    "temperature": 0.05,
+    "model": "claude-3-5-sonnet-20241022",
+    "timeout": 60,
+    "api_type": "anthropic",
+    "api_key":os.getenv('ANTHROPIC_API_KEY')
 }
 
 # prefill with this news text for fast testing purposes
@@ -123,6 +133,18 @@ Päätökseni:
 writer_initial_command = 'Lue annettu alkuperäinen uutisteksti tarkasti. Mukauta se selkosuomeksi selkosuomen kriteerien pohjalta.'
 writer_rewrite_command = 'Lue annettu alkuperäinen uutisteksti, aikaisemmin kirjoittamasi selkosuomenkielinen teksti, sekä kaikki saamasi palaute ja korjausehdotukset tarkasti. Kirjoita saamasi palautteen pohjalta uusi ja parempi versio selkosuomeksi mukautetusta tekstistä.'
 
+client = {'openai':
+    OpenAI(
+        # This is the default and can be omitted
+        api_key=os.environ.get("OPENAI_API_KEY"),
+    ),
+        'claude':
+    Anthropic(
+        # This is the default and can be omitted
+        api_key=os.environ.get("ANTHROPIC_API_KEY"),
+    ),
+}
+
 ### bot definitions and prompts
 
 SELKO_LOCATOR = 'Teksti selkosuomeksi:'
@@ -145,9 +167,8 @@ def nullify_history(processed_messages):
 def process_all_messages_before_reply_hook(processed_messages):
     return processed_messages
 
-def bot_constructor(writer_prompt=None,critic_prompt=None,factchecker_prompt=None,evaluator_prompt=None,editor_prompt=None,llm=None):
+def bot_constructor(writer_prompt=None,critic_prompt=None,factchecker_prompt=None,editor_prompt=None,llm=None):
 
-    evaluator_prt = evaluator_prompt
     factchecker_prt = factchecker_prompt
     editor_prt = editor_prompt
 
@@ -157,16 +178,16 @@ def bot_constructor(writer_prompt=None,critic_prompt=None,factchecker_prompt=Non
     
     # Tehtävä #
     
-    Kirjoita selkosuomemeksi mukautettu versio annetusta yleiskielisestä uutistekstistä. 
+    Kirjoita selkosuomeksi mukautettu versio annetusta yleiskielisestä uutistekstistä. 
     {instruction} 
     Saat muokata annettua yleiskielistä tekstiä, mutta ET SAA keksiä uutta sisältöä tai uusia faktoja, joita alkuperäisessä tekstissä ei kerrota.
     
     Erota tekstissäsi otsikko, ingressi, väliotsikot ja lainaukset aina seuraavilla tageilla, joita ovat:
-     otsikko: <headline>...</headline>
+     otsikko: <title>...</title>
      ingressi: <lead>...</lead>
      väliotsikko: <subtitle>...</subtitle>
      lainaukset: <quote>...</quote> 
-    Nämä eivät ole osa tekstiä, vaan niitä käytetään tekstin ladontaan verkkosivulle.
+    JOKAINEN teksti sisältää otsikon ja ingressin. Nämä eivät ole osa tekstiä, vaan niitä käytetään tekstin ladontaan verkkosivulle.
     
     # Vastaus #
     
@@ -183,6 +204,13 @@ def bot_constructor(writer_prompt=None,critic_prompt=None,factchecker_prompt=Non
     Tehtävänäsi on analysoida annettua tekstiä ja arvioida täyttääkö se selkosuomen keskeiset kriteerit. Ohjeistat kirjoittajaa tekstin parantamisessa ja puutteiden korjaamisessa.
     
     {prompt}
+    
+    Jokainen teksti sisältää aina otsikon ja ingressin eli tiivistelmäkappaleen. Lisäksi tekstissä voi olla väliotsikoita ja lainauksia. Kaikki nämä neljä kenttää on merkitty tageilla, joita ovat:
+        otsikko: <title>...</title>
+        ingressi: <lead>...</lead>
+        väliotsikko: <subtitle>...</subtitle>
+        lainaukset: <quote>...</quote>
+    Nämä tagit eivät koskaan näy lukijalle tai ole osa tekstiä, vaan ne on lisätty selkeyden vuoksi.
     
     # Tehtävä #
     
@@ -235,15 +263,15 @@ def bot_constructor(writer_prompt=None,critic_prompt=None,factchecker_prompt=Non
         is_termination_msg=term_msg,
     )
 
-    evaluator = autogen.AssistantAgent(
-        name="Evaluaattori",
-        llm_config=llm,
-        description="Evaluaattori. Selkosuomen ja viestinnän huippuasiantuntija, joka pisteyttää annetun tekstin selkomittaria käyttäen.",
-        system_message=evaluator_prt,
-        is_termination_msg=None,
-    )
+    #evaluator = autogen.AssistantAgent(
+    #    name="Evaluaattori",
+    #    llm_config=llm,
+    #    description="Evaluaattori. Selkosuomen ja viestinnän huippuasiantuntija, joka pisteyttää annetun tekstin selkomittaria käyttäen.",
+    #    system_message=evaluator_prt,
+    #    is_termination_msg=None,
+    #)
 
-    return {'evaluator':evaluator,
+    return {#"'evaluator':evaluator,
             'editor':editor,
             'critic':critic,
             'writer':writer,
@@ -369,25 +397,31 @@ def process_text(input_text,agents_list,llm_config): #,output_box, console_box):
 
     return [output_text,console_text]
 
-
-client = OpenAI(
-    # This is the default and can be omitted
-    api_key=os.environ.get("OPENAI_API_KEY"),
-)
-
 def get_llm_response(prompt,input_text,llm):
-    response = client.chat.completions.create(
-        messages=[
-            {"role": "system", "content": prompt},
-            {
-                "role": "user",
-                "content": input_text
-            }
-        ],
-        model=llm['model'],
-        temperature=llm['temperature'],
-    )
-    return response.choices[0].message.content
+    if 'claude' in llm['model']:
+        response = client['claude'].messages.create(
+            model=llm['model'],
+            max_tokens=6000,
+            system=prompt,  # <-- role prompt
+            messages=[
+                {"role": "user", "content": input_text}
+            ]
+        )
+        resp = response.content[0].text
+    else:
+        response = client['openai'].chat.completions.create(
+            messages=[
+                {"role": "system", "content": prompt},
+                {
+                    "role": "user",
+                    "content": input_text
+                }
+            ],
+            model=llm['model'],
+            temperature=llm['temperature'],
+        )
+        resp = response.choices[0].message.content
+    return resp
 
 
 def remove_tags(input_text):
@@ -413,9 +447,6 @@ def remove_tags(input_text):
 
     return output_text
 
-def evaluate_result(output_text,reference_text):
-    return {'e5_embedding':0,'openai_embedding':0,'jina_embedding':0,'SARI':0,'openai_evalbot':0,'openai_selkomittari':0}
-
 INPUT_PATH = os.getcwd() + os.sep + r'data\final' + os.sep
 files = glob.glob(INPUT_PATH + '*.txt')
 ids = sorted(list(set([x.split(os.sep)[-1].split('_selko.txt')[0] for x in files if '_selko.txt' in x])))
@@ -423,144 +454,429 @@ input_files = []
 for id in ids:
     selko = INPUT_PATH + '%s_selko.txt' % id
     regular = INPUT_PATH + '%s_regular.txt' % id
-    input_files.append({'selko':selko,'regular':regular})
+    input_files.append({'selko':selko,'regular':regular,'id':id})
 
-evaluator_system_prompt = filereader(os.getcwd() + r'\prompts\selkomittari_evaluator.txt')
+EVAL_FILE = 'evaluation_results_part1.pickle'
+try:
+    evaluation_results = pd.read_pickle(EVAL_FILE)
+    print('continuing evaluation, %i items exists' % len(evaluation_results))
+except:
+    evaluation_results = pd.DataFrame(data={'id':[]})
+    print('starting evaluation from scratch')
 
-evaluation_results = pd.DataFrame([])
-for llm in [gpt4_config_mini, gpt4_config_full]:
-    for f in input_files:
+for loop in range(1):
 
-        input_text = filereader(f['regular'])
-        reference_text = filereader(f['selko'])
+    try:
 
-        input_text_raw = remove_tags(input_text)
-        reference_text_raw = remove_tags(reference_text)
+        for llm in [gpt4_config_full]: #claude_config
 
-        # Autogen bot - type 1
+            print('LLM = %s' % llm['model'])
 
-        writer_system_prompt = filereader(os.getcwd() + r'/prompts/HH_selkobot_v1.txt')
-        critic_system_prompt = writer_system_prompt
-        factchecker_system_prompt0 = factchecker_system_prompt.replace('{old_text}',input_text)
+            for file_num,f in enumerate(input_files[0:20]):
 
-        bots = bot_constructor(writer_prompt=writer_system_prompt, critic_prompt=critic_system_prompt, factchecker_prompt=factchecker_system_prompt0, evaluator_prompt=evaluator_system_prompt, editor_prompt=editor_system_prompt, llm=llm)
-        writer = bots['writer']
-        critic = bots['critic']
-        fact_checker = bots['fact_checker']
-        editor = bots['editor']
-        evaluator = bots['evaluator']
+                input_text = filereader(f['regular'])
+                reference_text = filereader(f['selko'])
+                file_id = f['id']
 
-        agents_list = [user_proxy, writer, critic, fact_checker, editor]
-        output_text,console_text = process_text(input_text,agents_list,llm)
+                input_text_raw = remove_tags(input_text)
+                reference_text_raw = remove_tags(reference_text)
 
-        output_text_raw = remove_tags(output_text)
-        evals = evaluate_result(output_text_raw,reference_text_raw)
-        row = {'type':'Autogenbot_v1','input_regular':f['regular'],'reference_selko':f['selko'],'model':llm['model']} | evals
-        evaluation_results = pd.concat([evaluation_results,pd.DataFrame(row,index=[0])],ignore_index=True)
+                # Autogen bot - v1 full, no examples
+                id = 'file%s_%s_(%s)' % (file_id,'Autogenbot_v1',llm['model'])
+                if id not in evaluation_results['id'].to_list():
 
-        # Autogen bot - type 1
+                    time.sleep(30)
+                    writer_system_prompt = filereader(os.getcwd() + r'/prompts/HH_selkobot_v1.txt')
+                    critic_system_prompt = writer_system_prompt
+                    factchecker_system_prompt0 = factchecker_system_prompt.replace('{old_text}',input_text)
 
-        writer_system_prompt = filereader(os.getcwd() + r'/prompts/HH_selkobot_v2.txt')
-        critic_system_prompt = writer_system_prompt
-        factchecker_system_prompt0 = factchecker_system_prompt.replace('{old_text}', input_text)
-        bots = bot_constructor(writer_prompt=writer_system_prompt, critic_prompt=critic_system_prompt, factchecker_prompt=factchecker_system_prompt0, evaluator_prompt=evaluator_system_prompt, editor_prompt=editor_system_prompt, llm=llm)
+                    bots = bot_constructor(writer_prompt=writer_system_prompt, critic_prompt=critic_system_prompt, factchecker_prompt=factchecker_system_prompt0,editor_prompt=editor_system_prompt, llm=llm)
+                    writer = bots['writer']
+                    critic = bots['critic']
+                    factchecker = bots['fact_checker']
+                    editor = bots['editor']
 
-        writer = bots['writer']
-        critic = bots['critic']
-        fact_checker = bots['fact_checker']
-        editor = bots['editor']
-        evaluator = bots['evaluator']
+                    agents_list = [user_proxy, writer, critic, factchecker, editor]
+                    output_text,_ = process_text(input_text,agents_list,llm)
 
-        agents_list = [user_proxy, writer, critic, fact_checker, editor]
-        output_text,console_text = process_text(input_text,agents_list,llm)
+                    row = {'output_text': output_text,'input_text':input_text,'reference_text':reference_text,
+                           'input_text_file': f['regular'], 'reference_text_file': f['selko'],
+                           'model':llm['model'],'id':id}
+                    evaluation_results = pd.concat([evaluation_results,pd.DataFrame(row,index=[0])],ignore_index=True)
+                    evaluation_results.to_pickle(EVAL_FILE)
 
-        output_text_raw = remove_tags(output_text)
-        evals = evaluate_result(output_text_raw,reference_text_raw)
-        row = {'type':'Autogenbot_v2','input_regular':f['regular'],'reference_selko':f['selko'],'model':llm['model']} | evals
-        evaluation_results = pd.concat([evaluation_results,pd.DataFrame(row,index=[0])],ignore_index=True)
+                # Autogen bot - v2 full, no examples
 
-        # Autogen bot - type 3
+                id = 'file%s_%s_(%s)' % (file_id,'Autogenbot_v2',llm['model'])
+                if id not in evaluation_results['id'].to_list():
 
-        writer_system_prompt = filereader(os.getcwd() + r'/prompts/HH_selkobot_v1.txt')
-        critic_system_prompt = writer_system_prompt
-        factchecker_system_prompt0 = factchecker_system_prompt.replace('{old_text}', input_text)
+                    time.sleep(30)
+                    writer_system_prompt = filereader(os.getcwd() + r'/prompts/HH_selkobot_v2.txt')
+                    critic_system_prompt = writer_system_prompt
+                    factchecker_system_prompt0 = factchecker_system_prompt.replace('{old_text}',input_text)
 
-        bots = bot_constructor(writer_prompt=writer_system_prompt, critic_prompt=critic_system_prompt, factchecker_prompt=factchecker_system_prompt0, evaluator_prompt=evaluator_system_prompt, editor_prompt=editor_system_prompt, llm=llm)
-        writer = bots['writer']
-        critic = bots['critic']
-        fact_checker = bots['fact_checker']
-        editor = bots['editor']
-        evaluator = bots['evaluator']
+                    bots = bot_constructor(writer_prompt=writer_system_prompt, critic_prompt=critic_system_prompt, factchecker_prompt=factchecker_system_prompt0,editor_prompt=editor_system_prompt, llm=llm)
+                    writer = bots['writer']
+                    critic = bots['critic']
+                    factchecker = bots['fact_checker']
+                    editor = bots['editor']
 
-        agents_list = [user_proxy, writer,fact_checker, editor]
-        output_text, console_text = process_text(input_text, agents_list, llm)
+                    agents_list = [user_proxy, writer, critic, factchecker, editor]
+                    output_text,_ = process_text(input_text,agents_list,llm)
 
-        output_text_raw = remove_tags(output_text)
-        evals = evaluate_result(output_text_raw, reference_text_raw)
-        row = {'type': 'Autogenbot_v1_nocritic', 'input_regular': f['regular'], 'reference_selko': f['selko'], 'model': llm['model']} | evals
-        evaluation_results = pd.concat([evaluation_results, pd.DataFrame(row, index=[0])], ignore_index=True)
+                    row = {'output_text': output_text,'input_text':input_text,'reference_text':reference_text,
+                           'input_text_file': f['regular'], 'reference_text_file': f['selko'],
+                           'model':llm['model'],'id':id}
+                    evaluation_results = pd.concat([evaluation_results,pd.DataFrame(row,index=[0])],ignore_index=True)
+                    evaluation_results.to_pickle(EVAL_FILE)
 
-        # Autogen bot - type 4
+                # Autogen bot - v1 full, with examples
+                #
+                # id = '%s_(%s)' % ('Autogenbot_v1_examples',llm['model'])
+                # if id not in evaluation_results['id']:
+                #
+                #     writer_system_prompt = filereader(os.getcwd() + r'/prompts/HH_selkobot_v1_examples.txt')
+                #     critic_system_prompt = writer_system_prompt
+                #     factchecker_system_prompt0 = factchecker_system_prompt.replace('{old_text}',input_text)
+                #
+                #     bots = bot_constructor(writer_prompt=writer_system_prompt, critic_prompt=critic_system_prompt, factchecker_prompt=factchecker_system_prompt0,editor_prompt=editor_system_prompt, llm=llm)
+                #     writer = bots['writer']
+                #     critic = bots['critic']
+                #     factchecker = bots['fact_checker']
+                #     editor = bots['editor']
+                #
+                #     agents_list = [user_proxy, writer, critic, factchecker, editor]
+                #     output_text,_ = process_text(input_text,agents_list,llm)
+                #
+                #     evals = evaluate_result(output_text,reference_text,input_text)
+                #     row = {'output_selko': output_text,'input_regular':f['regular'],'reference_selko':f['selko'],'model':llm['model'],'id':id} | evals
+                #     evaluation_results = pd.concat([evaluation_results,pd.DataFrame(row,index=[0])],ignore_index=True)
+                #     evaluation_results.to_pickle(EVAL_FILE)
 
-        writer_system_prompt = filereader(os.getcwd() + r'/prompts/HH_selkobot_v2.txt')
-        critic_system_prompt = writer_system_prompt
-        factchecker_system_prompt0 = factchecker_system_prompt.replace('{old_text}', input_text)
-        bots = bot_constructor(writer_prompt=writer_system_prompt, critic_prompt=critic_system_prompt, factchecker_prompt=factchecker_system_prompt0, evaluator_prompt=evaluator_system_prompt, editor_prompt=editor_system_prompt, llm=llm)
 
-        writer = bots['writer']
-        critic = bots['critic']
-        fact_checker = bots['fact_checker']
-        editor = bots['editor']
-        evaluator = bots['evaluator']
+                # Autogen bot - v2 full, with examples
 
-        agents_list = [user_proxy, writer, fact_checker, editor]
-        output_text, console_text = process_text(input_text, agents_list, llm)
+                id = 'file%s_%s_(%s)' % (file_id,'Autogenbot_v2_examples',llm['model'])
+                if id not in evaluation_results['id'].to_list():
+                    time.sleep(30)
+                    writer_system_prompt = filereader(os.getcwd() + r'/prompts/HH_selkobot_v2_examples.txt')
+                    critic_system_prompt = writer_system_prompt
+                    factchecker_system_prompt0 = factchecker_system_prompt.replace('{old_text}',input_text)
 
-        output_text_raw = remove_tags(output_text)
-        evals = evaluate_result(output_text_raw, reference_text_raw)
-        row = {'type': 'Autogenbot_v2_nocritic', 'input_regular': f['regular'], 'reference_selko': f['selko'], 'model': llm['model']} | evals
-        evaluation_results = pd.concat([evaluation_results, pd.DataFrame(row, index=[0])], ignore_index=True)
+                    bots = bot_constructor(writer_prompt=writer_system_prompt, critic_prompt=critic_system_prompt, factchecker_prompt=factchecker_system_prompt0,editor_prompt=editor_system_prompt, llm=llm)
+                    writer = bots['writer']
+                    critic = bots['critic']
+                    factchecker = bots['fact_checker']
+                    editor = bots['editor']
 
-        # single call - type 1
-        prompt = '''
-Selkokieli on kielenkäytön muoto, joka on mukautettu erityisesti niille, joille yleiskieli on liian vaikeaa seurata. Selkokieltä käytetään kommunikoinnissa esimerkiksi erityisryhmille, joilla on vaikeuksia ymmärtää tai tuottaa yleiskieltä. Selkokieli on yksinkertaista, konkreettista, lauseet ovat lyhyitä ja asiayhteydet ilmaistaan selvästi.
+                    agents_list = [user_proxy, writer, critic, factchecker, editor]
+                    output_text,_ = process_text(input_text,agents_list,llm)
 
-Selkokielen pääsäännöt:
+                    row = {'output_text': output_text,'input_text':input_text,'reference_text':reference_text,
+                           'input_text_file': f['regular'], 'reference_text_file': f['selko'],
+                           'model':llm['model'],'id':id}
+                    evaluation_results = pd.concat([evaluation_results,pd.DataFrame(row,index=[0])],ignore_index=True)
+                    evaluation_results.to_pickle(EVAL_FILE)
 
-1. Yksinkertainen sanavalinta: Valitaan yksinkertaisia, tuttuja sanoja, jotka ovat mahdollisimman konkreettisia. Monimutkaiset tai harvinaiset sanat ja kieliopilliset rakenteet korvataan yksinkertaisemmilla.
+                # Autogen bot - v1 small, no examples
+                #
+                # id = '%s_(%s)' % ('Autogenbot_v1_small',llm['model'])
+                # if id not in evaluation_results['id']:
+                #
+                #     writer_system_prompt = filereader(os.getcwd() + r'/prompts/HH_selkobot_v1.txt')
+                #     critic_system_prompt = writer_system_prompt
+                #     factchecker_system_prompt0 = factchecker_system_prompt.replace('{old_text}',input_text)
+                #
+                #     bots = bot_constructor(writer_prompt=writer_system_prompt, critic_prompt=critic_system_prompt, factchecker_prompt=factchecker_system_prompt0,editor_prompt=editor_system_prompt, llm=llm)
+                #     writer = bots['writer']
+                #     critic = bots['critic']
+                #     factchecker = bots['fact_checker']
+                #     editor = bots['editor']
+                #
+                #     agents_list = [user_proxy, writer, factchecker, editor]
+                #     output_text,_ = process_text(input_text,agents_list,llm)
+                #
+                #     evals = evaluate_result(output_text,reference_text,input_text)
+                #     row = {'output_selko': output_text,'input_regular':f['regular'],'reference_selko':f['selko'],'model':llm['model'],'id':id} | evals
+                #     evaluation_results = pd.concat([evaluation_results,pd.DataFrame(row,index=[0])],ignore_index=True)
+                #     evaluation_results.to_pickle(EVAL_FILE)
 
-2. Lyhyet, yksinkertaiset lauseet: Yhdessä lauseessa kerrotaan yksi asia kerrallaan, ja lauseissa pyritään välttämään liitekyssymyksiä ja päälauseen sisällä olevia sivulauseita.
+                # Autogen bot - v2 small, no examples
 
-3. Selkeä rakenne: Tekstin on oltava loogisesti jäsennelty ja siinä on pysyttävä asiassa.
+                id = 'file%s_%s_(%s)' % (file_id,'Autogenbot_v2_small',llm['model'])
+                if id not in evaluation_results['id'].to_list():
+                    time.sleep(30)
+                    writer_system_prompt = filereader(os.getcwd() + r'/prompts/HH_selkobot_v2.txt')
+                    critic_system_prompt = writer_system_prompt
+                    factchecker_system_prompt0 = factchecker_system_prompt.replace('{old_text}',input_text)
 
-4. Konkreettisuus: Abstraktit käsitteet ja termit pyritään muuttamaan konkreettisiksi esimerkkien, kuvailujen tai määritelmien avulla.
+                    bots = bot_constructor(writer_prompt=writer_system_prompt, critic_prompt=critic_system_prompt, factchecker_prompt=factchecker_system_prompt0,editor_prompt=editor_system_prompt, llm=llm)
+                    writer = bots['writer']
+                    critic = bots['critic']
+                    factchecker = bots['fact_checker']
+                    editor = bots['editor']
 
-5. Aktiivilauseet: Passiivilauseet korvataan aktiivilauseilla. Esimerkiksi lause "läksyt on tehtävä" muutetaan muotoon "sinun täytyy tehdä läksyt".
+                    agents_list = [user_proxy, writer, factchecker, editor]
+                    output_text,_ = process_text(input_text,agents_list,llm)
 
-6. Monimuotoisuus: Selkokieli hyödyntää myös visuaalisia elementtejä, kuten kuvia ja symboleita, informaation selkeyttämiseksi.
+                    row = {'output_text': output_text,'input_text':input_text,'reference_text':reference_text,
+                           'input_text_file': f['regular'], 'reference_text_file': f['selko'],
+                           'model':llm['model'],'id':id}
+                    evaluation_results = pd.concat([evaluation_results,pd.DataFrame(row,index=[0])],ignore_index=True)
+                    evaluation_results.to_pickle(EVAL_FILE)
 
-7. Toisto ja selventävä ilmaisu: Käytetään tarvittaessa toistoa ja selventäviä ilmauksia varmistamaan, että viesti on ymmärretty oikein.
+                # Autogen bot - v1 small, with examples
 
-8. Suoria keskustelu tai lainauksia saa käyttää.
+                # Autogen bot - v1 small, no examples
+                #
+                # id = '%s_(%s)' % ('Autogenbot_v1_small_examples', llm['model'])
+                # if id not in evaluation_results['id']:
+                #     writer_system_prompt = filereader(os.getcwd() + r'/prompts/HH_selkobot_v1_examples.txt')
+                #     critic_system_prompt = writer_system_prompt
+                #     factchecker_system_prompt0 = factchecker_system_prompt.replace('{old_text}', input_text)
+                #
+                #     bots = bot_constructor(writer_prompt=writer_system_prompt, critic_prompt=critic_system_prompt,
+                #                            factchecker_prompt=factchecker_system_prompt0, editor_prompt=editor_system_prompt,
+                #                            llm=llm)
+                #     writer = bots['writer']
+                #     critic = bots['critic']
+                #     factchecker = bots['fact_checker']
+                #     editor = bots['editor']
+                #
+                #     agents_list = [user_proxy, writer, factchecker, editor]
+                #     output_text, _ = process_text(input_text, agents_list, llm)
+                #
+                #     evals = evaluate_result(output_text, reference_text, input_text)
+                #     row = {'output_selko': output_text, 'input_regular': f['regular'], 'reference_selko': f['selko'],
+                #            'model': llm['model'], 'id': id} | evals
+                #     evaluation_results = pd.concat([evaluation_results, pd.DataFrame(row, index=[0])], ignore_index=True)
+                #     evaluation_results.to_pickle(EVAL_FILE)
+                #
+                # # Autogen bot - v2 small, no examples
 
-9. Jos joudut käyttämään monimutkaisia sanoja, selitä mitä ne tarkoittavat.
+                id = 'file%s_%s_(%s)' % (file_id,'Autogenbot_v2_small_examples', llm['model'])
+                if id not in evaluation_results['id'].to_list():
+                    time.sleep(30)
+                    writer_system_prompt = filereader(os.getcwd() + r'/prompts/HH_selkobot_v2_examples.txt')
+                    critic_system_prompt = writer_system_prompt
+                    factchecker_system_prompt0 = factchecker_system_prompt.replace('{old_text}', input_text)
 
-On hyvä muistaa, että selkokieli ei ole "helppoa" kieltä, vaan sen tavoitteena on tehdä informaation ymmärtäminen helpoksi niille, jotka tarvitsevat sitä. Selkokielen avulla pyritään saavuttamaan yhdenvertaisuutta ja osallisuutta.
+                    bots = bot_constructor(writer_prompt=writer_system_prompt, critic_prompt=critic_system_prompt,
+                                           factchecker_prompt=factchecker_system_prompt0, editor_prompt=editor_system_prompt,
+                                           llm=llm)
+                    writer = bots['writer']
+                    critic = bots['critic']
+                    factchecker = bots['fact_checker']
+                    editor = bots['editor']
 
-Muunna annettu teksti suoraan selkokielelle noudattaen edellä mainittuja ohjeita.
-Palaute pelkkä muunnettu teksti.
-        '''
-        output_text = get_llm_response(prompt,input_text_raw,llm)
-        evals = evaluate_result(output_text,reference_text_raw)
-        row = {'type':'Selkomedia_ruleset','input_regular':f['regular'],'reference_selko':f['selko'],'model':llm['model']} | evals
-        evaluation_results = pd.concat([evaluation_results,pd.DataFrame(row,index=[0])],ignore_index=True)
+                    agents_list = [user_proxy, writer, factchecker, editor]
+                    output_text, _ = process_text(input_text, agents_list, llm)
 
-        # single call - type 2
+                    row = {'output_text': output_text,'input_text':input_text,'reference_text':reference_text,
+                           'input_text_file': f['regular'], 'reference_text_file': f['selko'],
+                           'model':llm['model'],'id':id}
+                    evaluation_results = pd.concat([evaluation_results,pd.DataFrame(row,index=[0])],ignore_index=True)
+                    evaluation_results.to_pickle(EVAL_FILE)
 
-        prompt = '''Voisitko muuntaa artikkelissa näkyvät vaikeat sanat ja lauseet selkokielisemmäksi. Säilytä jutun rakenne ja sisältö mahdollisimman alkuperäisinä muilta osin.
-        Palauta pelkkä muunnettu teksti.'''
+                # single call - type 1
 
-        output_text = get_llm_response(prompt,input_text_raw,llm)
-        evals = evaluate_result(output_text,reference_text_raw)
-        row = {'type':'Selkomedia_simple','input_regular':f['regular'],'reference_selko':f['selko'],'model':llm['model']} | evals
-        evaluation_results = pd.concat([evaluation_results,pd.DataFrame(row,index=[0])],ignore_index=True)
+                id = 'file%s_%s_(%s)' % (file_id,'single_bot_selkomedia_9rule', llm['model'])
+                if id not in evaluation_results['id'].to_list():
+                    prompt = '''
+            Selkokieli on kielenkäytön muoto, joka on mukautettu erityisesti niille, joille yleiskieli on liian vaikeaa seurata. Selkokieltä käytetään kommunikoinnissa esimerkiksi erityisryhmille, joilla on vaikeuksia ymmärtää tai tuottaa yleiskieltä. Selkokieli on yksinkertaista, konkreettista, lauseet ovat lyhyitä ja asiayhteydet ilmaistaan selvästi.
+            
+            Selkokielen pääsäännöt:
+            
+            1. Yksinkertainen sanavalinta: Valitaan yksinkertaisia, tuttuja sanoja, jotka ovat mahdollisimman konkreettisia. Monimutkaiset tai harvinaiset sanat ja kieliopilliset rakenteet korvataan yksinkertaisemmilla.
+            
+            2. Lyhyet, yksinkertaiset lauseet: Yhdessä lauseessa kerrotaan yksi asia kerrallaan, ja lauseissa pyritään välttämään liitekyssymyksiä ja päälauseen sisällä olevia sivulauseita.
+            
+            3. Selkeä rakenne: Tekstin on oltava loogisesti jäsennelty ja siinä on pysyttävä asiassa.
+            
+            4. Konkreettisuus: Abstraktit käsitteet ja termit pyritään muuttamaan konkreettisiksi esimerkkien, kuvailujen tai määritelmien avulla.
+            
+            5. Aktiivilauseet: Passiivilauseet korvataan aktiivilauseilla. Esimerkiksi lause "läksyt on tehtävä" muutetaan muotoon "sinun täytyy tehdä läksyt".
+            
+            6. Monimuotoisuus: Selkokieli hyödyntää myös visuaalisia elementtejä, kuten kuvia ja symboleita, informaation selkeyttämiseksi.
+            
+            7. Toisto ja selventävä ilmaisu: Käytetään tarvittaessa toistoa ja selventäviä ilmauksia varmistamaan, että viesti on ymmärretty oikein.
+            
+            8. Suoria keskustelu tai lainauksia saa käyttää.
+            
+            9. Jos joudut käyttämään monimutkaisia sanoja, selitä mitä ne tarkoittavat.
+            
+            On hyvä muistaa, että selkokieli ei ole "helppoa" kieltä, vaan sen tavoitteena on tehdä informaation ymmärtäminen helpoksi niille, jotka tarvitsevat sitä. Selkokielen avulla pyritään saavuttamaan yhdenvertaisuutta ja osallisuutta.
+            
+            Muunna annettu teksti suoraan selkokielelle noudattaen edellä mainittuja ohjeita.
+            Palaute pelkkä muunnettu teksti.
+                    '''
+                    time.sleep(30)
+                    output_text = get_llm_response(prompt,input_text_raw,llm)
+
+                    row = {'output_text': output_text,'input_text':input_text,'reference_text':reference_text,
+                           'input_text_file': f['regular'], 'reference_text_file': f['selko'],
+                           'model':llm['model'],'id':id}
+                    evaluation_results = pd.concat([evaluation_results,pd.DataFrame(row,index=[0])],ignore_index=True)
+                    evaluation_results.to_pickle(EVAL_FILE)
+
+                # single call - type 2
+
+                id = 'file%s_%s_(%s)' % (file_id,'single_bot_selkomedia_simple', llm['model'])
+                if id not in evaluation_results['id'].to_list():
+                    prompt = '''Voisitko muuntaa artikkelissa näkyvät vaikeat sanat ja lauseet selkokielisemmäksi. Säilytä jutun rakenne ja sisältö mahdollisimman alkuperäisinä muilta osin.
+                    Palauta pelkkä muunnettu teksti.'''
+
+                    time.sleep(30)
+                    output_text = get_llm_response(prompt, input_text_raw, llm)
+
+                    row = {'output_text': output_text,'input_text':input_text,'reference_text':reference_text,
+                           'input_text_file': f['regular'], 'reference_text_file': f['selko'],
+                           'model':llm['model'],'id':id}
+                    evaluation_results = pd.concat([evaluation_results,pd.DataFrame(row,index=[0])],ignore_index=True)
+                    evaluation_results.to_pickle(EVAL_FILE)
+
+                # single call - v1
+
+                id = 'file%s_%s_(%s)' % (file_id,'single_bot_v2', llm['model'])
+                if id not in evaluation_results['id'].to_list():
+                    prompt = filereader(os.getcwd() + r'/prompts/HH_selkobot_v2.txt')
+                    writer_prt = """Olet selkosuomen huippuasiantuntija. Osaat kirjoittaa ja mukauttaa annettua suomenkielistä tekstiä helpompaan selkosuomen muotoon.
+            
+                    {prompt}
+            
+                    # Tehtävä #
+            
+                    Kirjoita selkosuomeksi mukautettu versio annetusta yleiskielisestä uutistekstistä. 
+                    {instruction} 
+                    Saat muokata annettua yleiskielistä tekstiä, mutta ET SAA keksiä uutta sisältöä tai uusia faktoja, joita alkuperäisessä tekstissä ei kerrota.
+            
+                    Erota tekstissäsi otsikko, ingressi, väliotsikot ja lainaukset aina seuraavilla tageilla, joita ovat:
+                     otsikko: <headline>...</headline>
+                     ingressi: <lead>...</lead>
+                     väliotsikko: <subtitle>...</subtitle>
+                     lainaukset: <quote>...</quote> 
+                    Nämä eivät ole osa tekstiä, vaan niitä käytetään tekstin ladontaan verkkosivulle.
+            
+                    # Vastaus #
+            
+                    Anna vastauksesi täsmälleen seuraavassa muodossa
+            
+                    Tarvittavat muutokset/korjaukset sanallisesti: 
+                    [lista tarvittavista muutoksista tekstiin]
+            
+                    {selko_identifier}
+                    [teksti selkosuomeksi]
+                    """.replace('{prompt}', prompt).replace('{selko_identifier}', SELKO_LOCATOR).replace('{instruction}',writer_initial_command)
+
+                    time.sleep(30)
+                    output_text = get_llm_response(prompt, 'Muunna seuraava teksti selkosuomeksi:\n\n'+input_text, llm)
+
+                    row = {'output_text': output_text,'input_text':input_text,'reference_text':reference_text,
+                           'input_text_file': f['regular'], 'reference_text_file': f['selko'],
+                           'model':llm['model'],'id':id}
+                    evaluation_results = pd.concat([evaluation_results,pd.DataFrame(row,index=[0])],ignore_index=True)
+                    evaluation_results.to_pickle(EVAL_FILE)
+
+                id = 'file%s_%s_(%s)' % (file_id,'single_bot_v2_examples', llm['model'])
+                if id not in evaluation_results['id'].to_list():
+                    prompt = filereader(os.getcwd() + r'/prompts/HH_selkobot_v2_examples.txt')
+                    writer_prt = """Olet selkosuomen huippuasiantuntija. Osaat kirjoittaa ja mukauttaa annettua suomenkielistä tekstiä helpompaan selkosuomen muotoon.
+        
+                    {prompt}
+        
+                    # Tehtävä #
+        
+                    Kirjoita selkosuomeksi mukautettu versio annetusta yleiskielisestä uutistekstistä. 
+                    {instruction} 
+                    Saat muokata annettua yleiskielistä tekstiä, mutta ET SAA keksiä uutta sisältöä tai uusia faktoja, joita alkuperäisessä tekstissä ei kerrota.
+        
+                    Erota tekstissäsi otsikko, ingressi, väliotsikot ja lainaukset aina seuraavilla tageilla, joita ovat:
+                     otsikko: <headline>...</headline>
+                     ingressi: <lead>...</lead>
+                     väliotsikko: <subtitle>...</subtitle>
+                     lainaukset: <quote>...</quote> 
+                    Nämä eivät ole osa tekstiä, vaan niitä käytetään tekstin ladontaan verkkosivulle.
+        
+                    # Vastaus #
+        
+                    Anna vastauksesi täsmälleen seuraavassa muodossa
+        
+                    Tarvittavat muutokset/korjaukset sanallisesti: 
+                    [lista tarvittavista muutoksista tekstiin]
+        
+                    {selko_identifier}
+                    [teksti selkosuomeksi]
+                    """.replace('{prompt}', prompt).replace('{selko_identifier}', SELKO_LOCATOR).replace('{instruction}',writer_initial_command)
+
+                    time.sleep(30)
+                    output_text = get_llm_response(prompt, 'Muunna seuraava teksti selkosuomeksi:\n\n' + input_text, llm)
+
+                    row = {'output_text': output_text,'input_text':input_text,'reference_text':reference_text,
+                           'input_text_file': f['regular'], 'reference_text_file': f['selko'],
+                           'model':llm['model'],'id':id}
+                    evaluation_results = pd.concat([evaluation_results,pd.DataFrame(row,index=[0])],ignore_index=True)
+                    evaluation_results.to_pickle(EVAL_FILE)
+
+    except Exception as error:
+
+        print('An exception occurred: {}'.format(error))
+
+        time.sleep(5)
+
+evaluation_results = evaluation_results.drop_duplicates(subset='id')
+
+EVAL_FILE = 'evaluation_results_part2.pickle'
+try:
+    eval_scores = pd.read_pickle(EVAL_FILE)
+    print('continuing evaluation, %i items exists' % len(eval_scores))
+except:
+    eval_scores = pd.DataFrame(data={'id':[]})
+    print('starting evaluation from scratch')
+
+import text_comparison
+
+def evaluate_result(output_text,reference_text,original_text):
+    output_text_raw = remove_tags(output_text)
+    reference_text_raw = remove_tags(reference_text)
+    original_text_raw = remove_tags(original_text)
+
+    time.sleep(10)
+    geval_score = text_comparison.get_geval_score(output_text_raw,reference_text_raw)
+    jina_score = text_comparison.get_jina_similarity(output_text_raw,reference_text_raw)
+    e5_score = text_comparison.get_e5_similarity(output_text_raw, reference_text_raw)
+    time.sleep(10)
+    openai_embed_score,gpt4_score = text_comparison.get_openai_scores(output_text_raw,reference_text_raw)
+    sari_score = text_comparison.get_sari_score(original_text_raw, output_text_raw,reference_text_raw, lemmatize=False)
+    sari_score_lemma = text_comparison.get_sari_score(original_text_raw, output_text_raw, reference_text_raw, lemmatize=True)
+    time.sleep(10)
+    selkomittari_score = text_comparison.get_selkomittari_score(output_text)
+    return {
+            'e5_embed_score':e5_score,
+            'jina_embed_score':jina_score,
+            'SARI_score':sari_score,
+            'SARI_score_lemma':sari_score_lemma,
+            'openai_custom_score':gpt4_score,
+            'openai_embed_score':openai_embed_score,
+            'openai_selkomittari_score':selkomittari_score,
+            'geval_score':geval_score,
+            'length_ratio':len(output_text_raw)/len(reference_text_raw)
+            }
+
+for row in evaluation_results.iterrows():
+    for loop in range(5):
+        try:
+            if row[1]['id'] not in eval_scores['id'].to_list():
+                print('...analyzing id %s' % row[1]['id'])
+                output_text=row[1]['output_text']
+                input_text = row[1]['input_text']
+                reference_text = row[1]['reference_text']
+                evals = evaluate_result(output_text, reference_text, input_text)
+                evals['id'] = row[1]['id']
+                eval_scores = pd.concat([eval_scores,pd.DataFrame(evals,index=[0])],ignore_index=True)
+                eval_scores.to_pickle(EVAL_FILE)
+        except Exception as error:
+
+            print('An exception occurred: {}'.format(error))
+            time.sleep(30)
+
+print('ALL FINISHED')

@@ -1,7 +1,9 @@
 # SELKOSUOMEN ESIMERKKITEKSTIT #
 
+Alla on esimerkkejä laadukkaista selkosuomenkielisistä teksteistä, jotka ovat ammattilaisten kirjoittamia.
+
 Jokainen teksti sisältää aina otsikon ja ingressin eli tiivistelmäkappaleen. Lisäksi tekstissä voi olla väliotsikoita ja lainauksia. Kaikki nämä neljä kenttää on merkitty tageilla, joita ovat:
- otsikko: <headline>...</headline>
+ otsikko: <title>...</title>
  ingressi: <lead>...</lead>
  väliotsikko: <subtitle>...</subtitle>
  lainaukset: <quote>...</quote>
@@ -181,7 +183,7 @@ Lisää yleistietoa hevosista löydät sivustolta hevoseni.fi.
 
 # SELKOKIELINEN TEKSTI JA SEN ARVIOINTI #
 
-Selkosuomi on suomen kielen muoto, joka on mukautettu sisällöltään, sanastoltaan ja rakenteeltaan yleiskieltä luettavammaksi ja ymmärrettävämmäksi. Se on suunnattu ihmisille, joilla on vaikeuksia lukea tai ymmärtää yleiskieltä. Kohderyhmämme on maahanmuuttajaväestö, jonka suomenkielen taito on vielä osittain heikko. Suomenkielen taitoa lukuunottamatta kohdeyleisö edustaa tavallista ja neurotyypillistä aikuisväestöä.
+Selkosuomi on suomen kielen muoto, joka on mukautettu sisällöltään, sanastoltaan ja rakenteeltaan yleiskieltä luettavammaksi ja ymmärrettävämmäksi. Se on suunnattu ihmisille, joilla on vaikeuksia lukea tai ymmärtää yleiskieltä. Kohderyhmämme on maahanmuuttajaväestö, jonka suomenkielen taito on vielä osittain heikko. Heikkoa suomenkielen taitoa lukuunottamatta kohdeyleisö edustaa tavallista ja neurotyypillistä aikuisväestöä.
 
 Selkokielen yleisiä periaatteita ovat:
 1. Suositaan aktiivia ja vältetään passiivia.
@@ -190,8 +192,9 @@ Selkokielen yleisiä periaatteita ovat:
 4. Käytetään tuttuja ja yleisesti käytössä olevia sanoja.
 5. Suositaan lyhyitä sanoja. Vältetään vaikeita sanoja ja käsitteitä, sekä lyhenteitä. Jos niitä on pakko käyttää, selitetään ne.
 
-Selkokielinen teksti sisältää aina otsikon ja ingressin eli tiivistelmäkappaleen. Hyvän otsikon perusteella pystyy päättelemään, mistä teksti kertoo. Pitkä teksti tarvitsee väliotsikoita. Parhaimmassa tapauksessa lukija saa tekstistä pääasiat, kun hän lukee pelkät väliotsikot. Teksti voi myös sisältää lainauksia. Nämä tekstin eri osat voidaan merkitä sauraavilla tageilla:
- otsikko: <headline>...</headline>
+Selkokielinen teksti sisältää aina otsikon ja ingressin eli tiivistelmäkappaleen. Hyvän otsikon perusteella pystyy päättelemään, mistä teksti kertoo. Pitkä teksti tarvitsee väliotsikoita. Parhaimmassa tapauksessa lukija saa tekstistä pääasiat, kun hän lukee pelkät väliotsikot. Teksti voi myös sisältää lainauksia. 
+Nämä tekstin eri osat voidaan merkitä sauraavilla tageilla:
+ otsikko: <title>...</title>
  ingressi: <lead>...</lead>
  väliotsikko: <subtitle>...</subtitle>
  lainaukset: <quote>...</quote>
@@ -235,11 +238,11 @@ Apukriteerit 3 [tekstin jäsentely] (pisteytys 0, 1 tai 2)
 10. Teksti etenee johdonmukaisesti.	
 11. Teksti on jaettu sopivankokoisiin kokonaisuuksiin esimerkiksi kappalejaolla ja väliotsikoilla.
 12. Kappaleet liittyvät toisiinsa luontevalla tavalla, ja tekstinsisäinen sidosteisuus on hyvä. Lukija pystyy vaivatta havaitsemaan tekstin syy-seuraussuhteet (esim. "koska", "siksi että", "tästä syystä"),  aikasuhteet (esim. "ensin", "kun", "sen jälkeen", "sitten") ja ehdolliset suhteet (esim. "jos–niin", "kuitenkin").
+13. Aikamuotojen ja ajan ilmausten käyttö tekstissä on johdonmukaista.	
 
 Apukriteerit 4 [yleiset hyvän tekstin ominaisuudet] (pisteytys 0, 1 tai 2)
-13. Tekstissä ei viitata aiemmin sanottuun niin, että oletetaan lukijan muistavan tai löytävän aiemman kohdan tekstistä.	
-14. Aikamuotojen ja ajan ilmausten käyttö tekstissä on johdonmukaista.	
-15. Luetelmat ovat lyhyitä. Luetellut asiat muodostavat kokonaisuuden ja ovat keskenään samanmuotoiset. Esimerkiksi: "Työsopimuksessa sovitaan työsuhteen kesto, työaika, palkka ja lomat."
+14. Teksti noudattaa yleiskielen oikeinkirjoitussuosituksia.
+15. Sisältö vastaa otsikkoa.
 
 OSIO 2 - SANAT 	
 
@@ -252,7 +255,7 @@ Pääkriteerit 2 (pisteytys 0, 1, 2 tai 3)
 
 Apukriteerit 5 [sanojen selittäminen ja toisto] (pisteytys 0, 1 tai 2)
 21. Selitys on kohdassa, jossa vieraaksi oletettu sana esiintyy ensimmäistä kertaa. Selitys ei aiheuta lisäselittämisen tarvetta. Pitkässä tekstissä selitys toistetaan tarvittaessa.
-22. Tekstissä ei selitetä sanoja, jotka voidaan olettaa aikuiselle lukijalle tutuksi (esim. "sairaala", "poliisi", "televisio").
+22. Tekstissä ei selitetä sanoja, jotka voidaan olettaa aikuiselle lukijalle tutuksi.
 23. Tekstissä on käytetty vain olennaisia erikoiskielisiä käsitteitä, ja ne on selitetty hyvin.	
 24. Pitkissä yhdyssanoissa on hyödynnetty osittaistoistoa ensimaininnan jälkeen (esim. "maa- ja metsätalousministeriö" muotoon "ministeriö" toistoissa).
 25. Pronominiviittaukset ovat selviä, eikä pronomini jää liian kauaksi viittauskohteestaan.	
@@ -299,7 +302,7 @@ Apukriteerit 9 [virkerakenteet] (pisteytys 0, 1 tai 2)
 
 # TEHTÄVÄ #
 
-Olet viestinnän ja selkosuomen huippuasiantuntija ja arvioija. Käytät selkokielen mittaria annetun tekstin arviointiin ja pisteyttämiseen. Lue arvioitava teksti huolillisesti ja ajatuksella läpi. Vedä sitten syvään henkeä ja arvioi tekstiä kaikkien selkokielen mittarissa olevien 53:n kriteerin näkökulmasta askel-askeleelta. Anna sanallinen yhteenveto tekstistä ja miten hyvin se noudattaa selkosuomen periaatteita ja soveltuu kohdeyleisölle (ulkomaalaistaustaiset, joiden suomenkielen taito on heikko). Sen jälkeen pisteytä jokainen kriteeri annetun asteikon mukaisesti ja anna tulos JSON muodossa. MUISTA NOUDATTAA TARKASTI SELKOKIELEN MITTARIN MUKAISTA PISTEYTYSTÄ.
+Olet viestinnän ja selkosuomen huippuasiantuntija ja arvioija. Käytät selkokielen mittaria annetun tekstin arviointiin ja pisteyttämiseen. Lue arvioitava teksti huolellisesti ja ajatuksella läpi. Vedä sitten syvään henkeä ja arvioi tekstiä kaikkien selkokielen mittarissa olevien 53:n kriteerin näkökulmasta askel-askeleelta. Anna sanallinen yhteenveto tekstistä miten hyvin se noudattaa selkosuomen periaatteita ja soveltuu kohdeyleisölle (ulkomaalaistaustaiset, joiden suomenkielen taito on heikko). Sen jälkeen pisteytä jokainen kriteeri annetun asteikon mukaisesti ja anna tulos JSON muodossa. MUISTA NOUDATTAA TARKASTI SELKOKIELEN MITTARIN MUKAISTA PISTEYTYSTÄ KRIITTISESTI.
 
 # TULOS #
 
@@ -307,10 +310,10 @@ Sanallinen yhteenvetoni tekstin selkokielisyydestä:
 [yhteenveto]
 
 Pisteytykseni perusteluineen:
-{
- {"kriteeri_1_perustelu": [kriteerin 1 pistemäärän perustelu],"kriteeri_1_pisteet": [kriteerin 1 pistemäärä]},
- {"kriteeri_2_perustelu": [kriteerin 2 pistemäärän perustelu],"kriteeri_2_pisteet": [kriteerin 2 pistemäärä]},
+[
+ {"kriteeri":"1","perustelu": [kriteerin 1 pistemäärän perustelu],"pisteet": [kriteerin 1 pistemäärä]},
+ {"kriteeri":"2","perustelu": [kriteerin 2 pistemäärän perustelu],"pisteet": [kriteerin 2 pistemäärä]},
   ...
- {"kriteeri_52_perustelu": [kriteerin 52 pistemäärän perustelu],"kriteeri_52_pisteet": [kriteerin 52 pistemäärä]},
- {"kriteeri_53_perustelu": [kriteerin 53 pistemäärän perustelu],"kriteeri_53_pisteet": [kriteerin 53 pistemäärä]},
-}
+ {"kriteeri":"52","perustelu": [kriteerin 52 pistemäärän perustelu],"pisteet": [kriteerin 52 pistemäärä]},
+ {"kriteeri":"53","perustelu": [kriteerin 53 pistemäärän perustelu],"pisteet": [kriteerin 53 pistemäärä]},
+]

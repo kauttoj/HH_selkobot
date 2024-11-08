@@ -25,13 +25,13 @@ CONVERSATION_TYPE = 'AUTOGEN' #'MANUAL'
 MAXIMUM_ROUNDS = 4 # how many rounds maximum of improvement, terminate early if not already finished. The last version of the text is returned.
 
 gpt4_config_mini = {
-    "cache_seed": 42,  # change the cache_seed for different trials
+    #"cache_seed": 42,  # change the cache_seed for different trials
     "temperature": 0,
     "model": 'gpt-4o-mini',
     "timeout": 60,
 }
 gpt4_config_full = {
-    "cache_seed": 42,  # change the cache_seed for different trials
+    #"cache_seed": 42,  # change the cache_seed for different trials
     "temperature": 0,
     "model": 'gpt-4o',
     "timeout": 60

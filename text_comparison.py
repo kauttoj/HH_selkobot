@@ -1,6 +1,5 @@
 import os
 import numpy as np
-import pandas as pd
 from numpy.linalg import norm
 import tiktoken
 from collections import Counter
@@ -13,11 +12,14 @@ from openai import OpenAI
 from torch import Tensor
 from transformers import AutoTokenizer, AutoModel
 import spacy
+from opik.evaluation.metrics import GEval
 from dotenv import load_dotenv
+import json
 
 load_dotenv('.env')
 
 # Spacy init
+# python -m spacy download fi_core_news_lg
 spacy_nlp = spacy.load('fi_core_news_lg') # for tokenizing and lemmatizing
 
 # E5 init
@@ -31,12 +33,17 @@ jina_model = AutoModel.from_pretrained(JINA_MODEL_NAME, trust_remote_code=True)
 
 # openAI init
 gpt4_config = {
-    "temperature": 0,
+    "temperature": 0.05,
     "model": 'gpt-4o', # 'gpt-4o-mini',
     "timeout": 60
 }
 OPENAI_EMBED_MODEL = "text-embedding-3-large"
 tiktoken_enc = tiktoken.encoding_for_model(OPENAI_EMBED_MODEL)
+
+openai_client = OpenAI(
+    # This is the default and can be omitted
+    api_key=os.environ.get("OPENAI_API_KEY"),
+)
 
 ### SARI function definitions
 def SARIngram(sgrams, cgrams, rgramslist, numref):
@@ -251,7 +258,7 @@ def get_detailed_instruct(task_description: str, query: str) -> str:
 def get_openai_scores(model_prediction, golden_target):
     SYSTEM_PROMPT = '''
     You are simulating the perspective of the target news consumer for simplified Finnish texts ("selkosuomi"). Selkosuomi is a form of the Finnish language that uses simpler vocabulary, grammar, and sentence structures to make content more accessible to people with limited language proficiency, such as immigrants learning Finnish. It aims to present information clearly and straightforwardly, avoiding complex expressions and idioms.
-    The typical readers are immigrants between 20-40 years old who are living in Finland and are learning Finnish. They have limited Finnish language proficiency and rely on simplified texts to understand news articles.
+    Typical readers are immigrants between 20-50 years old who are living in Finland and are learning Finnish. They have limited Finnish language proficiency and rely on simplified texts to understand news articles.
 
     Your task is to compare two "selkosuomi" texts written in Finnish: an Input Text and a Reference Text. You provide a numerical score 0-100 corresponding how close the Input Text is to Reference Text.
 
@@ -357,8 +364,8 @@ def get_openai_scores(model_prediction, golden_target):
     60-69: Clear differences that affect comprehension. Multiple instances of missing information or complex language that could confuse the reader.
     50-59: Significant differences leading to confusion. Important details are incorrect, omitted, or overshadowed by complex language. Readability is substantially hindered.
     30-49: Major differences with substantial impact on understanding. The Input Text fails to convey much of the essential information and is difficult to read.
-    10-29: The texts are substantially different. The Input Text is poor in quality, contains numerous errors, and does not convey the same message.
-    1-9: The Input Text bears minimal resemblance to the Reference Text. It is largely incomprehensible or irrelevant.
+    10-29: The texts are substantially different. The Input Text is poor in quality, contains numerous differences, and does not convey the same message.
+    1-9: The Input Text bears minimal resemblance to the Reference Text. It is largely different topic or have very different content.
     0: The texts are completely different with no similarity in content or quality.
 
     # Output Format #
@@ -386,14 +393,9 @@ def get_openai_scores(model_prediction, golden_target):
     Your response:
     '''
 
-    client = OpenAI(
-        # This is the default and can be omitted
-        api_key=os.environ.get("OPENAI_API_KEY"),
-    )
-
     scores = []
     for iteration in range(3):
-        response = client.chat.completions.create(
+        response = openai_client.chat.completions.create(
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
                 {
@@ -408,7 +410,7 @@ def get_openai_scores(model_prediction, golden_target):
         if ind > -1:
             gpt4_score = float(resp[ind + len('Score:'):].strip())
             assert 0 <= gpt4_score <= 100, 'Score outside 0-100 limits!'
-            gpt4_score = gpt4_score / 100.0
+            gpt4_score = gpt4_score
         else:
             raise Exception('OpenAI did not return score!')
 
@@ -431,7 +433,7 @@ def get_openai_scores(model_prediction, golden_target):
 
     batch_data = [processor(x) for x in [model_prediction, golden_target]]
     # Process the batch using the client
-    restp = client.embeddings.create(input=batch_data, model=OPENAI_EMBED_MODEL, timeout=30)
+    restp = openai_client.embeddings.create(input=batch_data, model=OPENAI_EMBED_MODEL, timeout=30)
 
     # Append the processed batch to the output list
     out = [np.array(x.embedding) for x in restp.data]
@@ -461,34 +463,6 @@ def get_e5_similarity(model_prediction,golden_target):
 
     return score
 
-#################################################################
-
-original_text = '''Vantaan kaupunki luopuu päiväkodeissa järjestettävistä valokuvauksista. Kaupunki tiedotti huoltajia asiasta tällä viikolla. Muutos tulee voimaan ensi vuoden toukokuussa. Tuolloin päättyy voimassa oleva hankintakausi. On siis mahdollista, että joissain vantaalaisissa päiväkodeissa järjestetään valokuvaus vielä kuluvan syksyn tai kevään aikana.
-Kaikki perheet eivät halua lastensa osallistuvan kuvauksiin. Vantaan kaupungin varhaiskasvatusjohtaja Mikko Mäkelä perustelee huoltajille lähetetyssä kirjeessä päätöstä seuraavasti: – Valokuvauksilla on pitkät perinteet, mutta niiden järjestäminen on osoittautunut käytännössä haastavaksi. Valokuvauksille ei ole pedagogisia perusteita, eivätkä ne ole varhaiskasvatussuunnitelman mukaista toimintaa, Mäkelä toteaa.
-Koulukuvauksella on pitkät perinteet Vantaalla – kuvien historia ulottuu yli sadan vuoden taakse
-Vantaan kunnalliset päiväkodit ovat saaneet tähän saakka itse päättää, järjestetäänkö niissä vuosittainen valokuvaus vai ei. Viestissään kaupunki perusteleekin tehtyä päätöstä yhdenvertaisuudella.
-Vantaan Sanomien tietojen mukaan osalle perheistä vuosittainen valokuvaus on mieluinen ja odotettu asia, ja tuore päätös tuntuu harmilliselta. Kaupungin huoltajille lähetyn viestin mukaan "kaikki perheet eivät halua lastensa osallistuvan kuvauksiin". Toimintakaudesta 2025–2026 yhteinen linjaus siis on, että kuvausta ei järjestetä.
-'''
-model_prediction='''Vantaan kaupunki ei enää järjestä valokuvauksia päiväkodeissa. Kaupunki kertoi asiasta vanhemmille tällä viikolla. Muutos alkaa toukokuussa ensi vuonna. Silloin päättyy nykyinen sopimus. Joissakin päiväkodeissa voi olla vielä valokuvaus tänä syksynä tai keväänä.
-Kaikki perheet eivät halua, että heidän lapsensa osallistuvat valokuvaukseen. Vantaan varhaiskasvatusjohtaja Mikko Mäkelä selittää päätöstä kirjeessä vanhemmille. Hän sanoo, että valokuvauksilla on pitkät perinteet, mutta niiden järjestäminen on vaikeaa. Valokuvauksille ei ole opetuksellisia syitä, eikä se kuulu varhaiskasvatuksen suunnitelmaan.
-Vantaalla on ollut koulukuvauksia yli sata vuotta. Aiemmin päiväkodit saivat itse päättää, järjestetäänkö valokuvaus. Kaupunki perustelee päätöstä sillä, että kaikilla päiväkodeilla on nyt samat säännöt.
-Vantaan Sanomat kertoo, että osa perheistä pitää valokuvausta mukavana ja odotettuna asiana. Päätös voi tuntua heistä harmilliselta. Kaupunki sanoo viestissään, että "kaikki perheet eivät halua lastensa osallistuvan kuvauksiin". Vuodesta 2025–2026 alkaen valokuvausta ei enää järjestetä.'''
-
-golden_target='Vantaan kaupunki aikoo lopettaa päiväkotien valokuvaukset. Muutos tulee voimaan toukokuussa. Silloin päättyy voimassa oleva hankintakausi. Joissain vantaalaisissa päiväkodeissa saattaa olla valokuvaus vielä tänä syksynä tai ensi keväänä. Vantaan kaupungin varhaiskasvatuksen johtaja Mikko Mäkelä kertoo vanhemmille lähetetyssä kirjeessä, miksi päätös tehtiin. Hän sanoo huoltajille kirjeessä näin: – Valokuvauksilla on pitkät perinteet, mutta niiden järjestäminen on osoittautunut käytännössä haastavaksi. Valokuvauksille ei ole pedagogisia perusteita, eivätkä ne ole varhaiskasvatussuunnitelman mukaista toimintaa, Mäkelä sanoo. Tähän asti Vantaan kunnalliset päiväkodit ovat saaneet päättää itse, järjestetäänkö valokuvaus vai ei. Kirjeessään kaupunki perustelee, että päätös on yhdenvertainen. Osalle perheistä joka vuosi järjestetty valokuvaus on mukava ja odotettu asia, ja uusi päätös tuntuu harmilliselta. Kaupungin kirjeessä sanotaan, että "kaikki perheet eivät halua lastensa osallistuvan kuvauksiin". Toimintakautena 2025–2026 kuvausta ei järjestetä.'
-
-### SARI ###
-
-sari_score = get_sari_score(original_text,model_prediction,golden_target,lemmatize=False)
-sari_score_lemma = get_sari_score(original_text,model_prediction,golden_target,lemmatize=True)
-print(f'SARI similarity scores: normal {sari_score}, lemmatized {sari_score_lemma}')
-
-### e5 model ###
-
-e5_score = get_e5_similarity(model_prediction,golden_target)
-print(f'{E5_MODEL_NAME} similary score {e5_score }')
-
-### JINA-AI ###
-
 def get_jina_similarity(model_prediction,golden_target):
     # When calling the `encode` function, you can choose a `task` based on the use case:
     # 'retrieval.query', 'retrieval.passage', 'separation', 'classification', 'text-matching'
@@ -497,32 +471,141 @@ def get_jina_similarity(model_prediction,golden_target):
     score = embeddings[0] @ embeddings[1].T
     return score
 
-# Compute similarities
-jina_score = get_jina_similarity(model_prediction,golden_target)
+def get_geval_score(model_prediction,golden_target):
+    metric = GEval(
+        task_introduction="You are an expert linguist and judge tasked with evaluating the similarity of given two Finnish texts based on their content, readability, facts and typography.",
+        evaluation_criteria="Compare OUTPUT text against REFERENCE text. Check for similarity of facts, writing style, text structure, vocabulary, complexity and readability. In the ideal case, OUTPUT and REFERENCE are identical letter-by-letter.",
+        model='gpt-4o-mini'
+    )
 
-print(f'{JINA_MODEL_NAME} similary score {jina_score}')
+    res = metric.score(
+        input={"OUTPUT": model_prediction, "REFERENCE": [golden_target]}
+    )
+    return res.value
 
-### OPENAI ###
+def get_selkomittari_score(model_prediction):
+    with open(os.getcwd() + r'\prompts\selkomittari_evaluator.txt','r',encoding='utf-8') as f:
+        evaluator_system_prompt = f.read()
 
-embed_score,gpt4_score = get_openai_scores(model_prediction,golden_target)
+    scores = []
+    for iteration in range(3):
+        response = openai_client.chat.completions.create(
+            messages=[
+                {"role": "system", "content": evaluator_system_prompt},
+                {
+                    "role": "user",
+                    "content": 'Arvio seuraava teksti:\n\n' + model_prediction,
+                }
+            ],
+            **gpt4_config
+        )
+        resp = response.choices[0].message.content.strip()
+        ind = resp.find('Pisteytykseni perusteluineen:')
+        if ind<0:
+            raise(Exception('incorrect output'))
+        resp1 = resp[(ind+len('Pisteytykseni perusteluineen:')):].strip()
+        try:
+            scores = json.loads(resp1)
+        except:
+            raise(Exception('failed to parse JSON string: %s' % resp1))
 
-print(f'OpenAI similary scores: GPT-4 {gpt4_score}, embedding {embed_score}')
+        subsection_scores = [
+            {'items':[5,6,7]},
+            {'items': [8]},
+            {'items': [9,10,11,12,13]},
+            {'items': [14,15]},
+            {'items': [21,22,23,24,25]},
+            {'items': [26,27,28,29]},
+            {'items': list(range(35,41))},
+            {'items': list(range(41,49))},
+            {'items': list(range(49, 54))}
+        ]
+        for k in range(0,len(subsection_scores)):
+            subsection_scores[k]['scores']=[]
 
-####
+        main_score = 0
+        main_count = 0
+        apu_score = 0
+        apu_count = 0
+        scoremap = {'2':3.2,'1':0.8,2:3.2,1:0.8}
+        for x in scores:
+            num = int(x['kriteeri'])
+            if x['pisteet'] > 0:
+                if num in [1,2,3,4,16,17,18,19,20,30,31,32,33,34]:
+                    main_count += 1
+                    main_score += float(int(x['pisteet']))
+                else:
+                    for k in range(0,len(subsection_scores)):
+                        if num in subsection_scores[k]['items']:
+                            subsection_scores[k]['scores'].append(scoremap[x['pisteet']])
+                            break
 
-from deepeval import evaluate
-from deepeval.metrics import GEval
-from deepeval.test_case import LLMTestCase
+        for k in range(0,len(subsection_scores)):
+            if len(subsection_scores[k]['scores'])>0:
+                apu_count += 1
+                apu_score += np.round(np.mean(subsection_scores[k]['scores']))
 
-answer_relevancy_metric = AnswerRelevancyMetric(threshold=0.7)
-test_case = LLMTestCase(
-    input="What if these shoes don't fit?",
-    # Replace this with the actual output from your LLM application
-    actual_output="We offer a 30-day full refund at no extra costs.",
-    retrieval_context=["All customers are eligible for a 30 day full refund at no extra costs."]
-)
-evaluate([test_case], [answer_relevancy_metric])
+        if main_score==0:
+            return 0
+
+        score = (main_score + apu_score) / (main_count + apu_count)
+        return score
+
+#################################################################
+
+if 0:
+    original_text = '''Vantaan kaupunki luopuu päiväkodeissa järjestettävistä valokuvauksista. Kaupunki tiedotti huoltajia asiasta tällä viikolla. Muutos tulee voimaan ensi vuoden toukokuussa. Tuolloin päättyy voimassa oleva hankintakausi. On siis mahdollista, että joissain vantaalaisissa päiväkodeissa järjestetään valokuvaus vielä kuluvan syksyn tai kevään aikana.
+    Kaikki perheet eivät halua lastensa osallistuvan kuvauksiin. Vantaan kaupungin varhaiskasvatusjohtaja Mikko Mäkelä perustelee huoltajille lähetetyssä kirjeessä päätöstä seuraavasti: – Valokuvauksilla on pitkät perinteet, mutta niiden järjestäminen on osoittautunut käytännössä haastavaksi. Valokuvauksille ei ole pedagogisia perusteita, eivätkä ne ole varhaiskasvatussuunnitelman mukaista toimintaa, Mäkelä toteaa.
+    Koulukuvauksella on pitkät perinteet Vantaalla – kuvien historia ulottuu yli sadan vuoden taakse
+    Vantaan kunnalliset päiväkodit ovat saaneet tähän saakka itse päättää, järjestetäänkö niissä vuosittainen valokuvaus vai ei. Viestissään kaupunki perusteleekin tehtyä päätöstä yhdenvertaisuudella.
+    Vantaan Sanomien tietojen mukaan osalle perheistä vuosittainen valokuvaus on mieluinen ja odotettu asia, ja tuore päätös tuntuu harmilliselta. Kaupungin huoltajille lähetyn viestin mukaan "kaikki perheet eivät halua lastensa osallistuvan kuvauksiin". Toimintakaudesta 2025–2026 yhteinen linjaus siis on, että kuvausta ei järjestetä.
+    '''
+    model_prediction='''Vantaan kaupunki ei enää järjestä valokuvauksia päiväkodeissa. Kaupunki kertoi asiasta vanhemmille tällä viikolla. Muutos alkaa toukokuussa ensi vuonna. Silloin päättyy nykyinen sopimus. Joissakin päiväkodeissa voi olla vielä valokuvaus tänä syksynä tai keväänä.
+    Kaikki perheet eivät halua, että heidän lapsensa osallistuvat valokuvaukseen. Vantaan varhaiskasvatusjohtaja Mikko Mäkelä selittää päätöstä kirjeessä vanhemmille. Hän sanoo, että valokuvauksilla on pitkät perinteet, mutta niiden järjestäminen on vaikeaa. Valokuvauksille ei ole opetuksellisia syitä, eikä se kuulu varhaiskasvatuksen suunnitelmaan.
+    Vantaalla on ollut koulukuvauksia yli sata vuotta. Aiemmin päiväkodit saivat itse päättää, järjestetäänkö valokuvaus. Kaupunki perustelee päätöstä sillä, että kaikilla päiväkodeilla on nyt samat säännöt.
+    Vantaan Sanomat kertoo, että osa perheistä pitää valokuvausta mukavana ja odotettuna asiana. Päätös voi tuntua heistä harmilliselta. Kaupunki sanoo viestissään, että "kaikki perheet eivät halua lastensa osallistuvan kuvauksiin". Vuodesta 2025–2026 alkaen valokuvausta ei enää järjestetä.'''
+
+    golden_target='Vantaan kaupunki aikoo lopettaa päiväkotien valokuvaukset. Muutos tulee voimaan toukokuussa. Silloin päättyy voimassa oleva hankintakausi. Joissain vantaalaisissa päiväkodeissa saattaa olla valokuvaus vielä tänä syksynä tai ensi keväänä. Vantaan kaupungin varhaiskasvatuksen johtaja Mikko Mäkelä kertoo vanhemmille lähetetyssä kirjeessä, miksi päätös tehtiin. Hän sanoo huoltajille kirjeessä näin: – Valokuvauksilla on pitkät perinteet, mutta niiden järjestäminen on osoittautunut käytännössä haastavaksi. Valokuvauksille ei ole pedagogisia perusteita, eivätkä ne ole varhaiskasvatussuunnitelman mukaista toimintaa, Mäkelä sanoo. Tähän asti Vantaan kunnalliset päiväkodit ovat saaneet päättää itse, järjestetäänkö valokuvaus vai ei. Kirjeessään kaupunki perustelee, että päätös on yhdenvertainen. Osalle perheistä joka vuosi järjestetty valokuvaus on mukava ja odotettu asia, ja uusi päätös tuntuu harmilliselta. Kaupungin kirjeessä sanotaan, että "kaikki perheet eivät halua lastensa osallistuvan kuvauksiin". Toimintakautena 2025–2026 kuvausta ei järjestetä.'
+
+    ### SARI ###
+
+    sari_score = get_sari_score(original_text,model_prediction,golden_target,lemmatize=False)
+    sari_score_lemma = get_sari_score(original_text,model_prediction,golden_target,lemmatize=True)
+    print(f'SARI similarity scores: normal {sari_score}, lemmatized {sari_score_lemma}')
+
+    ### e5 model ###
+
+    e5_score = get_e5_similarity(model_prediction,golden_target)
+    print(f'{E5_MODEL_NAME} similary score {e5_score }')
+
+    ### JINA-AI ###
 
 
-print('\n\nall done!')
+    # Compute similarities
+    jina_score = get_jina_similarity(model_prediction,golden_target)
+
+    print(f'{JINA_MODEL_NAME} similary score {jina_score}')
+
+    ### OPENAI ###
+
+    embed_score,gpt4_score = get_openai_scores(model_prediction,golden_target)
+
+    print(f'OpenAI similary scores: GPT-4 {gpt4_score}, embedding {embed_score}')
+
+    #### G-EVAL
+
+
+    #from deepeval.metrics import GEval
+    #from deepeval.test_case import LLMTestCase
+
+    #metric = GEval()
+    #test_case = LLMTestCase(
+    #    input="What if these shoes don't fit?",
+    #    actual_output="We offer a 30-day full refund at no extra costs.",
+    #    retrieval_context=["All customers are eligible for a 30 day full refund at no extra costs."]
+    #)
+    #metric.measure(test_case)
+    #print(metric.score)
+
+    print('\n\nall done!')
 
