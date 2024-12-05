@@ -1,0 +1,17 @@
+<title>Helsingissä pääsee jo luistelemaan</title>
+<lead>Jäädytetyillä luistelukentillä saa luistella ilmaiseksi.</lead>
+Helsingissä pääsee nyt ulos luistelemaan. Ensimmäinen tekojää on avoinna. Tekojää tarkoittaa, että jää on tehty koneella.
+ Ensimmäinen tekojää on Alppiharjussa. Siellä on paikka nimeltä Brahenkenttä. Brahenkentän osoite on Helsinginkatu 25 a.
+ <subtitle>Luistelemaan pääsee joka päivä</subtitle>
+Brahenkentällä saa luistella joka päivä.
+ Kentällä on kaksi puolta. Toinen puoli on luistelijoille. Toinen puoli on mailapelaajille. Mailapelaajille tarkoitetulla puolella pelataan esimerkiksi jääkiekkoa.
+ Kentän vieressä on kahvila. Kahvilassa voi teroittaa luistimet. Se tarkoittaa, että luistimista tehdään terävät.
+ Kahvilassa voi myös vuokrata luistimet, mailat ja kypärät.
+ Brahenkentän tekojää on auki pitkään. Se on auki maaliskuun puoleen väliin asti, jos talvinen sää jatkuu sinne asti. Muut Helsingin tekojäät ovat auki helmikuun loppuun asti.
+ <subtitle>Oulunkylän kenttä on remontissa</subtitle>
+Yleensä ensimmäinen tekojää Helsingissä on Ogelin kenttä Oulunkylässä. Mutta tänä vuonna se on remontissa. Siksi Oulunkylän tekojää ei ole auki tänä talvena.
+ Helsingissä on monta tekojäätä. Niillä saa luistella ilmaiseksi.
+ <subtitle>Muitakin luistelukenttiä</subtitle>
+Helsingissä on aloitettu tekemään myös muita tekojäitä. Ne avataan marras- ja joulukuun aikana.
+ Esimerkiksi Jätkäsaaressa on tekojää. Siellä jään tekeminen on vaikeaa, koska meri on lähellä. Meri tekee ilman lämpimäksi ja kosteaksi. Silloin jään tekeminen on vaikeaa.
+ Helsingin tekojäiden aukioloajat ja luisteluajat löytyvät netistä. Osoite on liikunta.hel.fi .

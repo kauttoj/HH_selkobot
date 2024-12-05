@@ -1,0 +1,13 @@
+<title>Vantaa alkaa opettaa koululaisia uimaan lomilla</title>
+<lead>Moni koululainen ei osaa uida kunnolla. Vantaan kaupunki haluaa auttaa heitä.</lead>
+Ensi vuonna Vantaa aikoo auttaa koululaisia oppimaan uimaan paremmin.
+ Anton Ahonen on Vantaan liikuntapalveluiden liikuntapäällikkö. Hän sanoo, että kaupunki käyttää ensi vuonna 20 000 euroa siihen, että koululaiset oppivat paremmin uimaan ja uimaopetus paranee.
+ Ahonen kertoo Vantaan kaupungin suunnitelmista. Kaupunki aikoo järjestää uimakertoja koulujen lomien aikana.
+ <quote> Saimme juuri tietää, että saamme lisää rahaa koululaisten uimapäivien järjestämiseen. Suunnittelu siitä, mihin raha käytetään, on vasta alkamassa. Uimakerrat loma-aikoina ovat yksi hyvä idea, Ahonen sanoo Vantaan Sanomille .</quote>
+ Hän kertoo, että Vantaa ottaa ensi vuoden alussa käyttöön uuden järjestelmän. Järjestelmän avulla kaupunki voi seurata, miten oppilaan uimataito paranee. Muilla kaupungeilla ei ole samanlaista järjestelmää.
+ <subtitle>Maahanmuuttajataustaistaisille koululaisille parempi uimataito</subtitle>
+Ahosen mielestä on tärkeää, että vantaalaiset koululaiset oppivat paremmin uimaan. Koululaisten uimataito on huonontunut viime vuosina. Ahonen sanoo, että maahanmuuttajataustaiset koululaiset ovat yksi tärkeä ryhmä. On tärkeää, että heidän uimataitonsa paranee.
+ <quote> Lasten uimataito ei ole koskaan aiemmin ollut Vantaalla näin suuri puheenaihe kuin tänä vuonna, hän sanoo.</quote>
+ <subtitle>Mihin raha riittää?</subtitle>
+Vantaalla uimaopettaja opettaa uimaan koululaisia eskareista neljäsluokkalaisiin. Ahonen sanoo, että he eivät aio lisätä uimaopetusta 5.- ja 6.-luokkalaisille.
+ <quote> Tiedämme, että tätäkin tarvitaan. Selvitämme, mihin kaikkeen lisäraha riittää.</quote>

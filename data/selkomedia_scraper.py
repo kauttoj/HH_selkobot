@@ -70,6 +70,40 @@ https://www.selkomedia.fi/paikalliset/7956467
 https://www.selkomedia.fi/paikalliset/7955701
 https://www.selkomedia.fi/paikalliset/7955430
 https://www.selkomedia.fi/paikalliset/7947770
+https://www.selkomedia.fi/paikalliset/8110152
+https://www.selkomedia.fi/paikalliset/8102237
+https://www.selkomedia.fi/paikalliset/8101580
+https://www.selkomedia.fi/paikalliset/8094921
+https://www.selkomedia.fi/paikalliset/8094850
+https://www.selkomedia.fi/paikalliset/8082671
+https://www.selkomedia.fi/paikalliset/8082551
+https://www.selkomedia.fi/paikalliset/8078631
+https://www.selkomedia.fi/paikalliset/8075751
+https://www.selkomedia.fi/paikalliset/8069987
+https://www.selkomedia.fi/paikalliset/8069965
+https://www.selkomedia.fi/paikalliset/8054146
+https://www.selkomedia.fi/paikalliset/8054081
+https://www.selkomedia.fi/paikalliset/8050387
+https://www.selkomedia.fi/paikalliset/8034743
+https://www.selkomedia.fi/paikalliset/8034556
+https://www.selkomedia.fi/paikalliset/8032400
+https://www.selkomedia.fi/paikalliset/8027546
+https://www.selkomedia.fi/paikalliset/8023579
+https://www.selkomedia.fi/paikalliset/8016440
+https://www.selkomedia.fi/paikalliset/8015874
+https://www.selkomedia.fi/paikalliset/8008063
+https://www.selkomedia.fi/paikalliset/7998149
+https://www.selkomedia.fi/paikalliset/7989608
+https://www.selkomedia.fi/paikalliset/7947227
+https://www.selkomedia.fi/paikalliset/7947159
+https://www.selkomedia.fi/paikalliset/7883161
+https://www.selkomedia.fi/paikalliset/7874112
+https://www.selkomedia.fi/paikalliset/7854893
+https://www.selkomedia.fi/paikalliset/7854793
+https://www.selkomedia.fi/paikalliset/7846583
+https://www.selkomedia.fi/paikalliset/7813143
+https://www.selkomedia.fi/paikalliset/7803663
+https://www.selkomedia.fi/paikalliset/7786262
 '''
 url_list = [x for x in url_list.split('\n') if len(x)>0]
 
@@ -84,7 +118,6 @@ manual_match = {
 '6622634':'https://www.helsinginuutiset.fi/paikalliset/6894862',
 '6651721':'https://www.vantaansanomat.fi/paikalliset/6644169',
 '6702568':'https://issuu.com/myyntijamarkkinointi/docs/223mma/s/24556977',
-#'7319543':'https://www.vantaansanomat.fi/paikalliset/7315097' # ainakin 3 tekstiä samassa
 '7988739':'https://avecmedia.fi/bisnes/englanti-yleistyy-ravintola-alan-tyokielena-ja-nain-kielimuuri-ylitetaan-tiskin-takana-bartender-randall-muller-speaks-about-working-in-finland/',
 '7975642':'https://www.helsinginuutiset.fi/paikalliset/7970353',
 '7974660':'https://www.vantaansanomat.fi/paikalliset/7956975',
@@ -92,7 +125,9 @@ manual_match = {
 '7956467':'https://www.helsinginuutiset.fi/paikalliset/7948093',
 '7955701':'https://www.helsinginuutiset.fi/paikalliset/7944211',
 '7955430':'https://www.helsinginuutiset.fi/paikalliset/7947717',
-'7947770':'https://www.vantaansanomat.fi/paikalliset/7942962'
+'7947770':'https://www.vantaansanomat.fi/paikalliset/7942962',
+'8084624':'https://avecmedia.fi/ura/syrjintaa-vitsailua-vakivaltaa-tallaista-on-rasismi-ravintola-alalla',
+'8064893':'https://www.helsinginuutiset.fi/paikalliset/8055258'
 }
 
 try:
@@ -375,8 +410,15 @@ df['TYPE_B_TEXT']=None
 df['TYPE_A_TEXT_SIMPLE']=''
 df['TYPE_B_TEXT_SIMPLE']=''
 
+bad_rows = []
 for k,row in enumerate(df.iterrows()):
     print('processing text {ind}, URL_A: {urla}, URL_B: {urlb}'.format(ind = k+1,urla=row[1]['TYPE_A_URL'],urlb=row[1]['TYPE_B_URL']))
+
+    if 'www.lansivayla.fi' in row[1]['TYPE_B_URL']:
+        print('!!! Regular news from Länsiväylä, skipping!')
+        bad_rows+=[row[0]]
+        continue
+
     t1 = extract_article_text(row[1]['TYPE_A_HTML'])
     if t1 is None:
         print(f'...failed to parse text A: {row[1]["TYPE_A_URL"]}')
@@ -391,6 +433,12 @@ for k,row in enumerate(df.iterrows()):
 
     df.at[row[0],'TYPE_A_TEXT_CLEANED'] = clean_html(t1['HTML'])
     df.at[row[0],'TYPE_B_TEXT_CLEANED'] = clean_html(t2['HTML'])
+
+old_n = len(df)
+df = df.drop(index=bad_rows)
+new_n = len(df)
+if old_n>new_n:
+    print(f'dropped {old_n-new_n} items')
 
 import html
 

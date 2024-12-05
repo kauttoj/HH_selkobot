@@ -1,0 +1,27 @@
+<title>Vantaan Hakunilassa näkee rottia joka päivä</title>
+<lead>Hakunilassa asukkaat eivät uskalla viedä rokia illalla jätekatokseen.</lead>
+Täällä on iso ongelma rottien kanssa!
+ Näin sanoo henkilö, joka otti yhteyttä Vantaan Sanomiin . Hän kertoo, että Hakunilan ostoskeskuksen lähellä on paljon rottia.
+ Hän sanoo, että rottia näkee joka päivä, erityisesti illalla.
+ <quote>En uskalla mennä roskakatokselle illalla. Siellä rotat pitävät ääntä ja tappelevat, hän kertoo.</quote>
+ <quote>Jotkut rotat ovat todella isoja.</quote>
+ Hän kertoo, että rotat juoksevat joskus lähellä ihmisiä.
+ <quote>Ne ovat tottuneet ihmisiin.</quote>
+ Hän asuu lähellä Harmotien päiväkotia ja sanoo, että rottien koloja on paljon myös päiväkodin lähellä.
+ <quote>Niitä on myös päiväkodin pihan reunalla, hän sanoo.</quote>
+ Muutkin ihmiset kertovat, että rottia on sekä asuinalueella että ostoskeskuksessa.
+ <quote>Näemme niitä koko ajan, kaksi naista sanoivat.</quote>
+ <quote>Voin katsoa niitä omalta parvekkeeltani, koska asun alhaalla, toinen lisäsi.</quote>
+ Heidänkin mukaansa rotat ovat isoja ja he eivät uskalla mennä roskakatokselle illalla.
+ <quote>Meitä ei saa lähtemään roskakatokselle illalla mikään, se pelottaa niin paljon!</quote>
+ Nuori mies oli viemässä roskia. Hän sanoo, että rotankoloja on joka puolella.
+ Ihmiset eivät halua kertoa nimeään lehdessä. He eivät halua puhua rottista, koska se ei ole mukava aihe. He ehkä häpeävät asiaa.
+ Yksi nainen huomauttaa, että alueella on paljon roskia maassa.
+ <quote>Mietin, ovatko rotat levittäneet roskia, vai ovatko rotat tulleet, koska roskia on levitetty.</quote>
+ Yhden roskakatoksen eteen ajaa jäteauto.
+ Autosta tulee ulos kuljettaja, joka esittelee itsensä Ebeksi.
+ Hänkin sanoi, että hän näkee rottia alueella koko ajan, esimerkiksi juuri tässä roskakatoksessa.
+ <quote>Näen niitä usein maanantaisin. Ehkä ihmiset heittävät viikonlopun jälkeen enemmän roskia, jotka kiinnostavat rottia, hän sanoo.</quote>
+ Hän ajattelee, että vanhat roskakatokset ovat yksi syy siihen, että rotat viihtyvät alueella. Niiden seinän ja lattian välissä on aukko, joten rotat pääsevät helposti sisään.
+ Hän pelkää, että rotta hyökkää päälle roskakatoksessa.
+ <quote>En ole vielä saanut puremaa. Kerran rotta juoksi olkapäätäni pitkin, hän kertoo.</quote>

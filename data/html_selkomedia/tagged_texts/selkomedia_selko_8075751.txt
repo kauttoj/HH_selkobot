@@ -1,0 +1,19 @@
+<title>Hus nostaa hintoja paljon</title>
+<lead>Hus eli Helsingin ja Uudenmaan sairaanhoitopiiri aikoo nostaa maksuja, joita se perii asiakkailtaan. Maksut nousevat paljon.</lead>
+Uudellamaalla asuvat joutuvat maksamaan ensi vuonna enemmän sairaalapalveluista. Tämä tarkoittaa, että sairaalassa tai terveysasemalla käyminen maksaa paljon enemmän kuin nyt. Sairaalapalvelut tarjoaa Hus eli Helsingin ja Uudenmaan sairaanhoitopiiri.
+ Husin hallitus päätti hintojen nostamisesta maanantaina. Päätös tarkoittaa, että avohoidon maksut nousevat paljon. Avohoito tarkoittaa hoitoa, jossa ei tarvitse jäädä yöksi sairaalaan. Nämä maksut nousevat keskimäärin 45 prosenttia.
+ Myös vuodeosaston hoitomaksut nousevat. Vuodeosastohoito tarkoittaa hoitoa, jossa potilas jää yöksi sairaalaan. Nämä maksut nousevat keskimäärin 22,5 prosenttia.
+ <subtitle>Psykiatrian potilaille iso muutos</subtitle>
+Isoin muutos koskee psykiatrian potilaita. Psykiatria tarkoittaa mielen sairauksien hoitoa.
+ Tähän asti psykiatrian potilaat eivät ole maksaneet mitään sairaalassa yöpymisestä. Ensi vuodesta alkaen heidän täytyy maksaa siitä kuten muidenkin potilaiden.
+ <subtitle>Husille enemmän rahaa asiakkailta</subtitle>
+Hus arvioi, että se saa ensi vuonna enemmän rahaa asiakkailta, kun maksut nousevat. Hus uskoo saavansa 29,6 miljoonaa euroa enemmän rahaa kuin tänä vuonna. Viime vuonna Hus sai asiakasmaksuista 78,9 miljoonaa euroa.
+ Vaikka maksut nousevat, maksujen yläraja ei nouse. Tämä tarkoittaa, että ne potilaat, jotka käyttävät paljon hoitoa, eivät maksa enempää kuin tänäkään vuonna.
+ <subtitle>Potilailla vaikeuksia maksaa laskuja</subtitle>
+Hus uskoo myös, että yhä useampi potilas ei pysty maksamaan laskuaan. Siksi Hus odottaa, että se ei saa kaikkia rahoja, jotka sille kuuluisivat.
+ Tähän asti Hus on menettänyt joka vuosi noin viisi miljoonaa euroa, koska kaikki potilaat eivät ole maksaneet laskujaan. Tämä on 7 prosenttia kaikista asiakasmaksuista.
+ Suurin osa maksamattomista maksuista on niin sanotussa jälkiperinnässä. Tämä tarkoittaa, että potilas ei pysty maksamaan laskuaan, koska hänellä ei ole rahaa.
+ Kun otetaan huomioon maksujen yläraja ja maksamattomat maksut, Hus saa ensi vuonna noin 20,1 miljoonaa euroa enemmän rahaa kuin tänä vuonna. Husin kokonaistulot eivät kuitenkaan nouse, sillä Uudenmaan hyvinvointialueet ja Helsinki maksavat vähemmän rahaa Husille.
+ <subtitle>Alennukset säilyvät</subtitle>
+Psykiatrian potilaiden maksujen poisto tuo Husille noin 2 miljoonaa euroa. Tässä on huomioitu mahdolliset maksamattomat maksut ja maksujen alennukset.
+ HUS on antanut alennuksia joillekin ihmisille. Alennuksen saavat ne, jotka saavat takuueläkettä tai joilla on käräjäoikeuden päätös velkojen järjestelystä. Alennusta ei kuitenkaan anneta, jos potilas ei tule vastaanotolle sovittuun aikaan tai peru sitä. Alennusta ei myöskään anneta niille potilaille, joilla ei ole kotikuntaa Suomessa ja jotka maksavat itse kaikki hoitonsa kustannukset.
